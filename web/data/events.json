@@ -1,0 +1,1339 @@
+[
+  {
+    "slug": "secret-wars-1984",
+    "name": "Secret Wars (1984)",
+    "year": 1984,
+    "core_issues": "Marvel Super Heroes Secret Wars #1-12",
+    "importance": "essential",
+    "synopsis": "The Beyonder teleports Earth's mightiest heroes and villains to Battleworld for a cosmic contest. Doctor Doom seizes the Beyonder's power and becomes a god. Spider-Man acquires the alien symbiote that will later become Venom.",
+    "impact": "Beyonder, Symbiote origin, Doom as God",
+    "prerequisites": "Familiarity with core Avengers, X-Men, Fantastic Four, and Spider-Man rosters of the early 1980s. No single prerequisite volume required.",
+    "consequences": "Spider-Man's black costume saga leading to Venom's creation. Secret Wars II (1985). She-Hulk joins Fantastic Four. Colossus/Kitty Pryde breakup. The Thing stays on Battleworld.",
+    "era_slug": "rise-of-x-men",
+    "tags": [
+      "beyonder",
+      "doom",
+      "symbiote",
+      "venom-origin",
+      "battleworld",
+      "cosmic",
+      "avengers",
+      "x-men",
+      "fantastic-four",
+      "spider-man"
+    ]
+  },
+  {
+    "slug": "infinity-gauntlet",
+    "name": "Infinity Gauntlet",
+    "year": 1991,
+    "core_issues": "Infinity Gauntlet #1-6",
+    "importance": "essential",
+    "synopsis": "Thanos assembles all six Infinity Gems and snaps his fingers, killing half the universe to impress Death. Every remaining hero falls in a desperate assault on the Mad Titan. Adam Warlock orchestrates the only plan that can stop him.",
+    "impact": "Thanos kills half the universe",
+    "prerequisites": "Warlock by Jim Starlin (Strange Tales #178-181, Warlock #9-15). Silver Surfer #34-38 and Thanos Quest #1-2 provide the direct lead-in.",
+    "consequences": "Infinity War (1992) and Infinity Crusade (1993). Adam Warlock gains the Gauntlet. The Infinity Watch is formed. Thanos retires to farming. Direct inspiration for Avengers: Infinity War/Endgame films.",
+    "era_slug": "event-age",
+    "tags": [
+      "thanos",
+      "infinity-gems",
+      "cosmic",
+      "adam-warlock",
+      "silver-surfer",
+      "death",
+      "snap",
+      "mcu-adapted"
+    ]
+  },
+  {
+    "slug": "age-of-apocalypse",
+    "name": "Age of Apocalypse",
+    "year": 1995,
+    "core_issues": "X-Men Alpha, Amazing X-Men #1-4, Astonishing X-Men #1-4, Factor X #1-4, Gambit and the X-Ternals #1-4, Generation Next #1-4, Weapon X #1-4, X-Calibre #1-4, X-Man #1-4, X-Men Omega",
+    "importance": "essential",
+    "synopsis": "Legion travels back in time to kill Magneto but accidentally kills Charles Xavier, creating an alternate timeline where Apocalypse conquered North America. Magneto leads the X-Men in Xavier's memory against a world ruled by survival of the fittest. Every Marvel title was replaced for four months with its Age of Apocalypse counterpart.",
+    "impact": "Alternate X-timeline",
+    "prerequisites": "Uncanny X-Men Claremont run for character knowledge. X-Men (1991) #40-41 and Uncanny X-Men #320-321 (Legion Quest) for the direct setup.",
+    "consequences": "X-Man (Nate Grey) crosses into 616 continuity. Sugar Man and Dark Beast infiltrate the main universe. The AoA reality persists and is revisited multiple times. Blink becomes a fan-favorite leading to Exiles.",
+    "era_slug": "speculation-crash",
+    "tags": [
+      "x-men",
+      "alternate-timeline",
+      "apocalypse",
+      "magneto",
+      "legion",
+      "time-travel",
+      "parallel-universe"
+    ]
+  },
+  {
+    "slug": "onslaught",
+    "name": "Onslaught",
+    "year": 1996,
+    "core_issues": "Onslaught: Marvel Universe, X-Men (1991) #53-56, Onslaught: X-Men, Incredible Hulk #444-445, Fantastic Four #415-416, Avengers #401-402, Cable #35-36",
+    "importance": "recommended",
+    "synopsis": "A psionic entity born from the combined dark psyches of Professor X and Magneto manifests as Onslaught, threatening to destroy everything. The Avengers, Fantastic Four, and other non-mutant heroes sacrifice themselves to defeat Onslaught, seemingly dying. In reality, Franklin Richards shunts them into a pocket universe.",
+    "impact": "Heroes die, go to pocket universe",
+    "prerequisites": "X-Men (1991) Fatal Attractions crossover. General knowledge of Professor X and Magneto's history. X-Men #25 (Magneto removes Wolverine's adamantium).",
+    "consequences": "Launches Heroes Reborn (1996-1997) with Image founders reimagining Avengers, FF, Iron Man, and Captain America. Heroes Return (1998) brings them back. X-Men titles continue uninterrupted.",
+    "era_slug": "speculation-crash",
+    "tags": [
+      "x-men",
+      "avengers",
+      "fantastic-four",
+      "professor-x",
+      "magneto",
+      "franklin-richards",
+      "heroes-reborn",
+      "psionic"
+    ]
+  },
+  {
+    "slug": "house-of-m",
+    "name": "House of M",
+    "year": 2005,
+    "core_issues": "House of M #1-8",
+    "importance": "essential",
+    "synopsis": "Scarlet Witch, driven mad by grief and manipulated by Quicksilver, rewrites reality into a world where mutants are the dominant species and Magneto rules. When the heroes restore reality, Wanda utters 'No More Mutants,' depowering 99% of the mutant population overnight. Only 198 mutants remain powered.",
+    "impact": "No More Mutants -- mutant decimation",
+    "prerequisites": "Avengers Disassembled (Avengers #500-503). New Avengers Vol. 1 by Bendis. Familiarity with Scarlet Witch's mental instability arc.",
+    "consequences": "Decimation status quo lasts until Avengers vs. X-Men (2012). Drives X-Men into survival mode. Mutant messiah Hope Summers born (Messiah CompleX). Cyclops becomes increasingly militant. Sets up entire next decade of X-Men stories.",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "scarlet-witch",
+      "mutants",
+      "decimation",
+      "magneto",
+      "avengers",
+      "x-men",
+      "reality-warp",
+      "no-more-mutants"
+    ]
+  },
+  {
+    "slug": "civil-war",
+    "name": "Civil War",
+    "year": 2006,
+    "core_issues": "Civil War #1-7",
+    "importance": "essential",
+    "synopsis": "After a superhero battle kills 600 civilians in Stamford, Connecticut, the government passes the Superhuman Registration Act. Iron Man leads the pro-registration side while Captain America leads the resistance. Spider-Man publicly unmasks, heroes fight heroes, and a clone of Thor kills Goliath.",
+    "impact": "Hero registration, heroes vs heroes",
+    "prerequisites": "New Avengers Vol. 1 by Bendis. Illuminati one-shot. Amazing Spider-Man (Straczynski run) for Peter's relationship with Tony.",
+    "consequences": "Captain America surrenders and is assassinated (Captain America #25). Tony Stark becomes Director of SHIELD. Spider-Man's One More Day erases his unmasking. Initiative program launches. Dark Reign follows when Norman Osborn rises to power. Direct adaptation for Captain America: Civil War film.",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "iron-man",
+      "captain-america",
+      "spider-man",
+      "registration",
+      "political",
+      "avengers",
+      "mcu-adapted",
+      "heroes-vs-heroes"
+    ]
+  },
+  {
+    "slug": "secret-invasion",
+    "name": "Secret Invasion",
+    "year": 2008,
+    "core_issues": "Secret Invasion #1-8",
+    "importance": "recommended",
+    "synopsis": "The Skrull Empire has been secretly replacing key Marvel heroes and power figures for years. When the infiltration is revealed, Earth faces a full-scale Skrull invasion. The paranoia of not knowing who to trust tears the superhero community apart before they unite to repel the invasion.",
+    "impact": "Skrull infiltration revealed",
+    "prerequisites": "New Avengers Vol. 1-2 by Bendis. Illuminati miniseries. Elektra revealed as Skrull in New Avengers #31.",
+    "consequences": "Norman Osborn kills the Skrull Queen on live TV and becomes America's top cop. Dark Reign begins -- Osborn forms the Dark Avengers and H.A.M.M.E.R. replaces SHIELD. Leads directly to Siege.",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "skrulls",
+      "avengers",
+      "infiltration",
+      "paranoia",
+      "norman-osborn",
+      "dark-reign",
+      "alien-invasion"
+    ]
+  },
+  {
+    "slug": "siege",
+    "name": "Siege",
+    "year": 2010,
+    "core_issues": "Siege #1-4",
+    "importance": "recommended",
+    "synopsis": "Norman Osborn engineers an attack on Asgard, which is floating above Broxton, Oklahoma. The Sentry, fully corrupted as the Void, destroys Asgard. Steve Rogers returns as Captain America and leads the united Avengers to defeat Osborn and the Void. The Superhuman Registration Act is repealed.",
+    "impact": "End of Dark Reign, Heroic Age begins",
+    "prerequisites": "Dark Avengers by Bendis. Dark Reign status quo. Thor (Straczynski) for Asgard's return to Earth.",
+    "consequences": "The Heroic Age begins -- Marvel's tone shifts optimistic. Steve Rogers becomes top cop. Avengers relaunch. Sentry dies. Registration Act repealed. Closes out Bendis's seven-year Avengers mega-arc (Disassembled through Siege).",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "avengers",
+      "asgard",
+      "norman-osborn",
+      "sentry",
+      "captain-america",
+      "dark-reign",
+      "heroic-age"
+    ]
+  },
+  {
+    "slug": "avengers-vs-x-men",
+    "name": "Avengers vs. X-Men",
+    "year": 2012,
+    "core_issues": "Avengers vs. X-Men #1-12",
+    "importance": "recommended",
+    "synopsis": "The Phoenix Force returns to Earth, heading for the mutant messiah Hope Summers. The Avengers want to contain it; Cyclops and the X-Men believe it will restore mutantkind. Iron Man accidentally splits the Phoenix among five X-Men, who become corrupted by absolute power. A Dark Phoenix Cyclops kills Professor Xavier.",
+    "impact": "Phoenix Force returns, Cyclops kills Xavier",
+    "prerequisites": "House of M for Decimation context. Messiah CompleX, Messiah War, and Second Coming for Hope Summers arc. Uncanny X-Men by Gillen and New Avengers by Bendis.",
+    "consequences": "Mutant population restored. Cyclops imprisoned and becomes a revolutionary figure. Uncanny Avengers unity squad formed. Leads into Hickman's Avengers/New Avengers. All-New X-Men (original five brought to present).",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "avengers",
+      "x-men",
+      "phoenix-force",
+      "cyclops",
+      "hope-summers",
+      "professor-x",
+      "heroes-vs-heroes"
+    ]
+  },
+  {
+    "slug": "infinity-hickman",
+    "name": "Infinity",
+    "year": 2013,
+    "core_issues": "Infinity #1-6",
+    "importance": "essential",
+    "synopsis": "A two-front war: the Avengers join a galactic coalition against the Builders, an ancient cosmic race destroying worlds, while Thanos invades an undefended Earth seeking his hidden Inhuman son. The Inhumans detonate a Terrigen Bomb that creates new Inhumans worldwide. Black Bolt confronts Thanos directly.",
+    "impact": "Builders War, Thanos invades Earth",
+    "prerequisites": "Avengers (2012) #1-23 and New Avengers (2013) #1-11 by Hickman. These are ESSENTIAL -- Infinity is chapters 3-4 of Hickman's larger saga, not a standalone.",
+    "consequences": "Terrigen cloud circles the globe creating new Inhumans (NuHumans). Thanos trapped in amber. Illuminati's incursion secret exposed. Directly sets up Time Runs Out and Secret Wars (2015). Inspired elements of Avengers: Infinity War.",
+    "era_slug": "hickman-saga",
+    "tags": [
+      "thanos",
+      "avengers",
+      "builders",
+      "inhumans",
+      "cosmic",
+      "hickman",
+      "black-bolt",
+      "terrigen"
+    ]
+  },
+  {
+    "slug": "secret-wars-2015",
+    "name": "Secret Wars (2015)",
+    "year": 2015,
+    "core_issues": "Secret Wars #1-9",
+    "importance": "essential",
+    "synopsis": "The multiverse collapses as the final incursion destroys both Earth-616 and the Ultimate Universe. Doctor Doom salvages fragments of destroyed realities and forges Battleworld, ruling as God Emperor Doom with the Beyonders' stolen power. Reed Richards challenges Doom, and with the Molecule Man's help, restores and rebuilds the multiverse.",
+    "impact": "Multiverse dies, Doom becomes God. Continuity reset point.",
+    "prerequisites": "Hickman's complete saga: Fantastic Four/FF, Avengers/New Avengers, Infinity, Time Runs Out. This is the finale of a six-year narrative. Reading without prerequisites loses most of the emotional weight.",
+    "consequences": "All-New All-Different Marvel relaunch. Miles Morales and the Maker integrated into 616. Reed, Sue, and the kids leave to rebuild the multiverse. Doom's face healed. Every Marvel title relaunched with new #1s. Functional soft reboot.",
+    "era_slug": "hickman-saga",
+    "tags": [
+      "doom",
+      "reed-richards",
+      "multiverse",
+      "battleworld",
+      "hickman",
+      "molecule-man",
+      "beyonders",
+      "ultimate-universe",
+      "continuity-reset"
+    ]
+  },
+  {
+    "slug": "war-of-the-realms",
+    "name": "War of the Realms",
+    "year": 2019,
+    "core_issues": "War of the Realms #1-6",
+    "importance": "recommended",
+    "synopsis": "Malekith the Dark Elf, having conquered the other Nine Realms one by one, finally invades Midgard (Earth) with a coalition of Dark Elves, Frost Giants, Fire Demons, and Angels. Every Marvel hero defends Earth in the largest Asgardian war ever depicted. Thor loses an eye, Daredevil becomes the God Without Fear, and the war reshapes the Ten Realms.",
+    "impact": "Malekith invades Midgard",
+    "prerequisites": "Thor by Jason Aaron -- the entire run from Thor: God of Thunder through Mighty Thor and Thor (2018). The war was built across seven years of Aaron's writing.",
+    "consequences": "Thor becomes All-Father and King of Asgard. Jane Foster becomes a Valkyrie (new ongoing). Malekith defeated. Ten Realms at peace. Wraps up Jason Aaron's epic Thor saga before Al Ewing takes over.",
+    "era_slug": "all-new-all-different",
+    "tags": [
+      "thor",
+      "asgard",
+      "malekith",
+      "jason-aaron",
+      "dark-elves",
+      "frost-giants",
+      "daredevil",
+      "nine-realms"
+    ]
+  },
+  {
+    "slug": "blood-hunt",
+    "name": "Blood Hunt",
+    "year": 2024,
+    "core_issues": "Blood Hunt #1-5",
+    "importance": "recommended",
+    "synopsis": "Blade, corrupted and turned against humanity, leads a global vampire uprising that blots out the sun and plunges Earth into darkness. The Marvel heroes fight on multiple fronts against a worldwide vampire army. Doctor Strange dies in the conflict, and Doctor Doom claims the title of Sorcerer Supreme.",
+    "impact": "Blade turns villain, vampires attack. Doom becomes Sorcerer Supreme",
+    "prerequisites": "Blade (2023) ongoing for the corruption setup. General knowledge of Doctor Strange and the Sorcerer Supreme title.",
+    "consequences": "Doctor Strange is dead. Doom gains mystical authority as Sorcerer Supreme, combining it with his technological and political power. Directly sets up Doctor Doom (2024) solo series and One World Under Doom. Blade's status left unresolved.",
+    "era_slug": "blood-hunt-doom",
+    "tags": [
+      "blade",
+      "vampires",
+      "doctor-strange",
+      "doom",
+      "sorcerer-supreme",
+      "darkness",
+      "horror"
+    ]
+  },
+  {
+    "slug": "one-world-under-doom",
+    "name": "One World Under Doom",
+    "year": 2025,
+    "core_issues": "One World Under Doom #1-9",
+    "importance": "essential",
+    "synopsis": "Doctor Doom, now Sorcerer Supreme with unmatched magical and technological power, conquers the entire world. Under Doom's rule, poverty is eliminated, disease is cured, and wars cease -- but at the total cost of human freedom. Earth's heroes face an impossible moral dilemma: fight the man who is genuinely saving the world, or accept benevolent tyranny.",
+    "impact": "Doom rules the world. Current event.",
+    "prerequisites": "Blood Hunt for Doom gaining Sorcerer Supreme title. Doctor Doom (2024) solo series. Fantastic Four history for Doom's character arc from tyrant to complex antihero.",
+    "consequences": "Currently concluding. Leads directly into Armageddon (2026) by Chip Zdarsky. The post-Doom status quo will define Marvel's next era.",
+    "era_slug": "blood-hunt-doom",
+    "tags": [
+      "doom",
+      "sorcerer-supreme",
+      "world-conquest",
+      "political",
+      "moral-dilemma",
+      "current-event",
+      "ryan-north",
+      "rb-silva"
+    ]
+  },
+  {
+    "slug": "armageddon-2026",
+    "name": "Armageddon",
+    "year": 2026,
+    "core_issues": "Armageddon #1-6 (June 2026, solicited)",
+    "importance": "essential",
+    "synopsis": "The next major Marvel event by writer Chip Zdarsky, launching June 2026. Follows directly from the fallout of One World Under Doom. Expected to define the post-Doom era of Marvel Comics.",
+    "impact": "Next major event, announced by Chip Zdarsky",
+    "prerequisites": "One World Under Doom. Full details of prerequisites will become clear as solicitations are released.",
+    "consequences": "Unknown. Expected to reshape the Marvel Universe status quo for 2026 and beyond.",
+    "era_slug": "current-ongoings",
+    "tags": [
+      "chip-zdarsky",
+      "upcoming",
+      "2026",
+      "post-doom"
+    ]
+  },
+  {
+    "slug": "mutant-massacre",
+    "name": "Mutant Massacre",
+    "year": 1986,
+    "core_issues": "Uncanny X-Men #210-213, X-Factor #9-11, New Mutants #46, Thor #373-374, Power Pack #27",
+    "importance": "essential",
+    "synopsis": "The Marauders, led by Mister Sinister, slaughter the Morlocks living in the tunnels beneath New York. The X-Men and X-Factor respond but suffer devastating losses. Angel's wings are destroyed. Colossus is crippled. Wolverine nearly killed. Thor intervenes. The most violent X-Men crossover to date and the first major multi-title X-event.",
+    "impact": "Establishes the crossover formula that defines the X-Men for decades. Angel becomes Archangel. Introduces Mister Sinister as a major villain. The Marauders become recurring threats.",
+    "prerequisites": "Uncanny X-Men Claremont run. Basic knowledge of Morlocks.",
+    "consequences": "Leads to Fall of the Mutants, Inferno. Angel becomes Apocalypse's Horseman.",
+    "era_slug": "event-age",
+    "tags": [
+      "mutant",
+      "x-men",
+      "marauders",
+      "sinister"
+    ]
+  },
+  {
+    "slug": "inferno",
+    "name": "Inferno",
+    "year": 1989,
+    "core_issues": "Uncanny X-Men #239-243, X-Factor #36-39, New Mutants #71-73",
+    "importance": "essential",
+    "synopsis": "Demons from Limbo invade New York City, transforming Manhattan into a literal Hell. Madelyne Pryor is revealed as the Goblin Queen — a clone of Jean Grey created by Mister Sinister. The X-Men and X-Factor finally reunite. Madelyne sacrifices herself. Sinister's plans are exposed.",
+    "impact": "Resolves the Madelyne Pryor/Jean Grey clone plot. X-Men and X-Factor merge. Sinister revealed as manipulating Summers family for generations. Illyana Rasputin de-aged.",
+    "prerequisites": "Uncanny X-Men Claremont Omnibus Vol. 3-4, X-Factor.",
+    "consequences": "Leads to X-Tinction Agenda. Jean Grey restored to active duty.",
+    "era_slug": "event-age",
+    "tags": [
+      "mutant",
+      "x-men",
+      "demons",
+      "sinister",
+      "goblin-queen"
+    ]
+  },
+  {
+    "slug": "dark-reign",
+    "name": "Dark Reign",
+    "year": 2009,
+    "core_issues": "Dark Reign: New Nation, Dark Avengers #1-16, multiple tie-ins",
+    "importance": "essential",
+    "synopsis": "Norman Osborn becomes America's top cop after Secret Invasion. He creates the Dark Avengers (villains in hero costumes), H.A.M.M.E.R. replaces SHIELD, and the Cabal (Doom, Loki, Hood, Emma, Namor) rules from the shadows. The real heroes are hunted fugitives.",
+    "impact": "Status quo where villains run the Marvel Universe. Sentry's instability increases. Sets up Siege. Norman's hubris grows until he overreaches.",
+    "prerequisites": "Secret Invasion.",
+    "consequences": "Leads directly to Siege. Victoria Hand introduced. Ares killed. Sentry destroyed.",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "avengers",
+      "norman-osborn",
+      "dark-avengers",
+      "political"
+    ]
+  },
+  {
+    "slug": "fear-itself",
+    "name": "Fear Itself",
+    "year": 2011,
+    "core_issues": "Fear Itself #1-7",
+    "importance": "recommended",
+    "synopsis": "The Serpent, Odin's secret brother, returns to claim Asgard. Seven hammers fall from the sky, transforming heroes and villains into the Worthy — avatars of fear. Thing becomes Angrir, Hulk becomes Nul, Juggernaut becomes Kuurth. Bucky-Cap is killed. Thor kills the Serpent but dies doing it.",
+    "impact": "Bucky seemingly killed (returns as Winter Soldier). Thor dies (returns quickly). Steve Rogers resumes Captain America. New Asgard weapons forged.",
+    "prerequisites": "Siege, Thor ongoing.",
+    "consequences": "Steve Rogers becomes Cap again. Leads to Shattered Heroes. Fear Itself tie-ins across all titles.",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "avengers",
+      "asgard",
+      "thor",
+      "cosmic",
+      "serpent"
+    ]
+  },
+  {
+    "slug": "inhumans-vs-x-men",
+    "name": "Inhumans vs. X-Men",
+    "year": 2017,
+    "core_issues": "IVX #0-6",
+    "importance": "recommended",
+    "synopsis": "The Terrigen Cloud that empowers Inhumans is killing mutants. After Cyclops dies trying to destroy it (Death of X), the X-Men go to war with the Inhumans. Emma Frost manipulates events. Medusa ultimately destroys the cloud to save mutantkind.",
+    "impact": "Terrigen Cloud destroyed. Inhumans lose their power source. Emma Frost becomes a villain. Mutant/Inhuman conflict resolved. Editorial mandate to push Inhumans over X-Men ends.",
+    "prerequisites": "Death of X. Understanding of Terrigen Mists.",
+    "consequences": "Leads to ResurrXion relaunch. Sets stage for Hickman's X-Men.",
+    "era_slug": "all-new-all-different",
+    "tags": [
+      "mutant",
+      "inhuman",
+      "x-men",
+      "emma-frost"
+    ]
+  },
+  {
+    "slug": "secret-empire-spencer",
+    "name": "Secret Empire",
+    "year": 2017,
+    "core_issues": "Secret Empire #0-10, Free Comic Book Day 2017",
+    "importance": "recommended",
+    "synopsis": "Captain America is revealed as a secret Hydra agent — his history rewritten by a Cosmic Cube. Hydra-Cap takes over America, traps Manhattan in a Darkforce dome, and raises a planetary shield. The real Steve Rogers exists inside the Cube and must fight his way out. Extremely controversial.",
+    "impact": "Deeply controversial — many readers felt it disrespected Cap's legacy as a character created by Jewish creators. Well-executed but divisive. Showed how fascism can co-opt symbols of freedom.",
+    "prerequisites": "Captain America: Steve Rogers by Nick Spencer.",
+    "consequences": "Cap restored. Legacy of the storyline haunts Spencer's later work. Hydra Supreme becomes a separate villain.",
+    "era_slug": "all-new-all-different",
+    "tags": [
+      "avengers",
+      "captain-america",
+      "hydra",
+      "controversial",
+      "political"
+    ]
+  },
+  {
+    "slug": "king-in-black",
+    "name": "King in Black",
+    "year": 2021,
+    "core_issues": "King in Black #1-5",
+    "importance": "recommended",
+    "synopsis": "Knull, the god of symbiotes and king of the abyss, arrives on Earth with an army of symbiote dragons. He covers the planet in darkness, assimilates the Avengers and X-Men, and kills Eddie Brock. Eddie merges with the God of Light, becomes Captain Universe, and defeats Knull. Eddie becomes the King in Black — god of all symbiotes.",
+    "impact": "Eddie Brock ascends to cosmic godhood. Knull destroyed. Dylan Brock becomes the new Venom. Status quo shift for the entire symbiote mythology.",
+    "prerequisites": "Venom by Donny Cates, Silver Surfer: Black.",
+    "consequences": "Eddie becomes a cosmic entity. Dylan Brock takes over as Venom. Leads to Venom ongoing.",
+    "era_slug": "dawn-of-krakoa",
+    "tags": [
+      "venom",
+      "symbiote",
+      "knull",
+      "cosmic",
+      "eddie-brock"
+    ]
+  },
+  {
+    "slug": "kree-skrull-war",
+    "name": "Kree-Skrull War",
+    "year": 1971,
+    "core_issues": "Avengers #89-97",
+    "importance": "essential",
+    "synopsis": "The Avengers are caught in the middle of an ancient interstellar war between the Kree and Skrull empires. Captain Marvel is a key figure as both empires vie for control of Earth. Rick Jones unlocks latent psionic potential to end the conflict. Roy Thomas and Neal Adams deliver Marvel's first truly epic cosmic storyline across nine issues, establishing the galactic political landscape that shapes Marvel cosmic stories for decades.",
+    "impact": "Defines the Kree-Skrull conflict that underpins decades of Marvel cosmic stories. Elevates Captain Marvel. Establishes Earth as a strategic prize in galactic politics.",
+    "prerequisites": "Avengers Omnibus Vol. 1-2 for team history. Captain Marvel (Mar-Vell) appearances in Marvel Super-Heroes and his solo title.",
+    "consequences": "Sets up the Kree and Skrull empires as recurring cosmic factions. Mar-Vell becomes a major character. Rick Jones' destiny intertwined with cosmic events. Directly influences Secret Invasion (2008) and Empyre (2020). Adapted in Captain Marvel (2019) film.",
+    "era_slug": "bronze-age",
+    "tags": [
+      "avengers",
+      "kree",
+      "skrull",
+      "cosmic",
+      "captain-marvel",
+      "neal-adams",
+      "roy-thomas",
+      "galactic-war"
+    ]
+  },
+  {
+    "slug": "maximum-carnage",
+    "name": "Maximum Carnage",
+    "year": 1993,
+    "core_issues": "Spider-Man Unlimited #1, Web of Spider-Man #101-103, Amazing Spider-Man #378-380, Spider-Man #35-37, Spectacular Spider-Man #201-203",
+    "importance": "supplemental",
+    "synopsis": "Carnage escapes from Ravencroft and assembles a team of psychopathic villains — Shriek, Doppelganger, Demogoblin, and Carrion — for a rampage through New York City. Spider-Man, Venom, and a loose alliance of heroes including Captain America, Black Cat, Cloak and Dagger, Iron Fist, Deathlok, Morbius, and Firestar struggle to contain the chaos. A 14-part crossover across all Spider-Man titles.",
+    "impact": "Defined Carnage as a major Spider-Man villain. One of the most commercially successful crossovers of the 1990s despite mixed critical reception. Spawned a popular SNES/Genesis video game.",
+    "prerequisites": "Amazing Spider-Man #361-363 (Carnage's first full appearance). Basic knowledge of Venom.",
+    "consequences": "Carnage established as an A-list Spider-Man villain. Venom's antihero status solidified. Template for 90s-style multi-title crossovers. Shriek becomes a recurring character.",
+    "era_slug": "speculation-crash",
+    "tags": [
+      "spider-man",
+      "carnage",
+      "venom",
+      "symbiote",
+      "90s",
+      "crossover",
+      "violence"
+    ]
+  },
+  {
+    "slug": "world-war-hulk",
+    "name": "World War Hulk",
+    "year": 2007,
+    "core_issues": "World War Hulk #1-5",
+    "importance": "recommended",
+    "synopsis": "The Hulk returns from exile on Sakaar, where the Illuminati secretly sent him, seeking revenge against Iron Man, Black Bolt, Doctor Strange, and Reed Richards. His wife and unborn child were killed when the shuttle the Illuminati used exploded. As the Worldbreaker, Hulk defeats every hero on Earth — Black Bolt, the X-Men, the Fantastic Four, the Avengers, Doctor Strange, and the Sentry — before being stopped. New York is devastated.",
+    "impact": "Hulk defeats every major Marvel hero. Demonstrates the consequences of the Illuminati's decisions. One of the most satisfying 'Hulk smash' stories ever told.",
+    "prerequisites": "Planet Hulk (Incredible Hulk #92-105) is essential — it establishes why Hulk is so angry. New Avengers: Illuminati for the decision to exile Hulk.",
+    "consequences": "Hulk depowered and imprisoned. Son Skaar arrives on Earth. Leads to Fall of the Hulks and World War Hulks. The Illuminati's guilt over their actions continues to haunt them through Hickman's New Avengers.",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "hulk",
+      "illuminati",
+      "iron-man",
+      "reed-richards",
+      "revenge",
+      "destruction",
+      "sakaar",
+      "worldbreaker"
+    ]
+  },
+  {
+    "slug": "contest-of-champions-event",
+    "name": "Contest of Champions",
+    "year": 1982,
+    "core_issues": "Marvel Super Hero Contest of Champions #1-3",
+    "importance": "supplemental",
+    "synopsis": "The Grandmaster challenges Death to a contest using Earth's heroes as pawns. Two teams of heroes compete for the Golden Globe of Life across the planet. The first Marvel limited series and the first company-wide crossover event. International heroes like Shamrock, Collective Man, and Arabian Knight debut.",
+    "impact": "Establishes the template for Marvel crossover events. First limited series format.",
+    "prerequisites": "None required.",
+    "consequences": "Grandmaster gains power over life and death, leading to future Avengers stories.",
+    "era_slug": "rise-of-x-men",
+    "tags": [
+      "cosmic",
+      "grandmaster",
+      "death",
+      "tournament"
+    ]
+  },
+  {
+    "slug": "secret-wars-ii-event",
+    "name": "Secret Wars II",
+    "year": 1985,
+    "core_issues": "Secret Wars II #1-9",
+    "importance": "supplemental",
+    "synopsis": "The Beyonder comes to Earth in human form seeking to understand desire and humanity. He meddles in every major hero's life, creating chaos. The heroes and villains must deal with a godlike being who treats the universe as his playground. The Molecule Man becomes key to stopping the Beyonder.",
+    "impact": "The Beyonder's nature is retconned multiple times. Molecule Man's importance is established for Hickman's later Secret Wars.",
+    "prerequisites": "Secret Wars (1984).",
+    "consequences": "The Beyonder concept evolves through multiple retcons. Molecule Man becomes a sleeper key figure.",
+    "era_slug": "event-age",
+    "tags": [
+      "beyonder",
+      "cosmic",
+      "molecule-man"
+    ]
+  },
+  {
+    "slug": "evolutionary-war-event",
+    "name": "The Evolutionary War",
+    "year": 1988,
+    "core_issues": "1988 Marvel Annuals (11 annuals)",
+    "importance": "supplemental",
+    "synopsis": "The High Evolutionary launches a plan to accelerate human evolution, threatening to transform all of humanity. Each 1988 annual features a different hero confronting aspects of his scheme. The Avengers, X-Men, Fantastic Four, and others all play roles in stopping his plan.",
+    "impact": "First annual crossover format. High Evolutionary becomes a recurring cosmic-level threat.",
+    "prerequisites": "None required.",
+    "consequences": "The annual crossover format continues with Atlantis Attacks in 1989.",
+    "era_slug": "event-age",
+    "tags": [
+      "high-evolutionary",
+      "evolution",
+      "annual-crossover"
+    ]
+  },
+  {
+    "slug": "atlantis-attacks-event",
+    "name": "Atlantis Attacks",
+    "year": 1989,
+    "core_issues": "1989 Marvel Annuals (14 annuals)",
+    "importance": "supplemental",
+    "synopsis": "Ghaur of the Deviants and Llyra of Atlantis scheme to summon Set, the Elder God serpent, to Earth. Seven Marvel heroines are captured as 'Brides of Set.' The storyline runs through all 1989 annuals, with heroes across the Marvel Universe working to stop the summoning ritual.",
+    "impact": "Expands Atlantean and Deviant mythology. Second annual crossover event.",
+    "prerequisites": "Evolutionary War (1988) for format context.",
+    "consequences": "Set remains a dormant threat in Marvel's mystical corner.",
+    "era_slug": "event-age",
+    "tags": [
+      "atlantis",
+      "set",
+      "deviants",
+      "annual-crossover"
+    ]
+  },
+  {
+    "slug": "acts-of-vengeance-event",
+    "name": "Acts of Vengeance",
+    "year": 1989,
+    "core_issues": "Avengers #311-313, plus tie-ins across all titles (Dec 1989-Feb 1990)",
+    "importance": "recommended",
+    "synopsis": "Loki secretly assembles a cabal of master villains — Doctor Doom, Red Skull, Mandarin, Wizard, Kingpin, and Magneto — to swap opponents: send unfamiliar villains against heroes who've never fought them. The plan creates chaos as Spider-Man fights the Tri-Sentinel, the X-Men face the Mandarin, and heroes encounter unexpected threats.",
+    "impact": "Magneto's participation has lasting consequences for his character. Loki's scheming foreshadows later event manipulation.",
+    "prerequisites": "Familiarity with major Marvel titles.",
+    "consequences": "Several villain dynamics shift. Spider-Man gains cosmic powers briefly (Acts of Vengeance: Spider-Man).",
+    "era_slug": "event-age",
+    "tags": [
+      "loki",
+      "villains",
+      "crossover",
+      "villain-swap"
+    ]
+  },
+  {
+    "slug": "x-cutioners-song-event",
+    "name": "X-Cutioner's Song",
+    "year": 1992,
+    "core_issues": "UXM #294-297, X-Factor #84-86, X-Force #16-18, X-Men #14-16",
+    "importance": "recommended",
+    "synopsis": "Stryfe attempts to assassinate Xavier, framing Cable. The four X-books cross over as the teams hunt Cable and Stryfe. The truth about Cable and Stryfe's connection to the Summers bloodline is revealed. Mr. Sinister's obsession deepens. Apocalypse returns. Stryfe releases the Legacy Virus as his dying act.",
+    "impact": "The Legacy Virus poisons the X-line for years. Cable/Stryfe/Summers mythology established.",
+    "prerequisites": "X-Force #1-15, X-Men (1991) #1-13.",
+    "consequences": "Legacy Virus arc runs through mid-90s X-books. Cable's origin clarified.",
+    "era_slug": "event-age",
+    "tags": [
+      "x-men",
+      "cable",
+      "stryfe",
+      "legacy-virus"
+    ]
+  },
+  {
+    "slug": "infinity-war-event",
+    "name": "Infinity War",
+    "year": 1992,
+    "core_issues": "Infinity War #1-6",
+    "importance": "recommended",
+    "synopsis": "The Magus, Adam Warlock's evil future self, creates doppelgangers of Earth's heroes and seeks the Infinity Gauntlet. Thanos and Warlock must ally against the Magus. The heroes fight their dark copies. The Living Tribunal rules that the Infinity Gems can never again be used in unison, a decree that stands until Hickman's Avengers.",
+    "impact": "Infinity Gems ruling shapes cosmic stories for decades. Magus is imprisoned in the Soul Gem.",
+    "prerequisites": "Infinity Gauntlet, Warlock and the Infinity Watch #1-6.",
+    "consequences": "Leads to Infinity Crusade. Warlock continues guarding the gems.",
+    "era_slug": "event-age",
+    "tags": [
+      "cosmic",
+      "magus",
+      "infinity-gems",
+      "thanos",
+      "warlock"
+    ]
+  },
+  {
+    "slug": "fatal-attractions-event",
+    "name": "Fatal Attractions",
+    "year": 1993,
+    "core_issues": "X-Factor #92, X-Force #25, UXM #304, X-Men #25, Wolverine #75, Excalibur #71",
+    "importance": "essential",
+    "synopsis": "Magneto returns to militancy, establishing a new Avalon space station. In X-Men #25, Magneto rips the adamantium from Wolverine's skeleton. Xavier retaliates by completely mind-wiping Magneto. Colossus defects to Magneto's Acolytes. Illyana Rasputin dies of the Legacy Virus. The holographic covers were 90s excess, but the stories are genuinely impactful.",
+    "impact": "Wolverine without adamantium for years. Xavier's mind-wipe creates Onslaught. Colossus leaves the X-Men.",
+    "prerequisites": "X-Men (1991) #1-24, X-Cutioner's Song.",
+    "consequences": "Directly causes Onslaught. Wolverine discovers bone claws. Legacy Virus claims Illyana.",
+    "era_slug": "event-age",
+    "tags": [
+      "x-men",
+      "magneto",
+      "wolverine",
+      "adamantium"
+    ]
+  },
+  {
+    "slug": "infinity-crusade-event",
+    "name": "Infinity Crusade",
+    "year": 1993,
+    "core_issues": "Infinity Crusade #1-6",
+    "importance": "supplemental",
+    "synopsis": "The Goddess, representing Adam Warlock's 'good' side, creates Cosmic Eggs and plans to purge the universe of sin by destroying it. She brainwashes heroes with strong religious faith. Thanos, Warlock, and the remaining heroes must stop her. The trilogy concludes with Warlock reintegrating all aspects of his personality.",
+    "impact": "Completes the Infinity trilogy. Warlock becomes whole. The Infinity Watch disbands soon after.",
+    "prerequisites": "Infinity Gauntlet, Infinity War.",
+    "consequences": "Starlin's cosmic saga enters a quieter phase until his return in the 2000s.",
+    "era_slug": "event-age",
+    "tags": [
+      "cosmic",
+      "goddess",
+      "warlock",
+      "thanos",
+      "faith"
+    ]
+  },
+  {
+    "slug": "phalanx-covenant-event",
+    "name": "The Phalanx Covenant",
+    "year": 1994,
+    "core_issues": "UXM #316-317, X-Men #36-37, X-Factor #106, X-Force #38, Wolverine #85, Cable #16, Excalibur #82",
+    "importance": "supplemental",
+    "synopsis": "The techno-organic Phalanx infiltrate human society and the X-Men. Most X-Men are captured. A group of young mutants (Husk, M, Skin, Synch) escape and are rescued by Banshee and Emma Frost. Forge, Wolverine, and Cable lead the counterattack. The Phalanx are defeated but the threat remains.",
+    "impact": "Directly launches Generation X. Introduces key new mutant characters.",
+    "prerequisites": "X-Men ongoing series familiarity.",
+    "consequences": "Generation X #1 launches. The Phalanx return periodically.",
+    "era_slug": "event-age",
+    "tags": [
+      "x-men",
+      "phalanx",
+      "generation-x",
+      "techno-organic"
+    ]
+  },
+  {
+    "slug": "clone-saga-event",
+    "name": "The Clone Saga",
+    "year": 1994,
+    "core_issues": "Web of Spider-Man #117-129, ASM #394-418, Spider-Man #51-75, Spectacular Spider-Man #217-240",
+    "importance": "supplemental",
+    "synopsis": "Ben Reilly returns from exile. Marvel controversially reveals he is the 'original' Peter Parker. Ben becomes Spider-Man while Peter retires with a pregnant MJ. The saga stretches for two years due to editorial changes and market demands. Norman Osborn is revealed alive as the mastermind. Ben dies. Peter is confirmed as the original. The Clone Saga is widely considered one of Marvel's worst storylines.",
+    "impact": "Norman Osborn's return reshapes Spider-Man. Fan backlash teaches Marvel about event fatigue.",
+    "prerequisites": "ASM #141-150 (original Clone Saga). Spider-Man ongoing familiarity.",
+    "consequences": "Norman Osborn becomes a major Marvel villain again. Ben Reilly returns decades later.",
+    "era_slug": "speculation-crash",
+    "tags": [
+      "spider-man",
+      "clone",
+      "ben-reilly",
+      "norman-osborn",
+      "controversial"
+    ]
+  },
+  {
+    "slug": "operation-galactic-storm-event",
+    "name": "Operation: Galactic Storm",
+    "year": 1992,
+    "core_issues": "Avengers #345-347, Captain America #398-401, Iron Man #278-279, Thor #445-446, Wonder Man #7-9, Quasar #32-34",
+    "importance": "recommended",
+    "synopsis": "The Kree-Shi'ar war threatens Earth's sun. The Avengers split into teams to negotiate with both empires. The Supreme Intelligence manipulates the conflict, detonating a nega-bomb that kills billions of Kree to jumpstart their evolution. Iron Man leads a faction that executes the Supreme Intelligence against Cap's wishes.",
+    "impact": "The moral divide over killing the Supreme Intelligence foreshadows Civil War. The Kree Empire is devastated.",
+    "prerequisites": "Avengers ongoing familiarity. Kree-Skrull War for context.",
+    "consequences": "Kree Empire weakened (leading to Annihilation). Avengers philosophical split deepens.",
+    "era_slug": "event-age",
+    "tags": [
+      "avengers",
+      "kree",
+      "shi-ar",
+      "cosmic",
+      "supreme-intelligence"
+    ]
+  },
+  {
+    "slug": "zero-tolerance-event",
+    "name": "Operation: Zero Tolerance",
+    "year": 1997,
+    "core_issues": "X-Men #65-70, Generation X #27-31, Wolverine #115-118",
+    "importance": "supplemental",
+    "synopsis": "Bastion, a human-Sentinel hybrid, launches a government-approved campaign against mutants using Prime Sentinels — ordinary humans transformed into sleeper Sentinel agents. The X-Men are captured or hunted. Jubilee is imprisoned. SHIELD eventually intervenes to shut down the operation when Bastion's true nature is exposed.",
+    "impact": "Bastion becomes a recurring threat. Government anti-mutant operations become more sophisticated.",
+    "prerequisites": "Onslaught, X-Men ongoing familiarity.",
+    "consequences": "Bastion returns in Second Coming (2010). Prime Sentinels remain a threat concept.",
+    "era_slug": "heroes-reborn-return",
+    "tags": [
+      "x-men",
+      "bastion",
+      "sentinels",
+      "government"
+    ]
+  },
+  {
+    "slug": "maximum-security-event",
+    "name": "Maximum Security",
+    "year": 2000,
+    "core_issues": "Maximum Security #1-3",
+    "importance": "supplemental",
+    "synopsis": "Alien races, frustrated with humanity's repeated interference in galactic affairs, designate Earth as a prison planet and dump alien criminals there. Ego the Living Planet attempts to absorb Earth. The Avengers and other heroes must repel the alien prisoners while addressing the galactic community's grievances.",
+    "impact": "Minor event with limited lasting impact. Establishes Earth's contentious reputation in the galactic community.",
+    "prerequisites": "General Avengers and cosmic familiarity.",
+    "consequences": "Galactic diplomatic tensions continue into later cosmic events.",
+    "era_slug": "marvel-knights-ultimate",
+    "tags": [
+      "avengers",
+      "cosmic",
+      "ego",
+      "prison-planet"
+    ]
+  },
+  {
+    "slug": "planet-hulk-event",
+    "name": "Planet Hulk",
+    "year": 2006,
+    "core_issues": "Incredible Hulk #92-105",
+    "importance": "essential",
+    "synopsis": "The Illuminati exile Hulk to space. His ship goes off course and he lands on Sakaar, a brutal gladiator planet. Hulk fights his way from slave to champion to emperor. He finds love with Caiera and builds a warbound family. When his shuttle explodes, killing Caiera, Hulk blames Earth's heroes.",
+    "impact": "Transforms Hulk from monster into warrior-king. Creates the Warbound. Sets up World War Hulk.",
+    "prerequisites": "New Avengers: Illuminati for the exile decision.",
+    "consequences": "Directly leads to World War Hulk. Skaar (Hulk's son) is born on Sakaar.",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "hulk",
+      "sakaar",
+      "gladiator",
+      "greg-pak"
+    ]
+  },
+  {
+    "slug": "messiah-complex-event",
+    "name": "Messiah Complex",
+    "year": 2007,
+    "core_issues": "Messiah Complex One-Shot, UXM #492-494, X-Men #205-207, New X-Men #44-46, X-Factor #25-27",
+    "importance": "essential",
+    "synopsis": "The first mutant born since Decimation appears in Cooperstown, Alaska, and every faction races to claim her. The Marauders, Purifiers, Predator X, and X-Men collide. Cable takes the baby into the future. Xavier is shot in the head by Bishop. The X-Men disband. The baby Hope becomes the X-Men's messiah figure.",
+    "impact": "Xavier critically wounded. X-Men disbanded temporarily. Hope Summers drives X-stories for years.",
+    "prerequisites": "House of M, Decimation, X-Men: Endangered Species.",
+    "consequences": "Cable series (2008). Messiah War. Second Coming. Cyclops becomes militant leader.",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "x-men",
+      "hope",
+      "cable",
+      "bishop",
+      "messiah"
+    ]
+  },
+  {
+    "slug": "messiah-war-event",
+    "name": "Messiah War",
+    "year": 2009,
+    "core_issues": "X-Force/Cable: Messiah War #1, Cable #13-15, X-Force #14-16",
+    "importance": "supplemental",
+    "synopsis": "Cyclops sends X-Force into the future to assist Cable in protecting Hope from Bishop and Stryfe. Apocalypse appears diminished. Stryfe manipulates events. Deadpool joins the mission. The middle chapter of the Messiah Trilogy bridges Complex and Second Coming.",
+    "impact": "Bridges the messiah trilogy. Shows Hope growing up in a hostile future.",
+    "prerequisites": "Messiah Complex, Cable (2008) #1-12, X-Force (2008) #1-13.",
+    "consequences": "Leads to Second Coming. Hope nears the age to return to the present.",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "x-men",
+      "cable",
+      "hope",
+      "stryfe",
+      "future"
+    ]
+  },
+  {
+    "slug": "second-coming-event",
+    "name": "Second Coming",
+    "year": 2010,
+    "core_issues": "X-Men: Second Coming #1-2, UXM #523-525, New Mutants #12-14, X-Men Legacy #235-237, X-Force #26-28",
+    "importance": "essential",
+    "synopsis": "Cable and Hope return to the present. Bastion activates a plan to exterminate mutantkind using a dome over San Francisco and Nimrod Sentinels from the future. Nightcrawler sacrifices himself to save Hope. Cable dies holding the time portal open. Hope manifests the Phoenix Force and reignites mutant births worldwide.",
+    "impact": "Nightcrawler and Cable die. Hope proven as the mutant messiah. Mutant births resume. X-Force is disbanded.",
+    "prerequisites": "Messiah Complex, Messiah War.",
+    "consequences": "Five Lights appear (new mutants). Leads to Schism and AvX. Messiah trilogy concludes.",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "x-men",
+      "hope",
+      "cable",
+      "nightcrawler",
+      "bastion",
+      "death"
+    ]
+  },
+  {
+    "slug": "schism-event",
+    "name": "Schism",
+    "year": 2011,
+    "core_issues": "X-Men: Schism #1-5",
+    "importance": "essential",
+    "synopsis": "The philosophical break between Cyclops and Wolverine. A new Hellfire Club attacks and Cyclops wants the young mutants to fight while Wolverine refuses to use children as soldiers. They come to blows on Utopia's beach. Wolverine leaves with half the X-Men to reopen the Jean Grey School in Westchester.",
+    "impact": "X-line splits into Wolverine and the X-Men and Uncanny X-Men. Two competing philosophies.",
+    "prerequisites": "Second Coming, Uncanny X-Men ongoing.",
+    "consequences": "Directly leads to Avengers vs. X-Men. Wolverine runs a school; Cyclops leads an Extinction Team.",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "x-men",
+      "cyclops",
+      "wolverine",
+      "schism",
+      "ideology"
+    ]
+  },
+  {
+    "slug": "spider-island-event",
+    "name": "Spider-Island",
+    "year": 2011,
+    "core_issues": "ASM #666-673",
+    "importance": "supplemental",
+    "synopsis": "The Jackal and the Spider-Queen infect all of Manhattan with spider-powers, then mutate citizens into giant spiders. Peter must use his experience to save the city while everyone has his abilities. MJ understands his powers for the first time. Anti-Venom sacrifices the symbiote to cure the population.",
+    "impact": "Anti-Venom symbiote destroyed. Kaine is cured and becomes Scarlet Spider. MJ gains deeper understanding of Peter.",
+    "prerequisites": "ASM Big Time era (#648+).",
+    "consequences": "Kaine spins off into Scarlet Spider series. Status quo largely restored.",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "spider-man",
+      "jackal",
+      "spider-powers",
+      "manhattan"
+    ]
+  },
+  {
+    "slug": "shadowland-event",
+    "name": "Shadowland",
+    "year": 2010,
+    "core_issues": "Shadowland #1-5",
+    "importance": "supplemental",
+    "synopsis": "Matt Murdock, as leader of the Hand, builds a fortress in Hell's Kitchen and begins killing criminals. He executes Bullseye. Spider-Man, Luke Cage, Iron Fist, Punisher, and other street-level heroes intervene. Matt is revealed to be possessed by the Beast, a Hand demon. He is eventually freed and goes on a walkabout.",
+    "impact": "Daredevil goes into exile. Bullseye killed. Black Panther temporarily protects Hell's Kitchen.",
+    "prerequisites": "Daredevil by Brubaker, return of the King arc.",
+    "consequences": "Daredevil (2011) by Mark Waid reboots the character's tone entirely.",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "daredevil",
+      "hand",
+      "bullseye",
+      "street-level"
+    ]
+  },
+  {
+    "slug": "chaos-war-event",
+    "name": "Chaos War",
+    "year": 2010,
+    "core_issues": "Chaos War #1-5",
+    "importance": "supplemental",
+    "synopsis": "The Chaos King (Amatsu-Mikaboshi) consumes the dreamtime and attempts to destroy all of reality. Hercules, empowered as a skyfather-level god, leads the God Squad against the existential threat. Every deceased hero temporarily returns to fight. Hercules sacrifices his godhood to seal the Chaos King away.",
+    "impact": "Hercules depowered. Alpha Flight resurrected. Several dead heroes briefly return.",
+    "prerequisites": "Incredible Hercules series by Pak and Van Lente.",
+    "consequences": "Hercules returns to mortal status. The event is largely standalone.",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "hercules",
+      "chaos-king",
+      "gods",
+      "cosmic"
+    ]
+  },
+  {
+    "slug": "spider-verse-event",
+    "name": "Spider-Verse",
+    "year": 2014,
+    "core_issues": "ASM (2014) #9-15",
+    "importance": "recommended",
+    "synopsis": "The Inheritors, a family of inter-dimensional predators led by Morlun's father Solus, hunt Spider-totems across the multiverse. Every version of Spider-Man unites: Peter Parker, Miles Morales, Spider-Gwen, Spider-Man 2099, Spider-Ham, Silk, and dozens more. The assembled Spiders must protect the Bride, the Other, and the Scion.",
+    "impact": "Spider-Gwen debuts and becomes a breakout character. Silk gets her own series. Inspires the Spider-Verse animated films.",
+    "prerequisites": "ASM (2014) #1-8, Spider-Man 2099 familiarity.",
+    "consequences": "Spider-Gwen ongoing series. Web Warriors. Into the Spider-Verse film franchise.",
+    "era_slug": "hickman-saga",
+    "tags": [
+      "spider-man",
+      "multiverse",
+      "spider-gwen",
+      "morlun"
+    ]
+  },
+  {
+    "slug": "axis-event",
+    "name": "AXIS",
+    "year": 2014,
+    "core_issues": "Avengers & X-Men: AXIS #1-9",
+    "importance": "supplemental",
+    "synopsis": "Red Skull, empowered by Xavier's stolen brain, becomes Red Onslaught. A spell meant to defeat him inverts the morality of everyone present: heroes become villains, villains become heroes. Superior Iron Man, evil Havok, and heroic Sabretooth emerge. The inversion is mostly reversed but some characters remain changed.",
+    "impact": "Superior Iron Man runs for several months. Sabretooth becomes heroic long-term. Havok's personality altered.",
+    "prerequisites": "Uncanny Avengers by Remender, Onslaught Saga for context.",
+    "consequences": "Superior Iron Man leads into Secret Wars. Sabretooth joins X-Men for years.",
+    "era_slug": "hickman-saga",
+    "tags": [
+      "avengers",
+      "x-men",
+      "red-skull",
+      "inversion"
+    ]
+  },
+  {
+    "slug": "death-of-x-event",
+    "name": "Death of X",
+    "year": 2016,
+    "core_issues": "Death of X #1-4",
+    "importance": "supplemental",
+    "synopsis": "The Terrigen cloud circling Earth is lethal to mutants. Cyclops apparently declares war on the Inhumans before dying from M-Pox. The reveal: Cyclops died early from Terrigen exposure. Emma Frost psychically projected his image to rally mutants and confront the Inhumans. Emma's grief drives her deception.",
+    "impact": "Cyclops dies. Emma Frost's motivations shift toward villainy. Terrigen/mutant conflict escalates.",
+    "prerequisites": "Secret Wars (2015), All-New All-Different Marvel launch.",
+    "consequences": "Directly leads to Inhumans vs. X-Men. Emma becomes antagonist.",
+    "era_slug": "all-new-all-different",
+    "tags": [
+      "x-men",
+      "inhumans",
+      "cyclops",
+      "emma-frost",
+      "terrigen"
+    ]
+  },
+  {
+    "slug": "absolute-carnage-event",
+    "name": "Absolute Carnage",
+    "year": 2019,
+    "core_issues": "Absolute Carnage #1-5",
+    "importance": "recommended",
+    "synopsis": "Cletus Kasady, resurrected by the symbiote god Knull, hunts everyone who has ever bonded with a symbiote to collect their codexes — symbiote traces left in their spines. Venom and Spider-Man protect former hosts. Carnage becomes a cosmic-level threat connected to the dark god Knull.",
+    "impact": "Carnage becomes a Knull avatar. Codex concept introduced. Eddie Brock's bond with the symbiote deepens.",
+    "prerequisites": "Venom by Cates #1-15.",
+    "consequences": "Directly leads to King in Black. Norman Osborn bonded to Carnage symbiote.",
+    "era_slug": "dawn-of-krakoa",
+    "tags": [
+      "venom",
+      "carnage",
+      "knull",
+      "symbiote"
+    ]
+  },
+  {
+    "slug": "inferno-2021-event",
+    "name": "Inferno (2021)",
+    "year": 2021,
+    "core_issues": "Inferno (2021) #1-4",
+    "importance": "essential",
+    "synopsis": "Hickman's farewell to the Krakoa era. Moira MacTaggert's secret — that she has been manipulating Xavier and Magneto across her ten lives — is exposed. Mystique resurrects Destiny, who joins the Quiet Council. Moira is depowered and flees. Emma Frost emerges as the key political figure on Krakoa.",
+    "impact": "Moira depowered and on the run. Destiny joins the Quiet Council. Hickman departs the X-line.",
+    "prerequisites": "House of X/Powers of X, X-Men (2019) by Hickman.",
+    "consequences": "Krakoa era continues under Gillen, Ewing, and others. Moira becomes a villain. Destiny shapes Council politics.",
+    "era_slug": "dawn-of-krakoa",
+    "tags": [
+      "x-men",
+      "krakoa",
+      "moira",
+      "mystique",
+      "destiny",
+      "hickman"
+    ]
+  },
+  {
+    "slug": "devils-reign-event",
+    "name": "Devil's Reign",
+    "year": 2022,
+    "core_issues": "Devil's Reign #1-6",
+    "importance": "supplemental",
+    "synopsis": "Mayor Wilson Fisk, having regained his memories of Daredevil's identity via the Purple Man's children, outlaws superheroes in New York City. The Thunderbolts enforce his will. Daredevil, Luke Cage, and street-level heroes resist. The Purple Man's children are key to resolving the conflict. Fisk ultimately loses his memory of Matt's secret again.",
+    "impact": "Fisk removed from power. Matt Murdock runs for mayor. Thunderbolts reconfigured.",
+    "prerequisites": "Daredevil by Zdarsky, ongoing through #36.",
+    "consequences": "Matt Murdock becomes mayor candidate. Leads into Daredevil's next phase.",
+    "era_slug": "dawn-of-krakoa",
+    "tags": [
+      "daredevil",
+      "kingpin",
+      "thunderbolts",
+      "street-level"
+    ]
+  },
+  {
+    "slug": "fall-of-x-event",
+    "name": "Fall of X",
+    "year": 2023,
+    "core_issues": "X-Men: Hellfire Gala 2023 #1, plus Fall of X era across all X-titles",
+    "importance": "essential",
+    "synopsis": "Orchis springs its trap at the third Hellfire Gala. Mutants are teleported off Earth, killed, or forced into hiding. Professor X is captured. The Krakoan dream collapses. Cyclops leads an underground resistance. Each X-book tells a survival story as mutants fight back against the anti-mutant coalition.",
+    "impact": "Krakoa falls. Mutants scattered. Xavier captured. The Krakoan experiment effectively ends.",
+    "prerequisites": "All Krakoa-era X-books, Judgment Day, Hellfire Gala events.",
+    "consequences": "Leads to Rise of the Powers of X and the definitive end of the Krakoa era.",
+    "era_slug": "dawn-of-krakoa",
+    "tags": [
+      "x-men",
+      "krakoa",
+      "orchis",
+      "fall",
+      "resistance"
+    ]
+  },
+  {
+    "slug": "dark-web-event",
+    "name": "Dark Web",
+    "year": 2022,
+    "core_issues": "Dark Web #1, Dark Web Finale #1, ASM #15-18, Venom #14-16, Dark Web: X-Men #1-3",
+    "importance": "supplemental",
+    "synopsis": "Ben Reilly (Chasm) and Madelyne Pryor (Goblin Queen) ally to open a portal from Limbo to New York, unleashing demons. Spider-Man, Venom, and the X-Men must stop them. Both villains are motivated by being discarded copies of other people. Madelyne ultimately finds a measure of peace and joins the X-Men briefly.",
+    "impact": "Madelyne Pryor rehabilitated. Ben Reilly's Chasm identity established. Spider-Man/X-Men crossover.",
+    "prerequisites": "ASM by Wells, Venom by Ewing, X-Men Krakoa era.",
+    "consequences": "Madelyne joins Krakoa briefly. Ben Reilly's story continues.",
+    "era_slug": "dawn-of-krakoa",
+    "tags": [
+      "spider-man",
+      "x-men",
+      "ben-reilly",
+      "madelyne-pryor",
+      "limbo"
+    ]
+  },
+  {
+    "slug": "avengers-disassembled",
+    "name": "Avengers Disassembled",
+    "year": 2004,
+    "core_issues": "Avengers #500-503, Avengers Finale",
+    "importance": "essential",
+    "synopsis": "The Scarlet Witch suffers a psychotic break after remembering her lost children, unleashing chaos magic that kills Hawkeye, the Vision, and Scott Lang, destroys Avengers Mansion, and forces the team to disband. Brian Michael Bendis uses this event to demolish the classic Avengers status quo and rebuild it with his New Avengers lineup. This is the single most important inflection point of the Bendis era — everything from House of M through Siege flows from Wanda's breakdown.",
+    "impact": "Classic Avengers team disbanded. Three members killed. Wanda removed from the board. Leads directly to New Avengers formation.",
+    "prerequisites": "Avengers by Johns Omnibus for context on the team Bendis inherited",
+    "consequences": "New Avengers #1, House of M, Young Avengers",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "avengers",
+      "scarlet-witch",
+      "bendis",
+      "wanda",
+      "hawkeye",
+      "vision"
+    ]
+  },
+  {
+    "slug": "fall-of-the-mutants",
+    "name": "Fall of the Mutants",
+    "year": 1988,
+    "core_issues": "Uncanny X-Men #225-227, X-Factor #24-26, New Mutants #59-61",
+    "importance": "essential",
+    "synopsis": "Three separate but thematically linked stories across the X-books. In Dallas, the X-Men sacrifice their lives on live television to stop the Adversary, only to be secretly resurrected by Roma. In New York, X-Factor battles Apocalypse as Angel is transformed into the Horseman Death (Archangel). In limbo, the New Mutants confront a threat to Illyana. Unlike later crossovers, the three stories do not directly intersect — each stands alone. The X-Men's televised 'death' sends shockwaves through the Marvel Universe.",
+    "impact": "X-Men believed dead, relocated to Australian Outback. Angel becomes Archangel. Establishes the annual X-crossover tradition.",
+    "prerequisites": "Mutant Massacre",
+    "consequences": "Inferno, Acts of Vengeance",
+    "era_slug": "event-age",
+    "tags": [
+      "x-men",
+      "apocalypse",
+      "archangel",
+      "adversary",
+      "claremont"
+    ]
+  },
+  {
+    "slug": "x-tinction-agenda",
+    "name": "X-Tinction Agenda",
+    "year": 1990,
+    "core_issues": "Uncanny X-Men #270-272, New Mutants #95-97, X-Factor #60-62",
+    "importance": "recommended",
+    "synopsis": "The island nation of Genosha, built on mutant slave labor, kidnaps members of the X-Men and New Mutants. The three X-teams unite for the first time to rescue their captured members and liberate Genosha's mutant slaves. Cameron Hodge, a cyborg anti-mutant fanatic, serves as the primary villain. The event reunites the X-Men, X-Factor, and New Mutants and begins the process of consolidating the X-line that leads to the 1991 X-Men relaunch.",
+    "impact": "X-teams officially reunite. Genosha introduced as a key mutant nation. Havok stays behind in Genosha.",
+    "prerequisites": "Fall of the Mutants, Inferno",
+    "consequences": "X-Men (1991) #1 relaunch, Genosha continues as a key location through Grant Morrison's New X-Men",
+    "era_slug": "event-age",
+    "tags": [
+      "x-men",
+      "genosha",
+      "mutant-slavery",
+      "hodge",
+      "claremont"
+    ]
+  },
+  {
+    "slug": "judgment-day",
+    "name": "A.X.E.: Judgment Day",
+    "year": 2022,
+    "core_issues": "A.X.E.: Judgment Day #1-6",
+    "importance": "essential",
+    "synopsis": "Kieron Gillen orchestrates a conflict between the Avengers, X-Men, and Eternals when the Eternals discover mutant resurrection violates their core directive to eliminate 'excess deviation.' Druig weaponizes the Celestial Progenitor, which begins judging every human on Earth individually — and most fail. Sersi and the mutants work to create a new Celestial to save humanity. Magneto dies in one of the Krakoa era's most significant character losses. The Progenitor's judgment forces every character to confront their own worthiness.",
+    "impact": "Magneto dies. Progenitor judges humanity. Eternals and mutants reach an uneasy truce. Celestial mythology expanded.",
+    "prerequisites": "Eternals by Gillen, House of X/Powers of X, Avengers (current)",
+    "consequences": "Fall of X setup, Sins of Sinister",
+    "era_slug": "dawn-of-krakoa",
+    "tags": [
+      "avengers",
+      "x-men",
+      "eternals",
+      "celestials",
+      "magneto",
+      "gillen",
+      "krakoa"
+    ]
+  },
+  {
+    "slug": "empyre",
+    "name": "Empyre",
+    "year": 2020,
+    "core_issues": "Empyre #1-6",
+    "importance": "recommended",
+    "synopsis": "The Kree and Skrull empires unite under Emperor Hulkling (Teddy Altman) to wage war against the Cotati, a plant-based alien race secretly plotting to conquer the galaxy. Al Ewing and Dan Slott craft a cosmic event that pays off decades of Kree-Skrull mythology while centering Hulkling's Young Avengers heritage. The Fantastic Four and Avengers fight on multiple fronts. The event culminates in Hulkling cementing his role as a cosmic leader.",
+    "impact": "Kree-Skrull alliance formalized under Hulkling. Cotati threat resolved. Quoi (Sequoia) introduced.",
+    "prerequisites": "Young Avengers (Heinberg), Secret Invasion, Incoming #1",
+    "consequences": "Guardians of the Galaxy by Ewing, S.W.O.R.D. by Ewing",
+    "era_slug": "dawn-of-krakoa",
+    "tags": [
+      "kree",
+      "skrull",
+      "hulkling",
+      "cotati",
+      "avengers",
+      "fantastic-four",
+      "cosmic"
+    ]
+  },
+  {
+    "slug": "hellfire-gala-2022",
+    "name": "Hellfire Gala (2022)",
+    "year": 2022,
+    "core_issues": "X-Men: Hellfire Gala (2022) #1, plus tie-ins across X-titles",
+    "importance": "recommended",
+    "synopsis": "The second annual Hellfire Gala on Krakoa. The X-Men hold a public vote for their new team roster. Selene attempts to sabotage the proceedings. Political tensions on the Quiet Council intensify as Emma Frost consolidates Hellfire Trading Company power. The event showcases Krakoa's growing confidence on the world stage.",
+    "impact": "Mars becomes Planet Arakko. New X-Men roster elected. Krakoa asserts itself as a galactic power.",
+    "prerequisites": "House of X / Powers of X, X of Swords, Inferno (2021)",
+    "consequences": "Planet-sized X-Men, X-Men Red on Arakko, Judgment Day. Sets up the Fall of X.",
+    "era_slug": "dawn-of-krakoa",
+    "tags": [
+      "krakoa",
+      "x-men",
+      "emma-frost",
+      "mars",
+      "arakko",
+      "mutant-politics"
+    ]
+  },
+  {
+    "slug": "hellfire-gala-2023",
+    "name": "Hellfire Gala (2023)",
+    "year": 2023,
+    "core_issues": "X-Men: Hellfire Gala (2023) #1, plus tie-ins",
+    "importance": "recommended",
+    "synopsis": "The third annual Hellfire Gala becomes a massacre. Orchis executes a coordinated attack during the celebration, using the Krakoan gates against the mutants. Most of the X-Men are sent through sabotaged gates to unknown locations. Moira MacTaggert allies with Orchis. Professor X is captured. This is the event that ends the Krakoan golden age and begins the Fall of X.",
+    "impact": "Krakoa falls. X-Men scattered. Professor X captured. Orchis takes control. Begins Fall of X status quo.",
+    "prerequisites": "Hellfire Gala (2022), Judgment Day, X-Men ongoing (Duggan)",
+    "consequences": "Fall of X across all X-titles, Rise of the Powers of X, Fall of the House of X",
+    "era_slug": "dawn-of-krakoa",
+    "tags": [
+      "krakoa",
+      "x-men",
+      "orchis",
+      "fall-of-x",
+      "massacre",
+      "moira-mactaggert"
+    ]
+  },
+  {
+    "slug": "annihilation",
+    "name": "Annihilation",
+    "year": 2006,
+    "core_issues": "Annihilation: Prologue, Annihilation #1-6",
+    "importance": "essential",
+    "synopsis": "The Annihilation Wave, led by Annihilus, pours out of the Negative Zone and devastates the cosmos. The Nova Corps is destroyed. Richard Rider becomes the last Nova and leads a desperate alliance of Ronan, Super-Skrull, Silver Surfer, and Galactus against the Wave. The defining event of modern cosmic Marvel.",
+    "impact": "Nova becomes A-list, cosmic Marvel revitalized, Galactus unleashed",
+    "prerequisites": "Basic knowledge of Nova, Silver Surfer, and Galactus. No Earth-side reading required.",
+    "consequences": "Annihilation: Conquest (2007). Star-Lord assembles the Guardians of the Galaxy. Launches the DnA cosmic renaissance that directly inspires the GotG films.",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "cosmic",
+      "annihilus",
+      "nova",
+      "silver-surfer",
+      "galactus",
+      "negative-zone",
+      "dna-cosmic"
+    ]
+  },
+  {
+    "slug": "annihilation-conquest",
+    "name": "Annihilation: Conquest",
+    "year": 2007,
+    "core_issues": "Annihilation: Conquest #1-6",
+    "importance": "recommended",
+    "synopsis": "The Phalanx, led by Ultron, invade Kree space in the aftermath of the Annihilation Wave. Star-Lord assembles a ragtag team including Rocket Raccoon, Groot, Mantis, and Bug — the precursor to the Guardians of the Galaxy. Adam Warlock is reborn.",
+    "impact": "Guardians of the Galaxy formed, Adam Warlock returns",
+    "prerequisites": "Annihilation.",
+    "consequences": "Guardians of the Galaxy (2008) ongoing series. War of Kings. Nova ongoing continues.",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "cosmic",
+      "phalanx",
+      "ultron",
+      "star-lord",
+      "guardians",
+      "kree",
+      "dna-cosmic"
+    ]
+  },
+  {
+    "slug": "war-of-kings",
+    "name": "War of Kings",
+    "year": 2009,
+    "core_issues": "War of Kings #1-6",
+    "importance": "recommended",
+    "synopsis": "Vulcan's Shi'ar Empire goes to war against Black Bolt's Inhumans, who have seized the Kree Empire. Black Bolt detonates a Terrigen Bomb, killing himself and Vulcan, tearing a hole in spacetime called the Fault. The cosmic Marvel landscape is fundamentally altered.",
+    "impact": "The Fault opens, Black Bolt dies, Shi'ar/Kree power shift",
+    "prerequisites": "Annihilation, Annihilation: Conquest. X-Men: Rise and Fall of the Shi'ar Empire for Vulcan's backstory.",
+    "consequences": "Realm of Kings, The Thanos Imperative. The Fault becomes a major cosmic threat.",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "cosmic",
+      "shi-ar",
+      "inhumans",
+      "kree",
+      "vulcan",
+      "black-bolt",
+      "the-fault",
+      "dna-cosmic"
+    ]
+  },
+  {
+    "slug": "x-of-swords-event",
+    "name": "X of Swords",
+    "year": 2020,
+    "core_issues": "X of Swords: Creation #1, X of Swords: Stasis #1, X of Swords: Destruction #1, plus chapters across all Krakoa-era X-titles",
+    "importance": "recommended",
+    "synopsis": "The first major Krakoa-era crossover. Ten swordbearers of Krakoa face ten champions of Arakko in a tournament orchestrated by Saturnyne in Otherworld. The contest reveals Arakko, the lost half of Krakoa, and its mutant population. Apocalypse is reunited with his original Horsemen.",
+    "impact": "Arakko revealed, Otherworld established, Apocalypse departs Krakoa",
+    "prerequisites": "House of X / Powers of X. Excalibur by Tini Howard for Otherworld context.",
+    "consequences": "Arakko mutants integrate with Krakoa. S.W.O.R.D. launches. Sets up Planet-Size X-Men and the terraforming of Mars into Planet Arakko.",
+    "era_slug": "dawn-of-krakoa",
+    "tags": [
+      "x-men",
+      "krakoa",
+      "arakko",
+      "otherworld",
+      "apocalypse",
+      "saturnyne",
+      "swordbearers"
+    ]
+  },
+  {
+    "slug": "civil-war-ii",
+    "name": "Civil War II",
+    "year": 2016,
+    "core_issues": "Civil War II #0-8",
+    "importance": "recommended",
+    "synopsis": "An Inhuman named Ulysses can predict the future. Captain Marvel wants to use predictive justice to prevent catastrophes before they happen. Iron Man argues it's profiling. The philosophical debate escalates into all-out war. War Machine is killed. Bruce Banner (Hulk) is killed by Hawkeye. Tony Stark is left in a coma.",
+    "impact": "War Machine and Banner die, Tony in coma, heroes divided again",
+    "prerequisites": "General Avengers knowledge. Inhumans context helps.",
+    "consequences": "Infamous Iron Man (Doom takes over). Riri Williams becomes Ironheart. Captain Marvel's reputation is complicated. Sets up Secret Empire indirectly.",
+    "era_slug": "all-new-all-different",
+    "tags": [
+      "avengers",
+      "captain-marvel",
+      "iron-man",
+      "inhumans",
+      "predictive-justice",
+      "war-machine",
+      "hulk-death"
+    ]
+  },
+  {
+    "slug": "original-sin",
+    "name": "Original Sin",
+    "year": 2014,
+    "core_issues": "Original Sin #1-8",
+    "importance": "recommended",
+    "synopsis": "The Watcher, Uatu, is murdered and his eyes stolen. His eyes contain every secret he has ever observed. When the secrets are released, hidden truths are revealed across the Marvel Universe. Nick Fury is exposed as 'The Man on the Wall' — Earth's secret protector who has been killing alien threats for decades. Thor loses his worthiness to lift Mjolnir.",
+    "impact": "Watcher killed, Nick Fury becomes the Unseen, Thor loses Mjolnir",
+    "prerequisites": "General Marvel knowledge.",
+    "consequences": "Jane Foster Thor begins. Nick Fury becomes the Unseen on the moon. Angela is revealed as Thor's sister.",
+    "era_slug": "hickman-saga",
+    "tags": [
+      "watcher",
+      "nick-fury",
+      "thor",
+      "mjolnir",
+      "secrets",
+      "murder-mystery"
+    ]
+  }
+]

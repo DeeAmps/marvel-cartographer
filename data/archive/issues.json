@@ -1,0 +1,4021 @@
+[
+  {
+    "slug": "ff-1-1961",
+    "series": "Fantastic Four",
+    "issue_number": "1",
+    "publication_date": "1961-11-01",
+    "title": "The Fantastic Four!",
+    "importance": "essential",
+    "first_appearances": [
+      "Fantastic Four",
+      "Mole Man",
+      "Reed Richards",
+      "Sue Storm",
+      "Johnny Storm",
+      "Ben Grimm"
+    ],
+    "tags": [
+      "origin",
+      "first-appearance",
+      "cosmic-rays"
+    ]
+  },
+  {
+    "slug": "ff-4-1962",
+    "series": "Fantastic Four",
+    "issue_number": "4",
+    "publication_date": "1962-05-01",
+    "title": "The Coming of Sub-Mariner!",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "namor",
+      "return"
+    ]
+  },
+  {
+    "slug": "ff-5-1962",
+    "series": "Fantastic Four",
+    "issue_number": "5",
+    "publication_date": "1962-07-01",
+    "title": "Prisoners of Doctor Doom!",
+    "importance": "essential",
+    "first_appearances": [
+      "Doctor Doom"
+    ],
+    "tags": [
+      "first-appearance",
+      "doom",
+      "villain"
+    ]
+  },
+  {
+    "slug": "ff-48-1966",
+    "series": "Fantastic Four",
+    "issue_number": "48",
+    "publication_date": "1966-03-01",
+    "title": "The Coming of Galactus!",
+    "importance": "essential",
+    "first_appearances": [
+      "Galactus",
+      "Silver Surfer"
+    ],
+    "tags": [
+      "cosmic",
+      "galactus-trilogy",
+      "first-appearance"
+    ]
+  },
+  {
+    "slug": "ff-52-1966",
+    "series": "Fantastic Four",
+    "issue_number": "52",
+    "publication_date": "1966-07-01",
+    "title": "The Black Panther!",
+    "importance": "essential",
+    "first_appearances": [
+      "Black Panther"
+    ],
+    "tags": [
+      "first-appearance",
+      "wakanda"
+    ]
+  },
+  {
+    "slug": "af-15-1962",
+    "series": "Amazing Fantasy",
+    "issue_number": "15",
+    "publication_date": "1962-08-01",
+    "title": "Spider-Man!",
+    "importance": "essential",
+    "first_appearances": [
+      "Spider-Man",
+      "Uncle Ben",
+      "Aunt May"
+    ],
+    "tags": [
+      "origin",
+      "first-appearance"
+    ]
+  },
+  {
+    "slug": "asm-121-1973",
+    "series": "Amazing Spider-Man",
+    "issue_number": "121",
+    "publication_date": "1973-06-01",
+    "title": "The Night Gwen Stacy Died",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "death",
+      "gwen-stacy",
+      "green-goblin",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "asm-122-1973",
+    "series": "Amazing Spider-Man",
+    "issue_number": "122",
+    "publication_date": "1973-07-01",
+    "title": "The Goblin's Last Stand!",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "death",
+      "norman-osborn",
+      "green-goblin"
+    ]
+  },
+  {
+    "slug": "asm-129-1974",
+    "series": "Amazing Spider-Man",
+    "issue_number": "129",
+    "publication_date": "1974-02-01",
+    "title": "The Punisher Strikes Twice!",
+    "importance": "essential",
+    "first_appearances": [
+      "Punisher"
+    ],
+    "tags": [
+      "first-appearance"
+    ]
+  },
+  {
+    "slug": "asm-300-1988",
+    "series": "Amazing Spider-Man",
+    "issue_number": "300",
+    "publication_date": "1988-05-01",
+    "title": "Venom",
+    "importance": "essential",
+    "first_appearances": [
+      "Venom"
+    ],
+    "tags": [
+      "first-appearance",
+      "symbiote"
+    ]
+  },
+  {
+    "slug": "avengers-1-1963",
+    "series": "Avengers",
+    "issue_number": "1",
+    "publication_date": "1963-09-01",
+    "title": "The Coming of the Avengers!",
+    "importance": "essential",
+    "first_appearances": [
+      "Avengers"
+    ],
+    "tags": [
+      "origin",
+      "team-founding",
+      "first-appearance"
+    ]
+  },
+  {
+    "slug": "avengers-4-1964",
+    "series": "Avengers",
+    "issue_number": "4",
+    "publication_date": "1964-03-01",
+    "title": "Captain America Joins...The Avengers!",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "captain-america",
+      "revival",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "avengers-57-1968",
+    "series": "Avengers",
+    "issue_number": "57",
+    "publication_date": "1968-10-01",
+    "title": "Behold...The Vision!",
+    "importance": "essential",
+    "first_appearances": [
+      "Vision"
+    ],
+    "tags": [
+      "first-appearance",
+      "ultron"
+    ]
+  },
+  {
+    "slug": "gs-xmen-1-1975",
+    "series": "Giant-Size X-Men",
+    "issue_number": "1",
+    "publication_date": "1975-05-01",
+    "title": "Second Genesis!",
+    "importance": "essential",
+    "first_appearances": [
+      "Storm",
+      "Colossus",
+      "Nightcrawler",
+      "Thunderbird"
+    ],
+    "tags": [
+      "origin",
+      "team-relaunch",
+      "first-appearance",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "uxm-129-1980",
+    "series": "Uncanny X-Men",
+    "issue_number": "129",
+    "publication_date": "1980-01-01",
+    "title": "God Spare the Child...",
+    "importance": "essential",
+    "first_appearances": [
+      "Kitty Pryde",
+      "Emma Frost"
+    ],
+    "tags": [
+      "first-appearance",
+      "dark-phoenix-prelude"
+    ]
+  },
+  {
+    "slug": "uxm-137-1980",
+    "series": "Uncanny X-Men",
+    "issue_number": "137",
+    "publication_date": "1980-09-01",
+    "title": "The Fate of the Phoenix!",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "death",
+      "jean-grey",
+      "dark-phoenix",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "uxm-141-1981",
+    "series": "Uncanny X-Men",
+    "issue_number": "141",
+    "publication_date": "1981-01-01",
+    "title": "Days of Future Past",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "alternate-future",
+      "sentinels",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "thor-337-1983",
+    "series": "Thor",
+    "issue_number": "337",
+    "publication_date": "1983-11-01",
+    "title": "Doom!",
+    "importance": "essential",
+    "first_appearances": [
+      "Beta Ray Bill"
+    ],
+    "tags": [
+      "first-appearance",
+      "simonson-run-start"
+    ]
+  },
+  {
+    "slug": "dd-168-1981",
+    "series": "Daredevil",
+    "issue_number": "168",
+    "publication_date": "1981-01-01",
+    "title": "Elektra",
+    "importance": "essential",
+    "first_appearances": [
+      "Elektra"
+    ],
+    "tags": [
+      "first-appearance",
+      "miller-run"
+    ]
+  },
+  {
+    "slug": "dd-227-1986",
+    "series": "Daredevil",
+    "issue_number": "227",
+    "publication_date": "1986-02-01",
+    "title": "Born Again Part 1",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "born-again",
+      "kingpin",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "ih-181-1974",
+    "series": "Incredible Hulk",
+    "issue_number": "181",
+    "publication_date": "1974-11-01",
+    "title": "And Now...the Wolverine!",
+    "importance": "essential",
+    "first_appearances": [
+      "Wolverine"
+    ],
+    "tags": [
+      "first-appearance",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "sw-8-1984",
+    "series": "Secret Wars",
+    "issue_number": "8",
+    "publication_date": "1984-12-01",
+    "title": "Invasion!",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "symbiote",
+      "black-costume",
+      "spider-man"
+    ]
+  },
+  {
+    "slug": "ig-1-1991",
+    "series": "Infinity Gauntlet",
+    "issue_number": "1",
+    "publication_date": "1991-07-01",
+    "title": "God",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "thanos",
+      "cosmic",
+      "snap",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "hox-1-2019",
+    "series": "House of X",
+    "issue_number": "1",
+    "publication_date": "2019-07-24",
+    "title": "The House That Xavier Built",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "krakoa",
+      "hickman",
+      "x-men-relaunch",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "hox-2-2019",
+    "series": "House of X",
+    "issue_number": "2",
+    "publication_date": "2019-08-07",
+    "title": "The Uncanny Life of Moira X",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "moira",
+      "retcon",
+      "reincarnation",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "cap-1-2004",
+    "series": "Captain America",
+    "issue_number": "1",
+    "publication_date": "2004-11-01",
+    "title": "Out of Time Part 1",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "winter-soldier",
+      "brubaker",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "cw-1-2006",
+    "series": "Civil War",
+    "issue_number": "1",
+    "publication_date": "2006-07-01",
+    "title": "Civil War Part 1",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "registration",
+      "event",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "cap-25-2007",
+    "series": "Captain America",
+    "issue_number": "25",
+    "publication_date": "2007-04-01",
+    "title": "The Death of Captain America",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "death",
+      "captain-america",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "na-1-2005",
+    "series": "New Avengers",
+    "issue_number": "1",
+    "publication_date": "2005-01-01",
+    "title": "Breakout Part 1",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "bendis",
+      "new-team",
+      "raft"
+    ]
+  },
+  {
+    "slug": "hom-7-2005",
+    "series": "House of M",
+    "issue_number": "7",
+    "publication_date": "2005-11-01",
+    "title": "House of M Part 7",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "no-more-mutants",
+      "decimation",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "ff-587-2011",
+    "series": "Fantastic Four",
+    "issue_number": "587",
+    "publication_date": "2011-01-26",
+    "title": "Three Part 5 — The Last Stand of Johnny Storm",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "death",
+      "human-torch",
+      "hickman",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "sw2015-1",
+    "series": "Secret Wars (2015)",
+    "issue_number": "1",
+    "publication_date": "2015-05-06",
+    "title": "The End Times",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "multiverse",
+      "incursion",
+      "doom",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "ff-2-1962",
+    "series": "Fantastic Four",
+    "issue_number": "2",
+    "publication_date": "1962-01-01",
+    "title": "The Skrulls from Outer Space!",
+    "importance": "essential",
+    "first_appearances": [
+      "Skrulls"
+    ],
+    "tags": [
+      "first-appearance",
+      "alien",
+      "fantastic-four"
+    ]
+  },
+  {
+    "slug": "ff-12-1963",
+    "series": "Fantastic Four",
+    "issue_number": "12",
+    "publication_date": "1963-03-01",
+    "title": "The Incredible Hulk",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "crossover",
+      "hulk",
+      "fantastic-four"
+    ]
+  },
+  {
+    "slug": "ff-25-1964",
+    "series": "Fantastic Four",
+    "issue_number": "25",
+    "publication_date": "1964-04-01",
+    "title": "The Hulk vs. the Thing",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "versus",
+      "hulk",
+      "thing",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "ff-36-1965",
+    "series": "Fantastic Four",
+    "issue_number": "36",
+    "publication_date": "1965-03-01",
+    "title": "The Frightful Four!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Frightful Four",
+      "Medusa (villain debut)"
+    ],
+    "tags": [
+      "first-appearance",
+      "villain-team",
+      "medusa"
+    ]
+  },
+  {
+    "slug": "ff-44-1965",
+    "series": "Fantastic Four",
+    "issue_number": "44",
+    "publication_date": "1965-11-01",
+    "title": "The Gentleman's Name Is Gorgon!",
+    "importance": "essential",
+    "first_appearances": [
+      "Gorgon"
+    ],
+    "tags": [
+      "first-appearance",
+      "inhumans"
+    ]
+  },
+  {
+    "slug": "ff-45-1965",
+    "series": "Fantastic Four",
+    "issue_number": "45",
+    "publication_date": "1965-12-01",
+    "title": "Among Us Hide...the Inhumans",
+    "importance": "essential",
+    "first_appearances": [
+      "Inhumans",
+      "Black Bolt",
+      "Medusa (hero)",
+      "Crystal",
+      "Karnak",
+      "Triton",
+      "Lockjaw"
+    ],
+    "tags": [
+      "first-appearance",
+      "inhumans",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "ff-49-1966",
+    "series": "Fantastic Four",
+    "issue_number": "49",
+    "publication_date": "1966-04-01",
+    "title": "If This Be Doomsday!",
+    "importance": "essential",
+    "first_appearances": [
+      "Galactus"
+    ],
+    "tags": [
+      "first-appearance",
+      "cosmic",
+      "galactus"
+    ]
+  },
+  {
+    "slug": "ff-50-1966",
+    "series": "Fantastic Four",
+    "issue_number": "50",
+    "publication_date": "1966-05-01",
+    "title": "The Startling Saga of the Silver Surfer!",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "landmark",
+      "cosmic",
+      "silver-surfer",
+      "ultimate-nullifier"
+    ]
+  },
+  {
+    "slug": "ff-annual-6-1968",
+    "series": "Fantastic Four Annual",
+    "issue_number": "6",
+    "publication_date": "1968-11-01",
+    "title": "Let There Be...Life!",
+    "importance": "essential",
+    "first_appearances": [
+      "Annihilus",
+      "Franklin Richards (birth)"
+    ],
+    "tags": [
+      "first-appearance",
+      "birth",
+      "negative-zone"
+    ]
+  },
+  {
+    "slug": "ff-66-1967",
+    "series": "Fantastic Four",
+    "issue_number": "66",
+    "publication_date": "1967-09-01",
+    "title": "What Lurks Behind the Beehive?",
+    "importance": "recommended",
+    "first_appearances": [
+      "Him (Adam Warlock precursor)"
+    ],
+    "tags": [
+      "first-appearance",
+      "adam-warlock",
+      "cosmic"
+    ]
+  },
+  {
+    "slug": "ff-200-1979",
+    "series": "Fantastic Four",
+    "issue_number": "200",
+    "publication_date": "1979-11-01",
+    "title": "When Titans Clash!",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "landmark",
+      "doctor-doom",
+      "anniversary"
+    ]
+  },
+  {
+    "slug": "ff-570-2009",
+    "series": "Fantastic Four",
+    "issue_number": "570",
+    "publication_date": "2009-10-01",
+    "title": "Solve Everything",
+    "importance": "essential",
+    "first_appearances": [
+      "Council of Reeds"
+    ],
+    "tags": [
+      "first-appearance",
+      "hickman",
+      "multiverse"
+    ]
+  },
+  {
+    "slug": "asm-1-1963",
+    "series": "Amazing Spider-Man",
+    "issue_number": "1",
+    "publication_date": "1963-03-01",
+    "title": "Spider-Man",
+    "importance": "essential",
+    "first_appearances": [
+      "J. Jonah Jameson",
+      "John Jameson",
+      "Chameleon"
+    ],
+    "tags": [
+      "first-appearance",
+      "first-issue",
+      "spider-man"
+    ]
+  },
+  {
+    "slug": "asm-3-1963",
+    "series": "Amazing Spider-Man",
+    "issue_number": "3",
+    "publication_date": "1963-07-01",
+    "title": "Spider-Man Versus Doctor Octopus",
+    "importance": "essential",
+    "first_appearances": [
+      "Doctor Octopus"
+    ],
+    "tags": [
+      "first-appearance",
+      "villain",
+      "spider-man"
+    ]
+  },
+  {
+    "slug": "asm-4-1963",
+    "series": "Amazing Spider-Man",
+    "issue_number": "4",
+    "publication_date": "1963-09-01",
+    "title": "Nothing Can Stop...the Sandman!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Sandman"
+    ],
+    "tags": [
+      "first-appearance",
+      "villain",
+      "spider-man"
+    ]
+  },
+  {
+    "slug": "asm-6-1963",
+    "series": "Amazing Spider-Man",
+    "issue_number": "6",
+    "publication_date": "1963-11-01",
+    "title": "Face-to-Face with...the Lizard!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Lizard"
+    ],
+    "tags": [
+      "first-appearance",
+      "villain",
+      "spider-man"
+    ]
+  },
+  {
+    "slug": "asm-9-1964",
+    "series": "Amazing Spider-Man",
+    "issue_number": "9",
+    "publication_date": "1964-02-01",
+    "title": "The Man Called Electro!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Electro"
+    ],
+    "tags": [
+      "first-appearance",
+      "villain",
+      "spider-man"
+    ]
+  },
+  {
+    "slug": "asm-13-1964",
+    "series": "Amazing Spider-Man",
+    "issue_number": "13",
+    "publication_date": "1964-06-01",
+    "title": "The Menace of...Mysterio!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Mysterio"
+    ],
+    "tags": [
+      "first-appearance",
+      "villain",
+      "spider-man"
+    ]
+  },
+  {
+    "slug": "asm-14-1964",
+    "series": "Amazing Spider-Man",
+    "issue_number": "14",
+    "publication_date": "1964-07-01",
+    "title": "The Grotesque Adventure of the Green Goblin",
+    "importance": "essential",
+    "first_appearances": [
+      "Green Goblin"
+    ],
+    "tags": [
+      "first-appearance",
+      "villain",
+      "green-goblin"
+    ]
+  },
+  {
+    "slug": "asm-15-1964",
+    "series": "Amazing Spider-Man",
+    "issue_number": "15",
+    "publication_date": "1964-08-01",
+    "title": "Kraven the Hunter!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Kraven the Hunter"
+    ],
+    "tags": [
+      "first-appearance",
+      "villain",
+      "spider-man"
+    ]
+  },
+  {
+    "slug": "asm-31-1965",
+    "series": "Amazing Spider-Man",
+    "issue_number": "31",
+    "publication_date": "1965-12-01",
+    "title": "If This Be My Destiny...!",
+    "importance": "essential",
+    "first_appearances": [
+      "Gwen Stacy",
+      "Harry Osborn"
+    ],
+    "tags": [
+      "first-appearance",
+      "master-planner"
+    ]
+  },
+  {
+    "slug": "asm-33-1966",
+    "series": "Amazing Spider-Man",
+    "issue_number": "33",
+    "publication_date": "1966-02-01",
+    "title": "The Final Chapter!",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "landmark",
+      "master-planner",
+      "lifting-scene"
+    ]
+  },
+  {
+    "slug": "asm-50-1967",
+    "series": "Amazing Spider-Man",
+    "issue_number": "50",
+    "publication_date": "1967-07-01",
+    "title": "Spider-Man No More!",
+    "importance": "essential",
+    "first_appearances": [
+      "Kingpin"
+    ],
+    "tags": [
+      "first-appearance",
+      "landmark",
+      "iconic-cover"
+    ]
+  },
+  {
+    "slug": "asm-90-1970",
+    "series": "Amazing Spider-Man",
+    "issue_number": "90",
+    "publication_date": "1970-11-01",
+    "title": "And Death Shall Come!",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "death",
+      "captain-stacy"
+    ]
+  },
+  {
+    "slug": "asm-96-1971",
+    "series": "Amazing Spider-Man",
+    "issue_number": "96",
+    "publication_date": "1971-05-01",
+    "title": "...And Now, the Goblin!",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "landmark",
+      "drug-issue",
+      "comics-code",
+      "green-goblin"
+    ]
+  },
+  {
+    "slug": "asm-101-1971",
+    "series": "Amazing Spider-Man",
+    "issue_number": "101",
+    "publication_date": "1971-10-01",
+    "title": "A Monster Called Morbius!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Morbius"
+    ],
+    "tags": [
+      "first-appearance",
+      "vampire",
+      "horror"
+    ]
+  },
+  {
+    "slug": "asm-194-1979",
+    "series": "Amazing Spider-Man",
+    "issue_number": "194",
+    "publication_date": "1979-07-01",
+    "title": "Never Let the Black Cat Cross Your Path!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Black Cat"
+    ],
+    "tags": [
+      "first-appearance",
+      "love-interest"
+    ]
+  },
+  {
+    "slug": "asm-238-1983",
+    "series": "Amazing Spider-Man",
+    "issue_number": "238",
+    "publication_date": "1983-03-01",
+    "title": "Shadow of Evils Past!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Hobgoblin"
+    ],
+    "tags": [
+      "first-appearance",
+      "villain",
+      "mystery"
+    ]
+  },
+  {
+    "slug": "asm-252-1984",
+    "series": "Amazing Spider-Man",
+    "issue_number": "252",
+    "publication_date": "1984-05-01",
+    "title": "Homecoming!",
+    "importance": "essential",
+    "first_appearances": [
+      "Black Costume (Symbiote)"
+    ],
+    "tags": [
+      "first-appearance",
+      "symbiote",
+      "costume-change"
+    ]
+  },
+  {
+    "slug": "asm-298-1988",
+    "series": "Amazing Spider-Man",
+    "issue_number": "298",
+    "publication_date": "1988-03-01",
+    "title": "Chance Encounter",
+    "importance": "recommended",
+    "first_appearances": [
+      "Eddie Brock (cameo)"
+    ],
+    "tags": [
+      "first-appearance",
+      "mcfarlane",
+      "venom-buildup"
+    ]
+  },
+  {
+    "slug": "asm-361-1992",
+    "series": "Amazing Spider-Man",
+    "issue_number": "361",
+    "publication_date": "1992-04-01",
+    "title": "Carnage (Part One)",
+    "importance": "essential",
+    "first_appearances": [
+      "Carnage"
+    ],
+    "tags": [
+      "first-appearance",
+      "villain",
+      "symbiote"
+    ]
+  },
+  {
+    "slug": "asm-529-2006",
+    "series": "Amazing Spider-Man",
+    "issue_number": "529",
+    "publication_date": "2006-04-01",
+    "title": "Mr. Parker Goes to Washington",
+    "importance": "recommended",
+    "first_appearances": [
+      "Iron Spider Armor"
+    ],
+    "tags": [
+      "costume-change",
+      "civil-war",
+      "iron-spider"
+    ]
+  },
+  {
+    "slug": "asm-532-2006",
+    "series": "Amazing Spider-Man",
+    "issue_number": "532",
+    "publication_date": "2006-07-01",
+    "title": "The War at Home Part 1 of 6",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "unmasking",
+      "civil-war",
+      "identity-reveal"
+    ]
+  },
+  {
+    "slug": "asm-545-2007",
+    "series": "Amazing Spider-Man",
+    "issue_number": "545",
+    "publication_date": "2007-12-01",
+    "title": "One More Day Part 4",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "controversial",
+      "marriage-erased",
+      "mephisto"
+    ]
+  },
+  {
+    "slug": "asm-698-2012",
+    "series": "Amazing Spider-Man",
+    "issue_number": "698",
+    "publication_date": "2012-12-01",
+    "title": "Dying Wish: Suicide Run",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "mind-swap",
+      "doctor-octopus",
+      "twist"
+    ]
+  },
+  {
+    "slug": "asm-700-2012",
+    "series": "Amazing Spider-Man",
+    "issue_number": "700",
+    "publication_date": "2012-12-26",
+    "title": "Dying Wish: Suicide Run (Finale)",
+    "importance": "essential",
+    "first_appearances": [
+      "Superior Spider-Man (concept)"
+    ],
+    "tags": [
+      "death",
+      "doctor-octopus",
+      "landmark",
+      "final-issue"
+    ]
+  },
+  {
+    "slug": "asm-annual-1-1964",
+    "series": "Amazing Spider-Man Annual",
+    "issue_number": "1",
+    "publication_date": "1964-10-01",
+    "title": "The Sinister Six!",
+    "importance": "essential",
+    "first_appearances": [
+      "Sinister Six (team)"
+    ],
+    "tags": [
+      "first-appearance",
+      "villain-team",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "avengers-16-1965",
+    "series": "Avengers",
+    "issue_number": "16",
+    "publication_date": "1965-05-01",
+    "title": "The Old Order Changeth!",
+    "importance": "essential",
+    "first_appearances": [
+      "Cap's Kooky Quartet"
+    ],
+    "tags": [
+      "roster-change",
+      "hawkeye",
+      "scarlet-witch",
+      "quicksilver"
+    ]
+  },
+  {
+    "slug": "avengers-58-1968",
+    "series": "Avengers",
+    "issue_number": "58",
+    "publication_date": "1968-11-01",
+    "title": "Even an Android Can Cry",
+    "importance": "essential",
+    "first_appearances": [
+      "Vision (full origin)"
+    ],
+    "tags": [
+      "origin",
+      "vision",
+      "landmark",
+      "emotional"
+    ]
+  },
+  {
+    "slug": "avengers-89-1971",
+    "series": "Avengers",
+    "issue_number": "89",
+    "publication_date": "1971-06-01",
+    "title": "The Only Good Alien...",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "kree-skrull-war",
+      "cosmic",
+      "arc-start"
+    ]
+  },
+  {
+    "slug": "avengers-181-1979",
+    "series": "Avengers",
+    "issue_number": "181",
+    "publication_date": "1979-03-01",
+    "title": "On the Matter of Heroes!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Scott Lang"
+    ],
+    "tags": [
+      "first-appearance",
+      "ant-man",
+      "scott-lang"
+    ]
+  },
+  {
+    "slug": "avengers-200-1980",
+    "series": "Avengers",
+    "issue_number": "200",
+    "publication_date": "1980-10-01",
+    "title": "The Child Is Father To...?",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "controversial",
+      "ms-marvel",
+      "anniversary"
+    ]
+  },
+  {
+    "slug": "avengers-273-1986",
+    "series": "Avengers",
+    "issue_number": "273",
+    "publication_date": "1986-11-01",
+    "title": "Rites of Conquest!",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "under-siege",
+      "masters-of-evil",
+      "baron-zemo"
+    ]
+  },
+  {
+    "slug": "avengers-500-2004",
+    "series": "Avengers",
+    "issue_number": "500",
+    "publication_date": "2004-09-01",
+    "title": "Chaos (Part 1 of 4)",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "disassembled",
+      "scarlet-witch",
+      "bendis",
+      "arc-start"
+    ]
+  },
+  {
+    "slug": "avengers-1-2012",
+    "series": "Avengers",
+    "issue_number": "1",
+    "publication_date": "2012-12-05",
+    "title": "Avengers World",
+    "importance": "essential",
+    "first_appearances": [
+      "Avengers Machine"
+    ],
+    "tags": [
+      "first-issue",
+      "hickman",
+      "avengers-world"
+    ]
+  },
+  {
+    "slug": "na-1-2005-v2",
+    "series": "New Avengers",
+    "issue_number": "1",
+    "publication_date": "2005-01-01",
+    "title": "Breakout! Part 1",
+    "importance": "essential",
+    "first_appearances": [
+      "New Avengers (team)"
+    ],
+    "tags": [
+      "first-issue",
+      "bendis",
+      "team-formation"
+    ]
+  },
+  {
+    "slug": "uxm-94-1975",
+    "series": "Uncanny X-Men",
+    "issue_number": "94",
+    "publication_date": "1975-08-01",
+    "title": "The Doomsmith Scenario!",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "new-team-debut",
+      "claremont-start",
+      "x-men"
+    ]
+  },
+  {
+    "slug": "uxm-101-1976",
+    "series": "Uncanny X-Men",
+    "issue_number": "101",
+    "publication_date": "1976-10-01",
+    "title": "Like a Phoenix from the Ashes!",
+    "importance": "essential",
+    "first_appearances": [
+      "Phoenix (Jean Grey)"
+    ],
+    "tags": [
+      "first-appearance",
+      "phoenix",
+      "jean-grey",
+      "cosmic"
+    ]
+  },
+  {
+    "slug": "uxm-120-1979",
+    "series": "Uncanny X-Men",
+    "issue_number": "120",
+    "publication_date": "1979-04-01",
+    "title": "Wanted: Wolverine! Dead or Alive!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Alpha Flight (prototype)"
+    ],
+    "tags": [
+      "first-appearance",
+      "alpha-flight",
+      "wolverine"
+    ]
+  },
+  {
+    "slug": "uxm-150-1981",
+    "series": "Uncanny X-Men",
+    "issue_number": "150",
+    "publication_date": "1981-10-01",
+    "title": "I, Magneto",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "magneto",
+      "landmark",
+      "characterization"
+    ]
+  },
+  {
+    "slug": "uxm-171-1983",
+    "series": "Uncanny X-Men",
+    "issue_number": "171",
+    "publication_date": "1983-07-01",
+    "title": "Rogue Joins the X-Men",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "roster-change",
+      "rogue",
+      "x-men"
+    ]
+  },
+  {
+    "slug": "uxm-210-1986",
+    "series": "Uncanny X-Men",
+    "issue_number": "210",
+    "publication_date": "1986-10-01",
+    "title": "The Morning After",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "mutant-massacre",
+      "marauders",
+      "crossover-start"
+    ]
+  },
+  {
+    "slug": "uxm-227-1988",
+    "series": "Uncanny X-Men",
+    "issue_number": "227",
+    "publication_date": "1988-03-01",
+    "title": "The Belly of the Beast!",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "fall-of-mutants",
+      "sacrifice",
+      "roma",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "uxm-248-1989",
+    "series": "Uncanny X-Men",
+    "issue_number": "248",
+    "publication_date": "1989-09-01",
+    "title": "The Crime is Life! The Sentence is Death!",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "jim-lee-debut",
+      "artist-change",
+      "x-men"
+    ]
+  },
+  {
+    "slug": "uxm-266-1990",
+    "series": "Uncanny X-Men",
+    "issue_number": "266",
+    "publication_date": "1990-08-01",
+    "title": "Gambit!",
+    "importance": "essential",
+    "first_appearances": [
+      "Gambit"
+    ],
+    "tags": [
+      "first-appearance",
+      "gambit",
+      "x-men"
+    ]
+  },
+  {
+    "slug": "uxm-281-1991",
+    "series": "Uncanny X-Men",
+    "issue_number": "281",
+    "publication_date": "1991-10-01",
+    "title": "Fresh Upstart",
+    "importance": "recommended",
+    "first_appearances": [
+      "New X-Men team (Bishop era)"
+    ],
+    "tags": [
+      "roster-change",
+      "whilce-portacio",
+      "x-men"
+    ]
+  },
+  {
+    "slug": "uxm-304-1993",
+    "series": "Uncanny X-Men",
+    "issue_number": "304",
+    "publication_date": "1993-09-01",
+    "title": "...For What I Have Done",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "fatal-attractions",
+      "magneto",
+      "death",
+      "illyana"
+    ]
+  },
+  {
+    "slug": "xmen-1-1991",
+    "series": "X-Men",
+    "issue_number": "1",
+    "publication_date": "1991-10-01",
+    "title": "Rubicon",
+    "importance": "essential",
+    "first_appearances": [
+      "Acolytes"
+    ],
+    "tags": [
+      "first-issue",
+      "jim-lee",
+      "best-selling",
+      "record"
+    ]
+  },
+  {
+    "slug": "xmen-25-1993",
+    "series": "X-Men",
+    "issue_number": "25",
+    "publication_date": "1993-10-01",
+    "title": "Fatal Attractions: Dreams Fade",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "fatal-attractions",
+      "adamantium-removal",
+      "magneto",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "generation-x-1-1994",
+    "series": "Generation X",
+    "issue_number": "1",
+    "publication_date": "1994-11-01",
+    "title": "Third Genesis",
+    "importance": "recommended",
+    "first_appearances": [
+      "Generation X (team)",
+      "Chamber"
+    ],
+    "tags": [
+      "first-issue",
+      "first-appearance",
+      "young-mutants"
+    ]
+  },
+  {
+    "slug": "x-force-1-1991",
+    "series": "X-Force",
+    "issue_number": "1",
+    "publication_date": "1991-08-01",
+    "title": "A Force to Be Reckoned With",
+    "importance": "recommended",
+    "first_appearances": [
+      "X-Force (team)"
+    ],
+    "tags": [
+      "first-issue",
+      "cable",
+      "liefeld",
+      "90s"
+    ]
+  },
+  {
+    "slug": "deadpool-1-1997",
+    "series": "Deadpool",
+    "issue_number": "1",
+    "publication_date": "1997-01-01",
+    "title": "Hey, It's Deadpool!",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "first-issue",
+      "deadpool",
+      "joe-kelly"
+    ]
+  },
+  {
+    "slug": "nm-98-1991",
+    "series": "New Mutants",
+    "issue_number": "98",
+    "publication_date": "1991-02-01",
+    "title": "The Beginning of the End, Part 1",
+    "importance": "essential",
+    "first_appearances": [
+      "Deadpool",
+      "Domino (shapeshifter)"
+    ],
+    "tags": [
+      "first-appearance",
+      "deadpool",
+      "liefeld"
+    ]
+  },
+  {
+    "slug": "nm-87-1990",
+    "series": "New Mutants",
+    "issue_number": "87",
+    "publication_date": "1990-03-01",
+    "title": "Power Play",
+    "importance": "essential",
+    "first_appearances": [
+      "Cable"
+    ],
+    "tags": [
+      "first-appearance",
+      "cable",
+      "liefeld"
+    ]
+  },
+  {
+    "slug": "jim-83-1962",
+    "series": "Journey Into Mystery",
+    "issue_number": "83",
+    "publication_date": "1962-08-01",
+    "title": "The Stone Men from Saturn!",
+    "importance": "essential",
+    "first_appearances": [
+      "Thor",
+      "Donald Blake",
+      "Mjolnir"
+    ],
+    "tags": [
+      "first-appearance",
+      "origin",
+      "thor"
+    ]
+  },
+  {
+    "slug": "jim-85-1962",
+    "series": "Journey Into Mystery",
+    "issue_number": "85",
+    "publication_date": "1962-10-01",
+    "title": "Trapped by Loki, the God of Mischief!",
+    "importance": "essential",
+    "first_appearances": [
+      "Loki",
+      "Asgard"
+    ],
+    "tags": [
+      "first-appearance",
+      "loki",
+      "asgard"
+    ]
+  },
+  {
+    "slug": "jim-112-1965",
+    "series": "Journey Into Mystery",
+    "issue_number": "112",
+    "publication_date": "1965-01-01",
+    "title": "The Mighty Thor Battles the Incredible Hulk",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "versus",
+      "hulk",
+      "loki-origin-recap"
+    ]
+  },
+  {
+    "slug": "thor-126-1966",
+    "series": "Thor",
+    "issue_number": "126",
+    "publication_date": "1966-03-01",
+    "title": "Whom the Gods Would Destroy!",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "first-solo-issue",
+      "title-change",
+      "thor"
+    ]
+  },
+  {
+    "slug": "thor-165-1969",
+    "series": "Thor",
+    "issue_number": "165",
+    "publication_date": "1969-06-01",
+    "title": "Him!",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "him",
+      "adam-warlock",
+      "warlock"
+    ]
+  },
+  {
+    "slug": "thor-411-1989",
+    "series": "Thor",
+    "issue_number": "411",
+    "publication_date": "1989-12-01",
+    "title": "The New Warriors",
+    "importance": "recommended",
+    "first_appearances": [
+      "New Warriors"
+    ],
+    "tags": [
+      "first-appearance",
+      "new-warriors"
+    ]
+  },
+  {
+    "slug": "tos-39-1963",
+    "series": "Tales of Suspense",
+    "issue_number": "39",
+    "publication_date": "1963-03-01",
+    "title": "Iron Man Is Born!",
+    "importance": "essential",
+    "first_appearances": [
+      "Iron Man",
+      "Tony Stark"
+    ],
+    "tags": [
+      "first-appearance",
+      "origin",
+      "iron-man"
+    ]
+  },
+  {
+    "slug": "tos-52-1964",
+    "series": "Tales of Suspense",
+    "issue_number": "52",
+    "publication_date": "1964-04-01",
+    "title": "The Crimson Dynamo Strikes Again!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Black Widow (Natasha Romanoff)"
+    ],
+    "tags": [
+      "first-appearance",
+      "black-widow"
+    ]
+  },
+  {
+    "slug": "tos-57-1964",
+    "series": "Tales of Suspense",
+    "issue_number": "57",
+    "publication_date": "1964-09-01",
+    "title": "Hawkeye, the Marksman!",
+    "importance": "essential",
+    "first_appearances": [
+      "Hawkeye"
+    ],
+    "tags": [
+      "first-appearance",
+      "hawkeye"
+    ]
+  },
+  {
+    "slug": "im-128-1979",
+    "series": "Iron Man",
+    "issue_number": "128",
+    "publication_date": "1979-11-01",
+    "title": "Demon in a Bottle",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "landmark",
+      "alcoholism",
+      "iconic-cover"
+    ]
+  },
+  {
+    "slug": "im-225-1987",
+    "series": "Iron Man",
+    "issue_number": "225",
+    "publication_date": "1987-12-01",
+    "title": "Armor Wars Part 1",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "armor-wars",
+      "arc-start",
+      "technology"
+    ]
+  },
+  {
+    "slug": "im-1-2005",
+    "series": "Iron Man",
+    "issue_number": "1",
+    "publication_date": "2005-01-01",
+    "title": "Extremis Part 1 of 6",
+    "importance": "essential",
+    "first_appearances": [
+      "Extremis"
+    ],
+    "tags": [
+      "first-issue",
+      "extremis",
+      "warren-ellis"
+    ]
+  },
+  {
+    "slug": "cap-109-1969",
+    "series": "Captain America",
+    "issue_number": "109",
+    "publication_date": "1969-01-01",
+    "title": "The Hero That Was!",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "origin-recap",
+      "captain-america"
+    ]
+  },
+  {
+    "slug": "cap-117-1969",
+    "series": "Captain America",
+    "issue_number": "117",
+    "publication_date": "1969-09-01",
+    "title": "The Coming of...the Falcon!",
+    "importance": "essential",
+    "first_appearances": [
+      "Falcon"
+    ],
+    "tags": [
+      "first-appearance",
+      "falcon",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "cap-175-1974",
+    "series": "Captain America",
+    "issue_number": "175",
+    "publication_date": "1974-07-01",
+    "title": "...Before the Dawn!",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "secret-empire",
+      "watergate",
+      "landmark",
+      "nomad"
+    ]
+  },
+  {
+    "slug": "cap-332-1987",
+    "series": "Captain America",
+    "issue_number": "332",
+    "publication_date": "1987-08-01",
+    "title": "The Choice",
+    "importance": "essential",
+    "first_appearances": [
+      "John Walker as Captain America",
+      "The Captain (Steve Rogers)"
+    ],
+    "tags": [
+      "identity-change",
+      "replacement",
+      "government"
+    ]
+  },
+  {
+    "slug": "cap-1-1998",
+    "series": "Captain America",
+    "issue_number": "1",
+    "publication_date": "1998-01-01",
+    "title": "The Return of Steve Rogers",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "heroes-return",
+      "first-issue",
+      "waid"
+    ]
+  },
+  {
+    "slug": "ih-1-1962",
+    "series": "Incredible Hulk",
+    "issue_number": "1",
+    "publication_date": "1962-05-01",
+    "title": "The Coming of the Hulk",
+    "importance": "essential",
+    "first_appearances": [
+      "Hulk",
+      "Bruce Banner",
+      "Rick Jones",
+      "Thunderbolt Ross",
+      "Betty Ross"
+    ],
+    "tags": [
+      "first-appearance",
+      "origin",
+      "hulk"
+    ]
+  },
+  {
+    "slug": "ih-162-1973",
+    "series": "Incredible Hulk",
+    "issue_number": "162",
+    "publication_date": "1973-04-01",
+    "title": "The Brute That Shouted Love at the Heart of the Atom",
+    "importance": "recommended",
+    "first_appearances": [
+      "Wendigo"
+    ],
+    "tags": [
+      "first-appearance",
+      "wendigo",
+      "wolverine-prelude"
+    ]
+  },
+  {
+    "slug": "ih-180-1974",
+    "series": "Incredible Hulk",
+    "issue_number": "180",
+    "publication_date": "1974-10-01",
+    "title": "And the Wind Howls...Wendigo!",
+    "importance": "essential",
+    "first_appearances": [
+      "Wolverine (cameo, last panel)"
+    ],
+    "tags": [
+      "first-appearance",
+      "wolverine",
+      "cameo"
+    ]
+  },
+  {
+    "slug": "ih-340-1988",
+    "series": "Incredible Hulk",
+    "issue_number": "340",
+    "publication_date": "1988-02-01",
+    "title": "Vicious Circle",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "versus",
+      "wolverine",
+      "mcfarlane",
+      "iconic"
+    ]
+  },
+  {
+    "slug": "ih-377-1991",
+    "series": "Incredible Hulk",
+    "issue_number": "377",
+    "publication_date": "1991-01-01",
+    "title": "Honey, I Shrunk the Hulk",
+    "importance": "essential",
+    "first_appearances": [
+      "Merged Hulk (Professor Hulk)"
+    ],
+    "tags": [
+      "status-change",
+      "merged-hulk",
+      "peter-david"
+    ]
+  },
+  {
+    "slug": "ih-92-2006",
+    "series": "Incredible Hulk",
+    "issue_number": "92",
+    "publication_date": "2006-04-01",
+    "title": "Planet Hulk: Exile Part 1",
+    "importance": "essential",
+    "first_appearances": [
+      "Sakaar"
+    ],
+    "tags": [
+      "planet-hulk",
+      "arc-start",
+      "greg-pak"
+    ]
+  },
+  {
+    "slug": "immortal-hulk-1-2018",
+    "series": "Immortal Hulk",
+    "issue_number": "1",
+    "publication_date": "2018-06-06",
+    "title": "Or Is He Both?",
+    "importance": "essential",
+    "first_appearances": [
+      "Devil Hulk (modern)"
+    ],
+    "tags": [
+      "first-issue",
+      "horror",
+      "al-ewing"
+    ]
+  },
+  {
+    "slug": "st-110-1963",
+    "series": "Strange Tales",
+    "issue_number": "110",
+    "publication_date": "1963-07-01",
+    "title": "Doctor Strange Master of Black Magic!",
+    "importance": "essential",
+    "first_appearances": [
+      "Doctor Strange",
+      "Wong"
+    ],
+    "tags": [
+      "first-appearance",
+      "origin",
+      "magic"
+    ]
+  },
+  {
+    "slug": "st-115-1963",
+    "series": "Strange Tales",
+    "issue_number": "115",
+    "publication_date": "1963-12-01",
+    "title": "The Origin of Doctor Strange!",
+    "importance": "essential",
+    "first_appearances": [
+      "Ancient One (full origin)",
+      "Baron Mordo"
+    ],
+    "tags": [
+      "origin",
+      "doctor-strange",
+      "baron-mordo"
+    ]
+  },
+  {
+    "slug": "st-135-1965",
+    "series": "Strange Tales",
+    "issue_number": "135",
+    "publication_date": "1965-08-01",
+    "title": "The Man for the Job!",
+    "importance": "essential",
+    "first_appearances": [
+      "Nick Fury Agent of SHIELD",
+      "SHIELD",
+      "Hydra"
+    ],
+    "tags": [
+      "first-appearance",
+      "nick-fury",
+      "shield",
+      "hydra"
+    ]
+  },
+  {
+    "slug": "ds-1-1974",
+    "series": "Doctor Strange",
+    "issue_number": "1",
+    "publication_date": "1974-06-01",
+    "title": "Through an Orb Darkly",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "first-issue",
+      "doctor-strange",
+      "solo"
+    ]
+  },
+  {
+    "slug": "dd-1-1964",
+    "series": "Daredevil",
+    "issue_number": "1",
+    "publication_date": "1964-04-01",
+    "title": "The Origin of Daredevil",
+    "importance": "essential",
+    "first_appearances": [
+      "Daredevil",
+      "Matt Murdock",
+      "Foggy Nelson",
+      "Karen Page"
+    ],
+    "tags": [
+      "first-appearance",
+      "origin",
+      "daredevil"
+    ]
+  },
+  {
+    "slug": "dd-7-1965",
+    "series": "Daredevil",
+    "issue_number": "7",
+    "publication_date": "1965-04-01",
+    "title": "In Mortal Combat with...Sub-Mariner!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Red Costume (Daredevil)"
+    ],
+    "tags": [
+      "costume-change",
+      "namor",
+      "iconic-costume"
+    ]
+  },
+  {
+    "slug": "dd-131-1976",
+    "series": "Daredevil",
+    "issue_number": "131",
+    "publication_date": "1976-03-01",
+    "title": "Watch Out for Bullseye!",
+    "importance": "essential",
+    "first_appearances": [
+      "Bullseye"
+    ],
+    "tags": [
+      "first-appearance",
+      "villain",
+      "bullseye"
+    ]
+  },
+  {
+    "slug": "dd-158-1979",
+    "series": "Daredevil",
+    "issue_number": "158",
+    "publication_date": "1979-05-01",
+    "title": "A Grave Mistake",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "frank-miller-starts",
+      "artist-change",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "dd-168-1981-v2",
+    "series": "Daredevil",
+    "issue_number": "168",
+    "publication_date": "1981-01-01",
+    "title": "Elektra",
+    "importance": "essential",
+    "first_appearances": [
+      "Elektra"
+    ],
+    "tags": [
+      "first-appearance",
+      "elektra",
+      "frank-miller"
+    ]
+  },
+  {
+    "slug": "dd-181-1982",
+    "series": "Daredevil",
+    "issue_number": "181",
+    "publication_date": "1982-04-01",
+    "title": "Last Hand",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "death",
+      "elektra",
+      "bullseye",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "dd-227-1986-v2",
+    "series": "Daredevil",
+    "issue_number": "227",
+    "publication_date": "1986-02-01",
+    "title": "Born Again: Apocalypse",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "born-again",
+      "kingpin",
+      "frank-miller"
+    ]
+  },
+  {
+    "slug": "dd-1-1998",
+    "series": "Daredevil",
+    "issue_number": "1",
+    "publication_date": "1998-11-01",
+    "title": "Guardian Devil Part 1",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "marvel-knights",
+      "kevin-smith",
+      "first-issue"
+    ]
+  },
+  {
+    "slug": "ss-1-1968",
+    "series": "Silver Surfer",
+    "issue_number": "1",
+    "publication_date": "1968-08-01",
+    "title": "The Origin of the Silver Surfer!",
+    "importance": "essential",
+    "first_appearances": [
+      "Shalla-Bal"
+    ],
+    "tags": [
+      "first-issue",
+      "origin",
+      "silver-surfer",
+      "cosmic"
+    ]
+  },
+  {
+    "slug": "ss-4-1969",
+    "series": "Silver Surfer",
+    "issue_number": "4",
+    "publication_date": "1969-02-01",
+    "title": "The Good, the Bad, and the Uncanny!",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "versus",
+      "thor",
+      "silver-surfer",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "cm-33-1974",
+    "series": "Captain Marvel",
+    "issue_number": "33",
+    "publication_date": "1974-07-01",
+    "title": "The God Himself!",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "thanos",
+      "cosmic-cube",
+      "climax",
+      "starlin"
+    ]
+  },
+  {
+    "slug": "mtio-annual-2-1977",
+    "series": "Marvel Two-in-One Annual",
+    "issue_number": "2",
+    "publication_date": "1977-01-01",
+    "title": "Death Watch!",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "thanos",
+      "adam-warlock",
+      "avengers",
+      "death-of-thanos"
+    ]
+  },
+  {
+    "slug": "warlock-9-1975",
+    "series": "Warlock",
+    "issue_number": "9",
+    "publication_date": "1975-10-01",
+    "title": "The Infinity Effect!",
+    "importance": "essential",
+    "first_appearances": [
+      "Magus (first full)"
+    ],
+    "tags": [
+      "first-appearance",
+      "magus",
+      "starlin",
+      "cosmic"
+    ]
+  },
+  {
+    "slug": "warlock-10-1975",
+    "series": "Warlock",
+    "issue_number": "10",
+    "publication_date": "1975-12-01",
+    "title": "How Strange My Destiny!",
+    "importance": "essential",
+    "first_appearances": [
+      "Gamora",
+      "Pip the Troll"
+    ],
+    "tags": [
+      "first-appearance",
+      "gamora",
+      "pip",
+      "starlin"
+    ]
+  },
+  {
+    "slug": "warlock-15-1976",
+    "series": "Warlock",
+    "issue_number": "15",
+    "publication_date": "1976-11-01",
+    "title": "Just a Series of Events",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "death",
+      "adam-warlock",
+      "starlin",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "ms-marvel-1-1977",
+    "series": "Ms. Marvel",
+    "issue_number": "1",
+    "publication_date": "1977-01-01",
+    "title": "This Woman, This Warrior!",
+    "importance": "essential",
+    "first_appearances": [
+      "Ms. Marvel (Carol Danvers)"
+    ],
+    "tags": [
+      "first-appearance",
+      "carol-danvers",
+      "origin"
+    ]
+  },
+  {
+    "slug": "hero-for-hire-1-1972",
+    "series": "Hero for Hire",
+    "issue_number": "1",
+    "publication_date": "1972-06-01",
+    "title": "Out of Hell -- a Hero!",
+    "importance": "essential",
+    "first_appearances": [
+      "Luke Cage"
+    ],
+    "tags": [
+      "first-appearance",
+      "origin",
+      "luke-cage",
+      "blaxploitation"
+    ]
+  },
+  {
+    "slug": "marvel-premiere-15-1974",
+    "series": "Marvel Premiere",
+    "issue_number": "15",
+    "publication_date": "1974-05-01",
+    "title": "The Fury of Iron Fist!",
+    "importance": "essential",
+    "first_appearances": [
+      "Iron Fist"
+    ],
+    "tags": [
+      "first-appearance",
+      "origin",
+      "iron-fist",
+      "martial-arts"
+    ]
+  },
+  {
+    "slug": "special-marvel-edition-15-1973",
+    "series": "Special Marvel Edition",
+    "issue_number": "15",
+    "publication_date": "1973-12-01",
+    "title": "The Hands of Shang-Chi",
+    "importance": "recommended",
+    "first_appearances": [
+      "Shang-Chi"
+    ],
+    "tags": [
+      "first-appearance",
+      "origin",
+      "shang-chi",
+      "martial-arts"
+    ]
+  },
+  {
+    "slug": "tomb-of-dracula-10-1973",
+    "series": "Tomb of Dracula",
+    "issue_number": "10",
+    "publication_date": "1973-07-01",
+    "title": "His Name Is...Blade!",
+    "importance": "essential",
+    "first_appearances": [
+      "Blade"
+    ],
+    "tags": [
+      "first-appearance",
+      "blade",
+      "vampire-hunter"
+    ]
+  },
+  {
+    "slug": "werewolf-by-night-32-1975",
+    "series": "Werewolf by Night",
+    "issue_number": "32",
+    "publication_date": "1975-08-01",
+    "title": "The Stalker Called Moon Knight",
+    "importance": "essential",
+    "first_appearances": [
+      "Moon Knight"
+    ],
+    "tags": [
+      "first-appearance",
+      "moon-knight"
+    ]
+  },
+  {
+    "slug": "ghost-rider-1-1973",
+    "series": "Marvel Spotlight",
+    "issue_number": "5",
+    "publication_date": "1972-08-01",
+    "title": "Ghost Rider",
+    "importance": "essential",
+    "first_appearances": [
+      "Ghost Rider (Johnny Blaze)"
+    ],
+    "tags": [
+      "first-appearance",
+      "origin",
+      "ghost-rider"
+    ]
+  },
+  {
+    "slug": "eternals-1-1976",
+    "series": "Eternals",
+    "issue_number": "1",
+    "publication_date": "1976-07-01",
+    "title": "The Day of the Gods!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Eternals",
+      "Ikaris",
+      "Celestials (Arishem)"
+    ],
+    "tags": [
+      "first-appearance",
+      "kirby",
+      "eternals",
+      "celestials"
+    ]
+  },
+  {
+    "slug": "marvel-super-heroes-12-1967",
+    "series": "Marvel Super-Heroes",
+    "issue_number": "12",
+    "publication_date": "1967-12-01",
+    "title": "The Coming of Captain Marvel",
+    "importance": "essential",
+    "first_appearances": [
+      "Captain Marvel (Mar-Vell)"
+    ],
+    "tags": [
+      "first-appearance",
+      "captain-marvel",
+      "kree"
+    ]
+  },
+  {
+    "slug": "marvel-super-heroes-13-1968",
+    "series": "Marvel Super-Heroes",
+    "issue_number": "13",
+    "publication_date": "1968-03-01",
+    "title": "Where Stalks the Sentinels!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Carol Danvers (pre-powers)"
+    ],
+    "tags": [
+      "first-appearance",
+      "carol-danvers",
+      "captain-marvel"
+    ]
+  },
+  {
+    "slug": "gsx-1-1975-v2",
+    "series": "Giant-Size X-Men",
+    "issue_number": "1",
+    "publication_date": "1975-05-01",
+    "title": "Second Genesis!",
+    "importance": "essential",
+    "first_appearances": [
+      "Storm",
+      "Colossus",
+      "Nightcrawler",
+      "Thunderbird"
+    ],
+    "tags": [
+      "first-appearance",
+      "new-team",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "xmen-14-1965",
+    "series": "X-Men",
+    "issue_number": "14",
+    "publication_date": "1965-11-01",
+    "title": "Among Us Stalk...the Sentinels!",
+    "importance": "essential",
+    "first_appearances": [
+      "Sentinels",
+      "Bolivar Trask"
+    ],
+    "tags": [
+      "first-appearance",
+      "sentinels",
+      "mutant-persecution"
+    ]
+  },
+  {
+    "slug": "avengers-8-1964",
+    "series": "Avengers",
+    "issue_number": "8",
+    "publication_date": "1964-09-01",
+    "title": "Kang, the Conqueror!",
+    "importance": "essential",
+    "first_appearances": [
+      "Kang the Conqueror"
+    ],
+    "tags": [
+      "first-appearance",
+      "kang",
+      "time-travel"
+    ]
+  },
+  {
+    "slug": "avengers-9-1964",
+    "series": "Avengers",
+    "issue_number": "9",
+    "publication_date": "1964-10-01",
+    "title": "The Coming of the...Wonder Man!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Wonder Man"
+    ],
+    "tags": [
+      "first-appearance",
+      "wonder-man",
+      "death"
+    ]
+  },
+  {
+    "slug": "avengers-52-1968",
+    "series": "Avengers",
+    "issue_number": "52",
+    "publication_date": "1968-05-01",
+    "title": "Death Calls for the Arch-Heroes!",
+    "importance": "essential",
+    "first_appearances": [
+      "Black Panther (Avengers member)",
+      "Grim Reaper"
+    ],
+    "tags": [
+      "roster-change",
+      "black-panther",
+      "first-appearance"
+    ]
+  },
+  {
+    "slug": "avengers-55-1968",
+    "series": "Avengers",
+    "issue_number": "55",
+    "publication_date": "1968-08-01",
+    "title": "Mayhem Over Manhattan!",
+    "importance": "essential",
+    "first_appearances": [
+      "Ultron-5"
+    ],
+    "tags": [
+      "first-appearance",
+      "ultron"
+    ]
+  },
+  {
+    "slug": "avengers-93-1971",
+    "series": "Avengers",
+    "issue_number": "93",
+    "publication_date": "1971-11-01",
+    "title": "This Beachhead Earth",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "kree-skrull-war",
+      "neal-adams",
+      "cosmic"
+    ]
+  },
+  {
+    "slug": "avengers-167-1977",
+    "series": "Avengers",
+    "issue_number": "167",
+    "publication_date": "1977-01-01",
+    "title": "Tomorrow Dies Today!",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "korvac-saga",
+      "guardians-of-galaxy",
+      "cosmic"
+    ]
+  },
+  {
+    "slug": "avengers-196-1980",
+    "series": "Avengers",
+    "issue_number": "196",
+    "publication_date": "1980-06-01",
+    "title": "The Terrible Toll of the Taskmaster!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Taskmaster"
+    ],
+    "tags": [
+      "first-appearance",
+      "taskmaster"
+    ]
+  },
+  {
+    "slug": "avengers-263-1986",
+    "series": "Avengers",
+    "issue_number": "263",
+    "publication_date": "1986-01-01",
+    "title": "What Lurks Below",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "jean-grey-cocoon",
+      "phoenix-retcon"
+    ]
+  },
+  {
+    "slug": "nxm-114-2001",
+    "series": "New X-Men",
+    "issue_number": "114",
+    "publication_date": "2001-07-01",
+    "title": "E Is for Extinction Part 1",
+    "importance": "essential",
+    "first_appearances": [
+      "Cassandra Nova"
+    ],
+    "tags": [
+      "first-appearance",
+      "morrison",
+      "genosha",
+      "genocide"
+    ]
+  },
+  {
+    "slug": "nxm-146-2003",
+    "series": "New X-Men",
+    "issue_number": "146",
+    "publication_date": "2003-10-01",
+    "title": "Planet X Part 1",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "xorn",
+      "magneto",
+      "controversial",
+      "morrison"
+    ]
+  },
+  {
+    "slug": "hom-1-2005",
+    "series": "House of M",
+    "issue_number": "1",
+    "publication_date": "2005-06-01",
+    "title": "House of M Part 1",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "reality-warp",
+      "scarlet-witch",
+      "bendis"
+    ]
+  },
+  {
+    "slug": "hom-7-2005-v2",
+    "series": "House of M",
+    "issue_number": "7",
+    "publication_date": "2005-11-01",
+    "title": "House of M Part 7",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "no-more-mutants",
+      "decimation",
+      "scarlet-witch"
+    ]
+  },
+  {
+    "slug": "cw-2-2006",
+    "series": "Civil War",
+    "issue_number": "2",
+    "publication_date": "2006-08-01",
+    "title": "Civil War Part 2",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "unmasking",
+      "spider-man",
+      "registration"
+    ]
+  },
+  {
+    "slug": "cw-7-2007",
+    "series": "Civil War",
+    "issue_number": "7",
+    "publication_date": "2007-01-01",
+    "title": "Civil War Part 7",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "surrender",
+      "captain-america",
+      "conclusion"
+    ]
+  },
+  {
+    "slug": "annihilation-1-2006",
+    "series": "Annihilation",
+    "issue_number": "1",
+    "publication_date": "2006-10-01",
+    "title": "Blood and Thunder",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "cosmic",
+      "annihilus",
+      "nova",
+      "giffen"
+    ]
+  },
+  {
+    "slug": "nova-1-2007",
+    "series": "Nova",
+    "issue_number": "1",
+    "publication_date": "2007-06-01",
+    "title": "Annihilation Day Plus 6 Months",
+    "importance": "recommended",
+    "first_appearances": [
+      "Worldmind (modern)"
+    ],
+    "tags": [
+      "first-issue",
+      "nova",
+      "cosmic",
+      "dna"
+    ]
+  },
+  {
+    "slug": "gotg-1-2008",
+    "series": "Guardians of the Galaxy",
+    "issue_number": "1",
+    "publication_date": "2008-07-01",
+    "title": "Somebody's Got to Do It",
+    "importance": "essential",
+    "first_appearances": [
+      "Guardians of the Galaxy (modern team)"
+    ],
+    "tags": [
+      "first-issue",
+      "team-formation",
+      "cosmic",
+      "dna"
+    ]
+  },
+  {
+    "slug": "si-1-2008",
+    "series": "Secret Invasion",
+    "issue_number": "1",
+    "publication_date": "2008-06-01",
+    "title": "Secret Invasion Part 1",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "skrull",
+      "infiltration",
+      "bendis"
+    ]
+  },
+  {
+    "slug": "si-8-2008",
+    "series": "Secret Invasion",
+    "issue_number": "8",
+    "publication_date": "2008-12-01",
+    "title": "Secret Invasion Part 8",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "norman-osborn",
+      "dark-reign",
+      "conclusion"
+    ]
+  },
+  {
+    "slug": "dark-avengers-1-2009",
+    "series": "Dark Avengers",
+    "issue_number": "1",
+    "publication_date": "2009-03-01",
+    "title": "Dark Avengers Assemble!",
+    "importance": "essential",
+    "first_appearances": [
+      "Dark Avengers (team)"
+    ],
+    "tags": [
+      "first-issue",
+      "norman-osborn",
+      "dark-reign"
+    ]
+  },
+  {
+    "slug": "siege-1-2010",
+    "series": "Siege",
+    "issue_number": "1",
+    "publication_date": "2010-03-01",
+    "title": "Siege Part 1",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "asgard",
+      "norman-osborn",
+      "bendis"
+    ]
+  },
+  {
+    "slug": "sw-2015-9",
+    "series": "Secret Wars",
+    "issue_number": "9",
+    "publication_date": "2016-01-01",
+    "title": "Secret Wars Part 9",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "conclusion",
+      "hickman",
+      "multiverse-rebuilt"
+    ]
+  },
+  {
+    "slug": "msmarvel-1-2014",
+    "series": "Ms. Marvel",
+    "issue_number": "1",
+    "publication_date": "2014-02-05",
+    "title": "Meta Morphosis",
+    "importance": "essential",
+    "first_appearances": [
+      "Kamala Khan"
+    ],
+    "tags": [
+      "first-appearance",
+      "origin",
+      "kamala-khan",
+      "inhuman"
+    ]
+  },
+  {
+    "slug": "ultimate-sm-1-2011",
+    "series": "Ultimate Comics Spider-Man",
+    "issue_number": "1",
+    "publication_date": "2011-09-14",
+    "title": "Ultimate Comics Spider-Man",
+    "importance": "essential",
+    "first_appearances": [
+      "Miles Morales"
+    ],
+    "tags": [
+      "first-appearance",
+      "origin",
+      "miles-morales",
+      "ultimate"
+    ]
+  },
+  {
+    "slug": "xmen-1-1963",
+    "series": "X-Men",
+    "issue_number": "1",
+    "publication_date": "1963-09-01",
+    "title": "X-Men",
+    "importance": "essential",
+    "first_appearances": [
+      "X-Men",
+      "Cyclops",
+      "Jean Grey (Marvel Girl)",
+      "Beast",
+      "Angel",
+      "Iceman",
+      "Professor X",
+      "Magneto"
+    ],
+    "tags": [
+      "first-appearance",
+      "origin",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "xmen-4-1964",
+    "series": "X-Men",
+    "issue_number": "4",
+    "publication_date": "1964-03-01",
+    "title": "The Brotherhood of Evil Mutants!",
+    "importance": "essential",
+    "first_appearances": [
+      "Brotherhood of Evil Mutants",
+      "Scarlet Witch",
+      "Quicksilver",
+      "Toad"
+    ],
+    "tags": [
+      "first-appearance",
+      "villain-team",
+      "magneto"
+    ]
+  },
+  {
+    "slug": "xmen-12-1965",
+    "series": "X-Men",
+    "issue_number": "12",
+    "publication_date": "1965-07-01",
+    "title": "The Origin of Professor X!",
+    "importance": "essential",
+    "first_appearances": [
+      "Juggernaut"
+    ],
+    "tags": [
+      "first-appearance",
+      "juggernaut",
+      "origin"
+    ]
+  },
+  {
+    "slug": "bp-1-1977",
+    "series": "Jungle Action",
+    "issue_number": "6",
+    "publication_date": "1973-09-01",
+    "title": "Panther's Rage Part 1",
+    "importance": "recommended",
+    "first_appearances": [
+      "Erik Killmonger"
+    ],
+    "tags": [
+      "first-appearance",
+      "killmonger",
+      "black-panther",
+      "wakanda"
+    ]
+  },
+  {
+    "slug": "thanos-quest-1-1990",
+    "series": "Thanos Quest",
+    "issue_number": "1",
+    "publication_date": "1990-09-01",
+    "title": "Schemes and Dreams",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "thanos",
+      "infinity-gems",
+      "cosmic",
+      "starlin"
+    ]
+  },
+  {
+    "slug": "ss-34-1990",
+    "series": "Silver Surfer",
+    "issue_number": "34",
+    "publication_date": "1990-02-01",
+    "title": "The Return of Thanos!",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "thanos",
+      "resurrection",
+      "starlin",
+      "cosmic"
+    ]
+  },
+  {
+    "slug": "ig-6-1991",
+    "series": "Infinity Gauntlet",
+    "issue_number": "6",
+    "publication_date": "1991-12-01",
+    "title": "The Final Battle",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "conclusion",
+      "thanos",
+      "adam-warlock",
+      "cosmic"
+    ]
+  },
+  {
+    "slug": "ff-hickman-588-2011",
+    "series": "Fantastic Four",
+    "issue_number": "588",
+    "publication_date": "2011-04-01",
+    "title": "Month of Mourning",
+    "importance": "essential",
+    "first_appearances": [
+      "Future Foundation"
+    ],
+    "tags": [
+      "future-foundation",
+      "aftermath",
+      "spider-man-joins"
+    ]
+  },
+  {
+    "slug": "sw2015-9",
+    "series": "Secret Wars",
+    "issue_number": "9",
+    "publication_date": "2016-01-13",
+    "title": "Secret Wars Last Days",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "multiverse-rebuilt",
+      "hickman",
+      "conclusion"
+    ]
+  },
+  {
+    "slug": "venom-1-2018",
+    "series": "Venom",
+    "issue_number": "1",
+    "publication_date": "2018-05-09",
+    "title": "Rex Part 1",
+    "importance": "essential",
+    "first_appearances": [
+      "Knull (concept)"
+    ],
+    "tags": [
+      "first-issue",
+      "cates",
+      "symbiote",
+      "cosmic"
+    ]
+  },
+  {
+    "slug": "king-in-black-5-2021",
+    "series": "King in Black",
+    "issue_number": "5",
+    "publication_date": "2021-04-07",
+    "title": "King in Black Finale",
+    "importance": "essential",
+    "first_appearances": [
+      "Eddie Brock (King in Black)"
+    ],
+    "tags": [
+      "conclusion",
+      "eddie-brock",
+      "knull",
+      "cosmic"
+    ]
+  },
+  {
+    "slug": "hox-6-2019",
+    "series": "House of X",
+    "issue_number": "6",
+    "publication_date": "2019-10-02",
+    "title": "I Am Not Ashamed",
+    "importance": "essential",
+    "first_appearances": [
+      "The Quiet Council"
+    ],
+    "tags": [
+      "krakoa",
+      "quiet-council",
+      "hickman"
+    ]
+  },
+  {
+    "slug": "pox-6-2019",
+    "series": "Powers of X",
+    "issue_number": "6",
+    "publication_date": "2019-10-09",
+    "title": "House of X",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "krakoa",
+      "conclusion",
+      "hickman"
+    ]
+  },
+  {
+    "slug": "inferno-4-2021",
+    "series": "Inferno",
+    "issue_number": "4",
+    "publication_date": "2022-01-12",
+    "title": "Inferno Conclusion",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "moira-depowered",
+      "destiny-resurrected",
+      "hickman"
+    ]
+  },
+  {
+    "slug": "owud-1-2025",
+    "series": "One World Under Doom",
+    "issue_number": "1",
+    "publication_date": "2025-01-01",
+    "title": "One World Under Doom Part 1",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "doom",
+      "conquest",
+      "current"
+    ]
+  },
+  {
+    "slug": "blood-hunt-1-2024",
+    "series": "Blood Hunt",
+    "issue_number": "1",
+    "publication_date": "2024-05-01",
+    "title": "Blood Hunt Part 1",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "vampires",
+      "blade",
+      "darkness"
+    ]
+  },
+  {
+    "slug": "marvel-premiere-1-1972",
+    "series": "Marvel Premiere",
+    "issue_number": "1",
+    "publication_date": "1972-04-01",
+    "title": "And Men Shall Call Him...Warlock!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Adam Warlock (named)"
+    ],
+    "tags": [
+      "first-appearance",
+      "adam-warlock",
+      "counter-earth"
+    ]
+  },
+  {
+    "slug": "incredible-hulk-271-1982",
+    "series": "Incredible Hulk",
+    "issue_number": "271",
+    "publication_date": "1982-05-01",
+    "title": "Rocket Raccoon!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Rocket Raccoon"
+    ],
+    "tags": [
+      "first-appearance",
+      "rocket-raccoon",
+      "guardians"
+    ]
+  },
+  {
+    "slug": "iron-man-55-1973",
+    "series": "Iron Man",
+    "issue_number": "55",
+    "publication_date": "1973-02-01",
+    "title": "Beware the...Blood Brothers",
+    "importance": "essential",
+    "first_appearances": [
+      "Thanos",
+      "Drax the Destroyer",
+      "Mentor",
+      "Starfox (concept)"
+    ],
+    "tags": [
+      "first-appearance",
+      "thanos",
+      "drax",
+      "cosmic",
+      "starlin"
+    ]
+  },
+  {
+    "slug": "ca-comics-1-1941",
+    "series": "Captain America Comics",
+    "issue_number": "1",
+    "publication_date": "1941-03-01",
+    "title": "Meet Captain America",
+    "importance": "essential",
+    "first_appearances": [
+      "Captain America",
+      "Bucky Barnes",
+      "Red Skull"
+    ],
+    "tags": [
+      "first-appearance",
+      "origin",
+      "golden-age"
+    ]
+  },
+  {
+    "slug": "marvel-spotlight-32-1977",
+    "series": "Marvel Spotlight",
+    "issue_number": "32",
+    "publication_date": "1977-02-01",
+    "title": "A Coffin for Spider-Woman!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Spider-Woman (Jessica Drew)"
+    ],
+    "tags": [
+      "first-appearance",
+      "spider-woman"
+    ]
+  },
+  {
+    "slug": "marvel-graphic-novel-1-1982",
+    "series": "Marvel Graphic Novel",
+    "issue_number": "1",
+    "publication_date": "1982-04-01",
+    "title": "The Death of Captain Marvel",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "death",
+      "captain-marvel",
+      "cancer",
+      "starlin",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "marvel-graphic-novel-5-1982",
+    "series": "Marvel Graphic Novel",
+    "issue_number": "5",
+    "publication_date": "1982-01-01",
+    "title": "God Loves, Man Kills",
+    "importance": "essential",
+    "first_appearances": [
+      "William Stryker"
+    ],
+    "tags": [
+      "first-appearance",
+      "x-men",
+      "bigotry",
+      "claremont"
+    ]
+  },
+  {
+    "slug": "x-factor-1-1986",
+    "series": "X-Factor",
+    "issue_number": "1",
+    "publication_date": "1986-02-01",
+    "title": "Third Genesis!",
+    "importance": "essential",
+    "first_appearances": [
+      "X-Factor (team)"
+    ],
+    "tags": [
+      "first-issue",
+      "original-five",
+      "jean-grey-returns"
+    ]
+  },
+  {
+    "slug": "x-factor-5-1986",
+    "series": "X-Factor",
+    "issue_number": "5",
+    "publication_date": "1986-06-01",
+    "title": "Tapped Out!",
+    "importance": "essential",
+    "first_appearances": [
+      "Apocalypse"
+    ],
+    "tags": [
+      "first-appearance",
+      "apocalypse",
+      "x-men"
+    ]
+  },
+  {
+    "slug": "x-factor-24-1988",
+    "series": "X-Factor",
+    "issue_number": "24",
+    "publication_date": "1988-01-01",
+    "title": "Masks",
+    "importance": "essential",
+    "first_appearances": [
+      "Archangel"
+    ],
+    "tags": [
+      "first-appearance",
+      "archangel",
+      "transformation",
+      "apocalypse"
+    ]
+  },
+  {
+    "slug": "new-warriors-1-1990",
+    "series": "New Warriors",
+    "issue_number": "1",
+    "publication_date": "1990-07-01",
+    "title": "From the Ground Up!",
+    "importance": "recommended",
+    "first_appearances": [
+      "New Warriors (team)",
+      "Night Thrasher"
+    ],
+    "tags": [
+      "first-issue",
+      "team-formation",
+      "night-thrasher"
+    ]
+  },
+  {
+    "slug": "wolverine-1-1988",
+    "series": "Wolverine",
+    "issue_number": "1",
+    "publication_date": "1988-11-01",
+    "title": "Sword Quest",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "first-issue",
+      "ongoing",
+      "madripoor"
+    ]
+  },
+  {
+    "slug": "superior-sm-1-2013",
+    "series": "Superior Spider-Man",
+    "issue_number": "1",
+    "publication_date": "2013-01-09",
+    "title": "Hero or Menace?",
+    "importance": "essential",
+    "first_appearances": [
+      "Superior Spider-Man"
+    ],
+    "tags": [
+      "first-issue",
+      "doctor-octopus",
+      "mind-swap"
+    ]
+  },
+  {
+    "slug": "spider-gwen-1-2015",
+    "series": "Spider-Gwen",
+    "issue_number": "1",
+    "publication_date": "2015-02-25",
+    "title": "Greater Power",
+    "importance": "recommended",
+    "first_appearances": [
+      "Spider-Gwen (solo)"
+    ],
+    "tags": [
+      "first-issue",
+      "spider-gwen",
+      "multiverse"
+    ]
+  },
+  {
+    "slug": "champions-1-2016",
+    "series": "Champions",
+    "issue_number": "1",
+    "publication_date": "2016-11-02",
+    "title": "Champions Part 1",
+    "importance": "supplemental",
+    "first_appearances": [
+      "Champions (modern team)"
+    ],
+    "tags": [
+      "first-issue",
+      "young-heroes",
+      "ms-marvel",
+      "miles-morales"
+    ]
+  },
+  {
+    "slug": "wolverine-75-1993",
+    "series": "Wolverine",
+    "issue_number": "75",
+    "publication_date": "1993-11-01",
+    "title": "Nightmares Persist",
+    "importance": "essential",
+    "first_appearances": [
+      "Bone Claws (Wolverine)"
+    ],
+    "tags": [
+      "bone-claws",
+      "adamantium-loss",
+      "fatal-attractions"
+    ]
+  },
+  {
+    "slug": "death-wolverine-4-2014",
+    "series": "Death of Wolverine",
+    "issue_number": "4",
+    "publication_date": "2014-10-15",
+    "title": "Death of Wolverine",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "death",
+      "wolverine",
+      "adamantium"
+    ]
+  },
+  {
+    "slug": "axe-jd-1-2022",
+    "series": "A.X.E.: Judgment Day",
+    "issue_number": "1",
+    "publication_date": "2022-07-20",
+    "title": "Judgment Day Part 1",
+    "importance": "recommended",
+    "first_appearances": [
+      "The Progenitor (new Celestial)"
+    ],
+    "tags": [
+      "crossover",
+      "eternals",
+      "x-men",
+      "avengers"
+    ]
+  },
+  {
+    "slug": "planet-hulk-105-2006",
+    "series": "Incredible Hulk",
+    "issue_number": "105",
+    "publication_date": "2007-06-01",
+    "title": "Planet Hulk Conclusion",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "planet-hulk",
+      "conclusion",
+      "rage"
+    ]
+  },
+  {
+    "slug": "wwh-1-2007",
+    "series": "World War Hulk",
+    "issue_number": "1",
+    "publication_date": "2007-08-01",
+    "title": "World War Hulk Part 1",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "hulk-returns",
+      "revenge",
+      "illuminati"
+    ]
+  },
+  {
+    "slug": "imhulk-50-2021",
+    "series": "Immortal Hulk",
+    "issue_number": "50",
+    "publication_date": "2021-10-13",
+    "title": "The Immortal Hulk Conclusion",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "conclusion",
+      "cosmic-horror",
+      "al-ewing"
+    ]
+  },
+  {
+    "slug": "mighty-thor-705-2018",
+    "series": "Mighty Thor",
+    "issue_number": "705",
+    "publication_date": "2018-03-21",
+    "title": "The Death of The Mighty Thor",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "death",
+      "jane-foster",
+      "mangog",
+      "sacrifice"
+    ]
+  },
+  {
+    "slug": "thor-1-2014",
+    "series": "Thor",
+    "issue_number": "1",
+    "publication_date": "2014-10-01",
+    "title": "The Goddess of Thunder",
+    "importance": "essential",
+    "first_appearances": [
+      "Jane Foster as Thor"
+    ],
+    "tags": [
+      "first-issue",
+      "jane-foster",
+      "female-thor"
+    ]
+  },
+  {
+    "slug": "tales-to-astonish-27-1962",
+    "series": "Tales to Astonish",
+    "issue_number": "27",
+    "publication_date": "1962-01-01",
+    "title": "The Man in the Ant Hill!",
+    "importance": "essential",
+    "first_appearances": [
+      "Hank Pym"
+    ],
+    "tags": [
+      "first-appearance",
+      "ant-man",
+      "hank-pym"
+    ]
+  },
+  {
+    "slug": "tales-to-astonish-44-1963",
+    "series": "Tales to Astonish",
+    "issue_number": "44",
+    "publication_date": "1963-06-01",
+    "title": "The Creature from Kosmos!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Wasp (Janet Van Dyne)"
+    ],
+    "tags": [
+      "first-appearance",
+      "wasp",
+      "janet-van-dyne"
+    ]
+  },
+  {
+    "slug": "dd-bendis-26-2002",
+    "series": "Daredevil",
+    "issue_number": "26",
+    "publication_date": "2002-01-01",
+    "title": "Underboss Part 1",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "bendis",
+      "maleev",
+      "identity-exposed"
+    ]
+  },
+  {
+    "slug": "punisher-1-2000",
+    "series": "Punisher",
+    "issue_number": "1",
+    "publication_date": "2000-04-01",
+    "title": "Welcome Back, Frank Part 1",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "first-issue",
+      "garth-ennis",
+      "marvel-knights"
+    ]
+  },
+  {
+    "slug": "fantastic-four-1998-60",
+    "series": "Fantastic Four",
+    "issue_number": "60",
+    "publication_date": "2002-10-01",
+    "title": "Inside Out Part 1",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "waid",
+      "wieringo",
+      "new-era"
+    ]
+  },
+  {
+    "slug": "runaways-1-2003",
+    "series": "Runaways",
+    "issue_number": "1",
+    "publication_date": "2003-07-01",
+    "title": "Pride & Joy Chapter One",
+    "importance": "recommended",
+    "first_appearances": [
+      "Runaways"
+    ],
+    "tags": [
+      "first-issue",
+      "first-appearance",
+      "brian-k-vaughan"
+    ]
+  },
+  {
+    "slug": "young-avengers-1-2005",
+    "series": "Young Avengers",
+    "issue_number": "1",
+    "publication_date": "2005-04-01",
+    "title": "Sidekicks",
+    "importance": "recommended",
+    "first_appearances": [
+      "Young Avengers",
+      "Patriot",
+      "Hulkling",
+      "Wiccan",
+      "Iron Lad"
+    ],
+    "tags": [
+      "first-issue",
+      "first-appearance",
+      "young-heroes"
+    ]
+  },
+  {
+    "slug": "black-panther-1-2016",
+    "series": "Black Panther",
+    "issue_number": "1",
+    "publication_date": "2016-04-06",
+    "title": "A Nation Under Our Feet Part 1",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "first-issue",
+      "ta-nehisi-coates",
+      "wakanda"
+    ]
+  },
+  {
+    "slug": "moon-knight-1-2014",
+    "series": "Moon Knight",
+    "issue_number": "1",
+    "publication_date": "2014-03-05",
+    "title": "Slasher",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "first-issue",
+      "warren-ellis",
+      "moon-knight"
+    ]
+  },
+  {
+    "slug": "hawkeye-1-2012",
+    "series": "Hawkeye",
+    "issue_number": "1",
+    "publication_date": "2012-08-01",
+    "title": "Lucky",
+    "importance": "essential",
+    "first_appearances": [
+      "Lucky (Pizza Dog)"
+    ],
+    "tags": [
+      "first-issue",
+      "fraction",
+      "aja",
+      "street-level"
+    ]
+  },
+  {
+    "slug": "vision-1-2016",
+    "series": "Vision",
+    "issue_number": "1",
+    "publication_date": "2016-01-06",
+    "title": "Visions of the Future",
+    "importance": "essential",
+    "first_appearances": [
+      "Vision's Family"
+    ],
+    "tags": [
+      "first-issue",
+      "tom-king",
+      "suburban-horror"
+    ]
+  },
+  {
+    "slug": "marvels-1-1994",
+    "series": "Marvels",
+    "issue_number": "1",
+    "publication_date": "1994-01-01",
+    "title": "A Time of Marvels",
+    "importance": "essential",
+    "first_appearances": [
+      "Phil Sheldon (narrator)"
+    ],
+    "tags": [
+      "first-issue",
+      "alex-ross",
+      "kurt-busiek",
+      "painted"
+    ]
+  },
+  {
+    "slug": "kingdom-come-equiv",
+    "series": "Earth X",
+    "issue_number": "0",
+    "publication_date": "1999-03-01",
+    "title": "Earth X Issue 0",
+    "importance": "supplemental",
+    "first_appearances": [],
+    "tags": [
+      "alternate-future",
+      "alex-ross",
+      "jim-krueger"
+    ]
+  },
+  {
+    "slug": "asm-annual-21-1987",
+    "series": "Amazing Spider-Man Annual",
+    "issue_number": "21",
+    "publication_date": "1987-01-01",
+    "title": "The Wedding!",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "wedding",
+      "marriage",
+      "peter-mj",
+      "landmark"
+    ]
+  },
+  {
+    "slug": "infamous-iron-man-1-2016",
+    "series": "Infamous Iron Man",
+    "issue_number": "1",
+    "publication_date": "2016-10-19",
+    "title": "Infamous Part 1",
+    "importance": "recommended",
+    "first_appearances": [
+      "Doctor Doom as Iron Man"
+    ],
+    "tags": [
+      "first-issue",
+      "doom",
+      "redemption",
+      "bendis"
+    ]
+  },
+  {
+    "slug": "doctor-doom-2024-1",
+    "series": "Doctor Doom",
+    "issue_number": "1",
+    "publication_date": "2024-10-01",
+    "title": "Doctor Doom Part 1",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "first-issue",
+      "doom",
+      "sorcerer-supreme"
+    ]
+  },
+  {
+    "slug": "rise-powers-x-5-2024",
+    "series": "Rise of the Powers of X",
+    "issue_number": "5",
+    "publication_date": "2024-05-01",
+    "title": "Rise of the Powers of X Conclusion",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "krakoa-finale",
+      "enigma",
+      "phoenix",
+      "gillen"
+    ]
+  },
+  {
+    "slug": "hellfire-gala-2023",
+    "series": "X-Men: Hellfire Gala",
+    "issue_number": "1",
+    "publication_date": "2023-07-26",
+    "title": "Hellfire Gala 2023",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "fall-of-x",
+      "orchis",
+      "treachery"
+    ]
+  },
+  {
+    "slug": "avengers-annual-7-1977",
+    "series": "Avengers Annual",
+    "issue_number": "7",
+    "publication_date": "1977-11-01",
+    "title": "The Final Battle",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "thanos",
+      "adam-warlock",
+      "starlin",
+      "cosmic"
+    ]
+  },
+  {
+    "slug": "secret-wars-1-1984",
+    "series": "Marvel Super Heroes Secret Wars",
+    "issue_number": "1",
+    "publication_date": "1984-05-01",
+    "title": "The War Begins",
+    "importance": "essential",
+    "first_appearances": [
+      "Beyonder (concept)"
+    ],
+    "tags": [
+      "first-issue",
+      "crossover",
+      "beyonder"
+    ]
+  },
+  {
+    "slug": "asm-149-1975",
+    "series": "Amazing Spider-Man",
+    "issue_number": "149",
+    "publication_date": "1975-10-01",
+    "title": "Even if I Live, I Die!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Spider-Man clone (Ben Reilly)"
+    ],
+    "tags": [
+      "clone-saga",
+      "jackal",
+      "clone"
+    ]
+  },
+  {
+    "slug": "asm-344-1991",
+    "series": "Amazing Spider-Man",
+    "issue_number": "344",
+    "publication_date": "1991-02-01",
+    "title": "Hearts and Powers",
+    "importance": "recommended",
+    "first_appearances": [
+      "Cletus Kasady (first cameo)",
+      "Cardiac"
+    ],
+    "tags": [
+      "first-appearance",
+      "carnage-prelude"
+    ]
+  },
+  {
+    "slug": "wolverine-1-1982",
+    "series": "Wolverine",
+    "issue_number": "1",
+    "publication_date": "1982-09-01",
+    "title": "I'm Wolverine",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "limited-series",
+      "claremont",
+      "miller",
+      "japan"
+    ]
+  },
+  {
+    "slug": "weapon-x-mcp-72-1991",
+    "series": "Marvel Comics Presents",
+    "issue_number": "72",
+    "publication_date": "1991-03-01",
+    "title": "Weapon X Chapter One",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "weapon-x",
+      "origin",
+      "barry-windsor-smith"
+    ]
+  },
+  {
+    "slug": "astonishing-xm-1-2004",
+    "series": "Astonishing X-Men",
+    "issue_number": "1",
+    "publication_date": "2004-07-01",
+    "title": "Gifted Part 1",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "first-issue",
+      "whedon",
+      "cassaday"
+    ]
+  },
+  {
+    "slug": "uxm-244-1989",
+    "series": "Uncanny X-Men",
+    "issue_number": "244",
+    "publication_date": "1989-05-01",
+    "title": "Ladies' Night",
+    "importance": "essential",
+    "first_appearances": [
+      "Jubilee"
+    ],
+    "tags": [
+      "first-appearance",
+      "jubilee"
+    ]
+  },
+  {
+    "slug": "avengers-annual-10-1981",
+    "series": "Avengers Annual",
+    "issue_number": "10",
+    "publication_date": "1981-08-01",
+    "title": "By Friends...Betrayed!",
+    "importance": "essential",
+    "first_appearances": [
+      "Rogue"
+    ],
+    "tags": [
+      "first-appearance",
+      "rogue",
+      "x-men"
+    ]
+  },
+  {
+    "slug": "cap-winter-soldier-1-2005",
+    "series": "Captain America",
+    "issue_number": "1",
+    "publication_date": "2005-01-01",
+    "title": "Out of Time Part 1",
+    "importance": "essential",
+    "first_appearances": [
+      "Winter Soldier"
+    ],
+    "tags": [
+      "first-issue",
+      "brubaker",
+      "winter-soldier"
+    ]
+  },
+  {
+    "slug": "sub-mariner-1-1968",
+    "series": "Sub-Mariner",
+    "issue_number": "1",
+    "publication_date": "1968-05-01",
+    "title": "In the Rage of Battle!",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "first-issue",
+      "namor",
+      "solo-series"
+    ]
+  },
+  {
+    "slug": "black-panther-1-1977-v2",
+    "series": "Black Panther",
+    "issue_number": "1",
+    "publication_date": "1977-01-01",
+    "title": "King Solomon's Frog!",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "first-issue",
+      "kirby",
+      "black-panther",
+      "solo-series"
+    ]
+  },
+  {
+    "slug": "she-hulk-1-1980",
+    "series": "Savage She-Hulk",
+    "issue_number": "1",
+    "publication_date": "1980-02-01",
+    "title": "The She-Hulk Lives!",
+    "importance": "essential",
+    "first_appearances": [
+      "She-Hulk"
+    ],
+    "tags": [
+      "first-appearance",
+      "origin",
+      "she-hulk"
+    ]
+  },
+  {
+    "slug": "invincible-im-1-2008",
+    "series": "Invincible Iron Man",
+    "issue_number": "1",
+    "publication_date": "2008-07-01",
+    "title": "The Five Nightmares Part 1",
+    "importance": "recommended",
+    "first_appearances": [
+      "Ezekiel Stane"
+    ],
+    "tags": [
+      "first-issue",
+      "fraction",
+      "iron-man"
+    ]
+  },
+  {
+    "slug": "nm-26-1985",
+    "series": "New Mutants",
+    "issue_number": "26",
+    "publication_date": "1985-04-01",
+    "title": "Legion!",
+    "importance": "essential",
+    "first_appearances": [
+      "Legion (David Haller)"
+    ],
+    "tags": [
+      "first-appearance",
+      "legion",
+      "xavier-son"
+    ]
+  },
+  {
+    "slug": "contest-of-champions-1-1982",
+    "series": "Marvel Super Hero Contest of Champions",
+    "issue_number": "1",
+    "publication_date": "1982-06-01",
+    "title": "A Gathering of Heroes!",
+    "importance": "recommended",
+    "first_appearances": [
+      "First Marvel limited series"
+    ],
+    "tags": [
+      "first-issue",
+      "first-event",
+      "grandmaster"
+    ]
+  },
+  {
+    "slug": "uxm-205-1986",
+    "series": "Uncanny X-Men",
+    "issue_number": "205",
+    "publication_date": "1986-05-01",
+    "title": "Wounded Wolf",
+    "importance": "recommended",
+    "first_appearances": [],
+    "tags": [
+      "wolverine",
+      "solo-spotlight",
+      "barry-windsor-smith"
+    ]
+  },
+  {
+    "slug": "xmen-bishop-283-1991",
+    "series": "Uncanny X-Men",
+    "issue_number": "282",
+    "publication_date": "1991-11-01",
+    "title": "Bishop to King's Five",
+    "importance": "essential",
+    "first_appearances": [
+      "Bishop"
+    ],
+    "tags": [
+      "first-appearance",
+      "bishop",
+      "time-travel"
+    ]
+  },
+  {
+    "slug": "new-mutants-1-1983",
+    "series": "New Mutants",
+    "issue_number": "1",
+    "publication_date": "1983-03-01",
+    "title": "Initiation!",
+    "importance": "recommended",
+    "first_appearances": [
+      "New Mutants (team)"
+    ],
+    "tags": [
+      "first-issue",
+      "claremont",
+      "young-mutants"
+    ]
+  },
+  {
+    "slug": "dazzler-1-1981",
+    "series": "Dazzler",
+    "issue_number": "1",
+    "publication_date": "1981-03-01",
+    "title": "So Bright This Star",
+    "importance": "supplemental",
+    "first_appearances": [
+      "Dazzler (solo)"
+    ],
+    "tags": [
+      "first-issue",
+      "dazzler",
+      "disco"
+    ]
+  },
+  {
+    "slug": "alpha-flight-1-1983",
+    "series": "Alpha Flight",
+    "issue_number": "1",
+    "publication_date": "1983-08-01",
+    "title": "Tundra!",
+    "importance": "recommended",
+    "first_appearances": [
+      "Alpha Flight (solo series)",
+      "Marrina"
+    ],
+    "tags": [
+      "first-issue",
+      "byrne",
+      "canadian-heroes"
+    ]
+  },
+  {
+    "slug": "xmen-giant-size-reprint",
+    "series": "Giant-Size X-Men",
+    "issue_number": "1",
+    "publication_date": "1975-05-01",
+    "title": "Deadly Genesis!",
+    "importance": "essential",
+    "first_appearances": [
+      "Wolverine (X-Men member)",
+      "Storm",
+      "Colossus",
+      "Nightcrawler",
+      "Thunderbird"
+    ],
+    "tags": [
+      "first-appearance",
+      "new-team",
+      "landmark",
+      "second-genesis"
+    ]
+  },
+  {
+    "slug": "sentry-1-2000",
+    "series": "Sentry",
+    "issue_number": "1",
+    "publication_date": "2000-09-01",
+    "title": "The Sentry",
+    "importance": "recommended",
+    "first_appearances": [
+      "Sentry",
+      "Void"
+    ],
+    "tags": [
+      "first-appearance",
+      "sentry",
+      "forgotten-hero"
+    ]
+  },
+  {
+    "slug": "daredevil-bendis-50-2003",
+    "series": "Daredevil",
+    "issue_number": "50",
+    "publication_date": "2003-10-01",
+    "title": "Hardcore Part 5",
+    "importance": "essential",
+    "first_appearances": [],
+    "tags": [
+      "kingpin-defeated",
+      "bendis",
+      "matt-as-kingpin"
+    ]
+  },
+  {
+    "slug": "silk-1-2015",
+    "series": "Silk",
+    "issue_number": "1",
+    "publication_date": "2015-02-18",
+    "title": "Sinister",
+    "importance": "recommended",
+    "first_appearances": [
+      "Silk (solo)"
+    ],
+    "tags": [
+      "first-issue",
+      "silk",
+      "spider-verse-spinoff"
+    ]
+  }
+]

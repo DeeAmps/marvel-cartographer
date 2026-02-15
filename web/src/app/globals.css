@@ -1,0 +1,196 @@
+@import "tailwindcss";
+
+:root {
+  /* Backgrounds — deep ink with blue undertones */
+  --bg-primary: #08090d;
+  --bg-secondary: #0f1118;
+  --bg-tertiary: #171c28;
+  --bg-surface: #121620;
+
+  /* Text — warmer, more readable */
+  --text-primary: #f0f0f0;
+  --text-secondary: #9ba4b5;
+  --text-tertiary: #5c6478;
+
+  /* Two hero accents */
+  --accent-red: #e63946;
+  --accent-gold: #d4a843;
+  /* Semantic accents (keep for targeted use only) */
+  --accent-blue: #60a5fa;
+  --accent-purple: #a78bfa;
+  --accent-green: #2ec486;
+
+  /* Status */
+  --status-in-print: #2ec486;
+  --status-out-of-print: #e63946;
+  --status-upcoming: #a78bfa;
+  --status-digital: #60a5fa;
+  --status-ongoing: #d4a843;
+
+  /* Importance */
+  --importance-essential: #e63946;
+  --importance-recommended: #d4a843;
+  --importance-supplemental: #2ec486;
+  --importance-completionist: #5c6478;
+
+  /* Borders — blue-shifted */
+  --border-default: #1e2433;
+  --border-accent: #e63946;
+
+  --background: var(--bg-primary);
+  --foreground: var(--text-primary);
+
+  /* Legacy aliases — maps old variable names to new fonts for backwards compat */
+  --font-oswald: var(--font-bricolage);
+  --font-jetbrains: var(--font-geist-mono);
+  --font-source-sans: var(--font-inter);
+}
+
+/* Light mode overrides */
+[data-theme="light"] {
+  --bg-primary: #f8f8fa;
+  --bg-secondary: #ffffff;
+  --bg-tertiary: #edeef2;
+  --bg-surface: #f2f3f7;
+
+  --text-primary: #1a1a2e;
+  --text-secondary: #4a4a6a;
+  --text-tertiary: #7c7c96;
+
+  --accent-red: #c62828;
+  --accent-gold: #b8860b;
+  --accent-blue: #1565c0;
+  --accent-purple: #6a1b9a;
+  --accent-green: #2e7d32;
+
+  --status-in-print: #2e7d32;
+  --status-out-of-print: #c62828;
+  --status-upcoming: #6a1b9a;
+  --status-digital: #1565c0;
+  --status-ongoing: #b8860b;
+
+  --importance-essential: #c62828;
+  --importance-recommended: #b8860b;
+  --importance-supplemental: #2e7d32;
+  --importance-completionist: #7c7c96;
+
+  --border-default: #d8dae0;
+  --border-accent: #c62828;
+
+  --background: var(--bg-primary);
+  --foreground: var(--text-primary);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-inter);
+  --font-mono: var(--font-geist-mono);
+  --font-heading: var(--font-bricolage);
+}
+
+body {
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  font-size: 1rem;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overscroll-behavior: none;
+}
+
+/* Typography — sentence case, weight + size hierarchy, no all-caps on major headings */
+h1, h2 {
+  font-family: 'Bricolage Grotesque', system-ui, sans-serif;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+  text-transform: none;
+}
+
+h3, h4 {
+  letter-spacing: -0.01em;
+  line-height: 1.3;
+}
+
+h1 { font-weight: 700; }
+h2 { font-weight: 600; }
+h3 { font-weight: 600; }
+h4 { font-weight: 500; }
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-default);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-tertiary);
+}
+
+/* Mobile touch targets */
+@media (max-width: 640px) {
+  button, a {
+    min-height: 44px;
+    min-width: 44px;
+  }
+
+  /* Inline links should not have min dimensions */
+  p a, span a, li a {
+    min-height: auto;
+    min-width: auto;
+  }
+}
+
+/* Mobile touch improvements */
+@media (hover: none) {
+  .timeline-node {
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+  }
+}
+
+/* Ensure minimum touch target sizes on mobile */
+@media (max-width: 768px) {
+  .filter-chip {
+    min-height: 36px;
+    min-width: 36px;
+  }
+}
+
+/* Prevent horizontal overflow on mobile — only on body, not html.
+   Setting overflow on <html> changes the scroll container from viewport
+   to the html element, breaking scroll wheel/touch on some browsers. */
+body {
+  overflow-x: hidden;
+}
+
+/* Subtle content fade-in */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeInUp 0.4s ease-out forwards;
+}
+
+/* Hide scrollbar for horizontal scroll containers */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}

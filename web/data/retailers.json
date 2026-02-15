@@ -1,0 +1,92 @@
+[
+    {
+        "slug": "ist",
+        "name": "InStockTrades",
+        "url": "https://instocktrades.com",
+        "description": "Premier discount retailer for in-print collected editions",
+        "notes": "Best discount prices for in-print books. Free shipping over $50.",
+        "is_digital": false,
+        "ships_international": true
+    },
+    {
+        "slug": "dcbs",
+        "name": "Discount Comic Book Service",
+        "url": "https://dcbservice.com",
+        "description": "Best for pre-ordering upcoming releases at steep discounts",
+        "notes": "Best for pre-orders. 40-50% off cover price.",
+        "is_digital": false,
+        "ships_international": false
+    },
+    {
+        "slug": "cgn",
+        "name": "Cheap Graphic Novels",
+        "url": "https://cheapgraphicnovels.com",
+        "description": "Reliable retailer with competitive pricing",
+        "notes": "Good prices, reliable shipping.",
+        "is_digital": false,
+        "ships_international": true
+    },
+    {
+        "slug": "amazon",
+        "name": "Amazon",
+        "url": "https://amazon.com",
+        "description": "Largest online retailer with widest availability",
+        "notes": "Widest availability, variable pricing.",
+        "is_digital": false,
+        "ships_international": true
+    },
+    {
+        "slug": "opb",
+        "name": "Organic Priced Books",
+        "url": "https://organicpricedbooks.com",
+        "description": "UK-based retailer with good international reach",
+        "notes": "UK-based, good international shipping.",
+        "is_digital": false,
+        "ships_international": true
+    },
+    {
+        "slug": "tales-of-wonder",
+        "name": "Tales of Wonder",
+        "url": "https://talesofwonder.com",
+        "description": "Occasional deep discounts on collected editions",
+        "notes": "Occasional deep discounts.",
+        "is_digital": false,
+        "ships_international": false
+    },
+    {
+        "slug": "ebay",
+        "name": "eBay",
+        "url": "https://ebay.com",
+        "description": "Secondary market — often the only option for out-of-print books",
+        "notes": "Only reliable option for OOP books.",
+        "is_digital": false,
+        "ships_international": true
+    },
+    {
+        "slug": "marvel-unlimited",
+        "name": "Marvel Unlimited",
+        "url": "https://marvel.com/unlimited",
+        "description": "Marvel's official digital subscription service",
+        "notes": "Digital subscription ~$10/month. 3-month delay on new issues. Nearly complete library.",
+        "is_digital": true,
+        "ships_international": true
+    },
+    {
+        "slug": "comixology",
+        "name": "Comixology/Kindle",
+        "url": "https://amazon.com/kindle-dbs",
+        "description": "Digital comic purchases with permanent access",
+        "notes": "Digital purchases. Permanent access. Frequent sales.",
+        "is_digital": true,
+        "ships_international": true
+    },
+    {
+        "slug": "hoopla",
+        "name": "Hoopla/Libby",
+        "url": "https://hoopladigital.com",
+        "description": "Free digital comics through your local library",
+        "notes": "FREE with library card. Variable selection.",
+        "is_digital": true,
+        "ships_international": false
+    }
+]

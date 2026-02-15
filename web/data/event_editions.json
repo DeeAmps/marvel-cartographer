@@ -1,0 +1,17 @@
+[
+    {"event_slug": "secret-wars-1984", "edition_slug": "secret-wars-1984-omnibus", "is_core": true, "reading_order": 1},
+    {"event_slug": "infinity-gauntlet", "edition_slug": "warlock-by-starlin", "is_core": false, "reading_order": 1},
+    {"event_slug": "infinity-gauntlet", "edition_slug": "infinity-gauntlet-omnibus", "is_core": true, "reading_order": 2},
+    {"event_slug": "onslaught", "edition_slug": "onslaught-omnibus", "is_core": true, "reading_order": 1},
+    {"event_slug": "house-of-m", "edition_slug": "house-of-m", "is_core": true, "reading_order": 1},
+    {"event_slug": "civil-war", "edition_slug": "civil-war", "is_core": true, "reading_order": 1},
+    {"event_slug": "civil-war", "edition_slug": "cap-brubaker-v1", "is_core": false, "reading_order": 2},
+    {"event_slug": "secret-invasion", "edition_slug": "secret-invasion", "is_core": true, "reading_order": 1},
+    {"event_slug": "secret-wars-2015", "edition_slug": "avengers-hickman-omnibus-v2", "is_core": false, "reading_order": 1},
+    {"event_slug": "secret-wars-2015", "edition_slug": "secret-wars-2015-omnibus", "is_core": true, "reading_order": 2},
+    {"event_slug": "blood-hunt", "edition_slug": "blood-hunt", "is_core": true, "reading_order": 1},
+    {"event_slug": "one-world-under-doom", "edition_slug": "doctor-doom-2024", "is_core": false, "reading_order": 1},
+    {"event_slug": "one-world-under-doom", "edition_slug": "one-world-under-doom", "is_core": true, "reading_order": 2},
+    {"event_slug": "siege", "edition_slug": "siege", "is_core": true, "reading_order": 1},
+    {"event_slug": "avengers-vs-x-men", "edition_slug": "avengers-vs-xmen", "is_core": true, "reading_order": 1}
+]

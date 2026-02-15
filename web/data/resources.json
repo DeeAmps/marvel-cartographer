@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Comics Explained",
+        "resource_type": "youtube_channel",
+        "url": "https://youtube.com/@ComicsExplained",
+        "description": "Comprehensive video essays covering every major Marvel event, character, and storyline",
+        "focus": "Deep-dive storyline explanations",
+        "best_for": "Event summaries, character histories"
+    },
+    {
+        "name": "NerdSync",
+        "resource_type": "youtube_channel",
+        "url": "https://youtube.com/@NerdSync",
+        "description": "Cultural and historical analysis of comic book themes and impact",
+        "focus": "Cultural/historical analysis",
+        "best_for": "Understanding WHY stories matter"
+    },
+    {
+        "name": "Near Mint Condition",
+        "resource_type": "youtube_channel",
+        "url": "https://youtube.com/@NearMintCondition",
+        "description": "Market analysis and reviews of collected editions, omnibuses, and trades",
+        "focus": "Collected edition market",
+        "best_for": "What's in print, what to buy"
+    },
+    {
+        "name": "GemMintCollectibles",
+        "resource_type": "youtube_channel",
+        "url": "https://youtube.com/@GemMintCollectibles",
+        "description": "Detailed omnibus reviews and unboxings showing physical quality",
+        "focus": "Omnibus reviews & unboxings",
+        "best_for": "Visual look at physical editions"
+    },
+    {
+        "name": "Jay & Miles X-Plain the X-Men",
+        "resource_type": "podcast",
+        "url": "https://www.xplainthexmen.com/",
+        "description": "The definitive X-Men podcast, covering every issue in order with humor and expertise",
+        "focus": "X-Men deep dive",
+        "best_for": "Issue-by-issue X-Men coverage"
+    },
+    {
+        "name": "Crushing Krisis",
+        "resource_type": "website",
+        "url": "https://crushingkrisis.com",
+        "description": "Detailed per-character collected edition guides with print status tracking",
+        "focus": "Collected edition guides",
+        "best_for": "Per-character collected edition guides"
+    },
+    {
+        "name": "Comic Book Herald",
+        "resource_type": "website",
+        "url": "https://comicbookherald.com",
+        "description": "The most comprehensive reading order guides on the web",
+        "focus": "Reading order guides",
+        "best_for": "Comprehensive reading orders"
+    }
+]

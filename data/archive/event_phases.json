@@ -1,0 +1,417 @@
+[
+    {
+        "event_slug": "secret-wars-1984",
+        "phases": [
+            {
+                "slug": "sw84-the-summons",
+                "name": "The Summons",
+                "number": 1,
+                "description": "The Beyonder pulls heroes and villains from Earth to Battleworld. Both sides assemble. Doctor Doom immediately begins scheming to seize the Beyonder's power for himself."
+            },
+            {
+                "slug": "sw84-battleworld",
+                "name": "War on Battleworld",
+                "number": 2,
+                "description": "Heroes vs. villains in open combat. Alliances shift. Magneto fights alongside heroes. The X-Men split off. Spider-Man acquires the alien symbiote costume from a machine. Volcana and Titania are created."
+            },
+            {
+                "slug": "sw84-god-doom",
+                "name": "God Doom",
+                "number": 3,
+                "description": "Doom steals the Beyonder's power and becomes omnipotent. He reshapes reality. The heroes make a desperate last stand. Captain America faces God Doom alone. The Beyonder reclaims his power. Heroes return home — but changed."
+            }
+        ]
+    },
+    {
+        "event_slug": "infinity-gauntlet",
+        "phases": [
+            {
+                "slug": "ig-the-quest",
+                "name": "The Quest",
+                "number": 1,
+                "description": "Thanos returns from death, guided by Mistress Death. In Thanos Quest, he systematically strips each Infinity Gem from its cosmic guardian — the In-Betweener, the Champion, the Gardener, the Runner, the Collector, and the Grandmaster. He assembles the complete Gauntlet."
+            },
+            {
+                "slug": "ig-the-snap",
+                "name": "The Snap",
+                "number": 2,
+                "description": "Thanos snaps his fingers and half of all life in the universe vanishes. Heroes disappear mid-sentence. Civilizations collapse. Earth's remaining heroes — led by Adam Warlock and the Silver Surfer — mount a desperate, hopeless assault on Thanos."
+            },
+            {
+                "slug": "ig-the-cosmic-war",
+                "name": "The Cosmic War",
+                "number": 3,
+                "description": "Every remaining hero falls before Thanos. Captain America stands alone and defiant. Even the cosmic entities — Galactus, Epoch, the Celestials, Eternity itself — challenge Thanos and lose. Thanos becomes the universe."
+            },
+            {
+                "slug": "ig-warlock-gambit",
+                "name": "The Warlock Gambit",
+                "number": 4,
+                "description": "Thanos's granddaughter Nebula seizes the Gauntlet. Adam Warlock executes his endgame — entering the Soul Gem and claiming the Gauntlet from within. Warlock becomes the new custodian of infinite power. Thanos retires to farming."
+            }
+        ]
+    },
+    {
+        "event_slug": "age-of-apocalypse",
+        "phases": [
+            {
+                "slug": "aoa-legion-quest",
+                "name": "Legion Quest",
+                "number": 1,
+                "description": "Legion, Xavier's son, travels to the past to kill Magneto — believing it will create a better world for mutants. He accidentally kills his own father instead. The timeline shatters. Reality rewrites itself."
+            },
+            {
+                "slug": "aoa-apocalypses-world",
+                "name": "Apocalypse's World",
+                "number": 2,
+                "description": "North America under Apocalypse's iron rule. Magneto leads the X-Men in Xavier's memory. Every Marvel character exists in warped, darker versions. Humans face genocide. The scale is total — every X-title becomes its AoA counterpart."
+            },
+            {
+                "slug": "aoa-the-escape",
+                "name": "The M'Kraan Gambit",
+                "number": 3,
+                "description": "The heroes discover a way to reset reality using the M'Kraan Crystal. Magneto's X-Men fight to give Bishop — the one man who remembers the original timeline — a chance to go back. Holocaust, Dark Beast, Sugar Man, and X-Man escape into the restored 616 continuity."
+            }
+        ]
+    },
+    {
+        "event_slug": "house-of-m",
+        "phases": [
+            {
+                "slug": "hom-the-decision",
+                "name": "The Decision",
+                "number": 1,
+                "description": "The Avengers and X-Men convene to decide what to do about Wanda Maximoff, whose powers are spiraling out of control. Quicksilver convinces Wanda to act first — she rewrites reality."
+            },
+            {
+                "slug": "hom-the-world-of-m",
+                "name": "The World of M",
+                "number": 2,
+                "description": "A new reality where mutants are the dominant species. Magneto rules from the House of M. Humans are the minority. Everyone has what they always wanted — but something is wrong. Wolverine and Layla Miller remember the truth."
+            },
+            {
+                "slug": "hom-no-more-mutants",
+                "name": "No More Mutants",
+                "number": 3,
+                "description": "The heroes confront Wanda. She declares 'No More Mutants.' Reality snaps back — but the mutant population drops from millions to 198. Decimation. The X-Men enter survival mode. This single moment drives a decade of stories."
+            }
+        ]
+    },
+    {
+        "event_slug": "civil-war",
+        "phases": [
+            {
+                "slug": "cw-stamford",
+                "name": "The Stamford Incident",
+                "number": 1,
+                "description": "The New Warriors attack Nitro for a reality TV show. Nitro explodes, killing 600 civilians including an elementary school. Public outrage leads to the Superhuman Registration Act. Lines are drawn."
+            },
+            {
+                "slug": "cw-lines-drawn",
+                "name": "Lines Drawn",
+                "number": 2,
+                "description": "Iron Man leads the pro-registration side. Captain America goes underground. Spider-Man unmasks on live television as a show of support for registration. Reed Richards builds Prison 42 in the Negative Zone. The superhero community fractures."
+            },
+            {
+                "slug": "cw-all-out-war",
+                "name": "All-Out War",
+                "number": 3,
+                "description": "Clone Thor (Ragnarok) kills Goliath — the first hero death in the war. Both sides are horrified. The Punisher joins Cap's resistance. Battles escalate across New York. The Negative Zone prison fills with unregistered heroes."
+            },
+            {
+                "slug": "cw-surrender",
+                "name": "The Surrender",
+                "number": 4,
+                "description": "Captain America has Iron Man beaten. He's about to win. Then civilians tackle him — and Cap realizes he's been fighting the people he swore to protect. He surrenders. Registration wins. Tony becomes Director of SHIELD."
+            },
+            {
+                "slug": "cw-aftermath",
+                "name": "Aftermath",
+                "number": 5,
+                "description": "Captain America is assassinated on the courthouse steps (Captain America #25). Bucky Barnes eventually becomes the new Captain America. Spider-Man makes a deal with Mephisto to erase his unmasking (One More Day). The Initiative launches. Norman Osborn rises."
+            }
+        ]
+    },
+    {
+        "event_slug": "secret-invasion",
+        "phases": [
+            {
+                "slug": "si-infiltration",
+                "name": "The Infiltration",
+                "number": 1,
+                "description": "Heroes discover the Skrull infiltration has been going on for years. Elektra is revealed as a Skrull. Paranoia spreads — anyone could be a Skrull. The New Avengers and Mighty Avengers investigate. Trust collapses."
+            },
+            {
+                "slug": "si-invasion",
+                "name": "The Invasion",
+                "number": 2,
+                "description": "A Skrull ship crashes in the Savage Land full of heroes claiming to be the 'real' ones. Super-Skrulls with combined powers attack on all fronts. New York falls. The Baxter Building is breached. SHIELD is compromised. Earth's defenses crumble."
+            },
+            {
+                "slug": "si-resolution",
+                "name": "The Resolution",
+                "number": 3,
+                "description": "Earth's heroes unite for a final stand in Central Park. Norman Osborn lands the killing blow on the Skrull Queen — on live television. The public hails him as a hero. Tony Stark is disgraced. Osborn is given the keys to everything. Dark Reign begins."
+            }
+        ]
+    },
+    {
+        "event_slug": "secret-wars-2015",
+        "phases": [
+            {
+                "slug": "sw15-the-last-incursion",
+                "name": "The Last Incursion",
+                "number": 1,
+                "description": "Earth-616 and Earth-1610 are the final two Earths in the dying multiverse. The incursion countdown hits zero. The Illuminati's plans fail. Reed Richards builds a life raft. Miles Morales stows away. The multiverse ends."
+            },
+            {
+                "slug": "sw15-battleworld",
+                "name": "Battleworld",
+                "number": 2,
+                "description": "Doctor Doom, having stolen the Beyonders' power, salvages fragments of dead realities and stitches them together into Battleworld. He is God. Sue Storm is his wife. Stephen Strange is his right hand. The residents believe this is all there ever was."
+            },
+            {
+                "slug": "sw15-the-survivors",
+                "name": "The Survivors",
+                "number": 3,
+                "description": "The life raft survivors wake up on Battleworld. Reed discovers what Doom has done — and that his family lives under Doom's rule. The rebels assemble: Miles, Star-Lord, Spider-Man, Captain Marvel. They march on Castle Doom."
+            },
+            {
+                "slug": "sw15-god-vs-god",
+                "name": "God vs. God",
+                "number": 4,
+                "description": "Reed challenges Doom directly. Doom admits that Reed would have done better with the power. The Molecule Man — the secret linchpin — gives the Beyonders' power to Reed. Reed and Franklin Richards rebuild the multiverse, reality by reality. Doom's face is healed. Everything restarts."
+            }
+        ]
+    },
+    {
+        "event_slug": "blood-hunt",
+        "phases": [
+            {
+                "slug": "bh-the-darkening",
+                "name": "The Darkening",
+                "number": 1,
+                "description": "The sun goes dark. Vampires pour into the streets worldwide. Blade, corrupted and turned, leads the assault. Heroes scramble to respond to a threat they never saw coming."
+            },
+            {
+                "slug": "bh-the-war",
+                "name": "War in the Dark",
+                "number": 2,
+                "description": "Earth's heroes fight on multiple fronts against the vampire army. Doctor Strange leads the magical defense. Casualties mount. The true scope of Blade's betrayal becomes clear."
+            },
+            {
+                "slug": "bh-dooms-ascension",
+                "name": "Doom's Ascension",
+                "number": 3,
+                "description": "Doctor Strange falls. In the aftermath, Doctor Doom claims the title of Sorcerer Supreme. He combines supreme magical authority with his technological genius and political power. Doom now has everything he needs."
+            }
+        ]
+    },
+    {
+        "event_slug": "one-world-under-doom",
+        "phases": [
+            {
+                "slug": "owud-the-takeover",
+                "name": "The Takeover",
+                "number": 1,
+                "description": "Doom uses his combined magical and technological power to conquer the world systematically. Not through destruction — through competence. He solves problems no one else could. Governments fall not to force, but to irrelevance."
+            },
+            {
+                "slug": "owud-utopia-under-tyranny",
+                "name": "Utopia Under Tyranny",
+                "number": 2,
+                "description": "Doom's world works. Disease is cured. Poverty eliminated. War ended. But cameras watch everything. Dissent is crushed. Heroes face the impossible question: is freedom worth suffering? Some collaborate. Some resist. Some don't know."
+            },
+            {
+                "slug": "owud-the-resistance",
+                "name": "The Resistance",
+                "number": 3,
+                "description": "The heroes who refuse to accept benevolent tyranny organize. Reed Richards leads the opposition — the one man who always believes there's a better way. The confrontation between Marvel's greatest hero and greatest villain reaches its final form."
+            }
+        ]
+    },
+    {
+        "event_slug": "mutant-massacre",
+        "phases": [
+            {
+                "slug": "mm-the-tunnels",
+                "name": "The Tunnels",
+                "number": 1,
+                "description": "The Marauders descend into the Morlock tunnels beneath New York City. The slaughter begins. The X-Men and X-Factor respond to a massacre already in progress."
+            },
+            {
+                "slug": "mm-the-cost",
+                "name": "The Cost",
+                "number": 2,
+                "description": "The X-Men fight the Marauders but suffer devastating losses. Colossus is crippled. Nightcrawler is critically injured. Angel's wings are destroyed — he'll never fly again (until Apocalypse transforms him). Thor intervenes. The violence is unprecedented for X-Men comics."
+            },
+            {
+                "slug": "mm-aftermath",
+                "name": "Aftermath",
+                "number": 3,
+                "description": "The X-Men are shattered. Angel spirals into despair, setting up his transformation into Archangel. Mister Sinister is revealed as the Marauders' master. The Morlocks are nearly extinct. The crossover formula that will define X-Men for decades is born."
+            }
+        ]
+    },
+    {
+        "event_slug": "inferno",
+        "phases": [
+            {
+                "slug": "inf-building-hellfire",
+                "name": "Building Hellfire",
+                "number": 1,
+                "description": "N'astirh and S'ym open a portal from Limbo. Demons pour into Manhattan. Inanimate objects come alive with malice. Madelyne Pryor, manipulated by Sinister and the demons, awakens as the Goblin Queen."
+            },
+            {
+                "slug": "inf-hell-on-earth",
+                "name": "Hell on Earth",
+                "number": 2,
+                "description": "Manhattan is literally Hell. Demons run rampant. The X-Men fight through transformed streets. X-Factor confronts Madelyne — and the truth about her origin as Jean Grey's clone. Sinister's decades-long manipulation of the Summers family is exposed."
+            },
+            {
+                "slug": "inf-resolution",
+                "name": "Sacrifices",
+                "number": 3,
+                "description": "Madelyne sacrifices herself. Sinister's lab is destroyed. The X-Men and X-Factor finally reunite after years apart. Illyana Rasputin is de-aged to childhood, losing her Limbo powers. The demons are driven back. Manhattan heals."
+            }
+        ]
+    },
+    {
+        "event_slug": "dark-reign",
+        "phases": [
+            {
+                "slug": "dr-osborns-rise",
+                "name": "Osborn's Rise",
+                "number": 1,
+                "description": "Norman Osborn leverages his televised kill of the Skrull Queen into total authority. SHIELD is dissolved. H.A.M.M.E.R. rises. The Dark Avengers wear stolen identities — Bullseye is Hawkeye, Venom is Spider-Man, Moonstone is Ms. Marvel. The Cabal rules from the shadows."
+            },
+            {
+                "slug": "dr-heroes-hunted",
+                "name": "Heroes Hunted",
+                "number": 2,
+                "description": "The real Avengers are fugitives. Tony Stark wipes his own brain to keep the SHRA database from Osborn. Luke Cage leads the resistance. The Hood powers up villains. Osborn hunts mutants to Utopia. Power corrupts absolutely."
+            },
+            {
+                "slug": "dr-the-fall",
+                "name": "The Fall of Osborn",
+                "number": 3,
+                "description": "Osborn's madness catches up. Siege of Asgard. The Sentry becomes the Void and destroys Asgard. Steve Rogers returns. The Avengers reunite. Osborn is defeated, unmasked as the Green Goblin on live TV. The Heroic Age begins."
+            }
+        ]
+    },
+    {
+        "event_slug": "messiah-complex",
+        "phases": [
+            {
+                "slug": "mc-the-birth",
+                "name": "The Birth",
+                "number": 1,
+                "description": "Cerebro detects the first new mutant birth since M-Day. The town of Cooperstown, Alaska is destroyed in the race to claim the child. Purifiers, Marauders, and X-Men converge. The baby is gone."
+            },
+            {
+                "slug": "mc-the-hunt",
+                "name": "The Hunt",
+                "number": 2,
+                "description": "Every faction searches desperately. Cable has the baby. Bishop wants to kill her — he believes she causes a dystopian future. Predator X is tracking mutant energy. The X-Men fracture under the pressure."
+            },
+            {
+                "slug": "mc-into-the-future",
+                "name": "Into the Future",
+                "number": 3,
+                "description": "Cable escapes into the timestream with the baby — later named Hope. Professor Xavier is shot by Bishop. The X-Men disband and relocate to San Francisco. Cable raises Hope in the future. The Messiah Trilogy begins."
+            }
+        ]
+    },
+    {
+        "event_slug": "avengers-vs-x-men",
+        "phases": [
+            {
+                "slug": "avx-the-phoenix-returns",
+                "name": "The Phoenix Returns",
+                "number": 1,
+                "description": "The Phoenix Force is heading for Earth — aimed at Hope Summers. Captain America demands the X-Men hand her over. Cyclops refuses. The Avengers invade Utopia. Heroes fight heroes."
+            },
+            {
+                "slug": "avx-the-phoenix-five",
+                "name": "The Phoenix Five",
+                "number": 2,
+                "description": "Iron Man's plan to destroy the Phoenix backfires — it splits among five X-Men: Cyclops, Emma Frost, Namor, Colossus, and Magik. They reshape the world: end war, provide free energy, grow food. But absolute power corrupts."
+            },
+            {
+                "slug": "avx-dark-phoenix",
+                "name": "Dark Phoenix Cyclops",
+                "number": 3,
+                "description": "As Phoenix Five members are defeated, their power concentrates. Cyclops absorbs it all, becoming Dark Phoenix. He kills Professor Xavier. Hope and Scarlet Witch combine forces — 'No More Phoenix.' The mutant population is restored. Cyclops is imprisoned."
+            }
+        ]
+    },
+    {
+        "event_slug": "infinity-hickman",
+        "phases": [
+            {
+                "slug": "inf-h-the-builders",
+                "name": "The Builder War",
+                "number": 1,
+                "description": "An ancient cosmic race — the Builders — destroys worlds as they march toward Earth. Captain America leads the Avengers and a galactic coalition (Shi'ar, Kree, Skrull, Spartax) to stop them. It's Marvel's largest-scale space war."
+            },
+            {
+                "slug": "inf-h-thanos-comes",
+                "name": "Thanos Comes Home",
+                "number": 2,
+                "description": "While the Avengers are in space, Thanos invades an undefended Earth. He's searching for his hidden Inhuman son, Thane. The Illuminati must defend Earth alone. Black Bolt and Thanos clash. The Terrigen Bomb detonates."
+            },
+            {
+                "slug": "inf-h-aftermath",
+                "name": "Aftermath",
+                "number": 3,
+                "description": "Thanos is trapped in amber by his own son. New Inhumans emerge worldwide from the Terrigen cloud. The Builders are defeated but the multiverse's death continues. The Illuminati's secret is exposed. The road to Secret Wars accelerates."
+            }
+        ]
+    },
+    {
+        "event_slug": "king-in-black",
+        "phases": [
+            {
+                "slug": "kib-knull-arrives",
+                "name": "Knull Arrives",
+                "number": 1,
+                "description": "Knull, the primordial god of symbiotes, descends on Earth with an army of symbiote dragons. He covers the planet in a symbiote shell of darkness. Heroes are overwhelmed and assimilated. Eddie Brock is killed."
+            },
+            {
+                "slug": "kib-the-resistance",
+                "name": "The Last Stand",
+                "number": 2,
+                "description": "The remaining heroes fight back with everything they have. Venom allies across the multiverse contribute. The god of light, the Enigma Force, becomes the key to defeating Knull."
+            },
+            {
+                "slug": "kib-king-eddie",
+                "name": "Ascension",
+                "number": 3,
+                "description": "Eddie Brock merges with the Enigma Force, becoming Captain Universe. He destroys Knull and inherits dominion over all symbiotes. Eddie becomes the King in Black — a cosmic god. His son Dylan becomes the new Venom."
+            }
+        ]
+    },
+    {
+        "event_slug": "war-of-the-realms",
+        "phases": [
+            {
+                "slug": "wotr-the-invasion",
+                "name": "The Invasion of Midgard",
+                "number": 1,
+                "description": "Malekith, having conquered the other Nine Realms one by one over Jason Aaron's seven-year Thor run, finally invades Earth. Dark Elves, Frost Giants, Fire Demons, and Angels attack worldwide. Avengers Tower falls."
+            },
+            {
+                "slug": "wotr-the-war",
+                "name": "War Across the Realms",
+                "number": 2,
+                "description": "Heroes are dispatched to liberate conquered realms. Daredevil becomes the God Without Fear. Punisher rides a Hel-horse. Spider-Man fights in Svartalfheim. Captain America wields a Destroyer armor. Thor loses an eye. The scale is unprecedented."
+            },
+            {
+                "slug": "wotr-victory",
+                "name": "All-Father Thor",
+                "number": 3,
+                "description": "Thor defeats Malekith. The Ten Realms are liberated and united. Thor becomes the All-Father, King of Asgard. Jane Foster becomes Valkyrie. Jason Aaron's epic concludes. Seven years, one story, one vision."
+            }
+        ]
+    }
+]

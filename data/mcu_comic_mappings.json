@@ -1,0 +1,387 @@
+[
+    {
+        "mcu_content_slug": "avengers-infinity-war",
+        "edition_slug": "infinity-gauntlet-omnibus",
+        "mapping_type": "direct_adaptation",
+        "faithfulness": 65,
+        "notes": "Direct adaptation of Thanos collecting Infinity Stones and snapping half the universe. MCU version uses different hero roster and story structure, but core premise identical. The Snap is the defining moment from Starlin's original."
+    },
+    {
+        "mcu_content_slug": "avengers-endgame",
+        "edition_slug": "infinity-gauntlet-omnibus",
+        "mapping_type": "direct_adaptation",
+        "faithfulness": 65,
+        "notes": "Conclusion adapts the undoing of the Snap and final battle. Time heist is original, but core idea of reversing Thanos' victory comes from Infinity Gauntlet. Tony's snap parallels Adam Warlock's role."
+    },
+    {
+        "mcu_content_slug": "captain-america-civil-war",
+        "edition_slug": "civil-war",
+        "mapping_type": "direct_adaptation",
+        "faithfulness": 60,
+        "notes": "Superhero Registration Act divides Avengers. Iron Man vs Cap is the heart of both. MCU reduces scale (no Thor, FF, X-Men), adds Bucky/Zemo personal stakes, but political divide is faithful."
+    },
+    {
+        "mcu_content_slug": "captain-america-winter-soldier",
+        "edition_slug": "cap-brubaker-v1",
+        "mapping_type": "direct_adaptation",
+        "faithfulness": 70,
+        "notes": "Most faithful MCU adaptation. Bucky as Winter Soldier, SHIELD/Hydra conspiracy, Zola, Sharon Carter—all from Brubaker's run. MCU adds helicarrier spectacle but preserves emotional core and political thriller tone."
+    },
+    {
+        "mcu_content_slug": "guardians-of-the-galaxy",
+        "edition_slug": "gotg-dna-omnibus",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 40,
+        "notes": "Team roster (Quill, Gamora, Drax, Rocket, Groot) from Abnett/Lanning. Tone is completely different—MCU is comedy, comics are space opera. Power Stone MacGuffin is original. Character dynamics loosely inspired."
+    },
+    {
+        "mcu_content_slug": "guardians-of-the-galaxy-vol-2",
+        "edition_slug": "gotg-dna-omnibus",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 25,
+        "notes": "Mantis from DnA run. Ego as Peter's father is MCU invention (comics: J'son of Spartax). Family themes and team bonding echo comics, but plot is original. Yondu's death is MCU creation."
+    },
+    {
+        "mcu_content_slug": "guardians-of-the-galaxy-vol-3",
+        "edition_slug": "gotg-dna-omnibus",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 30,
+        "notes": "Rocket's origin and High Evolutionary loosely inspired by comics. Adam Warlock introduced but underdeveloped. Team disbanding echoes comics cycles. Emotional conclusion to Gunn's arc."
+    },
+    {
+        "mcu_content_slug": "thor",
+        "edition_slug": "thor-simonson-omnibus",
+        "mapping_type": "character_origin",
+        "faithfulness": 25,
+        "notes": "Fish-out-of-water banishment story is MCU invention. Destroyer, Asgard, Odin, Loki dynamics from comics. Simonson's run established modern Thor mythology MCU builds on."
+    },
+    {
+        "mcu_content_slug": "thor-ragnarok",
+        "edition_slug": "thor-simonson-omnibus",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 30,
+        "notes": "Ragnarok (Asgard's destruction) from mythology and Simonson. Planet Hulk mashed in. Hela is Simonson creation. Valkyrie from comics. Comedy tone is pure Taika, not comics."
+    },
+    {
+        "mcu_content_slug": "spider-man-homecoming",
+        "edition_slug": "asm-omnibus-v1",
+        "mapping_type": "character_origin",
+        "faithfulness": 20,
+        "notes": "Skips origin (already told). High school Peter Parker is core Spider-Man. Vulture from early ASM. Tony Stark mentorship is MCU invention. Heavily integrated into MCU, not standalone like comics."
+    },
+    {
+        "mcu_content_slug": "spider-man-far-from-home",
+        "edition_slug": "asm-omnibus-v1",
+        "mapping_type": "character_origin",
+        "faithfulness": 15,
+        "notes": "Mysterio (Quentin Beck) from ASM #13. Illusions and deception faithful. Multiverse lie is MCU addition. Identity reveal is original (inspired by Civil War unmasking)."
+    },
+    {
+        "mcu_content_slug": "doctor-strange",
+        "edition_slug": "nxm-morrison-omnibus",
+        "mapping_type": "character_origin",
+        "faithfulness": 45,
+        "notes": "Strange's origin (arrogant surgeon, car crash, mystic training) faithful to comics. Ancient One, Mordo, Wong, Dormammu all from source. Time Stone is MCU addition. Modern updates to classic origin."
+    },
+    {
+        "mcu_content_slug": "doctor-strange-mom",
+        "edition_slug": "secret-wars-2015-omnibus",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 15,
+        "notes": "Multiverse travel loosely inspired by Secret Wars (2015) reality-hopping. America Chavez from comics. Wanda's villain turn and Darkhold corruption are MCU inventions. Illuminati cameos nod to comics."
+    },
+    {
+        "mcu_content_slug": "iron-man",
+        "edition_slug": "avengers-omnibus-v1",
+        "mapping_type": "character_origin",
+        "faithfulness": 35,
+        "notes": "Tony Stark origin (captured, builds armor) from Tales of Suspense. Afghanistan replaces Vietnam. Obadiah Stane from comics. Arc reactor emphasis is MCU. Post-credits Fury/Avengers is MCU invention."
+    },
+    {
+        "mcu_content_slug": "avengers",
+        "edition_slug": "avengers-omnibus-v1",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 45,
+        "notes": "Team assembled by Nick Fury echoes Avengers #1. Loki as first villain is faithful. Chitauri invasion replaces various early threats. Team dynamics and bickering from early Lee/Kirby run."
+    },
+    {
+        "mcu_content_slug": "avengers-age-of-ultron",
+        "edition_slug": "avengers-omnibus-v1",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 30,
+        "notes": "Ultron from Avengers #54-58. MCU changes creator (Tony, not Pym). Vision created to fight Ultron is faithful. Scarlet Witch and Quicksilver from comics. Sokovia is original."
+    },
+    {
+        "mcu_content_slug": "black-panther",
+        "edition_slug": "ff-omnibus-v2",
+        "mapping_type": "character_origin",
+        "faithfulness": 40,
+        "notes": "T'Challa/Wakanda debut in FF #52-53. Vibranium, advanced tech, royal family from Lee/Kirby. Killmonger from Jungle Action comics. MCU expands Wakanda's culture and politics significantly."
+    },
+    {
+        "mcu_content_slug": "fantastic-four-first-steps",
+        "edition_slug": "ff-omnibus-v1",
+        "mapping_type": "direct_adaptation",
+        "faithfulness": 55,
+        "notes": "FF origin (cosmic rays, powers, family dynamic) from FF #1. Galactus and Silver Surfer from FF #48-50. Retro-futuristic 1960s setting is MCU twist. Expected to be fairly faithful origin."
+    },
+    {
+        "mcu_content_slug": "fantastic-four-first-steps",
+        "edition_slug": "ff-omnibus-v2",
+        "mapping_type": "direct_adaptation",
+        "faithfulness": 60,
+        "notes": "Galactus Trilogy (FF #48-50) is the film's core conflict. Silver Surfer/Galactus threat to Earth. Shalla-Bal as Surfer is MCU change (comics: Norrin Radd). Cosmic scope from Lee/Kirby."
+    },
+    {
+        "mcu_content_slug": "daredevil-born-again",
+        "edition_slug": "dd-miller-omnibus",
+        "mapping_type": "direct_adaptation",
+        "faithfulness": 50,
+        "notes": "Title references Miller's 'Born Again' arc. Kingpin, Karen Page, Bullseye from Miller era. Netflix series already adapted Miller's run; MCU continuation expected to honor source."
+    },
+    {
+        "mcu_content_slug": "daredevil-born-again",
+        "edition_slug": "dd-bendis-maleev-v1",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 40,
+        "notes": "Echo (Maya Lopez) from Bendis/Maleev run. Kingpin dynamics. Netflix series drew heavily from Bendis era. MCU show continues those threads."
+    },
+    {
+        "mcu_content_slug": "immortal-hulk-omnibus",
+        "edition_slug": "immortal-hulk-omnibus",
+        "mapping_type": "character_origin",
+        "faithfulness": 30,
+        "notes": "No direct MCU adaptation yet, but Immortal Hulk's horror tone influences potential future Hulk stories. Red Hulk in Brave New World hints at this direction."
+    },
+    {
+        "mcu_content_slug": "hawkeye",
+        "edition_slug": "avengers-omnibus-v1",
+        "mapping_type": "character_origin",
+        "faithfulness": 50,
+        "notes": "Clint Barton from Avengers comics. Kate Bishop from Young Avengers. Tracksuit Mafia, 'Bro' culture from Fraction/Aja run (2012). Christmas setting and mentor dynamic from Fraction."
+    },
+    {
+        "mcu_content_slug": "wandavision",
+        "edition_slug": "house-of-x-powers-of-x",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 20,
+        "notes": "Reality manipulation and Scarlet Witch's power echoes House of M (not in our editions list). Darkhold corruption loosely inspired by X-Men mysticism. Westview hex is MCU invention."
+    },
+    {
+        "mcu_content_slug": "loki-s1",
+        "edition_slug": "ff-hickman-omnibus-v1",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 20,
+        "notes": "Multiverse concepts and He Who Remains (Kang variant) echo Hickman's Council of Reeds and multiverse architecture. TVA is MCU invention with comics inspiration."
+    },
+    {
+        "mcu_content_slug": "loki-s2",
+        "edition_slug": "ff-hickman-omnibus-v2",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 20,
+        "notes": "Loki becoming keeper of multiverse tree (Yggdrasil) echoes Hickman's cosmic architect themes. Victor Timely is Kang variant from comics. Selfless sacrifice arc is MCU original."
+    },
+    {
+        "mcu_content_slug": "ant-man-quantumania",
+        "edition_slug": "avengers-hickman-omnibus-v1",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 20,
+        "notes": "Kang the Conqueror from Avengers comics. Council of Kangs setup echoes Hickman's multiversal architect themes. Quantum Realm as battleground is MCU invention."
+    },
+    {
+        "mcu_content_slug": "secret-invasion",
+        "edition_slug": "avengers-omnibus-v1",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 25,
+        "notes": "Skrulls from FF #2 in Avengers Omnibus era. Secret Invasion event (not in our editions) about Skrull infiltration. MCU version is street-level, not cosmic. Fury-focused."
+    },
+    {
+        "mcu_content_slug": "what-if-s1",
+        "edition_slug": "secret-wars-2015-omnibus",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 60,
+        "notes": "What If comics anthology format. Multiverse exploration echoes Secret Wars (2015) Battleworld variants. Uatu the Watcher from FF #13. Infinite possibilities concept faithful."
+    },
+    {
+        "mcu_content_slug": "what-if-s2",
+        "edition_slug": "secret-wars-2015-omnibus",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 55,
+        "notes": "Continued multiverse variants. Kahhori (Mohawk hero) is original. 1602 universe references Marvel 1602 comic. Strange Supreme echoes Hickman's multiversal threats."
+    },
+    {
+        "mcu_content_slug": "what-if-s3",
+        "edition_slug": "secret-wars-2015-omnibus",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 55,
+        "notes": "Final season anthology. Storm as Goddess of Thunder inspired by Jane Foster Thor. Avengers mecha suit echoes various comics variants. Multiverse Saga conclusion."
+    },
+    {
+        "mcu_content_slug": "captain-america-tfa",
+        "edition_slug": "cap-brubaker-v1",
+        "mapping_type": "character_origin",
+        "faithfulness": 50,
+        "notes": "Steve Rogers WWII origin faithful to Captain America Comics #1. Super-soldier serum, Red Skull, Bucky, Hydra all from source. MCU adds Tesseract/Space Stone. Most faithful Phase 1 origin."
+    },
+    {
+        "mcu_content_slug": "falcon-and-winter-soldier",
+        "edition_slug": "cap-brubaker-v1",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 45,
+        "notes": "Sam Wilson as Cap from comics (post-Brubaker era). Bucky's atonement arc echoes Brubaker. Isaiah Bradley from Truth: Red, White & Black. John Walker/US Agent from comics."
+    },
+    {
+        "mcu_content_slug": "thunderbolts-asterisk",
+        "edition_slug": "avengers-hickman-omnibus-v2",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 35,
+        "notes": "Thunderbolts concept (villains as heroes) from comics. Dark Avengers vibes. Sentry (Bob Reynolds) from comics. Valentina assembles team echoes Norman Osborn's Dark Reign (post-Hickman era)."
+    },
+    {
+        "mcu_content_slug": "moon-knight",
+        "edition_slug": "avengers-omnibus-v1",
+        "mapping_type": "character_origin",
+        "faithfulness": 40,
+        "notes": "Marc Spector/Moon Knight from Werewolf by Night comics. DID, Khonshu, Egyptian mythology faithful. Standalone tone and horror elements inspired by modern Moon Knight runs."
+    },
+    {
+        "mcu_content_slug": "werewolf-by-night",
+        "edition_slug": "avengers-omnibus-v1",
+        "mapping_type": "character_origin",
+        "faithfulness": 50,
+        "notes": "Jack Russell (Werewolf by Night) from 1970s comics. Elsa Bloodstone from Nextwave/Bloodstone comics. Man-Thing cameo. Black-and-white homage to monster comics. Supernatural MCU expansion."
+    },
+    {
+        "mcu_content_slug": "she-hulk",
+        "edition_slug": "ff-byrne-omnibus-v1",
+        "mapping_type": "character_origin",
+        "faithfulness": 35,
+        "notes": "Jennifer Walters/She-Hulk created by Stan Lee but popularized by Byrne's Sensational She-Hulk. Fourth-wall breaks from Byrne run. Legal comedy tone inspired by comics. Daredevil crossover."
+    },
+    {
+        "mcu_content_slug": "shang-chi",
+        "edition_slug": "avengers-omnibus-v1",
+        "mapping_type": "character_origin",
+        "faithfulness": 40,
+        "notes": "Shang-Chi from Master of Kung Fu comics (1970s Bronze Age). Ten Rings from Iron Man lore. MCU heavily reimagines family dynamics and mythology. Ta-Lo is MCU creation."
+    },
+    {
+        "mcu_content_slug": "eternals",
+        "edition_slug": "ff-omnibus-v3",
+        "mapping_type": "character_origin",
+        "faithfulness": 35,
+        "notes": "Eternals created by Jack Kirby. Celestials, Deviants, immortal beings from Kirby's cosmic mythology. MCU changes origin (sent by Celestials, not evolved). Druig, Sersi, Ikaris from comics."
+    },
+    {
+        "mcu_content_slug": "ms-marvel",
+        "edition_slug": "house-of-x-powers-of-x",
+        "mapping_type": "character_origin",
+        "faithfulness": 30,
+        "notes": "Kamala Khan from Ms. Marvel comics (2014). MCU changes powers (Bangle instead of Inhuman polymorph). Family dynamics faithful. Mutant reveal in finale connects to X-Men."
+    },
+    {
+        "mcu_content_slug": "echo",
+        "edition_slug": "dd-bendis-maleev-v1",
+        "mapping_type": "character_origin",
+        "faithfulness": 30,
+        "notes": "Maya Lopez/Echo created by David Mack in Daredevil (1999). Kingpin as adoptive father. Deaf vigilante. MCU adds Choctaw heritage emphasis. Street-level tone faithful."
+    },
+    {
+        "mcu_content_slug": "agatha-all-along",
+        "edition_slug": "ff-omnibus-v1",
+        "mapping_type": "character_origin",
+        "faithfulness": 25,
+        "notes": "Agatha Harkness from FF #94 (not in Vol. 1 but introduced in FF run). Witch powers, Salem history. Billy Maximoff/Wiccan from Young Avengers. MCU heavily expands Agatha's role."
+    },
+    {
+        "mcu_content_slug": "captain-america-brave-new-world",
+        "edition_slug": "cap-brubaker-v1",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 30,
+        "notes": "Sam Wilson as Captain America from comics (post-Brubaker). Red Hulk (Thaddeus Ross) from Hulk comics. Serpent Society from Captain America comics. Political thriller tone echoes Brubaker."
+    },
+    {
+        "mcu_content_slug": "thor-love-and-thunder",
+        "edition_slug": "thor-simonson-omnibus",
+        "mapping_type": "direct_adaptation",
+        "faithfulness": 50,
+        "notes": "Jane Foster as Mighty Thor from Jason Aaron run (not Simonson, but Thor mythology). Gorr the God Butcher from Aaron. Cancer subplot faithful. Simonson established modern Thor MCU builds on."
+    },
+    {
+        "mcu_content_slug": "black-widow",
+        "edition_slug": "avengers-omnibus-v1",
+        "mapping_type": "character_origin",
+        "faithfulness": 25,
+        "notes": "Natasha Romanoff from Avengers comics. Red Room from comics lore. Yelena Belova from comics. Taskmaster heavily changed (Tony Masters → Antonia). MCU origin is original story."
+    },
+    {
+        "mcu_content_slug": "guardians-holiday-special",
+        "edition_slug": "gotg-dna-omnibus",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 20,
+        "notes": "Guardians family dynamics from DnA run. Mantis/Drax relationship. Kevin Bacon gag is pure Gunn. Cosmo the Spacedog from comics (telepathic Russian dog). Wholesome comedy original."
+    },
+    {
+        "mcu_content_slug": "deadpool-and-wolverine",
+        "edition_slug": "secret-wars-2015-omnibus",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 40,
+        "notes": "Multiverse travel and Void echo Battleworld from Secret Wars. TVA involvement from Loki. Meta-humor and Fox Marvel integration original. Wolverine variant concept faithful to multiverse comics."
+    },
+    {
+        "mcu_content_slug": "one-world-under-doom",
+        "edition_slug": "one-world-under-doom",
+        "mapping_type": "direct_adaptation",
+        "faithfulness": 80,
+        "notes": "NOTE: This is a COMICS edition, not MCU content. If MCU adapts OWUD in future, this mapping would apply. Doom as Sorcerer Supreme ruling Earth. Concluded November 2025 in comics."
+    },
+    {
+        "mcu_content_slug": "blood-hunt",
+        "edition_slug": "blood-hunt",
+        "mapping_type": "direct_adaptation",
+        "faithfulness": 75,
+        "notes": "NOTE: This is a COMICS edition, not MCU content. Blade leads vampire army. Doctor Strange dies. Doom becomes Sorcerer Supreme. If MCU adapts, this is the source."
+    },
+    {
+        "mcu_content_slug": "ironheart",
+        "edition_slug": "infamous-iron-man",
+        "mapping_type": "character_origin",
+        "faithfulness": 35,
+        "notes": "Riri Williams/Ironheart from comics (post-Bendis). The Hood as villain from comics. Magic vs tech theme. Wakanda connection from Black Panther comics. MCU show expands on comics intro."
+    },
+    {
+        "mcu_content_slug": "the-marvels",
+        "edition_slug": "house-of-x-powers-of-x",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 25,
+        "notes": "Monica Rambeau/Photon powers from comics. Kamala Khan from Ms. Marvel. Carol Danvers team-ups. Power entanglement is MCU invention. X-Men universe post-credits hints at mutant integration."
+    },
+    {
+        "mcu_content_slug": "venom-cates-omnibus",
+        "edition_slug": "venom-cates-omnibus",
+        "mapping_type": "character_origin",
+        "faithfulness": 40,
+        "notes": "NOTE: Sony's Venom films (not MCU proper). Venom symbiote from ASM #300. Knull (symbiote god) from Cates run. If MCU integrates Venom, Cates run is modern definitive source."
+    },
+    {
+        "mcu_content_slug": "marvels",
+        "edition_slug": "marvels",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 30,
+        "notes": "NOTE: 'Marvels' comic is a retrospective on Marvel history through civilian eyes. The Marvels (film) uses team-up concept but different execution. Busiek/Ross's themes of wonder echo in MCU's scope."
+    },
+    {
+        "mcu_content_slug": "annihilation-omnibus",
+        "edition_slug": "annihilation-omnibus",
+        "mapping_type": "character_origin",
+        "faithfulness": 35,
+        "notes": "NOTE: No direct MCU adaptation. Annihilation Wave, Nova (Richard Rider), cosmic scope. GotG films draw on post-Annihilation cosmic Marvel. If MCU does Annihilation, this is the source."
+    },
+    {
+        "mcu_content_slug": "warlock-by-starlin",
+        "edition_slug": "warlock-by-starlin",
+        "mapping_type": "character_origin",
+        "faithfulness": 40,
+        "notes": "Adam Warlock in GotG Vol. 3 underdeveloped. Comics: Magus, Thanos/Death obsession, Infinity Watch. Warlock cocoon in GotG Vol. 2 post-credits. MCU hasn't fully adapted Starlin's saga yet."
+    }
+]

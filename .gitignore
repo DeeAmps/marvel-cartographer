@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+web/node_modules/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+web/.next/
+web/out/
+go-graph-service/bin/
+go-graph-service/graph-service
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Supabase
+supabase/.temp/
+supabase/.branches/
+
+# Go
+go-graph-service/vendor/
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+*.cover
+*.out
+
+# Misc
+.qodo/

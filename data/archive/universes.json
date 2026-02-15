@@ -1,0 +1,122 @@
+[
+    {
+        "slug": "earth-616",
+        "name": "Earth-616 (Main Continuity)",
+        "designation": "616",
+        "year_start": 1961,
+        "year_end": null,
+        "description": "The primary Marvel Universe. All mainline continuity from Fantastic Four #1 (1961) to present takes place here. Briefly destroyed and rebuilt during Secret Wars (2015).",
+        "is_primary": true,
+        "color": "#e94560"
+    },
+    {
+        "slug": "earth-1610",
+        "name": "Ultimate Universe",
+        "designation": "1610",
+        "year_start": 2000,
+        "year_end": 2015,
+        "description": "A modernized reimagining of the Marvel Universe launched with Ultimate Spider-Man (2000). Featured grounded, contemporary takes on classic characters. Destroyed during Secret Wars (2015), but Miles Morales and the Maker survived into Earth-616. Revived by the Maker in Ultimate Invasion (2023).",
+        "is_primary": false,
+        "color": "#4fc3f7"
+    },
+    {
+        "slug": "earth-2099",
+        "name": "Marvel 2099",
+        "designation": "2099",
+        "year_start": 1992,
+        "year_end": null,
+        "description": "A cyberpunk future set in the year 2099. Features future legacy heroes: Spider-Man 2099 (Miguel O'Hara), Doom 2099, Punisher 2099, X-Men 2099. Originally launched in 1992, revived multiple times. Spider-Man 2099 has crossed into 616 continuity.",
+        "is_primary": false,
+        "color": "#00e676"
+    },
+    {
+        "slug": "earth-z",
+        "name": "Marvel Zombies",
+        "designation": "2149",
+        "year_start": 2005,
+        "year_end": 2009,
+        "description": "An alternate universe where a zombie virus infected Earth's superheroes. Originated in Ultimate Fantastic Four #21-23 before getting its own series. Marvel Zombies by Robert Kirkman became a surprise hit. The zombie heroes consume Galactus and gain cosmic power.",
+        "is_primary": false,
+        "color": "#76ff03"
+    },
+    {
+        "slug": "earth-65",
+        "name": "Spider-Gwen / Earth-65",
+        "designation": "65",
+        "year_start": 2014,
+        "year_end": null,
+        "description": "A universe where Gwen Stacy was bitten by the radioactive spider instead of Peter Parker. Peter becomes the Lizard and dies. Gwen operates as Spider-Woman (Ghost-Spider). Debuted in Edge of Spider-Verse #2 (2014) and became a breakout hit.",
+        "is_primary": false,
+        "color": "#f48fb1"
+    },
+    {
+        "slug": "earth-199999",
+        "name": "Marvel Cinematic Universe",
+        "designation": "199999",
+        "year_start": 2008,
+        "year_end": null,
+        "description": "The film/TV universe beginning with Iron Man (2008). While separate from comics continuity, the MCU has heavily influenced comic storylines, character designs, and editorial direction since its inception.",
+        "is_primary": false,
+        "color": "#f0a500"
+    },
+    {
+        "slug": "earth-1048",
+        "name": "Marvel's Spider-Man (Video Game)",
+        "designation": "1048",
+        "year_start": 2018,
+        "year_end": null,
+        "description": "The Insomniac Games Spider-Man universe. Features an experienced Peter Parker and later Miles Morales. Received its own comic tie-ins. Marvel's Spider-Man 2 (2023) expanded the universe with Venom and Kraven.",
+        "is_primary": false,
+        "color": "#ff5252"
+    },
+    {
+        "slug": "earth-982",
+        "name": "MC2 / Spider-Girl Universe",
+        "designation": "982",
+        "year_start": 1998,
+        "year_end": 2010,
+        "description": "A future timeline where the next generation of heroes takes over. May 'Mayday' Parker becomes Spider-Girl, the daughter of Peter and Mary Jane. The longest-running female-led Marvel solo series at the time. Created by Tom DeFalco.",
+        "is_primary": false,
+        "color": "#ce93d8"
+    },
+    {
+        "slug": "earth-712",
+        "name": "Squadron Supreme Universe",
+        "designation": "712",
+        "year_start": 1971,
+        "year_end": null,
+        "description": "Home of the Squadron Supreme, Marvel's Justice League analogues. Featured in the landmark Squadron Supreme limited series (1985) by Mark Gruenwald — one of the first deconstructions of the superhero genre, predating Watchmen.",
+        "is_primary": false,
+        "color": "#64b5f6"
+    },
+    {
+        "slug": "earth-295",
+        "name": "Age of Apocalypse",
+        "designation": "295",
+        "year_start": 1995,
+        "year_end": null,
+        "description": "A timeline where Legion killed Xavier before the X-Men were founded. Apocalypse conquered North America. Magneto leads the X-Men. Created during the 1995 AoA event, this reality has been revisited multiple times and characters like X-Man (Nate Grey), Dark Beast, and Sugar Man crossed into 616.",
+        "is_primary": false,
+        "color": "#b71c1c"
+    },
+    {
+        "slug": "earth-8311",
+        "name": "Larval Universe (Spider-Ham)",
+        "designation": "8311",
+        "year_start": 1983,
+        "year_end": null,
+        "description": "An anthropomorphic animal universe featuring Peter Porker, the Spectacular Spider-Ham. Originally a humor title, Spider-Ham gained mainstream popularity through Spider-Man: Into the Spider-Verse (2018).",
+        "is_primary": false,
+        "color": "#ffab40"
+    },
+    {
+        "slug": "earth-noir",
+        "name": "Marvel Noir",
+        "designation": "90214",
+        "year_start": 2009,
+        "year_end": 2010,
+        "description": "A 1930s pulp-inspired universe. Spider-Man Noir, X-Men Noir, Iron Man Noir reimagine Marvel characters in a Depression-era setting. Spider-Man Noir became a fan favorite through the Spider-Verse films and received a live-action series on Amazon.",
+        "is_primary": false,
+        "color": "#424242"
+    }
+]

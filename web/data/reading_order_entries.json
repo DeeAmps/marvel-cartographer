@@ -1,0 +1,97 @@
+[
+    {
+        "event_slug": "civil-war",
+        "context_type": "event",
+        "entries": [
+            {"position": 1, "series_title": "Civil War", "issue_number": "#1", "edition_slug": "civil-war", "note": "Stamford explosion. Registration Act proposed. Lines drawn.", "is_core": true, "phase_slug": "cw-stamford"},
+            {"position": 2, "series_title": "Amazing Spider-Man", "issue_number": "#529-531", "edition_slug": "asm-straczynski-omnibus-v2", "note": "Peter goes to Washington with Tony. The political machinery.", "is_core": false, "phase_slug": "cw-stamford"},
+            {"position": 3, "series_title": "New Avengers", "issue_number": "#21-22", "edition_slug": "new-avengers-omnibus-v1", "note": "The team fractures over registration.", "is_core": false, "phase_slug": "cw-stamford"},
+            {"position": 4, "series_title": "Civil War: Front Line", "issue_number": "#1-2", "edition_slug": null, "note": "Street-level perspective. Ben Urich and Sally Floyd cover the war as journalists.", "is_core": false, "phase_slug": "cw-stamford"},
+            {"position": 5, "series_title": "Civil War", "issue_number": "#2", "edition_slug": "civil-war", "note": "Spider-Man unmasks on live television. One of the most iconic moments in Marvel history.", "is_core": true, "phase_slug": "cw-lines-drawn"},
+            {"position": 6, "series_title": "Wolverine", "issue_number": "#42-47", "edition_slug": null, "note": "Wolverine hunts Nitro. Discovers corporate conspiracy behind the explosion.", "is_core": false, "phase_slug": "cw-lines-drawn"},
+            {"position": 7, "series_title": "Amazing Spider-Man", "issue_number": "#532-534", "edition_slug": "asm-straczynski-omnibus-v2", "note": "Peter realizes the cost of unmasking. His family is endangered.", "is_core": false, "phase_slug": "cw-lines-drawn"},
+            {"position": 8, "series_title": "Civil War", "issue_number": "#3", "edition_slug": "civil-war", "note": "Clone Thor (Ragnarok) appears. First major battle.", "is_core": true, "phase_slug": "cw-all-out-war"},
+            {"position": 9, "series_title": "Civil War", "issue_number": "#4", "edition_slug": "civil-war", "note": "Clone Thor kills Goliath. The first hero casualty. Everything gets real.", "is_core": true, "phase_slug": "cw-all-out-war"},
+            {"position": 10, "series_title": "Civil War: Front Line", "issue_number": "#5-6", "edition_slug": null, "note": "The human cost of the war. Speedball becomes Penance.", "is_core": false, "phase_slug": "cw-all-out-war"},
+            {"position": 11, "series_title": "Amazing Spider-Man", "issue_number": "#535-538", "edition_slug": "asm-straczynski-omnibus-v2", "note": "Peter switches sides to Cap's resistance after seeing the Negative Zone prison.", "is_core": false, "phase_slug": "cw-all-out-war"},
+            {"position": 12, "series_title": "Punisher War Journal", "issue_number": "#1-3", "edition_slug": null, "note": "Punisher joins Cap's side. Kills supervillains who try to join. Cap beats him for it.", "is_core": false, "phase_slug": "cw-all-out-war"},
+            {"position": 13, "series_title": "Civil War", "issue_number": "#5-6", "edition_slug": "civil-war", "note": "Negative Zone prison revealed. Battles escalate across New York.", "is_core": true, "phase_slug": "cw-all-out-war"},
+            {"position": 14, "series_title": "Civil War", "issue_number": "#7", "edition_slug": "civil-war", "note": "Final battle. Cap has Tony beaten. Civilians tackle Cap. He sees what he's become. He surrenders.", "is_core": true, "phase_slug": "cw-surrender"},
+            {"position": 15, "series_title": "Captain America", "issue_number": "#25", "edition_slug": "cap-brubaker-v1", "note": "Captain America is assassinated on the courthouse steps. Crossbones and Sharon Carter (brainwashed). The shot heard round the Marvel Universe.", "is_core": true, "phase_slug": "cw-aftermath"},
+            {"position": 16, "series_title": "Civil War: Front Line", "issue_number": "#10-11", "edition_slug": null, "note": "The truth about Stamford. Tony's guilt. The real cost.", "is_core": false, "phase_slug": "cw-aftermath"},
+            {"position": 17, "series_title": "Amazing Spider-Man", "issue_number": "#544-545", "edition_slug": "asm-straczynski-omnibus-v2", "note": "One More Day. Peter makes a deal with Mephisto to save Aunt May — his marriage to MJ is erased from existence.", "is_core": false, "phase_slug": "cw-aftermath"}
+        ]
+    },
+    {
+        "event_slug": "infinity-gauntlet",
+        "context_type": "event",
+        "entries": [
+            {"position": 1, "series_title": "Silver Surfer", "issue_number": "#34-38", "edition_slug": "infinity-gauntlet-omnibus", "note": "Thanos is resurrected by Mistress Death. Silver Surfer warns Earth. The stage is set.", "is_core": true, "phase_slug": "ig-the-quest"},
+            {"position": 2, "series_title": "Thanos Quest", "issue_number": "#1-2", "edition_slug": "infinity-gauntlet-omnibus", "note": "Thanos systematically strips each Infinity Gem from its cosmic guardian. Essential reading — this IS the setup.", "is_core": true, "phase_slug": "ig-the-quest"},
+            {"position": 3, "series_title": "Infinity Gauntlet", "issue_number": "#1", "edition_slug": "infinity-gauntlet-omnibus", "note": "Thanos has the complete Gauntlet. He snaps his fingers. Half the universe dies.", "is_core": true, "phase_slug": "ig-the-snap"},
+            {"position": 4, "series_title": "Infinity Gauntlet", "issue_number": "#2", "edition_slug": "infinity-gauntlet-omnibus", "note": "Earth's heroes assess the devastation. Adam Warlock recruits the survivors for a suicide mission.", "is_core": true, "phase_slug": "ig-the-snap"},
+            {"position": 5, "series_title": "Doctor Strange, Sorcerer Supreme", "issue_number": "#31-36", "edition_slug": "infinity-gauntlet-omnibus", "note": "Strange gathers cosmic allies. The mystic perspective on universal collapse.", "is_core": false, "phase_slug": "ig-the-snap"},
+            {"position": 6, "series_title": "Infinity Gauntlet", "issue_number": "#3", "edition_slug": "infinity-gauntlet-omnibus", "note": "The heroes attack Thanos. He defeats them one by one with contemptuous ease. Wolverine's bones turned to rubber. Iron Man decapitated.", "is_core": true, "phase_slug": "ig-the-cosmic-war"},
+            {"position": 7, "series_title": "Infinity Gauntlet", "issue_number": "#4", "edition_slug": "infinity-gauntlet-omnibus", "note": "Captain America stands alone against Thanos. The most iconic defiance in Marvel history. Cap's shield shatters. The cosmic entities arrive — Galactus, the Celestials, Eternity.", "is_core": true, "phase_slug": "ig-the-cosmic-war"},
+            {"position": 8, "series_title": "Silver Surfer", "issue_number": "#55-59", "edition_slug": "infinity-gauntlet-omnibus", "note": "Surfer's role in the cosmic war. His failed grab for the Gauntlet.", "is_core": false, "phase_slug": "ig-the-cosmic-war"},
+            {"position": 9, "series_title": "Infinity Gauntlet", "issue_number": "#5", "edition_slug": "infinity-gauntlet-omnibus", "note": "Even Eternity falls. Thanos becomes the living universe. But he leaves his body unguarded.", "is_core": true, "phase_slug": "ig-warlock-gambit"},
+            {"position": 10, "series_title": "Infinity Gauntlet", "issue_number": "#6", "edition_slug": "infinity-gauntlet-omnibus", "note": "Nebula seizes the Gauntlet. Warlock enters the Soul Gem and claims the Gauntlet from within. The universe is restored. Thanos retires to a quiet farm. The most important cosmic event in Marvel history concludes.", "is_core": true, "phase_slug": "ig-warlock-gambit"}
+        ]
+    },
+    {
+        "event_slug": "secret-wars-2015",
+        "context_type": "event",
+        "entries": [
+            {"position": 1, "series_title": "Secret Wars", "issue_number": "#1", "edition_slug": "secret-wars-2015-omnibus", "note": "The final incursion. Earth-616 and Earth-1610 collide. The multiverse ends. Reed's life raft launches. Miles sneaks aboard.", "is_core": true, "phase_slug": "sw15-the-last-incursion"},
+            {"position": 2, "series_title": "Secret Wars", "issue_number": "#2", "edition_slug": "secret-wars-2015-omnibus", "note": "Battleworld revealed. Doom is God. Strange is his sheriff. Domains of dead realities stitched together.", "is_core": true, "phase_slug": "sw15-battleworld"},
+            {"position": 3, "series_title": "Secret Wars", "issue_number": "#3", "edition_slug": "secret-wars-2015-omnibus", "note": "The life raft is found. Strange hides the survivors. The laws of Battleworld.", "is_core": true, "phase_slug": "sw15-the-survivors"},
+            {"position": 4, "series_title": "Secret Wars: Battleworld", "issue_number": "#1-4", "edition_slug": "secret-wars-2015-omnibus", "note": "Stories from across Battleworld's domains. Glimpses of what Doom built.", "is_core": false, "phase_slug": "sw15-battleworld"},
+            {"position": 5, "series_title": "A-Force", "issue_number": "#1-5", "edition_slug": "secret-wars-2015-omnibus", "note": "She-Hulk leads an all-female team in the Arcadia domain.", "is_core": false, "phase_slug": "sw15-battleworld"},
+            {"position": 6, "series_title": "Old Man Logan", "issue_number": "#1-5", "edition_slug": "secret-wars-2015-omnibus", "note": "Logan discovers the walls between domains. Begins crossing Battleworld.", "is_core": false, "phase_slug": "sw15-the-survivors"},
+            {"position": 7, "series_title": "Secret Wars", "issue_number": "#4-5", "edition_slug": "secret-wars-2015-omnibus", "note": "Strange dies defying Doom. The survivors scatter. Reed sees his family under Doom's control.", "is_core": true, "phase_slug": "sw15-the-survivors"},
+            {"position": 8, "series_title": "Siege", "issue_number": "#1-4", "edition_slug": "secret-wars-2015-omnibus", "note": "The Shield — Battleworld's wall against the zombie hordes, the Annihilation Wave, and Ultron. The final defense.", "is_core": false, "phase_slug": "sw15-battleworld"},
+            {"position": 9, "series_title": "Secret Wars", "issue_number": "#6-7", "edition_slug": "secret-wars-2015-omnibus", "note": "The rebels rally. Black Panther and Namor wield an Infinity Gauntlet. The assault on Castle Doom begins.", "is_core": true, "phase_slug": "sw15-god-vs-god"},
+            {"position": 10, "series_title": "Secret Wars", "issue_number": "#8", "edition_slug": "secret-wars-2015-omnibus", "note": "Reed confronts Doom. 'Do you think you could have done better?' Doom: 'Yes.' The Molecule Man makes his choice.", "is_core": true, "phase_slug": "sw15-god-vs-god"},
+            {"position": 11, "series_title": "Secret Wars", "issue_number": "#9", "edition_slug": "secret-wars-2015-omnibus", "note": "Reed inherits the power. He and Franklin rebuild the multiverse, reality by reality. Doom's face is healed. Miles is in 616. The Maker survives. Everything restarts.", "is_core": true, "phase_slug": "sw15-god-vs-god"}
+        ]
+    },
+    {
+        "event_slug": "house-of-m",
+        "context_type": "event",
+        "entries": [
+            {"position": 1, "series_title": "Excalibur", "issue_number": "#11-14", "edition_slug": "house-of-m-omnibus", "note": "Prelude. Xavier and Magneto on Genosha. Wanda's instability grows.", "is_core": false, "phase_slug": "hom-the-decision"},
+            {"position": 2, "series_title": "House of M", "issue_number": "#1", "edition_slug": "house-of-m-omnibus", "note": "Avengers and X-Men debate what to do about Wanda. Quicksilver convinces her to act. Reality rewrites.", "is_core": true, "phase_slug": "hom-the-decision"},
+            {"position": 3, "series_title": "House of M", "issue_number": "#2-3", "edition_slug": "house-of-m-omnibus", "note": "The new reality. Mutants rule. Magneto is king. Everyone has what they always wanted.", "is_core": true, "phase_slug": "hom-the-world-of-m"},
+            {"position": 4, "series_title": "Spider-Man: House of M", "issue_number": "#1-5", "edition_slug": "house-of-m-omnibus", "note": "Peter Parker is a celebrity. Uncle Ben is alive. Gwen Stacy is alive. Peter has everything — and it's wrong.", "is_core": false, "phase_slug": "hom-the-world-of-m"},
+            {"position": 5, "series_title": "Fantastic Four: House of M", "issue_number": "#1-3", "edition_slug": "house-of-m-omnibus", "note": "Doom rules Latveria as always. Some things never change.", "is_core": false, "phase_slug": "hom-the-world-of-m"},
+            {"position": 6, "series_title": "Iron Man: House of M", "issue_number": "#1-3", "edition_slug": "house-of-m-omnibus", "note": "Tony Stark as a celebrity inventor in a mutant-ruled world.", "is_core": false, "phase_slug": "hom-the-world-of-m"},
+            {"position": 7, "series_title": "House of M", "issue_number": "#4-5", "edition_slug": "house-of-m-omnibus", "note": "Wolverine remembers everything. Layla Miller wakes the heroes. The resistance forms.", "is_core": true, "phase_slug": "hom-the-world-of-m"},
+            {"position": 8, "series_title": "House of M", "issue_number": "#6-7", "edition_slug": "house-of-m-omnibus", "note": "The heroes assault Magneto's stronghold. The truth about Quicksilver's manipulation comes out.", "is_core": true, "phase_slug": "hom-no-more-mutants"},
+            {"position": 9, "series_title": "House of M", "issue_number": "#8", "edition_slug": "house-of-m-omnibus", "note": "'No More Mutants.' Reality snaps back. The mutant population drops from millions to 198. Decimation begins. The X-Men enter survival mode for the next seven years.", "is_core": true, "phase_slug": "hom-no-more-mutants"},
+            {"position": 10, "series_title": "Decimation: House of M - The Day After", "issue_number": "#1", "edition_slug": "house-of-m-omnibus", "note": "The immediate aftermath. Who lost their powers? Who survived? The X-Men take stock of catastrophe.", "is_core": false, "phase_slug": "hom-no-more-mutants"}
+        ]
+    },
+    {
+        "event_slug": "secret-wars-1984",
+        "context_type": "event",
+        "entries": [
+            {"position": 1, "series_title": "Marvel Super Heroes Secret Wars", "issue_number": "#1", "edition_slug": "secret-wars-1984-omnibus", "note": "The Beyonder pulls heroes and villains to Battleworld. 'Slay your enemies and all you desire shall be yours.'", "is_core": true, "phase_slug": "sw84-the-summons"},
+            {"position": 2, "series_title": "Marvel Super Heroes Secret Wars", "issue_number": "#2-3", "edition_slug": "secret-wars-1984-omnibus", "note": "First skirmishes. Magneto fights alone. The X-Men distrust the Avengers. Doom schemes.", "is_core": true, "phase_slug": "sw84-the-summons"},
+            {"position": 3, "series_title": "Marvel Super Heroes Secret Wars", "issue_number": "#4-7", "edition_slug": "secret-wars-1984-omnibus", "note": "Battles rage. Volcana and Titania are created. She-Hulk joins the fight. Doom absorbs the Beyonder's power.", "is_core": true, "phase_slug": "sw84-battleworld"},
+            {"position": 4, "series_title": "Marvel Super Heroes Secret Wars", "issue_number": "#8", "edition_slug": "secret-wars-1984-omnibus", "note": "Spider-Man acquires the alien symbiote costume from a mysterious machine. The black suit that will one day become Venom.", "is_core": true, "phase_slug": "sw84-battleworld"},
+            {"position": 5, "series_title": "Marvel Super Heroes Secret Wars", "issue_number": "#9-10", "edition_slug": "secret-wars-1984-omnibus", "note": "Doom wields godlike power. Galactus attacks. The heroes regroup.", "is_core": true, "phase_slug": "sw84-god-doom"},
+            {"position": 6, "series_title": "Marvel Super Heroes Secret Wars", "issue_number": "#11-12", "edition_slug": "secret-wars-1984-omnibus", "note": "Cap faces God Doom. The Beyonder reclaims his power. Heroes return home changed. The Thing stays behind.", "is_core": true, "phase_slug": "sw84-god-doom"}
+        ]
+    },
+    {
+        "event_slug": "blood-hunt",
+        "context_type": "event",
+        "entries": [
+            {"position": 1, "series_title": "Blood Hunt", "issue_number": "#1", "edition_slug": "blood-hunt", "note": "The sun goes dark. Vampires attack worldwide. Blade is leading them.", "is_core": true, "phase_slug": "bh-the-darkening"},
+            {"position": 2, "series_title": "Blood Hunt", "issue_number": "#2-3", "edition_slug": "blood-hunt", "note": "Heroes fight on multiple fronts. The vampire army is overwhelming.", "is_core": true, "phase_slug": "bh-the-war"},
+            {"position": 3, "series_title": "Strange", "issue_number": "#10", "edition_slug": null, "note": "Doctor Strange's final stand. He falls in battle.", "is_core": false, "phase_slug": "bh-the-war"},
+            {"position": 4, "series_title": "Blood Hunt", "issue_number": "#4-5", "edition_slug": "blood-hunt", "note": "The heroes rally. Blade's corruption is addressed. The vampires are defeated — but the damage is done.", "is_core": true, "phase_slug": "bh-dooms-ascension"},
+            {"position": 5, "series_title": "Doctor Doom", "issue_number": "#1", "edition_slug": "doctor-doom-2024", "note": "Doom claims the title of Sorcerer Supreme. Magic and technology combined. He now has everything he needs to conquer the world.", "is_core": true, "phase_slug": "bh-dooms-ascension"}
+        ]
+    }
+]

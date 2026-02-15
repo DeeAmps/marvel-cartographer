@@ -1,0 +1,1637 @@
+[
+    {
+        "slug": "stan-lee",
+        "name": "Stan Lee",
+        "roles": [
+            "writer",
+            "editor"
+        ],
+        "active_years": "1941-2018",
+        "bio": "Co-creator of the Marvel Universe. Created or co-created the Fantastic Four, Spider-Man, X-Men, Avengers, Thor, Iron Man, Hulk, Daredevil, Doctor Strange, and countless others alongside Jack Kirby and Steve Ditko.",
+        "image_url": null
+    },
+    {
+        "slug": "jack-kirby",
+        "name": "Jack Kirby",
+        "roles": [
+            "artist",
+            "writer"
+        ],
+        "active_years": "1940-1994",
+        "bio": "The King of Comics. Co-creator of the Marvel Universe with Stan Lee. Designed the visual language of superhero comics. Created or co-created the Fantastic Four, Avengers, X-Men, Thor, Captain America, Black Panther, Inhumans, Galactus, Silver Surfer, and more.",
+        "image_url": null
+    },
+    {
+        "slug": "steve-ditko",
+        "name": "Steve Ditko",
+        "roles": [
+            "artist",
+            "writer"
+        ],
+        "active_years": "1953-2018",
+        "bio": "Co-creator of Spider-Man and Doctor Strange. His distinctive, angular art style defined Marvel's street-level and mystical corners.",
+        "image_url": null
+    },
+    {
+        "slug": "chris-claremont",
+        "name": "Chris Claremont",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1974-present",
+        "bio": "Wrote Uncanny X-Men for 16 consecutive years (1975-1991), the longest and most influential run in superhero comics history. Created or co-created Wolverine's backstory, Rogue, Mystique, Emma Frost, Phoenix Saga, Dark Phoenix Saga, Days of Future Past.",
+        "image_url": null
+    },
+    {
+        "slug": "john-byrne",
+        "name": "John Byrne",
+        "roles": [
+            "artist",
+            "writer"
+        ],
+        "active_years": "1974-2004",
+        "bio": "Legendary artist and writer. Defined the X-Men with Claremont, then reinvented the Fantastic Four in a celebrated solo run. Also notable for Superman at DC.",
+        "image_url": null
+    },
+    {
+        "slug": "dave-cockrum",
+        "name": "Dave Cockrum",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1970-2004",
+        "bio": "Designed the All-New, All-Different X-Men team. Co-created Storm, Nightcrawler, Colossus, and the visual identity of the Claremont era.",
+        "image_url": null
+    },
+    {
+        "slug": "jim-starlin",
+        "name": "Jim Starlin",
+        "roles": [
+            "writer",
+            "artist"
+        ],
+        "active_years": "1972-present",
+        "bio": "Creator of Thanos, Gamora, Drax, and the cosmic Marvel mythos. Wrote the definitive Adam Warlock saga and the Infinity Gauntlet trilogy.",
+        "image_url": null
+    },
+    {
+        "slug": "john-romita-sr",
+        "name": "John Romita Sr.",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1949-1996",
+        "bio": "Succeeded Steve Ditko on Amazing Spider-Man and defined the character's classic look. Also served as Marvel's Art Director.",
+        "image_url": null
+    },
+    {
+        "slug": "john-romita-jr",
+        "name": "John Romita Jr.",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1977-present",
+        "bio": "One of Marvel's most prolific artists. Notable runs on Iron Man, Amazing Spider-Man, Uncanny X-Men, and Daredevil.",
+        "image_url": null
+    },
+    {
+        "slug": "gerry-conway",
+        "name": "Gerry Conway",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1969-present",
+        "bio": "Wrote the Death of Gwen Stacy (ASM #121-122), one of comics' most pivotal moments. Also created the Punisher and Firestorm.",
+        "image_url": null
+    },
+    {
+        "slug": "roy-thomas",
+        "name": "Roy Thomas",
+        "roles": [
+            "writer",
+            "editor"
+        ],
+        "active_years": "1965-present",
+        "bio": "Stan Lee's successor as Marvel's editor-in-chief. Wrote the Kree-Skrull War in Avengers. Created or co-created the Vision and brought Conan the Barbarian to Marvel Comics.",
+        "image_url": null
+    },
+    {
+        "slug": "frank-miller",
+        "name": "Frank Miller",
+        "roles": [
+            "writer",
+            "artist"
+        ],
+        "active_years": "1978-present",
+        "bio": "Reinvented Daredevil with his noir-influenced run. Created Elektra and the Born Again storyline. Transformed superhero comics toward darker, more mature storytelling.",
+        "image_url": null
+    },
+    {
+        "slug": "brian-michael-bendis",
+        "name": "Brian Michael Bendis",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1993-present",
+        "bio": "Marvel's chief architect from 2004-2012. Wrote Avengers Disassembled, New Avengers, House of M, Secret Invasion, Siege. Also defined Ultimate Spider-Man and Daredevil.",
+        "image_url": null
+    },
+    {
+        "slug": "jonathan-hickman",
+        "name": "Jonathan Hickman",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2006-present",
+        "bio": "Marvel's grand cosmic architect. His interconnected runs on Fantastic Four, Avengers, and Secret Wars (2015) form the most ambitious single-author narrative in Marvel history. Later reinvented the X-Men with House of X/Powers of X.",
+        "image_url": null
+    },
+    {
+        "slug": "mark-millar",
+        "name": "Mark Millar",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1994-present",
+        "bio": "Wrote Civil War, The Ultimates, and Old Man Logan. Known for high-concept, cinematic storytelling.",
+        "image_url": null
+    },
+    {
+        "slug": "ed-brubaker",
+        "name": "Ed Brubaker",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1993-present",
+        "bio": "Definitive modern Captain America writer. Created the Winter Soldier. Wrote the Death of Captain America. Also notable for Daredevil, Iron Fist, and Criminal.",
+        "image_url": null
+    },
+    {
+        "slug": "walt-simonson",
+        "name": "Walt Simonson",
+        "roles": [
+            "writer",
+            "artist"
+        ],
+        "active_years": "1972-present",
+        "bio": "Definitive Thor creator. His run on Thor introduced Beta Ray Bill, the Surtur Saga, and the Frog of Thunder. Also notable for Fantastic Four.",
+        "image_url": null
+    },
+    {
+        "slug": "roger-stern",
+        "name": "Roger Stern",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1976-present",
+        "bio": "Wrote definitive runs on Amazing Spider-Man and Avengers. Created Hobgoblin and the Avengers Under Siege storyline.",
+        "image_url": null
+    },
+    {
+        "slug": "todd-mcfarlane",
+        "name": "Todd McFarlane",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1984-present",
+        "bio": "Redefined Spider-Man's visual aesthetic with his dynamic, detailed art style. Later co-founded Image Comics and created Spawn.",
+        "image_url": null
+    },
+    {
+        "slug": "david-michelinie",
+        "name": "David Michelinie",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1975-present",
+        "bio": "Wrote iconic Spider-Man and Iron Man runs. Co-created Venom with Todd McFarlane. Wrote Armor Wars and Demon in a Bottle.",
+        "image_url": null
+    },
+    {
+        "slug": "george-perez",
+        "name": "George Pérez",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1974-2019",
+        "bio": "Master of detail and crowd scenes. Definitive Avengers artist alongside Busiek. Also legendary for DC's New Teen Titans and Crisis on Infinite Earths.",
+        "image_url": null
+    },
+    {
+        "slug": "kurt-busiek",
+        "name": "Kurt Busiek",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1982-present",
+        "bio": "Wrote the definitive late-90s Avengers run with George Pérez. Also created Marvels with Alex Ross and Astro City.",
+        "image_url": null
+    },
+    {
+        "slug": "alex-ross",
+        "name": "Alex Ross",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1993-present",
+        "bio": "Photorealistic painter whose work on Marvels and Kingdom Come elevated the visual medium of comics. Known for iconic cover paintings.",
+        "image_url": null
+    },
+    {
+        "slug": "grant-morrison",
+        "name": "Grant Morrison",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1986-present",
+        "bio": "Visionary writer who reinvented the X-Men with New X-Men. Known for ambitious, cerebral storytelling that challenges convention.",
+        "image_url": null
+    },
+    {
+        "slug": "joss-whedon",
+        "name": "Joss Whedon",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2004-2008",
+        "bio": "Brought his TV storytelling sensibility to Astonishing X-Men, widely considered one of the best X-Men runs of the 2000s.",
+        "image_url": null
+    },
+    {
+        "slug": "dan-abnett",
+        "name": "Dan Abnett",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1986-present",
+        "bio": "Half of DnA (with Andy Lanning). Revitalized cosmic Marvel with Annihilation: Conquest, Guardians of the Galaxy, War of Kings, and Thanos Imperative.",
+        "image_url": null
+    },
+    {
+        "slug": "andy-lanning",
+        "name": "Andy Lanning",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1986-present",
+        "bio": "Half of DnA (with Dan Abnett). Co-architect of the cosmic Marvel renaissance that directly influenced the MCU Guardians.",
+        "image_url": null
+    },
+    {
+        "slug": "keith-giffen",
+        "name": "Keith Giffen",
+        "roles": [
+            "writer",
+            "artist"
+        ],
+        "active_years": "1975-2023",
+        "bio": "Architect of the Annihilation event that revitalized cosmic Marvel. Also notable for Justice League at DC.",
+        "image_url": null
+    },
+    {
+        "slug": "al-ewing",
+        "name": "Al Ewing",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2013-present",
+        "bio": "Writer of Immortal Hulk, widely considered the best Hulk run ever. Also notable for Ultimates, Loki: Agent of Asgard, and current cosmic Marvel work.",
+        "image_url": null
+    },
+    {
+        "slug": "donny-cates",
+        "name": "Donny Cates",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2016-present",
+        "bio": "Reinvented Venom with the King in Black saga. Also wrote Thanos Wins and Thor.",
+        "image_url": null
+    },
+    {
+        "slug": "chip-zdarsky",
+        "name": "Chip Zdarsky",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2014-present",
+        "bio": "Writer of the definitive modern Daredevil run and current architect of One World Under Doom and the upcoming Armageddon event.",
+        "image_url": null
+    },
+    {
+        "slug": "mark-waid",
+        "name": "Mark Waid",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1987-present",
+        "bio": "Wrote the definitive modern Fantastic Four with Mike Wieringo. 'Unthinkable' is considered one of Doctor Doom's greatest stories. Also legendary for The Flash and Kingdom Come at DC.",
+        "image_url": null
+    },
+    {
+        "slug": "mike-wieringo",
+        "name": "Mike Wieringo",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1991-2007",
+        "bio": "Dynamic, expressive artist best known for Fantastic Four with Mark Waid and The Flash. Beloved by fans for his kinetic style.",
+        "image_url": null
+    },
+    {
+        "slug": "dale-eaglesham",
+        "name": "Dale Eaglesham",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1994-present",
+        "bio": "Artist on Jonathan Hickman's Fantastic Four. Clean, detailed style suited to cosmic storytelling.",
+        "image_url": null
+    },
+    {
+        "slug": "steve-epting",
+        "name": "Steve Epting",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1989-present",
+        "bio": "Artist on Captain America by Brubaker (Winter Soldier arc) and Hickman's Fantastic Four. Realistic, cinematic style.",
+        "image_url": null
+    },
+    {
+        "slug": "esad-ribic",
+        "name": "Esad Ribic",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1997-present",
+        "bio": "Painted artist on Secret Wars (2015) with Hickman. Epic, sweeping style perfect for cosmic storytelling.",
+        "image_url": null
+    },
+    {
+        "slug": "pepe-larraz",
+        "name": "Pepe Larraz",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2014-present",
+        "bio": "Artist on House of X. Dynamic, detailed style that defined the visual language of the Krakoa era.",
+        "image_url": null
+    },
+    {
+        "slug": "rb-silva",
+        "name": "R.B. Silva",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2010-present",
+        "bio": "Artist on Powers of X. Clean, architectural style that complemented Hickman's structural storytelling.",
+        "image_url": null
+    },
+    {
+        "slug": "steve-mcniven",
+        "name": "Steve McNiven",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1998-present",
+        "bio": "Artist on Civil War, Old Man Logan, and Death of Wolverine. Detailed, cinematic style suited to event comics.",
+        "image_url": null
+    },
+    {
+        "slug": "frank-quitely",
+        "name": "Frank Quitely",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1988-present",
+        "bio": "Visionary artist on New X-Men with Grant Morrison. Unique, detailed style that redefined how X-Men look.",
+        "image_url": null
+    },
+    {
+        "slug": "john-cassaday",
+        "name": "John Cassaday",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1994-present",
+        "bio": "Artist on Astonishing X-Men with Joss Whedon. Clean, cinematic style. Also legendary for Planetary with Warren Ellis.",
+        "image_url": null
+    },
+    {
+        "slug": "dan-slott",
+        "name": "Dan Slott",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1992-present",
+        "bio": "Longest-tenured Amazing Spider-Man writer in history. Created Superior Spider-Man. Also wrote Fantastic Four.",
+        "image_url": null
+    },
+    {
+        "slug": "ryan-north",
+        "name": "Ryan North",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2012-present",
+        "bio": "Current Fantastic Four writer. Acclaimed for balancing humor with cosmic stakes. Also wrote Unbeatable Squirrel Girl.",
+        "image_url": null
+    },
+    {
+        "slug": "nick-spencer",
+        "name": "Nick Spencer",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2009-present",
+        "bio": "Wrote a notable Amazing Spider-Man run addressing the One More Day aftermath. Also known for Secret Empire (Captain America).",
+        "image_url": null
+    },
+    {
+        "slug": "zeb-wells",
+        "name": "Zeb Wells",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2003-present",
+        "bio": "Current Amazing Spider-Man writer. Also notable for New Mutants and Hellions.",
+        "image_url": null
+    },
+    {
+        "slug": "christopher-priest",
+        "name": "Christopher Priest",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1978-present",
+        "bio": "Wrote the definitive Black Panther run. Introduced Everett K. Ross and redefined T'Challa as a political powerhouse.",
+        "image_url": null
+    },
+    {
+        "slug": "jeff-lemire",
+        "name": "Jeff Lemire",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2005-present",
+        "bio": "Wrote the best Moon Knight run, acclaimed for its exploration of mental health. Also notable for Sweet Tooth and Black Hammer.",
+        "image_url": null
+    },
+    {
+        "slug": "garth-ennis",
+        "name": "Garth Ennis",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1989-present",
+        "bio": "Wrote the definitive Punisher MAX series. Known for dark, mature storytelling. Also legendary for Preacher and The Boys.",
+        "image_url": null
+    },
+    {
+        "slug": "john-buscema",
+        "name": "John Buscema",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1948-2001",
+        "bio": "Marvel's workhorse artist. Definitive Silver Surfer and Avengers artist. Drew the original Silver Surfer solo series and decades of Avengers.",
+        "image_url": null
+    },
+    {
+        "slug": "sal-buscema",
+        "name": "Sal Buscema",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1968-2002",
+        "bio": "One of Marvel's most prolific artists. Brother of John Buscema. Notable for Incredible Hulk, Avengers, and Spectacular Spider-Man.",
+        "image_url": null
+    },
+    {
+        "slug": "don-heck",
+        "name": "Don Heck",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1952-1995",
+        "bio": "Early Avengers and Iron Man artist. Co-created Hawkeye, Black Widow, and the original Iron Man armor designs.",
+        "image_url": null
+    },
+    {
+        "slug": "ross-andru",
+        "name": "Ross Andru",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1950-1993",
+        "bio": "Long-tenured Amazing Spider-Man artist during the Conway era. Drew the famous Superman vs. Spider-Man crossover.",
+        "image_url": null
+    },
+    {
+        "slug": "gil-kane",
+        "name": "Gil Kane",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1941-2000",
+        "bio": "Dynamic artist on Amazing Spider-Man and Green Lantern. Known for dramatic action sequences and innovative page layouts.",
+        "image_url": null
+    },
+    {
+        "slug": "ron-lim",
+        "name": "Ron Lim",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1986-present",
+        "bio": "Artist on Infinity Gauntlet and Silver Surfer. Clean, cosmic style perfect for Starlin's cosmic epics.",
+        "image_url": null
+    },
+    {
+        "slug": "jed-mackay",
+        "name": "Jed MacKay",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2017-present",
+        "bio": "Current Avengers writer. Also notable for Moon Knight and Doctor Strange.",
+        "image_url": null
+    },
+    {
+        "slug": "jason-aaron",
+        "name": "Jason Aaron",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2006-present",
+        "bio": "Wrote an extended Avengers run and the Jane Foster Thor saga. Also notable for Southern Bastards and Scalped.",
+        "image_url": null
+    },
+    {
+        "slug": "jim-shooter",
+        "name": "Jim Shooter",
+        "roles": [
+            "writer",
+            "editor"
+        ],
+        "active_years": "1966-1992",
+        "bio": "Marvel's Editor-in-Chief 1978-1987. Wrote Secret Wars and the Korvac Saga. Controversial but oversaw Marvel's commercial peak.",
+        "image_url": null
+    },
+    {
+        "slug": "louise-simonson",
+        "name": "Louise Simonson",
+        "roles": [
+            "writer",
+            "editor"
+        ],
+        "active_years": "1974-present",
+        "bio": "Co-created Power Pack, X-Factor, Apocalypse, and Cable. Wrote New Mutants and X-Factor. Also a key X-Men editor.",
+        "image_url": null
+    },
+    {
+        "slug": "paul-smith",
+        "name": "Paul Smith",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1980-present",
+        "bio": "Artist on Uncanny X-Men during Claremont's run. Clean, elegant style that defined the X-Men in the early 1980s.",
+        "image_url": null
+    },
+    {
+        "slug": "mike-zeck",
+        "name": "Mike Zeck",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1975-present",
+        "bio": "Artist on Kraven's Last Hunt, Secret Wars, and Captain America. Known for dramatic, powerful figure work.",
+        "image_url": null
+    },
+    {
+        "slug": "j-m-dematteis",
+        "name": "J.M. DeMatteis",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1977-present",
+        "bio": "Writer of Kraven's Last Hunt, one of the greatest Spider-Man stories ever told. Also notable for Justice League at DC.",
+        "image_url": null
+    },
+    {
+        "slug": "tom-defalco",
+        "name": "Tom DeFalco",
+        "roles": [
+            "writer",
+            "editor"
+        ],
+        "active_years": "1972-2015",
+        "bio": "Former Marvel Editor-in-Chief (1987-1994) who wrote extensive runs on Amazing Spider-Man and Fantastic Four. DeFalco co-created Spider-Girl, Thunderstrike, and the MC2 universe, and shepherded Marvel through the speculator boom era.",
+        "image_url": null
+    },
+    {
+        "slug": "ann-nocenti",
+        "name": "Ann Nocenti",
+        "roles": [
+            "writer",
+            "editor"
+        ],
+        "active_years": "1983-present",
+        "bio": "Cerebral writer best known for her influential Daredevil run (#236-291) featuring Typhoid Mary and morally complex storytelling. Nocenti also edited many key Marvel titles and wrote notable runs on Longshot and Spider-Man.",
+        "image_url": null
+    },
+    {
+        "slug": "larry-hama",
+        "name": "Larry Hama",
+        "roles": [
+            "writer",
+            "editor",
+            "artist"
+        ],
+        "active_years": "1970-present",
+        "bio": "Legendary writer of Wolverine (1988-1997) who defined Logan's post-Weapon X mythology. Hama also wrote the iconic G.I. Joe: A Real American Hero series for over 150 issues and served as a Marvel editor.",
+        "image_url": null
+    },
+    {
+        "slug": "fabian-nicieza",
+        "name": "Fabian Nicieza",
+        "roles": [
+            "writer",
+            "editor"
+        ],
+        "active_years": "1985-present",
+        "bio": "Co-creator of Deadpool and writer of X-Men, X-Force, and New Warriors during the early 1990s boom. Nicieza co-plotted many classic X-Men crossovers including X-Cutioner's Song, Fatal Attractions, and Age of Apocalypse.",
+        "image_url": null
+    },
+    {
+        "slug": "scott-lobdell",
+        "name": "Scott Lobdell",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1989-present",
+        "bio": "Prolific X-Men writer during the 1990s who helmed Uncanny X-Men and X-Men, co-architecting major crossovers including Age of Apocalypse, Onslaught, and Generation X. His work defined the X-Men for a generation of readers.",
+        "image_url": null
+    },
+    {
+        "slug": "joe-kelly",
+        "name": "Joe Kelly",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1996-present",
+        "bio": "Writer known for his definitive Deadpool run that transformed the character from one-note mercenary to beloved antihero. Kelly also wrote acclaimed runs on Action Comics, JLA, and I Kill Giants (with J.M. Ken Niimura).",
+        "image_url": null
+    },
+    {
+        "slug": "brian-k-vaughan",
+        "name": "Brian K. Vaughan",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1999-present",
+        "bio": "Writer known for Runaways, which introduced a beloved team of teenage heroes, and his acclaimed work on various Marvel titles. Vaughan is better known for creator-owned work (Y: The Last Man, Saga) but his Marvel contributions were significant.",
+        "image_url": null
+    },
+    {
+        "slug": "kieron-gillen",
+        "name": "Kieron Gillen",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2006-present",
+        "bio": "British writer who wrote pivotal X-Men stories including Uncanny X-Men during the Schism era and the Immortal X-Men during the Krakoa era. Gillen is known for cerebral, mythology-rich storytelling in titles like Journey into Mystery (Kid Loki) and Eternals.",
+        "image_url": null
+    },
+    {
+        "slug": "si-spurrier",
+        "name": "Si Spurrier",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2008-present",
+        "bio": "British writer known for inventive, psychologically complex storytelling. Spurrier wrote the definitive Legion series (X-Men Legacy), the acclaimed Way of X during the Krakoa era, and concluded the Krakoa saga with X-Men (2024). His work blends horror, philosophy, and superheroics.",
+        "image_url": null
+    },
+    {
+        "slug": "gerry-duggan",
+        "name": "Gerry Duggan",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2012-present",
+        "bio": "Prolific writer whose extensive Deadpool run with Brian Posehn brought critical acclaim to the character. Duggan wrote the main X-Men title and Marauders during the Krakoa era and had notable runs on Guardians of the Galaxy, Hulk, and Uncanny Avengers.",
+        "image_url": null
+    },
+    {
+        "slug": "benjamin-percy",
+        "name": "Benjamin Percy",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2019-present",
+        "bio": "Novelist turned comics writer who helmed X-Force and Wolverine throughout the entire Krakoa era. Percy brought a thriller/espionage tone to mutant black ops and wrote the definitive Krakoa-era Wolverine, exploring Logan's role in mutant nation security.",
+        "image_url": null
+    },
+    {
+        "slug": "tini-howard",
+        "name": "Tini Howard",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2018-present",
+        "bio": "Writer of Excalibur and Knights of X during the Krakoa era, exploring mutant magic and the Captain Britain Corps. Howard also wrote Catwoman for DC and brought a focus on mysticism and British mythology to the X-Men line.",
+        "image_url": null
+    },
+    {
+        "slug": "leah-williams",
+        "name": "Leah Williams",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2018-present",
+        "bio": "Writer known for her emotional, character-driven work on X-Factor (Krakoa era), which focused on mutant death investigation, and the Trial of Magneto event. Williams brings strong interpersonal drama and LGBTQ+ representation to her Marvel work.",
+        "image_url": null
+    },
+    {
+        "slug": "eve-ewing",
+        "name": "Eve L. Ewing",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2018-present",
+        "bio": "Sociologist and writer who brought literary depth to Ironheart and Champions. Ewing's Ironheart series explored Riri Williams's Chicago roots and identity beyond the armor, earning critical acclaim for its grounded, character-focused storytelling.",
+        "image_url": null
+    },
+    {
+        "slug": "vita-ayala",
+        "name": "Vita Ayala",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2018-present",
+        "bio": "Writer known for New Mutants during the Krakoa era and Children of the Atom. Ayala brings strong character work and representation to their Marvel writing, with a particular skill for ensemble dynamics and young mutant stories.",
+        "image_url": null
+    },
+    {
+        "slug": "dennis-hopeless",
+        "name": "Dennis Hopeless",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2012-present",
+        "bio": "Writer known for Avengers Arena, Spider-Woman, and Cable and X-Force. Hopeless created the fan-favorite Spider-Woman/Jessica Drew single-mother hero dynamic and wrote Avengers Arena, a controversial but compelling take on teen heroes in a Battle Royale scenario.",
+        "image_url": null
+    },
+    {
+        "slug": "charles-soule",
+        "name": "Charles Soule",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2013-present",
+        "bio": "Lawyer turned comics writer known for his runs on She-Hulk, Daredevil, Inhumans, and the Death of Wolverine event. Soule wrote the post-Secret Wars Inhumans push and the Astonishing X-Men run that resurrected Charles Xavier as 'X.'",
+        "image_url": null
+    },
+    {
+        "slug": "matthew-rosenberg",
+        "name": "Matthew Rosenberg",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2016-present",
+        "bio": "Writer known for Secret Warriors, Multiple Man, and the pre-Krakoa Uncanny X-Men run that bridged the Extinction era to House of X. Rosenberg brings a gritty, punk-rock sensibility to his Marvel work, particularly in mutant-related titles.",
+        "image_url": null
+    },
+    {
+        "slug": "greg-pak",
+        "name": "Greg Pak",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2004-present",
+        "bio": "Writer of the acclaimed Planet Hulk and World War Hulk storylines that redefined the Hulk as a cosmic warrior-king. Pak also wrote extensive runs on Incredible Hulks, Agents of Atlas, and co-created Amadeus Cho. His work on Hulk is considered among the character's finest.",
+        "image_url": null
+    },
+    {
+        "slug": "fred-van-lente",
+        "name": "Fred Van Lente",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2005-present",
+        "bio": "Writer known for Marvel Adventures and accessible, fun storytelling. Van Lente co-wrote Incredible Hercules with Greg Pak, one of Marvel's most entertaining series, and wrote notable runs on Power Man and Iron Fist and Archer & Armstrong.",
+        "image_url": null
+    },
+    {
+        "slug": "jeff-parker",
+        "name": "Jeff Parker",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2003-present",
+        "bio": "Writer known for his beloved Agents of Atlas run, which revived obscure Golden and Silver Age characters, and his acclaimed run on Thunderbolts. Parker brings a retro sensibility and genuine warmth to superhero comics.",
+        "image_url": null
+    },
+    {
+        "slug": "christos-gage",
+        "name": "Christos Gage",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2006-present",
+        "bio": "Writer known for his long run on Avengers Academy, which developed young Marvel heroes with depth and nuance. Gage also wrote extensive work on the Buffy comics and notable runs on Avengers: The Initiative and Superior Spider-Man companion series.",
+        "image_url": null
+    },
+    {
+        "slug": "mariko-tamaki",
+        "name": "Mariko Tamaki",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2016-present",
+        "bio": "Award-winning writer known for her She-Hulk and X-23 runs. Tamaki brings literary depth and emotional nuance to superhero storytelling, with her She-Hulk exploring Jennifer Walters's trauma and PTSD in the aftermath of Civil War II.",
+        "image_url": null
+    },
+    {
+        "slug": "rainbow-rowell",
+        "name": "Rainbow Rowell",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2017-present",
+        "bio": "Bestselling novelist who wrote an acclaimed Runaways revival bringing the teen heroes back together. Rowell also wrote She-Hulk with a focus on character-driven, slice-of-life superhero storytelling that emphasized relationships and emotional authenticity.",
+        "image_url": null
+    },
+    {
+        "slug": "nnedi-okorafor",
+        "name": "Nnedi Okorafor",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2017-present",
+        "bio": "Hugo and Nebula Award-winning author who brought Afrofuturist storytelling to Marvel with her Shuri series and Wakanda Forever. Okorafor's work expanded Wakanda's technological and cultural mythology with a distinctly African literary perspective.",
+        "image_url": null
+    },
+    {
+        "slug": "alyssa-wong",
+        "name": "Alyssa Wong",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2020-present",
+        "bio": "Writer known for their work on Doctor Aphra (Star Wars) and Iron Fist. Wong brings fresh perspectives to legacy characters and has written Star Wars comics that earned critical acclaim and expanded representation in the Marvel-published Star Wars line.",
+        "image_url": null
+    },
+    {
+        "slug": "collin-kelly",
+        "name": "Collin Kelly",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2020-present",
+        "bio": "One half of the Kelly/Lanzing writing team, known for Captain America: Sentinel of Liberty and the Kang-related storylines in the post-Judgment Day era. Kelly and Lanzing brought conspiracy-thriller elements to Captain America.",
+        "image_url": null
+    },
+    {
+        "slug": "jackson-lanzing",
+        "name": "Jackson Lanzing",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2020-present",
+        "bio": "One half of the Kelly/Lanzing writing team, co-writing Captain America: Sentinel of Liberty. Lanzing and Kelly developed the outer circle mythology and conspiracy elements that tied into the broader Captain America narrative.",
+        "image_url": null
+    },
+    {
+        "slug": "erica-schultz",
+        "name": "Erica Schultz",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2018-present",
+        "bio": "Writer known for her work on Black Widow and various Marvel anthology stories. Schultz brings espionage and thriller sensibilities to her Marvel work, with a focus on strong female protagonists and morally complex narratives.",
+        "image_url": null
+    },
+    {
+        "slug": "steve-orlando",
+        "name": "Steve Orlando",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2018-present",
+        "bio": "Writer known for Marauders (post-Duggan), Scarlet Witch, and various Marvel titles. Orlando brings an encyclopedic knowledge of continuity and a focus on LGBTQ+ representation to his work, with his Marauders run exploring mutant piracy and diplomacy.",
+        "image_url": null
+    },
+    {
+        "slug": "stephanie-phillips",
+        "name": "Stephanie Phillips",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2020-present",
+        "bio": "Writer known for her work on Cosmic Ghost Rider, Captain America (Sam Wilson era), and various Marvel titles. Phillips brings military history knowledge and character-driven storytelling to superhero narratives.",
+        "image_url": null
+    },
+    {
+        "slug": "declan-shalvey",
+        "name": "Declan Shalvey",
+        "roles": [
+            "artist",
+            "writer"
+        ],
+        "active_years": "2008-present",
+        "bio": "Irish artist and writer known for his striking work on Moon Knight with Warren Ellis, defining the character's modern visual identity. Shalvey has also worked on Deadpool, Venom, and Old Man Logan, and has transitioned into writing with original series.",
+        "image_url": null
+    },
+    {
+        "slug": "jim-lee",
+        "name": "Jim Lee",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1987-present",
+        "bio": "Superstar artist whose X-Men run alongside Chris Claremont produced the best-selling comic of all time (X-Men #1, 1991). Lee's dynamic, highly detailed style defined the 1990s aesthetic. He co-founded Image Comics before moving to DC where he became Co-Publisher.",
+        "image_url": null
+    },
+    {
+        "slug": "rob-liefeld",
+        "name": "Rob Liefeld",
+        "roles": [
+            "artist",
+            "writer"
+        ],
+        "active_years": "1988-present",
+        "bio": "Controversial but influential artist who co-created Deadpool, Cable, and X-Force before co-founding Image Comics. Liefeld's exaggerated, kinetic style defined early 1990s Marvel and he remains a polarizing but historically significant figure in comics.",
+        "image_url": null
+    },
+    {
+        "slug": "marc-silvestri",
+        "name": "Marc Silvestri",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1983-present",
+        "bio": "Artist whose detailed, moody style defined Uncanny X-Men during the late 1980s, including the Fall of the Mutants and Inferno crossovers. Silvestri co-founded Image Comics and created Cyberforce and Witchblade's publisher Top Cow.",
+        "image_url": null
+    },
+    {
+        "slug": "joe-madureira",
+        "name": "Joe Madureira",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1994-present",
+        "bio": "Manga-influenced artist whose Uncanny X-Men run in the mid-1990s brought anime-inspired dynamism to Marvel. Madureira's style on UXM and later Avenging Spider-Man influenced an entire generation of comic artists who blended Western and Japanese aesthetics.",
+        "image_url": null
+    },
+    {
+        "slug": "adam-kubert",
+        "name": "Adam Kubert",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1988-present",
+        "bio": "Son of legendary artist Joe Kubert, known for his powerful linework on Wolverine, Incredible Hulk, and Ultimate X-Men. Adam Kubert has drawn numerous major Marvel events and is one of the industry's most reliable, high-impact artists.",
+        "image_url": null
+    },
+    {
+        "slug": "andy-kubert",
+        "name": "Andy Kubert",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1988-present",
+        "bio": "Son of Joe Kubert and brother of Adam, known for his extensive X-Men work including the original Age of Apocalypse event. Andy Kubert's detailed, classic style has graced Wolverine, Captain America, and numerous Marvel event books.",
+        "image_url": null
+    },
+    {
+        "slug": "chris-bachalo",
+        "name": "Chris Bachalo",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1992-present",
+        "bio": "Distinctive artist known for his stylized, angular approach on Generation X, Uncanny X-Men, Doctor Strange, and Amazing Spider-Man. Bachalo's evolving art style moved from atmospheric Generation X linework to increasingly experimental, dense compositions.",
+        "image_url": null
+    },
+    {
+        "slug": "joe-quesada",
+        "name": "Joe Quesada",
+        "roles": [
+            "artist",
+            "editor"
+        ],
+        "active_years": "1990-present",
+        "bio": "Artist turned Marvel Editor-in-Chief (2000-2011) who oversaw the Marvel Knights initiative and Marvel's creative renaissance. As EIC, Quesada championed Bendis, Millar, and other architects of modern Marvel. As an artist, he drew notable Daredevil covers and the controversial One More Day.",
+        "image_url": null
+    },
+    {
+        "slug": "carlos-pacheco",
+        "name": "Carlos Pacheco",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1993-2022",
+        "bio": "Spanish artist known for his clean, dynamic artwork on Avengers Forever, Fantastic Four, X-Men, and Superman/Batman. Pacheco brought European clarity and grandeur to Marvel's biggest titles. He passed away in 2022, leaving a legacy of iconic Marvel imagery.",
+        "image_url": null
+    },
+    {
+        "slug": "salvador-larroca",
+        "name": "Salvador Larroca",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1995-present",
+        "bio": "Spanish artist known for his extensive run on Invincible Iron Man with Matt Fraction, one of the longest artist-writer partnerships in modern Marvel. Larroca's photorealistic style defined the post-Civil War Iron Man era and he also drew lengthy runs on X-Men and Star Wars.",
+        "image_url": null
+    },
+    {
+        "slug": "humberto-ramos",
+        "name": "Humberto Ramos",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1994-present",
+        "bio": "Mexican artist with an exaggerated, manga-influenced style who has drawn extensive runs on Amazing Spider-Man and various X-Men titles. Ramos's dynamic, cartoony approach brings kinetic energy to action sequences and he is one of Spider-Man's most prolific modern artists.",
+        "image_url": null
+    },
+    {
+        "slug": "mark-bagley",
+        "name": "Mark Bagley",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1984-present",
+        "bio": "One of the fastest and most prolific artists in Marvel history, known for his record-breaking run on Ultimate Spider-Man with Bendis (111 consecutive issues). Bagley has also drawn extensive runs on Amazing Spider-Man, New Warriors, and Thunderbolts.",
+        "image_url": null
+    },
+    {
+        "slug": "sara-pichelli",
+        "name": "Sara Pichelli",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2009-present",
+        "bio": "Italian artist who co-created Miles Morales in Ultimate Comics Spider-Man and defined his visual identity. Pichelli's clean, expressive linework and strong storytelling have made her one of Marvel's most in-demand artists, with additional work on Guardians of the Galaxy and Fantastic Four.",
+        "image_url": null
+    },
+    {
+        "slug": "david-marquez",
+        "name": "David Marquez",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2012-present",
+        "bio": "Artist known for his clean, cinematic style on Ultimate Comics Spider-Man, Invincible Iron Man, and Civil War II. Marquez's detailed, grounded artwork brings a realistic, movie-like quality to superhero comics that has made him a go-to artist for Marvel events.",
+        "image_url": null
+    },
+    {
+        "slug": "valerio-schiti",
+        "name": "Valerio Schiti",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2014-present",
+        "bio": "Italian artist known for his dynamic work on Guardians of the Galaxy, Inferno (Krakoa era), Empyre, and S.W.O.R.D. Schiti brings energetic, expressive linework and strong character acting to cosmic and mutant titles, becoming one of the Krakoa era's defining artists.",
+        "image_url": null
+    },
+    {
+        "slug": "russell-dauterman",
+        "name": "Russell Dauterman",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2014-present",
+        "bio": "Artist whose lush, detailed work on The Mighty Thor with Jason Aaron defined the Jane Foster Thor era. Dauterman's intricate linework, gorgeous costume designs, and stunning action choreography earned him Eisner nominations and made his Thor one of Marvel's most visually stunning runs.",
+        "image_url": null
+    },
+    {
+        "slug": "mike-del-mundo",
+        "name": "Mike Del Mundo",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2013-present",
+        "bio": "Filipino artist known for his stunning painted-style artwork on Avengers, Weirdworld, and Immortal Hulk. Del Mundo's psychedelic, richly colored art brings a fine-art sensibility to superhero comics. His Immortal Hulk work in particular showcased body horror and cosmic dread beautifully.",
+        "image_url": null
+    },
+    {
+        "slug": "mahmud-asrar",
+        "name": "Mahmud Asrar",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2010-present",
+        "bio": "Artist known for his dynamic, clean linework on X-Men (with Brian Wood), All-New All-Different Avengers, and Magnificent Ms. Marvel. Asrar brings a classic superhero aesthetic with modern storytelling sensibility to every project.",
+        "image_url": null
+    },
+    {
+        "slug": "marcus-to",
+        "name": "Marcus To",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2008-present",
+        "bio": "Canadian artist known for his clean, appealing style on Excalibur (Krakoa era), Inferno, and various X-titles. To brings elegant linework and clear storytelling to mutant comics, becoming a key visual contributor to the Krakoa era.",
+        "image_url": null
+    },
+    {
+        "slug": "stefano-caselli",
+        "name": "Stefano Caselli",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2005-present",
+        "bio": "Italian artist known for his work on Avengers: The Initiative, Secret Warriors, and Amazing Spider-Man. Caselli's dynamic, slightly stylized approach brings youthful energy to team books and his character designs are consistently appealing.",
+        "image_url": null
+    },
+    {
+        "slug": "mike-allred",
+        "name": "Mike Allred",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1989-present",
+        "bio": "Pop art-influenced artist known for his retro, clean-lined style on X-Force/X-Statix (with Peter Milligan), FF (with Matt Fraction), and Silver Surfer (with Dan Slott). Allred's distinctive aesthetic channels classic 1960s Marvel while being thoroughly modern.",
+        "image_url": null
+    },
+    {
+        "slug": "david-aja",
+        "name": "David Aja",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2006-present",
+        "bio": "Spanish artist who redefined Hawkeye's visual identity in Matt Fraction's Eisner Award-winning series. Aja's minimalist, design-forward approach and innovative page layouts, including the famous Pizza Dog issue, set a new standard for Marvel visual storytelling. He also drew acclaimed work on Immortal Iron Fist.",
+        "image_url": null
+    },
+    {
+        "slug": "skottie-young",
+        "name": "Skottie Young",
+        "roles": [
+            "artist",
+            "writer"
+        ],
+        "active_years": "2003-present",
+        "bio": "Artist and writer known for his distinctive chibi-style Marvel baby variant covers and his adaptation of L. Frank Baum's Oz books. Young also wrote Deadpool and Strange Academy, bringing his irreverent humor and distinctive art style to Marvel's creative landscape.",
+        "image_url": null
+    },
+    {
+        "slug": "adrian-alphona",
+        "name": "Adrian Alphona",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2003-present",
+        "bio": "Canadian artist who co-created the Runaways with Brian K. Vaughan and later defined the visual identity of Ms. Marvel (Kamala Khan) with G. Willow Wilson. Alphona's expressive, slightly cartoonish style is full of visual gags and environmental detail.",
+        "image_url": null
+    },
+    {
+        "slug": "jamie-mckelvie",
+        "name": "Jamie McKelvie",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2006-present",
+        "bio": "British artist known for his clean, fashion-forward style on Young Avengers with Kieron Gillen and co-designing Kamala Khan's Ms. Marvel costume. McKelvie's design work has been enormously influential on Marvel's visual identity for younger heroes.",
+        "image_url": null
+    },
+    {
+        "slug": "patrick-gleason",
+        "name": "Patrick Gleason",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1994-present",
+        "bio": "Artist known for his highly detailed, expressive work on Amazing Spider-Man (with Zeb Wells) and various Marvel titles. Gleason brings dynamic page layouts and a strong sense of horror and emotion to superhero comics, with a style that balances detail with clear storytelling.",
+        "image_url": null
+    },
+    {
+        "slug": "ryan-stegman",
+        "name": "Ryan Stegman",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2009-present",
+        "bio": "Artist who co-defined the Venom renaissance with Donny Cates, drawing the series through Absolute Carnage and King in Black. Stegman's muscular, horror-tinged style brought visceral energy to the symbiote mythology and he also drew Superior Spider-Man.",
+        "image_url": null
+    },
+    {
+        "slug": "iban-coello",
+        "name": "Iban Coello",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2016-present",
+        "bio": "Spanish artist known for his work on Venom, Immortal X-Men, and various Marvel titles. Coello's clean, dynamic linework and strong character designs have made him a regular contributor to Marvel's top books, with particular skill at large-scale action sequences.",
+        "image_url": null
+    },
+    {
+        "slug": "phil-noto",
+        "name": "Phil Noto",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1998-present",
+        "bio": "Artist known for his distinctive painted style on Black Widow, Jonesy, and Star Wars. Noto's elegant, realistic approach brings a sophisticated, fine-art quality to Marvel comics. His Black Widow work with Nathan Edmondson and Kelly Thompson is particularly celebrated.",
+        "image_url": null
+    },
+    {
+        "slug": "david-lopez",
+        "name": "David Lopez",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2002-present",
+        "bio": "Spanish artist known for his clean, expressive work on Captain Marvel, Fallen Angels, and various X-titles. Lopez brings strong character acting and clear storytelling to superhero comics, with a particularly notable collaboration on Kelly Sue DeConnick's Captain Marvel.",
+        "image_url": null
+    },
+    {
+        "slug": "kev-walker",
+        "name": "Kev Walker",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1990-present",
+        "bio": "British artist known for his dark, detailed work on Thunderbolts, Avengers Arena, and Doctor Strange. Walker's heavy inks and atmospheric approach bring gravitas to team books and horror-adjacent stories, making him a perfect fit for Marvel's grittier titles.",
+        "image_url": null
+    },
+    {
+        "slug": "nick-bradshaw",
+        "name": "Nick Bradshaw",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2010-present",
+        "bio": "Artist known for his incredibly detailed, Arthur Adams-influenced style on Wolverine and the X-Men, where his hyperdetailed backgrounds and expressive characters perfectly matched the series' chaotic energy. Bradshaw also drew notable work on Guardians of the Galaxy.",
+        "image_url": null
+    },
+    {
+        "slug": "takeshi-miyazawa",
+        "name": "Takeshi Miyazawa",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2002-present",
+        "bio": "Japanese-Canadian artist known for his manga-influenced style on Ms. Marvel (Kamala Khan) and Runaways. Miyazawa's clean, expressive artwork helped define Kamala Khan's visual world and he brings authentic manga sensibility to Marvel's art roster.",
+        "image_url": null
+    },
+    {
+        "slug": "fiona-staples",
+        "name": "Fiona Staples",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2006-present",
+        "bio": "Canadian artist best known for co-creating Saga (with Brian K. Vaughan). Her Marvel work includes acclaimed covers and interior work that showcases her distinctive painted style. Staples is one of the most sought-after artists in comics.",
+        "image_url": null
+    },
+    {
+        "slug": "greg-capullo",
+        "name": "Greg Capullo",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1988-present",
+        "bio": "Artist known for his early Marvel work on X-Force and Quasar before becoming famous for his Batman run with Scott Snyder at DC. Capullo's X-Force work alongside Fabian Nicieza was a defining visual of the early 1990s Marvel era.",
+        "image_url": null
+    },
+    {
+        "slug": "alex-maleev",
+        "name": "Alex Maleev",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1998-present",
+        "bio": "Bulgarian artist known for his dark, photo-referenced style on Daredevil with Bendis, which defined the gritty, noir aesthetic of the Marvel Knights era. Maleev's moody, atmospheric work on Moon Knight, Spider-Woman, and Infamous Iron Man further cemented his reputation.",
+        "image_url": null
+    },
+    {
+        "slug": "olivier-coipel",
+        "name": "Olivier Coipel",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2001-present",
+        "bio": "French artist known for his elegant, powerful work on House of M, Thor, Siege, and Amazing Spider-Man. Coipel's clean European style brings grandeur to Marvel events and his Thor work alongside J. Michael Straczynski was visually defining.",
+        "image_url": null
+    },
+    {
+        "slug": "mike-mignola",
+        "name": "Mike Mignola",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1983-present",
+        "bio": "Artist known for his distinctive high-contrast, shadow-heavy style on Rocket Raccoon, Cosmic Odyssey, and the Alpha Flight feature before creating Hellboy. Mignola's Marvel work, particularly his X-Force and Hulk covers, showcased the style that would make him a comics legend.",
+        "image_url": null
+    },
+    {
+        "slug": "terry-dodson",
+        "name": "Terry Dodson",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1993-present",
+        "bio": "Artist known for his glamorous, dynamic figure work on Uncanny X-Men, Spider-Man/Black Cat, and Adventurers. Dodson, often inking with his wife Rachel, brings a polished, energetic style to superhero comics with strong character designs and clear action storytelling.",
+        "image_url": null
+    },
+    {
+        "slug": "ron-garney",
+        "name": "Ron Garney",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1992-present",
+        "bio": "Artist known for his powerful, muscular style on Captain America, Wolverine, and Daredevil. Garney's Captain America work with Mark Waid during the Heroes Reborn Return era was particularly acclaimed, and his Daredevil with Charles Soule showcased a grittier approach.",
+        "image_url": null
+    },
+    {
+        "slug": "alan-davis",
+        "name": "Alan Davis",
+        "roles": [
+            "artist",
+            "writer"
+        ],
+        "active_years": "1980-present",
+        "bio": "British artist and writer known for his defining work on Captain Britain, Excalibur, and Uncanny X-Men. Davis's clean, powerful linework and strong storytelling defined the Captain Britain mythos with his ClanDestine series. He drew numerous X-Men titles across three decades.",
+        "image_url": null
+    },
+    {
+        "slug": "joe-bennett",
+        "name": "Joe Bennett",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1994-2021",
+        "bio": "Brazilian artist known for his detailed, powerful artwork on Immortal Hulk with Al Ewing, creating some of the most disturbing and memorable body horror imagery in Marvel history. Bennett's Hulk work was acclaimed for its horror-comic approach to superhero storytelling.",
+        "image_url": null
+    },
+    {
+        "slug": "bryan-hitch",
+        "name": "Bryan Hitch",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1987-present",
+        "bio": "British artist who pioneered the widescreen, cinematic approach to superhero comics with The Ultimates alongside Mark Millar. Hitch's photorealistic, epic-scale artwork directly influenced the MCU's visual language and he set the template for modern superhero event art.",
+        "image_url": null
+    },
+    {
+        "slug": "j-scott-campbell",
+        "name": "J. Scott Campbell",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1994-present",
+        "bio": "Artist known for his stylized, dynamic cover work and his run on Amazing Spider-Man. Campbell's pin-up influenced style and prolific variant cover production have made him one of the most commercially successful Marvel cover artists of the modern era.",
+        "image_url": null
+    },
+    {
+        "slug": "tradd-moore",
+        "name": "Tradd Moore",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2013-present",
+        "bio": "Artist known for his wildly psychedelic, Kirby-inspired art on All-New Ghost Rider, Silver Surfer: Black, and Doctor Strange. Moore's cosmic, flowing linework on Silver Surfer: Black (with Donny Cates) is considered one of the most visually inventive Marvel comics of the decade.",
+        "image_url": null
+    },
+    {
+        "slug": "matteo-scalera",
+        "name": "Matteo Scalera",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "2011-present",
+        "bio": "Italian artist known for his energetic, expressionistic style on Secret Avengers and various Marvel projects. Scalera brings loose, kinetic linework to superhero action that distinguishes his work from more polished Marvel house styles.",
+        "image_url": null
+    },
+    {
+        "slug": "j-michael-straczynski",
+        "name": "J. Michael Straczynski",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2001-present",
+        "bio": "TV veteran (Babylon 5) who wrote acclaimed runs on Amazing Spider-Man (including the controversial One More Day/Sins Past) and Thor. Straczynski's Spider-Man introduced the mystic totem mythology and his Thor restored Asgard on Earth in Broxton, Oklahoma.",
+        "image_url": null
+    },
+    {
+        "slug": "peter-milligan",
+        "name": "Peter Milligan",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1985-present",
+        "bio": "British writer known for the radical X-Force/X-Statix reinvention (with Mike Allred) that turned the X-book into a celebrity satire. Milligan's irreverent, literary approach also produced notable runs on Hellstorm and Human Target, consistently challenging superhero conventions.",
+        "image_url": null
+    },
+    {
+        "slug": "steve-englehart",
+        "name": "Steve Englehart",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1971-1990",
+        "bio": "Writer known for defining runs on Captain America, Avengers, and Doctor Strange in the 1970s. Englehart's Avengers run introduced the Celestial Madonna saga and Mantis, while his Captain America explored political corruption. He set the template for complex Marvel superhero storytelling.",
+        "image_url": null
+    },
+    {
+        "slug": "marc-guggenheim",
+        "name": "Marc Guggenheim",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2006-present",
+        "bio": "Writer and TV showrunner known for his work on Amazing Spider-Man (Brand New Day era), Young X-Men, and Jackpot. Guggenheim co-created the TV series Arrow and brings a screenwriter's pacing sensibility to his Marvel comics work.",
+        "image_url": null
+    },
+    {
+        "slug": "matt-kindt",
+        "name": "Matt Kindt",
+        "roles": [
+            "writer",
+            "artist"
+        ],
+        "active_years": "2013-present",
+        "bio": "Writer and artist known for his espionage-flavored work on MIND MGMT. His Marvel work includes notable contributions to titles blending spy-craft with superheroics. Kindt brings an indie sensibility and intricate plotting to mainstream comics.",
+        "image_url": null
+    },
+    {
+        "slug": "jonathan-maberry",
+        "name": "Jonathan Maberry",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2010-present",
+        "bio": "Horror novelist who wrote Marvel Zombies Return, Punisher: Nightmare, and Captain America: Hail Hydra. Maberry brings prose horror expertise to Marvel comics, particularly effective in the publisher's darker supernatural titles.",
+        "image_url": null
+    },
+    {
+        "slug": "peter-tomasi",
+        "name": "Peter J. Tomasi",
+        "roles": [
+            "writer",
+            "editor"
+        ],
+        "active_years": "1985-present",
+        "bio": "Writer and former editor known for his work across both Marvel and DC. At Marvel, Tomasi worked as an editor on multiple titles and has contributed writing to various projects, bringing editorial insight to narrative storytelling.",
+        "image_url": null
+    },
+    {
+        "slug": "mike-carey",
+        "name": "Mike Carey",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2004-2013",
+        "bio": "British writer known for his long X-Men Legacy run that focused on Professor Xavier and Rogue. Carey also wrote the acclaimed Age of X alternate reality story and Ultimate Fantastic Four. His X-Men work explored continuity and character with literary sophistication.",
+        "image_url": null
+    },
+    {
+        "slug": "daniel-way",
+        "name": "Daniel Way",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2004-2014",
+        "bio": "Writer known for his long Deadpool run that helped popularize the character, as well as extensive Wolverine: Origins and Ghost Rider work. Way's Deadpool brought irreverent humor to the forefront and contributed to the character's mainstream breakout.",
+        "image_url": null
+    },
+    {
+        "slug": "len-wein",
+        "name": "Len Wein",
+        "roles": [
+            "writer",
+            "editor"
+        ],
+        "active_years": "1968-2017",
+        "bio": "Co-creator of Wolverine (with John Romita Sr.) and writer of Giant-Size X-Men #1 (1975), which introduced the All-New, All-Different X-Men team including Storm, Nightcrawler, Colossus, and Thunderbird. Also co-created Swamp Thing at DC. Served as a pivotal editor at both Marvel and DC. His contributions to the X-Men franchise are foundational — without Giant-Size X-Men #1, the entire Claremont era would not exist.",
+        "image_url": null
+    },
+    {
+        "slug": "peter-david",
+        "name": "Peter David",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1985-present",
+        "bio": "Author of one of the longest and most acclaimed Hulk runs in history (1987-1998), which explored Bruce Banner's dissociative identity disorder and introduced the Gray Hulk/Joe Fixit and Professor Hulk personas. Also created X-Factor Investigations, the Spider-Man 2099 series, and wrote acclaimed runs on Aquaman and Supergirl. Known for wit, psychological depth, and long-form character development.",
+        "image_url": null
+    },
+    {
+        "slug": "matt-fraction",
+        "name": "Matt Fraction",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2003-present",
+        "bio": "Writer of the Eisner Award-winning Hawkeye (2012) with David Aja, which redefined how superhero comics could look and feel. Also wrote acclaimed runs on Invincible Iron Man (introducing Pepper Potts as Rescue), Immortal Iron Fist (with Ed Brubaker), and FF. Co-wrote Fear Itself and was one of the five writers of Avengers vs. X-Men.",
+        "image_url": null
+    },
+    {
+        "slug": "kelly-sue-deconnick",
+        "name": "Kelly Sue DeConnick",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2009-present",
+        "bio": "Defined the modern Captain Marvel by writing Carol Danvers' transition from Ms. Marvel to Captain Marvel, launching the passionate 'Carol Corps' fandom that helped fuel the MCU film. Her runs on Captain Marvel and Avengers Assemble brought literary ambition and feminist themes to Marvel's cosmic and Avengers books.",
+        "image_url": null
+    },
+    {
+        "slug": "g-willow-wilson",
+        "name": "G. Willow Wilson",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2012-present",
+        "bio": "Creator of Kamala Khan / Ms. Marvel, one of the most significant new Marvel characters of the 2010s. Wilson's Ms. Marvel (2014) won the Hugo Award for Best Graphic Story and became a cultural landmark as the first Muslim superhero to headline a Marvel series. Also wrote an acclaimed run on Wonder Woman at DC.",
+        "image_url": null
+    },
+    {
+        "slug": "warren-ellis",
+        "name": "Warren Ellis",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "1990-present",
+        "bio": "British writer known for cerebral, high-concept reinventions of Marvel characters. His Nextwave: Agents of H.A.T.E. is a beloved satire of superhero comics. His Moon Knight run established the 'Mr. Knight' identity. Also wrote acclaimed runs on Thunderbolts (introducing the team-as-villains concept that fed into Dark Reign), Karnak, Astonishing X-Men, and Iron Man: Extremis (which directly inspired the MCU film).",
+        "image_url": null
+    },
+    {
+        "slug": "rick-remender",
+        "name": "Rick Remender",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2008-present",
+        "bio": "Writer of the critically acclaimed Uncanny X-Force (2010-2012), widely considered one of the best X-Men runs of the 2010s, featuring Wolverine's kill squad dealing with the moral weight of preemptive assassination. Also wrote Uncanny Avengers, Venom (Flash Thompson era), and Captain America. Known for dark, psychologically complex storytelling.",
+        "image_url": null
+    },
+    {
+        "slug": "tom-king",
+        "name": "Tom King",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2014-present",
+        "bio": "Former CIA officer turned comics writer. His Vision (2015-2016) limited series, about the android Avenger building a synthetic family in suburban Virginia, is one of the most critically acclaimed Marvel comics of the decade. Also wrote acclaimed runs on Batman, Mister Miracle, and Supergirl at DC.",
+        "image_url": null
+    },
+    {
+        "slug": "kelly-thompson",
+        "name": "Kelly Thompson",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2016-present",
+        "bio": "Writer of acclaimed runs on Hawkeye (Kate Bishop), Jessica Jones, Captain Marvel, and Black Widow. Her Black Widow run reinvented Natasha's status quo. Thompson has become one of Marvel's most reliable and versatile writers, handling both street-level and cosmic-scale stories with equal skill.",
+        "image_url": null
+    },
+    {
+        "slug": "ta-nehisi-coates",
+        "name": "Ta-Nehisi Coates",
+        "roles": [
+            "writer"
+        ],
+        "active_years": "2016-2021",
+        "bio": "National Book Award-winning author who brought literary weight to Black Panther with a run that explored Wakandan democracy, revolution, and the philosophical implications of a superhero king. His Black Panther run (2016-2021) was one of Marvel's most politically ambitious works. Also wrote Captain America.",
+        "image_url": null
+    },
+    {
+        "slug": "herb-trimpe",
+        "name": "Herb Trimpe",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1966-2015",
+        "bio": "The artist who drew the first appearance of Wolverine in Incredible Hulk #181 (1974), one of the most valuable and iconic comic book issues ever published. Trimpe was the definitive Incredible Hulk artist for nearly a decade, establishing the visual language of the character. He also drew early issues of Marvel's licensed properties including G.I. Joe.",
+        "image_url": null
+    },
+    {
+        "slug": "gene-colan",
+        "name": "Gene Colan",
+        "roles": [
+            "artist"
+        ],
+        "active_years": "1944-2010",
+        "bio": "One of Marvel's most distinctive artists, known for atmospheric, shadow-drenched artwork that defined Daredevil and Tomb of Dracula. His Tomb of Dracula collaboration with writer Marv Wolfman is one of the greatest horror comics ever created. Also drew iconic runs on Iron Man, Captain America, and Doctor Strange. His fluid, cinematic style was decades ahead of its time.",
+        "image_url": null
+    },
+    {
+        "slug": "jim-steranko",
+        "name": "Jim Steranko",
+        "roles": [
+            "writer",
+            "artist"
+        ],
+        "active_years": "1966-present",
+        "bio": "Revolutionary artist and writer whose Nick Fury: Agent of S.H.I.E.L.D. run in Strange Tales and its own title (1966-1968) was one of the most visually innovative works in comics history, incorporating pop art, op art, surrealism, and graphic design into superhero storytelling. His brief Captain America run introduced psychedelic visual techniques. Steranko's work influenced generations of artists and filmmakers despite producing relatively few comics pages.",
+        "image_url": null
+    }
+]

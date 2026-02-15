@@ -1,0 +1,5168 @@
+{
+  "total_editions": 1322,
+  "confirmed_correct": 576,
+  "changes_needed": 238,
+  "no_signal": 508,
+  "changes": [
+    {
+      "id": "005905fd-68b6-4ab4-a760-0afb6e4b9ff9",
+      "slug": "infamous-iron-man",
+      "title": "Infamous Iron Man",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "known_run"
+    },
+    {
+      "id": "00aba041-43b2-433d-8efa-724c128ac710",
+      "slug": "gambit-omnibus",
+      "title": "Gambit Classic Omnibus",
+      "current_era": "heroes-reborn-return",
+      "current_era_name": "Heroes Reborn & Return",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "issues_year"
+    },
+    {
+      "id": "045154c2-371a-4311-9ccd-17230301f90e",
+      "slug": "infinity-war-crusade",
+      "title": "Infinity War/Crusade Omnibus",
+      "current_era": "event-age",
+      "current_era_name": "The Event Age",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "known_run"
+    },
+    {
+      "id": "04be51d9-0ad7-4383-b975-f187e839e44f",
+      "slug": "phoenix-2024",
+      "title": "Phoenix by Stephanie Phillips",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "05860cea-99e1-45f4-aa8e-b6e2d0209854",
+      "slug": "asm-omnibus-v2",
+      "title": "Amazing Spider-Man Omnibus Vol. 2",
+      "current_era": "the-expansion",
+      "current_era_name": "The Expansion",
+      "correct_era": "birth-of-marvel",
+      "correct_era_name": "The Birth of Marvel",
+      "correct_era_id": "eb1a7d39-e8d3-41f1-9ec2-74e2ec3d3be6",
+      "method": "known_run"
+    },
+    {
+      "id": "05e1a71b-0e13-4919-a262-f60c2cc4ad9c",
+      "slug": "uncanny-x-men-simone-2024",
+      "title": "Uncanny X-Men by Gail Simone (2024)",
+      "current_era": "current-ongoings",
+      "current_era_name": "Current Ongoings",
+      "correct_era": "blood-hunt-doom",
+      "correct_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era_id": "93f854fe-cd0a-4070-9a30-1f671374200e",
+      "method": "known_run"
+    },
+    {
+      "id": "064ec091-0b4e-4fa2-88b6-8a1ca0e6c0e5",
+      "slug": "x-factor-original-omnibus",
+      "title": "X-Factor Omnibus Vol. 1 (Original)",
+      "current_era": "rise-of-x-men",
+      "current_era_name": "The Rise of the X-Men",
+      "correct_era": "event-age",
+      "correct_era_name": "The Event Age",
+      "correct_era_id": "93f0e7e8-0cc2-4f06-9090-6ad14520bece",
+      "method": "known_run"
+    },
+    {
+      "id": "0a7c6221-c53a-46d6-a232-a98f7e60c66a",
+      "slug": "daredevil-nocenti-omnibus",
+      "title": "Daredevil by Ann Nocenti Omnibus",
+      "current_era": "rise-of-x-men",
+      "current_era_name": "The Rise of the X-Men",
+      "correct_era": "event-age",
+      "correct_era_name": "The Event Age",
+      "correct_era_id": "93f0e7e8-0cc2-4f06-9090-6ad14520bece",
+      "method": "known_run"
+    },
+    {
+      "id": "0abdd02c-4fc8-4b0c-a496-7127e3ac7568",
+      "slug": "captain-america-white",
+      "title": "Captain America: White",
+      "current_era": "hickman-saga",
+      "current_era_name": "The Hickman Saga",
+      "correct_era": "all-new-all-different",
+      "correct_era_name": "All-New All-Different Marvel",
+      "correct_era_id": "e8879226-9a97-4fdb-a2d8-484a3579385d",
+      "method": "known_run"
+    },
+    {
+      "id": "0e1729be-b95c-4a53-a110-12b871ba37cc",
+      "slug": "ultimate-ff-omnibus-v2",
+      "title": "Ultimate Fantastic Four Omnibus Vol. 2",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "birth-of-marvel",
+      "correct_era_name": "The Birth of Marvel",
+      "correct_era_id": "eb1a7d39-e8d3-41f1-9ec2-74e2ec3d3be6",
+      "method": "known_run"
+    },
+    {
+      "id": "0e9af18a-5aaf-42bd-b78b-a3db9bd1378b",
+      "slug": "web-of-spider-man-omnibus-v2",
+      "title": "Web of Spider-Man Omnibus Vol. 2",
+      "current_era": "event-age",
+      "current_era_name": "The Event Age",
+      "correct_era": "rise-of-x-men",
+      "correct_era_name": "The Rise of the X-Men",
+      "correct_era_id": "49fd3e6f-0cd3-48f5-abbe-7c90e59acfa6",
+      "method": "known_run"
+    },
+    {
+      "id": "0ef7313c-8e45-4002-9b2e-086dbf1782c2",
+      "slug": "avengers-rage-of-ultron",
+      "title": "Avengers: Rage of Ultron",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "known_run"
+    },
+    {
+      "id": "106a7b11-3e3c-49e6-8734-bb648a11e1a1",
+      "slug": "thor-aaron-omnibus-v2",
+      "title": "Thor by Jason Aaron Omnibus Vol. 2",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "known_run"
+    },
+    {
+      "id": "116f1f95-e26c-4741-b417-60c964e43038",
+      "slug": "ms-marvel-original-omnibus",
+      "title": "Ms. Marvel: The Original Years Omnibus",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "rise-of-x-men",
+      "correct_era_name": "The Rise of the X-Men",
+      "correct_era_id": "49fd3e6f-0cd3-48f5-abbe-7c90e59acfa6",
+      "method": "known_run"
+    },
+    {
+      "id": "11a66acf-282e-4b57-b433-2a2a05465946",
+      "slug": "agents-of-atlas-pak-2019",
+      "title": "Agents of Atlas by Greg Pak (2019)",
+      "current_era": "dawn-of-krakoa",
+      "current_era_name": "The Dawn of Krakoa",
+      "correct_era": "bendis-avengers",
+      "correct_era_name": "The Bendis Avengers Era",
+      "correct_era_id": "dfdb0620-290e-42c7-876a-cf3fec5001b3",
+      "method": "known_run"
+    },
+    {
+      "id": "11e79981-d719-4972-bb11-c6d3e38958f4",
+      "slug": "spider-man-2099-david-complete-v1",
+      "title": "Spider-Man 2099 by Peter David: The Complete Collection Vol. 1",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "issues_year"
+    },
+    {
+      "id": "13931016-ae93-425c-a521-9d2c9d6d2c3a",
+      "slug": "asm-omnibus-v3",
+      "title": "Amazing Spider-Man Omnibus Vol. 3",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "the-expansion",
+      "correct_era_name": "The Expansion",
+      "correct_era_id": "a9fe2453-0328-4e72-88ac-01d5cbdef337",
+      "method": "known_run"
+    },
+    {
+      "id": "164cc6c7-bace-4efc-9c7d-ae53b57dbbf0",
+      "slug": "ff-omnibus-v3",
+      "title": "Fantastic Four Omnibus Vol. 3",
+      "current_era": "the-expansion",
+      "current_era_name": "The Expansion",
+      "correct_era": "birth-of-marvel",
+      "correct_era_name": "The Birth of Marvel",
+      "correct_era_id": "eb1a7d39-e8d3-41f1-9ec2-74e2ec3d3be6",
+      "method": "known_run"
+    },
+    {
+      "id": "1699fa56-051e-460d-9fe5-26fa0f947b0c",
+      "slug": "life-and-death-of-captain-marvel",
+      "title": "The Life and Death of Captain Marvel",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "rise-of-x-men",
+      "correct_era_name": "The Rise of the X-Men",
+      "correct_era_id": "49fd3e6f-0cd3-48f5-abbe-7c90e59acfa6",
+      "method": "known_run"
+    },
+    {
+      "id": "17c0f410-3596-4c9f-912d-7a9f226bd456",
+      "slug": "captain-marvel-ksd",
+      "title": "Captain Marvel by Kelly Sue DeConnick",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "issues_year"
+    },
+    {
+      "id": "19e419d9-0bcb-4586-81bc-a060ccae8203",
+      "slug": "squadron-supreme-death-of-universe",
+      "title": "Squadron Supreme: Death of a Universe",
+      "current_era": "event-age",
+      "current_era_name": "The Event Age",
+      "correct_era": "rise-of-x-men",
+      "correct_era_name": "The Rise of the X-Men",
+      "correct_era_id": "49fd3e6f-0cd3-48f5-abbe-7c90e59acfa6",
+      "method": "known_run"
+    },
+    {
+      "id": "1c18ac1e-f2d6-479e-9eb3-09ecce92fedd",
+      "slug": "pmif-epic-v3-doombringer",
+      "title": "Power Man and Iron Fist Epic Collection: Doombringer",
+      "current_era": "rise-of-x-men",
+      "current_era_name": "The Rise of the X-Men",
+      "correct_era": "bronze-age",
+      "correct_era_name": "The Bronze Age",
+      "correct_era_id": "70d862f6-720f-46f0-ac11-b3171abd44c6",
+      "method": "known_run"
+    },
+    {
+      "id": "1c8c2319-33bf-42f8-9afc-249c61fc819c",
+      "slug": "alien-pkj",
+      "title": "Alien by Phillip Kennedy Johnson",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "1ddc92d6-1ba9-4a1b-a558-80a54028d768",
+      "slug": "tales-of-suspense-omnibus-v2",
+      "title": "Iron Man Omnibus Vol. 2",
+      "current_era": "birth-of-marvel",
+      "current_era_name": "The Birth of Marvel",
+      "correct_era": "the-expansion",
+      "correct_era_name": "The Expansion",
+      "correct_era_id": "a9fe2453-0328-4e72-88ac-01d5cbdef337",
+      "method": "known_run"
+    },
+    {
+      "id": "1e18b65d-eb9e-43d8-bdc7-3fcbde1fa846",
+      "slug": "web-of-spider-man-classic-omnibus",
+      "title": "Web of Spider-Man Omnibus Vol. 1",
+      "current_era": "event-age",
+      "current_era_name": "The Event Age",
+      "correct_era": "rise-of-x-men",
+      "correct_era_name": "The Rise of the X-Men",
+      "correct_era_id": "49fd3e6f-0cd3-48f5-abbe-7c90e59acfa6",
+      "method": "known_run"
+    },
+    {
+      "id": "1ea55356-e433-483d-b1d7-7ebe9b2cb004",
+      "slug": "avengers-omnibus-v3",
+      "title": "Avengers Omnibus Vol. 3",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "the-expansion",
+      "correct_era_name": "The Expansion",
+      "correct_era_id": "a9fe2453-0328-4e72-88ac-01d5cbdef337",
+      "method": "known_run"
+    },
+    {
+      "id": "20416cc5-07e7-46b4-9c9e-6103503c092e",
+      "slug": "dd-bendis-maleev-v2",
+      "title": "Daredevil by Bendis & Maleev Omnibus Vol. 2",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "known_run"
+    },
+    {
+      "id": "20a0d2a9-7573-4fe4-9918-2c8d381acd05",
+      "slug": "heroes-reborn-avengers-complete",
+      "title": "Heroes Reborn: Avengers Complete",
+      "current_era": "heroes-reborn-return",
+      "current_era_name": "Heroes Reborn & Return",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "21cf891e-ebb0-41f4-81de-84d2eb61ffee",
+      "slug": "dd-kevin-smith",
+      "title": "Daredevil by Kevin Smith: Guardian Devil",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "heroes-reborn-return",
+      "correct_era_name": "Heroes Reborn & Return",
+      "correct_era_id": "2b73f22c-6333-4928-97ba-78477e5acffe",
+      "method": "issues_year"
+    },
+    {
+      "id": "2218c195-062f-4984-b9ce-436b3a54ea0b",
+      "slug": "darkhold-omega-2021",
+      "title": "Darkhold: Pages from the Book of Sins (2021)",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "2270d86b-2d54-4fe5-aa2c-1414b1c5633e",
+      "slug": "cap-coates",
+      "title": "Captain America by Ta-Nehisi Coates",
+      "current_era": "dawn-of-krakoa",
+      "current_era_name": "The Dawn of Krakoa",
+      "correct_era": "all-new-all-different",
+      "correct_era_name": "All-New All-Different Marvel",
+      "correct_era_id": "e8879226-9a97-4fdb-a2d8-484a3579385d",
+      "method": "known_run"
+    },
+    {
+      "id": "22a06ac2-c3fa-4211-b400-a83aa56389a2",
+      "slug": "silver-surfer-slott",
+      "title": "Silver Surfer by Dan Slott",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "known_run"
+    },
+    {
+      "id": "2541b8c4-4c68-4022-8498-22c2494d7334",
+      "slug": "namor-epic-v4-titans-three",
+      "title": "Namor, the Sub-Mariner Epic Collection: Titans Three",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "birth-of-marvel",
+      "correct_era_name": "The Birth of Marvel",
+      "correct_era_id": "eb1a7d39-e8d3-41f1-9ec2-74e2ec3d3be6",
+      "method": "known_run"
+    },
+    {
+      "id": "26428e73-a762-49ce-a1e5-212262381337",
+      "slug": "silver-surfer-omnibus-v3-englehart",
+      "title": "Silver Surfer Omnibus Vol. 3 (Englehart/Lim)",
+      "current_era": "rise-of-x-men",
+      "current_era_name": "The Rise of the X-Men",
+      "correct_era": "event-age",
+      "correct_era_name": "The Event Age",
+      "correct_era_id": "93f0e7e8-0cc2-4f06-9090-6ad14520bece",
+      "method": "known_run"
+    },
+    {
+      "id": "276f55ac-7e97-4c48-beed-15b2755b8a3e",
+      "slug": "spider-woman-omnibus",
+      "title": "Spider-Woman Omnibus",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "rise-of-x-men",
+      "correct_era_name": "The Rise of the X-Men",
+      "correct_era_id": "49fd3e6f-0cd3-48f5-abbe-7c90e59acfa6",
+      "method": "known_run"
+    },
+    {
+      "id": "28f706c9-b393-4ddd-b62f-c1c791739ff7",
+      "slug": "taskmaster-complete",
+      "title": "Taskmaster Complete Collection",
+      "current_era": "dawn-of-krakoa",
+      "current_era_name": "The Dawn of Krakoa",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "issues_year"
+    },
+    {
+      "id": "293e5872-e492-4101-bc8d-b7aee29b3207",
+      "slug": "ultimate-spider-man-hickman-v2",
+      "title": "Ultimate Spider-Man By Jonathan Hickman Vol. 2",
+      "current_era": "current-ongoings",
+      "current_era_name": "Current Ongoings",
+      "correct_era": "blood-hunt-doom",
+      "correct_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era_id": "93f854fe-cd0a-4070-9a30-1f671374200e",
+      "method": "known_run"
+    },
+    {
+      "id": "2963da24-9904-47c6-90c1-02288d6aade2",
+      "slug": "elektra-by-frank-miller",
+      "title": "Elektra by Frank Miller Omnibus",
+      "current_era": "event-age",
+      "current_era_name": "The Event Age",
+      "correct_era": "rise-of-x-men",
+      "correct_era_name": "The Rise of the X-Men",
+      "correct_era_id": "49fd3e6f-0cd3-48f5-abbe-7c90e59acfa6",
+      "method": "known_run"
+    },
+    {
+      "id": "2ace8c72-efc8-4540-981b-b8cd812ffa99",
+      "slug": "namor-epic-v3-who-strikes-atlantis",
+      "title": "Namor, the Sub-Mariner Epic Collection: Who Strikes for Atlantis?",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "birth-of-marvel",
+      "correct_era_name": "The Birth of Marvel",
+      "correct_era_id": "eb1a7d39-e8d3-41f1-9ec2-74e2ec3d3be6",
+      "method": "known_run"
+    },
+    {
+      "id": "2b164f7b-27a2-429c-81f1-d798ba762b4c",
+      "slug": "one-world-under-doom",
+      "title": "One World Under Doom",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "current-ongoings",
+      "correct_era_name": "Current Ongoings",
+      "correct_era_id": "c4bffdc6-c943-432e-9b61-6b51387076bb",
+      "method": "known_run"
+    },
+    {
+      "id": "2b81168f-9e72-46d2-b4eb-6252e03eec0e",
+      "slug": "avengers-disassembled",
+      "title": "Avengers Disassembled",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "known_run"
+    },
+    {
+      "id": "2c4e1c75-100e-41f9-95f7-c13354935b58",
+      "slug": "ff-omnibus-v4",
+      "title": "Fantastic Four Omnibus Vol. 4",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "the-expansion",
+      "correct_era_name": "The Expansion",
+      "correct_era_id": "a9fe2453-0328-4e72-88ac-01d5cbdef337",
+      "method": "known_run"
+    },
+    {
+      "id": "2c7c4854-c817-467d-a99c-827e28f29f08",
+      "slug": "asm-zeb-wells-v4",
+      "title": "Amazing Spider-Man by Zeb Wells Vol. 4",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "2d42ab33-c876-4d51-bcf0-23a2daa385dd",
+      "slug": "conan-barbarian-omnibus-v1",
+      "title": "Conan the Barbarian: The Original Marvel Years Omnibus Vol. 1",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "the-expansion",
+      "correct_era_name": "The Expansion",
+      "correct_era_id": "a9fe2453-0328-4e72-88ac-01d5cbdef337",
+      "method": "known_run"
+    },
+    {
+      "id": "2e1d2418-dc79-40ec-be77-d4a7b10a7d23",
+      "slug": "defenders-fraction",
+      "title": "Defenders by Matt Fraction",
+      "current_era": "hickman-saga",
+      "current_era_name": "The Hickman Saga",
+      "correct_era": "bendis-avengers",
+      "correct_era_name": "The Bendis Avengers Era",
+      "correct_era_id": "dfdb0620-290e-42c7-876a-cf3fec5001b3",
+      "method": "issues_year"
+    },
+    {
+      "id": "2e92f601-dcd8-4150-a358-7ea589873d53",
+      "slug": "heroes-reborn-return-omnibus",
+      "title": "Heroes Reborn: The Return Omnibus",
+      "current_era": "heroes-reborn-return",
+      "current_era_name": "Heroes Reborn & Return",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "2ecd83ea-f034-49d6-8a21-f76b68c6b00b",
+      "slug": "wolverine-hama-omnibus-v2",
+      "title": "Wolverine by Larry Hama Omnibus Vol. 2",
+      "current_era": "speculation-crash",
+      "current_era_name": "The Speculation Crash",
+      "correct_era": "event-age",
+      "correct_era_name": "The Event Age",
+      "correct_era_id": "93f0e7e8-0cc2-4f06-9090-6ad14520bece",
+      "method": "issues_year"
+    },
+    {
+      "id": "31015d39-94f9-4076-963a-8657585a1a9c",
+      "slug": "new-warriors-classic-omnibus-v1",
+      "title": "New Warriors Classic Omnibus Vol. 1",
+      "current_era": "rise-of-x-men",
+      "current_era_name": "The Rise of the X-Men",
+      "correct_era": "event-age",
+      "correct_era_name": "The Event Age",
+      "correct_era_id": "93f0e7e8-0cc2-4f06-9090-6ad14520bece",
+      "method": "known_run"
+    },
+    {
+      "id": "325545a4-fa77-4c6b-b836-a99757f266fa",
+      "slug": "ultimate-spider-man-hickman-v1",
+      "title": "Ultimate Spider-Man By Jonathan Hickman Vol. 1",
+      "current_era": "current-ongoings",
+      "current_era_name": "Current Ongoings",
+      "correct_era": "blood-hunt-doom",
+      "correct_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era_id": "93f854fe-cd0a-4070-9a30-1f671374200e",
+      "method": "known_run"
+    },
+    {
+      "id": "33714d68-16b6-4e2f-ae45-49948d2479af",
+      "slug": "generation-x-2017",
+      "title": "Generation X (2017)",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "33782bba-c973-471b-bcde-806fa1f818dc",
+      "slug": "dd-modern-epic-king-hells-kitchen",
+      "title": "Daredevil Modern Era Epic Collection: King of Hell's Kitchen",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "heroes-reborn-return",
+      "correct_era_name": "Heroes Reborn & Return",
+      "correct_era_id": "2b73f22c-6333-4928-97ba-78477e5acffe",
+      "method": "issues_year"
+    },
+    {
+      "id": "3660a579-8792-48ed-af3b-4644732dfde3",
+      "slug": "secret-avengers-ales-kot",
+      "title": "Secret Avengers by Ales Kot",
+      "current_era": "hickman-saga",
+      "current_era_name": "The Hickman Saga",
+      "correct_era": "bendis-avengers",
+      "correct_era_name": "The Bendis Avengers Era",
+      "correct_era_id": "dfdb0620-290e-42c7-876a-cf3fec5001b3",
+      "method": "known_run"
+    },
+    {
+      "id": "3862a96d-6b6b-47f5-a894-905a77ea4d7d",
+      "slug": "cap-epic-v5-secret-empire",
+      "title": "Captain America Epic Collection: The Secret Empire",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "all-new-all-different",
+      "correct_era_name": "All-New All-Different Marvel",
+      "correct_era_id": "e8879226-9a97-4fdb-a2d8-484a3579385d",
+      "method": "known_run"
+    },
+    {
+      "id": "38c0e378-a8ce-4fa0-9cd5-ee5b98e73505",
+      "slug": "nyx-x23-origin",
+      "title": "NYX / X-23: Innocence Lost",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "blood-hunt-doom",
+      "correct_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era_id": "93f854fe-cd0a-4070-9a30-1f671374200e",
+      "method": "known_run"
+    },
+    {
+      "id": "38e5526e-3201-437a-b53e-2ab722055878",
+      "slug": "gang-war",
+      "title": "Amazing Spider-Man: Gang War",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "issues_year"
+    },
+    {
+      "id": "392a9bdf-cfc3-4cff-a5c5-066f27b32b40",
+      "slug": "thanos-infinity-trilogy-starlin",
+      "title": "Thanos: The Infinity Siblings/Ending/Conflict Trilogy",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "known_run"
+    },
+    {
+      "id": "3ad1e537-15fd-43ee-ae79-b4322e5b0426",
+      "slug": "the-twelve-jms",
+      "title": "The Twelve",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "known_run"
+    },
+    {
+      "id": "3e0757f3-8a7a-4c00-823a-45ce5639dbe5",
+      "slug": "dazzler-loo-2024",
+      "title": "Dazzler by Jason Loo (2024)",
+      "current_era": "current-ongoings",
+      "current_era_name": "Current Ongoings",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "title_year"
+    },
+    {
+      "id": "3e977984-c5dc-4cf1-b1bd-d89c65a5c451",
+      "slug": "luke-cage-power-man-iron-fist-epic-v1",
+      "title": "Power Man and Iron Fist Epic Collection: Heroes for Hire",
+      "current_era": "rise-of-x-men",
+      "current_era_name": "The Rise of the X-Men",
+      "correct_era": "bronze-age",
+      "correct_era_name": "The Bronze Age",
+      "correct_era_id": "70d862f6-720f-46f0-ac11-b3171abd44c6",
+      "method": "known_run"
+    },
+    {
+      "id": "40a11eee-de43-4cd5-a93b-3fc6af77dc46",
+      "slug": "dark-x-men-foxe-2024",
+      "title": "Dark X-Men by Steve Foxe (2024 - From the Ashes)",
+      "current_era": "current-ongoings",
+      "current_era_name": "Current Ongoings",
+      "correct_era": "blood-hunt-doom",
+      "correct_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era_id": "93f854fe-cd0a-4070-9a30-1f671374200e",
+      "method": "title_year"
+    },
+    {
+      "id": "40ba2ddf-9cd0-4d79-8a74-2a1b619fae96",
+      "slug": "wolverine-enemy-of-state",
+      "title": "Wolverine: Enemy of the State",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "issues_year"
+    },
+    {
+      "id": "423aec3b-ca08-4624-9743-08990f3788f2",
+      "slug": "x-force-thorne-2024",
+      "title": "X-Force by Geoffrey Thorne (2024)",
+      "current_era": "current-ongoings",
+      "current_era_name": "Current Ongoings",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "title_year"
+    },
+    {
+      "id": "429b0491-0240-483d-8c1b-5bea62240b57",
+      "slug": "avengers-johns-omnibus",
+      "title": "Avengers by Geoff Johns Omnibus",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "heroes-reborn-return",
+      "correct_era_name": "Heroes Reborn & Return",
+      "correct_era_id": "2b73f22c-6333-4928-97ba-78477e5acffe",
+      "method": "issues_year"
+    },
+    {
+      "id": "43352786-e1c7-49d7-acf6-5d4780dcfd5b",
+      "slug": "doctor-strange-mackay-2023",
+      "title": "Doctor Strange by Jed MacKay (2023)",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "title_year"
+    },
+    {
+      "id": "459c6d99-bb8d-4ad6-a363-9c2340c8639b",
+      "slug": "marvel-horror-compendium",
+      "title": "Marvel Horror Compendium",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "the-expansion",
+      "correct_era_name": "The Expansion",
+      "correct_era_id": "a9fe2453-0328-4e72-88ac-01d5cbdef337",
+      "method": "known_run"
+    },
+    {
+      "id": "4643acae-2e02-43a5-a2b4-4993558b3124",
+      "slug": "predator-last-hunt",
+      "title": "Predator: The Last Hunt",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "issues_year"
+    },
+    {
+      "id": "481753e6-0d12-428c-a9e1-b05fb4e0b77f",
+      "slug": "wolverine-hama-omnibus-v1",
+      "title": "Wolverine by Larry Hama Omnibus Vol. 1",
+      "current_era": "speculation-crash",
+      "current_era_name": "The Speculation Crash",
+      "correct_era": "event-age",
+      "correct_era_name": "The Event Age",
+      "correct_era_id": "93f0e7e8-0cc2-4f06-9090-6ad14520bece",
+      "method": "issues_year"
+    },
+    {
+      "id": "498fb216-73cd-410c-b27e-394adac9c369",
+      "slug": "scarlet-witch-orlando-v2",
+      "title": "Scarlet Witch by Steve Orlando Vol. 2",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "4bb4b04b-568c-4f18-86ee-61c3eafb8728",
+      "slug": "sub-mariner-omnibus-v2",
+      "title": "Sub-Mariner Omnibus Vol. 2",
+      "current_era": "the-expansion",
+      "current_era_name": "The Expansion",
+      "correct_era": "birth-of-marvel",
+      "correct_era_name": "The Birth of Marvel",
+      "correct_era_id": "eb1a7d39-e8d3-41f1-9ec2-74e2ec3d3be6",
+      "method": "known_run"
+    },
+    {
+      "id": "4ccbe668-4b71-48e8-a76f-1d76caa325a8",
+      "slug": "squadron-supreme-weisman",
+      "title": "Squadron Supreme by James Robinson",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "rise-of-x-men",
+      "correct_era_name": "The Rise of the X-Men",
+      "correct_era_id": "49fd3e6f-0cd3-48f5-abbe-7c90e59acfa6",
+      "method": "known_run"
+    },
+    {
+      "id": "4ea931db-bd8b-48b7-ac15-39b1824d97eb",
+      "slug": "premier-old-man-logan",
+      "title": "Marvel Premier Collection: Wolverine \u2014 Old Man Logan",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "event-age",
+      "correct_era_name": "The Event Age",
+      "correct_era_id": "93f0e7e8-0cc2-4f06-9090-6ad14520bece",
+      "method": "issues_year"
+    },
+    {
+      "id": "500bd312-7339-45b6-a4cb-8130755db51e",
+      "slug": "shang-chi-yang-2021",
+      "title": "Shang-Chi by Gene Luen Yang (2021)",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "51e41e7b-9b69-4c82-a13d-9df0f17deb4a",
+      "slug": "deadpool-epic-v4-dead-reckoning",
+      "title": "Deadpool Epic Collection: Dead Reckoning",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "heroes-reborn-return",
+      "correct_era_name": "Heroes Reborn & Return",
+      "correct_era_id": "2b73f22c-6333-4928-97ba-78477e5acffe",
+      "method": "issues_year"
+    },
+    {
+      "id": "5236d838-eb06-4a54-bb3d-7ab019a0bf78",
+      "slug": "x-force-epic-v8-armageddon-now",
+      "title": "X-Force Epic Collection: Armageddon Now",
+      "current_era": "heroes-reborn-return",
+      "current_era_name": "Heroes Reborn & Return",
+      "correct_era": "current-ongoings",
+      "correct_era_name": "Current Ongoings",
+      "correct_era_id": "c4bffdc6-c943-432e-9b61-6b51387076bb",
+      "method": "known_run"
+    },
+    {
+      "id": "52cbe65f-3231-4749-ade0-0250824cda84",
+      "slug": "infinity-wars-duggan",
+      "title": "Infinity Wars by Gerry Duggan",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "known_run"
+    },
+    {
+      "id": "54bc5656-fe4d-4087-b874-64b978f62abb",
+      "slug": "thing-slott",
+      "title": "The Thing by Dan Slott",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "bendis-avengers",
+      "correct_era_name": "The Bendis Avengers Era",
+      "correct_era_id": "dfdb0620-290e-42c7-876a-cf3fec5001b3",
+      "method": "issues_year"
+    },
+    {
+      "id": "55d508a7-7cf9-4e1b-975c-841d0dc007f2",
+      "slug": "amazing-spider-man-omnibus-v3-conway",
+      "title": "Amazing Spider-Man Omnibus Vol. 3 (Conway/Kane)",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "the-expansion",
+      "correct_era_name": "The Expansion",
+      "correct_era_id": "a9fe2453-0328-4e72-88ac-01d5cbdef337",
+      "method": "known_run"
+    },
+    {
+      "id": "5726d667-9bb8-4550-858e-e3bee427bed5",
+      "slug": "secret-wars-ii",
+      "title": "Secret Wars II",
+      "current_era": "event-age",
+      "current_era_name": "The Event Age",
+      "correct_era": "rise-of-x-men",
+      "correct_era_name": "The Rise of the X-Men",
+      "correct_era_id": "49fd3e6f-0cd3-48f5-abbe-7c90e59acfa6",
+      "method": "known_run"
+    },
+    {
+      "id": "59cbe110-bef5-4afc-b61f-17129bf40235",
+      "slug": "infinity-crusade-omnibus",
+      "title": "Infinity Crusade Omnibus",
+      "current_era": "event-age",
+      "current_era_name": "The Event Age",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "5a087593-0bbb-4707-9cb8-be67535dd47a",
+      "slug": "genx-epic-v4-pride-and-penance",
+      "title": "Generation X Epic Collection: Pride and Penance",
+      "current_era": "heroes-reborn-return",
+      "current_era_name": "Heroes Reborn & Return",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "5a323984-a11a-47a9-8f07-e73347105587",
+      "slug": "dd-shadowland-omnibus",
+      "title": "Daredevil: Shadowland Omnibus",
+      "current_era": "hickman-saga",
+      "current_era_name": "The Hickman Saga",
+      "correct_era": "bendis-avengers",
+      "correct_era_name": "The Bendis Avengers Era",
+      "correct_era_id": "dfdb0620-290e-42c7-876a-cf3fec5001b3",
+      "method": "known_run"
+    },
+    {
+      "id": "5b503cc7-438c-4002-8fd2-5fbc5ab6a4b6",
+      "slug": "ms-marvel-wilson",
+      "title": "Ms. Marvel by G. Willow Wilson",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "known_run"
+    },
+    {
+      "id": "5bafd9d9-30cd-40a0-94ef-86d14aaa04f0",
+      "slug": "gwenpool-strikes-back",
+      "title": "Gwenpool Strikes Back",
+      "current_era": "dawn-of-krakoa",
+      "current_era_name": "The Dawn of Krakoa",
+      "correct_era": "all-new-all-different",
+      "correct_era_name": "All-New All-Different Marvel",
+      "correct_era_id": "e8879226-9a97-4fdb-a2d8-484a3579385d",
+      "method": "known_run"
+    },
+    {
+      "id": "5c4b2616-9355-47ad-8825-b6c5bea8baf3",
+      "slug": "iron-man-omnibus-v2",
+      "title": "Iron Man Omnibus Vol. 2",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "the-expansion",
+      "correct_era_name": "The Expansion",
+      "correct_era_id": "a9fe2453-0328-4e72-88ac-01d5cbdef337",
+      "method": "known_run"
+    },
+    {
+      "id": "5f7539bc-ad2e-4f8c-93a2-25dca71bc2e4",
+      "slug": "avengers-kang-dynasty-omnibus",
+      "title": "Avengers: The Kang Dynasty Omnibus",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "heroes-reborn-return",
+      "correct_era_name": "Heroes Reborn & Return",
+      "correct_era_id": "2b73f22c-6333-4928-97ba-78477e5acffe",
+      "method": "issues_year"
+    },
+    {
+      "id": "6083e57a-58a6-4d18-bd37-d15d87f4bc8c",
+      "slug": "ff-omnibus-v5",
+      "title": "Fantastic Four Omnibus Vol. 5",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "the-expansion",
+      "correct_era_name": "The Expansion",
+      "correct_era_id": "a9fe2453-0328-4e72-88ac-01d5cbdef337",
+      "method": "known_run"
+    },
+    {
+      "id": "60ee568b-c033-4a8a-b0b3-08d8a8c827f6",
+      "slug": "thor-gronbekk",
+      "title": "Thor by Torunn Gronbekk",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "issues_year"
+    },
+    {
+      "id": "61037ac2-95d9-426e-9bd4-850d777b3e9b",
+      "slug": "avengers-omnibus-v3-thomas",
+      "title": "Avengers Omnibus Vol. 3 (Thomas)",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "the-expansion",
+      "correct_era_name": "The Expansion",
+      "correct_era_id": "a9fe2453-0328-4e72-88ac-01d5cbdef337",
+      "method": "known_run"
+    },
+    {
+      "id": "61b5cab5-06a4-49e7-910b-279c351ddee6",
+      "slug": "avengers-vs-x-men",
+      "title": "Avengers vs. X-Men",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "known_run"
+    },
+    {
+      "id": "62355992-67d1-4e86-9f90-0ccf83732a20",
+      "slug": "marvels-snapshots",
+      "title": "Marvels Snapshots",
+      "current_era": "dawn-of-krakoa",
+      "current_era_name": "The Dawn of Krakoa",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "62a67741-a0f7-4594-bc5d-b2cd34dc2ae0",
+      "slug": "dark-web-zeb-wells",
+      "title": "Dark Web by Zeb Wells",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "issues_year"
+    },
+    {
+      "id": "6536ad43-d37d-4f87-adff-19b31dfc7d56",
+      "slug": "dd-man-without-fear",
+      "title": "Daredevil: The Man Without Fear",
+      "current_era": "event-age",
+      "current_era_name": "The Event Age",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "65ce21d8-6a18-4b96-94af-7cac3ee5a8da",
+      "slug": "immortal-thor-ewing-v2",
+      "title": "Immortal Thor by Al Ewing Vol. 2",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "66a7ec76-c00c-423e-9b0e-4469afb35ef2",
+      "slug": "new-avengers-omnibus-v1",
+      "title": "New Avengers Omnibus Vol. 1",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "birth-of-marvel",
+      "correct_era_name": "The Birth of Marvel",
+      "correct_era_id": "eb1a7d39-e8d3-41f1-9ec2-74e2ec3d3be6",
+      "method": "known_run"
+    },
+    {
+      "id": "670c5348-4e06-4214-bc29-14919cc72dc2",
+      "slug": "new-avengers-illuminati-miniseries",
+      "title": "New Avengers: Illuminati Complete",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "known_run"
+    },
+    {
+      "id": "67d02413-4dd1-4f74-91c0-2d146ee5b9fe",
+      "slug": "fear-itself",
+      "title": "Fear Itself",
+      "current_era": "hickman-saga",
+      "current_era_name": "The Hickman Saga",
+      "correct_era": "bendis-avengers",
+      "correct_era_name": "The Bendis Avengers Era",
+      "correct_era_id": "dfdb0620-290e-42c7-876a-cf3fec5001b3",
+      "method": "known_run"
+    },
+    {
+      "id": "69682b99-f74f-4780-b64a-e518c7bb5393",
+      "slug": "premier-cap-winter-soldier",
+      "title": "Marvel Premier Collection: Captain America \u2014 The Winter Soldier",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "issues_year"
+    },
+    {
+      "id": "6cc8117c-08ff-442f-8d68-6eba056839a7",
+      "slug": "wolverine-aaron-omnibus-v1",
+      "title": "Wolverine By Jason Aaron Omnibus Vol. 1",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "issues_year"
+    },
+    {
+      "id": "6d48bc0f-a77a-4dbb-88a4-d9d83d894085",
+      "slug": "marvel-knights-spider-man-millar",
+      "title": "Marvel Knights: Spider-Man by Millar & Dodson",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "heroes-reborn-return",
+      "correct_era_name": "Heroes Reborn & Return",
+      "correct_era_id": "2b73f22c-6333-4928-97ba-78477e5acffe",
+      "method": "known_run"
+    },
+    {
+      "id": "6f6aef34-5b52-4ab3-975c-07aa05168a5b",
+      "slug": "new-thunderbolts-omnibus",
+      "title": "New Thunderbolts Omnibus",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "bendis-avengers",
+      "correct_era_name": "The Bendis Avengers Era",
+      "correct_era_id": "dfdb0620-290e-42c7-876a-cf3fec5001b3",
+      "method": "issues_year"
+    },
+    {
+      "id": "6fb2a523-925c-4a29-ac2b-99658c49a5b9",
+      "slug": "heroes-reborn-americas-mightiest",
+      "title": "Heroes Reborn: America's Mightiest Heroes Omnibus",
+      "current_era": "heroes-reborn-return",
+      "current_era_name": "Heroes Reborn & Return",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "70e2cf22-a4a6-4a1e-bd00-4c633571639c",
+      "slug": "spider-woman-pacheco",
+      "title": "Spider-Woman by Dennis Hopeless & Javier Rodriguez",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "issues_year"
+    },
+    {
+      "id": "70f451cc-2eae-40b9-a0f2-60c2d067731b",
+      "slug": "what-if-classic-complete-v1",
+      "title": "What If? Classic Complete Collection Vol. 1",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "rise-of-x-men",
+      "correct_era_name": "The Rise of the X-Men",
+      "correct_era_id": "49fd3e6f-0cd3-48f5-abbe-7c90e59acfa6",
+      "method": "known_run"
+    },
+    {
+      "id": "7193ff51-802a-460b-a604-090adbe1eee5",
+      "slug": "ultimate-invasion",
+      "title": "Ultimate Invasion",
+      "current_era": "current-ongoings",
+      "current_era_name": "Current Ongoings",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "724f5d4c-41bc-49ed-af68-2eb2140d02c9",
+      "slug": "ff-millar-hitch-omnibus",
+      "title": "Fantastic Four by Millar & Hitch Omnibus",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "heroes-reborn-return",
+      "correct_era_name": "Heroes Reborn & Return",
+      "correct_era_id": "2b73f22c-6333-4928-97ba-78477e5acffe",
+      "method": "issues_year"
+    },
+    {
+      "id": "732bab48-9946-4ba2-845e-0010f8abe062",
+      "slug": "uncanny-x-men-simone-v2",
+      "title": "Uncanny X-Men by Gail Simone Vol. 2",
+      "current_era": "current-ongoings",
+      "current_era_name": "Current Ongoings",
+      "correct_era": "blood-hunt-doom",
+      "correct_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era_id": "93f854fe-cd0a-4070-9a30-1f671374200e",
+      "method": "known_run"
+    },
+    {
+      "id": "73722915-6734-49d0-8fcc-8260e03420d4",
+      "slug": "black-panther-2024",
+      "title": "Black Panther by Eve L. Ewing",
+      "current_era": "current-ongoings",
+      "current_era_name": "Current Ongoings",
+      "correct_era": "blood-hunt-doom",
+      "correct_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era_id": "93f854fe-cd0a-4070-9a30-1f671374200e",
+      "method": "issues_year"
+    },
+    {
+      "id": "7387569d-699e-40f5-a6bf-bb1b06a44bcf",
+      "slug": "spider-girl-may-parker-v1",
+      "title": "Spider-Girl (May Parker) Complete Collection Vol. 1",
+      "current_era": "heroes-reborn-return",
+      "current_era_name": "Heroes Reborn & Return",
+      "correct_era": "event-age",
+      "correct_era_name": "The Event Age",
+      "correct_era_id": "93f0e7e8-0cc2-4f06-9090-6ad14520bece",
+      "method": "issues_year"
+    },
+    {
+      "id": "7494b481-b112-4d1d-9f77-fcff73ced7f8",
+      "slug": "pmif-epic-v4-hardball",
+      "title": "Power Man and Iron Fist Epic Collection: Hardball",
+      "current_era": "rise-of-x-men",
+      "current_era_name": "The Rise of the X-Men",
+      "correct_era": "bronze-age",
+      "correct_era_name": "The Bronze Age",
+      "correct_era_id": "70d862f6-720f-46f0-ac11-b3171abd44c6",
+      "method": "known_run"
+    },
+    {
+      "id": "7571b1e9-3b27-477d-9cb0-793b862f104e",
+      "slug": "timeless-mackay",
+      "title": "Timeless by Jed MacKay",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "76b2aa2b-6ee6-461c-9765-abac49217cff",
+      "slug": "agent-venom-complete-v1",
+      "title": "Venom by Rick Remender Complete Collection Vol. 1",
+      "current_era": "hickman-saga",
+      "current_era_name": "The Hickman Saga",
+      "correct_era": "bendis-avengers",
+      "correct_era_name": "The Bendis Avengers Era",
+      "correct_era_id": "dfdb0620-290e-42c7-876a-cf3fec5001b3",
+      "method": "issues_year"
+    },
+    {
+      "id": "781beadd-4bc3-4a07-9514-6a851ee70820",
+      "slug": "dd-miller-companion",
+      "title": "Daredevil By Frank Miller Omnibus Companion",
+      "current_era": "event-age",
+      "current_era_name": "The Event Age",
+      "correct_era": "rise-of-x-men",
+      "correct_era_name": "The Rise of the X-Men",
+      "correct_era_id": "49fd3e6f-0cd3-48f5-abbe-7c90e59acfa6",
+      "method": "known_run"
+    },
+    {
+      "id": "79b0a2b9-291c-48a2-bea9-c87ca4a22382",
+      "slug": "ds-epic-v10-infinity-war",
+      "title": "Doctor Strange Epic Collection: Infinity War",
+      "current_era": "event-age",
+      "current_era_name": "The Event Age",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "known_run"
+    },
+    {
+      "id": "7a2e349b-b76d-4111-a8ab-792b4843674c",
+      "slug": "xmen-xfactor-peter-david-v2",
+      "title": "X-Factor by Peter David Omnibus Vol. 2",
+      "current_era": "event-age",
+      "current_era_name": "The Event Age",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "7a54d18d-5223-4346-a070-43b81c5d3db4",
+      "slug": "thor-lee-kirby-omnibus-v2",
+      "title": "The Mighty Thor Omnibus Vol. 2 (Lee/Kirby)",
+      "current_era": "the-expansion",
+      "current_era_name": "The Expansion",
+      "correct_era": "birth-of-marvel",
+      "correct_era_name": "The Birth of Marvel",
+      "correct_era_id": "eb1a7d39-e8d3-41f1-9ec2-74e2ec3d3be6",
+      "method": "known_run"
+    },
+    {
+      "id": "7aebe1f8-2f9d-4ed5-a5d4-89fd89a6ca97",
+      "slug": "new-avengers-ewing-aim",
+      "title": "New Avengers: A.I.M. by Al Ewing",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "known_run"
+    },
+    {
+      "id": "7b4dd5fa-a25f-4cac-bcba-f1072d8ee751",
+      "slug": "inhumans-jenkins-lee",
+      "title": "Inhumans",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "heroes-reborn-return",
+      "correct_era_name": "Heroes Reborn & Return",
+      "correct_era_id": "2b73f22c-6333-4928-97ba-78477e5acffe",
+      "method": "issues_year"
+    },
+    {
+      "id": "7cde1855-a215-4368-b0be-86b68afdc89b",
+      "slug": "new-avengers-illuminati",
+      "title": "New Avengers: Illuminati",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "known_run"
+    },
+    {
+      "id": "7e41bea6-b4c9-41fc-8e3c-79354f9c181f",
+      "slug": "xmen-1991-omnibus-v2",
+      "title": "X-Men (1991) Omnibus Vol. 2",
+      "current_era": "speculation-crash",
+      "current_era_name": "The Speculation Crash",
+      "correct_era": "event-age",
+      "correct_era_name": "The Event Age",
+      "correct_era_id": "93f0e7e8-0cc2-4f06-9090-6ad14520bece",
+      "method": "title_year"
+    },
+    {
+      "id": "7f26a7b9-8154-41c3-9832-b60d2724672e",
+      "slug": "iron-fist-heart-of-dragon",
+      "title": "Iron Fist: Heart of the Dragon",
+      "current_era": "dawn-of-krakoa",
+      "current_era_name": "The Dawn of Krakoa",
+      "correct_era": "bronze-age",
+      "correct_era_name": "The Bronze Age",
+      "correct_era_id": "70d862f6-720f-46f0-ac11-b3171abd44c6",
+      "method": "known_run"
+    },
+    {
+      "id": "7f3bf1dd-dc58-440c-88ad-2a095163a8fb",
+      "slug": "secret-warriors-omnibus",
+      "title": "Secret Warriors Omnibus",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "known_run"
+    },
+    {
+      "id": "81748fba-2871-43c2-be05-19c482d1e3f5",
+      "slug": "ff-ryan-north-v2",
+      "title": "Fantastic Four by Ryan North Vol. 2",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "82250416-7cf8-44e6-8ca7-3009afbc66e0",
+      "slug": "asm-jms-omnibus-v2",
+      "title": "Amazing Spider-Man by J. Michael Straczynski Omnibus Vol. 2",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "known_run"
+    },
+    {
+      "id": "82c90844-7fa7-425b-ad76-166d8389feff",
+      "slug": "dd-modern-epic-underboss",
+      "title": "Daredevil Modern Era Epic Collection: Underboss",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "heroes-reborn-return",
+      "correct_era_name": "Heroes Reborn & Return",
+      "correct_era_id": "2b73f22c-6333-4928-97ba-78477e5acffe",
+      "method": "issues_year"
+    },
+    {
+      "id": "837b1c78-a7cc-4f89-bc09-4d534582aefa",
+      "slug": "punisher-aaron-2022",
+      "title": "Punisher by Jason Aaron (2022)",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "title_year"
+    },
+    {
+      "id": "83ce7076-148a-4ecd-a23a-3e7cffd079e7",
+      "slug": "carnage-ram-v-2023",
+      "title": "Carnage by Ram V (2023)",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "title_year"
+    },
+    {
+      "id": "842a5871-8e66-4931-8523-b42c5e357d15",
+      "slug": "heroes-reborn-iron-man",
+      "title": "Heroes Reborn: Iron Man",
+      "current_era": "heroes-reborn-return",
+      "current_era_name": "Heroes Reborn & Return",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "87cecfe3-35d5-42d0-903e-382744abafc5",
+      "slug": "pmif-epic-v2-revenge",
+      "title": "Power Man and Iron Fist Epic Collection: Revenge",
+      "current_era": "rise-of-x-men",
+      "current_era_name": "The Rise of the X-Men",
+      "correct_era": "bronze-age",
+      "correct_era_name": "The Bronze Age",
+      "correct_era_id": "70d862f6-720f-46f0-ac11-b3171abd44c6",
+      "method": "known_run"
+    },
+    {
+      "id": "88cab9c7-e1a5-4b05-bd8b-ef2ae5364984",
+      "slug": "secret-avengers-spencer",
+      "title": "Secret Avengers by Nick Spencer Complete Collection",
+      "current_era": "hickman-saga",
+      "current_era_name": "The Hickman Saga",
+      "correct_era": "bendis-avengers",
+      "correct_era_name": "The Bendis Avengers Era",
+      "correct_era_id": "dfdb0620-290e-42c7-876a-cf3fec5001b3",
+      "method": "known_run"
+    },
+    {
+      "id": "88e04e38-e007-4e22-89c4-f3bdd3a4ea43",
+      "slug": "dd-brubaker-omnibus",
+      "title": "Daredevil by Ed Brubaker Omnibus",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "heroes-reborn-return",
+      "correct_era_name": "Heroes Reborn & Return",
+      "correct_era_id": "2b73f22c-6333-4928-97ba-78477e5acffe",
+      "method": "issues_year"
+    },
+    {
+      "id": "8975443b-1ec8-4da0-b468-ccee352ed230",
+      "slug": "marvel-masterworks-sub-mariner-v1",
+      "title": "Marvel Masterworks: Sub-Mariner Vol. 1",
+      "current_era": "the-expansion",
+      "current_era_name": "The Expansion",
+      "correct_era": "birth-of-marvel",
+      "correct_era_name": "The Birth of Marvel",
+      "correct_era_id": "eb1a7d39-e8d3-41f1-9ec2-74e2ec3d3be6",
+      "method": "known_run"
+    },
+    {
+      "id": "8a770f1e-e18f-4da4-bd9b-de42427cd154",
+      "slug": "power-man-iron-fist-omnibus-v1",
+      "title": "Power Man and Iron Fist Omnibus Vol. 1",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "rise-of-x-men",
+      "correct_era_name": "The Rise of the X-Men",
+      "correct_era_id": "49fd3e6f-0cd3-48f5-abbe-7c90e59acfa6",
+      "method": "known_run"
+    },
+    {
+      "id": "8ad6dbe1-4e10-4967-b62b-a5d153608862",
+      "slug": "avengers-omnibus-v2-thomas",
+      "title": "Avengers Omnibus Vol. 2 (Thomas/Buscema)",
+      "current_era": "the-expansion",
+      "current_era_name": "The Expansion",
+      "correct_era": "birth-of-marvel",
+      "correct_era_name": "The Birth of Marvel",
+      "correct_era_id": "eb1a7d39-e8d3-41f1-9ec2-74e2ec3d3be6",
+      "method": "known_run"
+    },
+    {
+      "id": "8d68d57e-bf25-4be4-a08f-77a7a957a68b",
+      "slug": "secret-avengers-remender",
+      "title": "Secret Avengers by Rick Remender Complete Collection",
+      "current_era": "hickman-saga",
+      "current_era_name": "The Hickman Saga",
+      "correct_era": "bendis-avengers",
+      "correct_era_name": "The Bendis Avengers Era",
+      "correct_era_id": "dfdb0620-290e-42c7-876a-cf3fec5001b3",
+      "method": "known_run"
+    },
+    {
+      "id": "8db494bc-3778-404d-8775-ac100465bffb",
+      "slug": "iron-fist-kaare-andrews",
+      "title": "Iron Fist: The Living Weapon by Kaare Andrews",
+      "current_era": "hickman-saga",
+      "current_era_name": "The Hickman Saga",
+      "correct_era": "bronze-age",
+      "correct_era_name": "The Bronze Age",
+      "correct_era_id": "70d862f6-720f-46f0-ac11-b3171abd44c6",
+      "method": "known_run"
+    },
+    {
+      "id": "8f4b3fd4-f7b7-4430-9ae6-69c5e723fe0c",
+      "slug": "ultimates-camp-v1",
+      "title": "Ultimates By Deniz Camp Vol. 1",
+      "current_era": "current-ongoings",
+      "current_era_name": "Current Ongoings",
+      "correct_era": "blood-hunt-doom",
+      "correct_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era_id": "93f854fe-cd0a-4070-9a30-1f671374200e",
+      "method": "known_run"
+    },
+    {
+      "id": "9266e139-217c-4d5b-b3dc-d5a48ef0cf6a",
+      "slug": "x-factor-russell-2024",
+      "title": "X-Factor by Mark Russell (2024)",
+      "current_era": "current-ongoings",
+      "current_era_name": "Current Ongoings",
+      "correct_era": "blood-hunt-doom",
+      "correct_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era_id": "93f854fe-cd0a-4070-9a30-1f671374200e",
+      "method": "title_year"
+    },
+    {
+      "id": "92e3f5e4-796c-4689-b657-a42889652cb1",
+      "slug": "hawkeye-mockingbird-complete",
+      "title": "Hawkeye & Mockingbird / Black Widow: Widowmaker",
+      "current_era": "hickman-saga",
+      "current_era_name": "The Hickman Saga",
+      "correct_era": "bendis-avengers",
+      "correct_era_name": "The Bendis Avengers Era",
+      "correct_era_id": "dfdb0620-290e-42c7-876a-cf3fec5001b3",
+      "method": "issues_year"
+    },
+    {
+      "id": "933928f0-fd02-41dc-82c8-aa9d045bdb40",
+      "slug": "heroes-reborn-captain-america-complete",
+      "title": "Heroes Reborn: Captain America Complete",
+      "current_era": "heroes-reborn-return",
+      "current_era_name": "Heroes Reborn & Return",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "93b5a01f-fcbc-4c26-8a01-c27617a95e29",
+      "slug": "ultimate-ff-omnibus-v1",
+      "title": "Ultimate Fantastic Four Omnibus Vol. 1",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "birth-of-marvel",
+      "correct_era_name": "The Birth of Marvel",
+      "correct_era_id": "eb1a7d39-e8d3-41f1-9ec2-74e2ec3d3be6",
+      "method": "known_run"
+    },
+    {
+      "id": "94534867-2f66-441b-a37b-33f31905df3e",
+      "slug": "secret-avengers-brubaker",
+      "title": "Secret Avengers by Ed Brubaker Complete Collection",
+      "current_era": "hickman-saga",
+      "current_era_name": "The Hickman Saga",
+      "correct_era": "bendis-avengers",
+      "correct_era_name": "The Bendis Avengers Era",
+      "correct_era_id": "dfdb0620-290e-42c7-876a-cf3fec5001b3",
+      "method": "known_run"
+    },
+    {
+      "id": "97c83ef0-c140-4012-9912-8cba001ba59f",
+      "slug": "spider-boy-slott",
+      "title": "Spider-Boy by Dan Slott",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "9807947c-fab5-4985-bf28-ecf857cf8833",
+      "slug": "genx-epic-v3-the-secret-of-m",
+      "title": "Generation X Epic Collection: The Secret of M",
+      "current_era": "heroes-reborn-return",
+      "current_era_name": "Heroes Reborn & Return",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "98265a56-ab40-44d7-8d1d-757551203607",
+      "slug": "new-avengers-epic-v2-civil-war",
+      "title": "New Avengers Epic Collection: Civil War",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "known_run"
+    },
+    {
+      "id": "982b41e2-5146-4f04-a162-312ba62002dc",
+      "slug": "luke-cage-walker",
+      "title": "Luke Cage by David Walker",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "bronze-age",
+      "correct_era_name": "The Bronze Age",
+      "correct_era_id": "70d862f6-720f-46f0-ac11-b3171abd44c6",
+      "method": "known_run"
+    },
+    {
+      "id": "9a46c863-92c0-441b-8a95-e9681b1eb5e3",
+      "slug": "punisher-max-omnibus-v2",
+      "title": "Punisher MAX by Ennis Omnibus Vol. 2",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "known_run"
+    },
+    {
+      "id": "9a9a3fc3-cfc9-4830-a992-92b2ea775a96",
+      "slug": "death-of-wolverine-complete",
+      "title": "Death of Wolverine Complete Collection",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "known_run"
+    },
+    {
+      "id": "9aceab98-e9be-4845-a891-a80dfbd3f595",
+      "slug": "strange-mackay-2022",
+      "title": "Strange by Jed MacKay (2022)",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "9b11463a-9828-44dd-9392-fa17f7b66ee3",
+      "slug": "defenders-omnibus-v3",
+      "title": "Defenders Omnibus Vol. 3",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "rise-of-x-men",
+      "correct_era_name": "The Rise of the X-Men",
+      "correct_era_id": "49fd3e6f-0cd3-48f5-abbe-7c90e59acfa6",
+      "method": "known_run"
+    },
+    {
+      "id": "9cc47508-ce8b-4f15-abda-664756a6f59a",
+      "slug": "fear-itself-the-fearless",
+      "title": "Fear Itself: The Fearless",
+      "current_era": "hickman-saga",
+      "current_era_name": "The Hickman Saga",
+      "correct_era": "bendis-avengers",
+      "correct_era_name": "The Bendis Avengers Era",
+      "correct_era_id": "dfdb0620-290e-42c7-876a-cf3fec5001b3",
+      "method": "known_run"
+    },
+    {
+      "id": "9eda4838-f7d0-4e99-b7bb-66e39f3b7790",
+      "slug": "nxm-morrison-omnibus",
+      "title": "New X-Men by Morrison Omnibus",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "heroes-reborn-return",
+      "correct_era_name": "Heroes Reborn & Return",
+      "correct_era_id": "2b73f22c-6333-4928-97ba-78477e5acffe",
+      "method": "known_run"
+    },
+    {
+      "id": "9ef0e04f-e638-4a35-b076-101bd52dfe78",
+      "slug": "conan-barbarian-omnibus-v2",
+      "title": "Conan the Barbarian: The Original Marvel Years Omnibus Vol. 2",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "the-expansion",
+      "correct_era_name": "The Expansion",
+      "correct_era_id": "a9fe2453-0328-4e72-88ac-01d5cbdef337",
+      "method": "known_run"
+    },
+    {
+      "id": "9ef715a4-b26f-41af-bcb2-b80fbe13e1e0",
+      "slug": "secret-wars-battleworld",
+      "title": "Secret Wars: Battleworld Omnibus Vol. 1",
+      "current_era": "hickman-saga",
+      "current_era_name": "The Hickman Saga",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "known_run"
+    },
+    {
+      "id": "a09950a3-5f9e-41f6-bdff-93cbdff6670a",
+      "slug": "dd-modern-epic-cell-block-d",
+      "title": "Daredevil Modern Era Epic Collection: The Devil in Cell Block D",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "heroes-reborn-return",
+      "correct_era_name": "Heroes Reborn & Return",
+      "correct_era_id": "2b73f22c-6333-4928-97ba-78477e5acffe",
+      "method": "issues_year"
+    },
+    {
+      "id": "a1185443-8648-482e-8005-20819215272b",
+      "slug": "new-avengers-epic-v1-assembled",
+      "title": "New Avengers Epic Collection: Assembled",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "known_run"
+    },
+    {
+      "id": "a1881651-eb6f-4417-b718-159989564214",
+      "slug": "heroes-reborn-2021-aaron",
+      "title": "Heroes Reborn (2021)",
+      "current_era": "dawn-of-krakoa",
+      "current_era_name": "The Dawn of Krakoa",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "a42e0f55-0e21-4eab-a3fc-c66c0c8a5747",
+      "slug": "luke-cage-city-of-fire",
+      "title": "Luke Cage: City of Fire by Ho Che Anderson",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "bronze-age",
+      "correct_era_name": "The Bronze Age",
+      "correct_era_id": "70d862f6-720f-46f0-ac11-b3171abd44c6",
+      "method": "known_run"
+    },
+    {
+      "id": "a7af1bfc-8b3e-4945-b2b0-d1d67bcdcd69",
+      "slug": "ghost-rider-percy-2022",
+      "title": "Ghost Rider by Benjamin Percy (2022)",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "title_year"
+    },
+    {
+      "id": "a9d4117f-840d-419e-8ea3-b380fb770fdb",
+      "slug": "daredevil-miller-companion",
+      "title": "Daredevil: Born Again",
+      "current_era": "rise-of-x-men",
+      "current_era_name": "The Rise of the X-Men",
+      "correct_era": "event-age",
+      "correct_era_name": "The Event Age",
+      "correct_era_id": "93f0e7e8-0cc2-4f06-9090-6ad14520bece",
+      "method": "known_run"
+    },
+    {
+      "id": "aaedc545-41af-4a8d-9500-f8e421034444",
+      "slug": "heroes-for-hire-2011",
+      "title": "Heroes for Hire (2011) Complete",
+      "current_era": "hickman-saga",
+      "current_era_name": "The Hickman Saga",
+      "correct_era": "bendis-avengers",
+      "correct_era_name": "The Bendis Avengers Era",
+      "correct_era_id": "dfdb0620-290e-42c7-876a-cf3fec5001b3",
+      "method": "title_year"
+    },
+    {
+      "id": "ab4758d2-da97-4772-95dc-a8b615cd17e5",
+      "slug": "power-pack-simonson-v2",
+      "title": "Power Pack Classic Omnibus Vol. 2",
+      "current_era": "event-age",
+      "current_era_name": "The Event Age",
+      "correct_era": "rise-of-x-men",
+      "correct_era_name": "The Rise of the X-Men",
+      "correct_era_id": "49fd3e6f-0cd3-48f5-abbe-7c90e59acfa6",
+      "method": "known_run"
+    },
+    {
+      "id": "ac60d2ab-2d0d-4243-acb3-1c983a135a5a",
+      "slug": "cap-modern-epic-winter-soldier",
+      "title": "Captain America Modern Era Epic Collection: The Winter Soldier",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "issues_year"
+    },
+    {
+      "id": "ad007f55-b14e-47c0-bcf7-8c2f38c3f0c7",
+      "slug": "predator-vs-wolverine",
+      "title": "Predator vs. Wolverine",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "affee833-9b49-438b-a939-507ee5a0008d",
+      "slug": "west-coast-avengers-omnibus-v2",
+      "title": "West Coast Avengers Omnibus Vol. 2",
+      "current_era": "rise-of-x-men",
+      "current_era_name": "The Rise of the X-Men",
+      "correct_era": "event-age",
+      "correct_era_name": "The Event Age",
+      "correct_era_id": "93f0e7e8-0cc2-4f06-9090-6ad14520bece",
+      "method": "known_run"
+    },
+    {
+      "id": "b072a20d-9af9-461e-8eb5-0a091e3d7114",
+      "slug": "iron-man-cantwell-complete",
+      "title": "Iron Man by Christopher Cantwell Complete Collection",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "b13f14d9-781a-4efa-af5b-f2a86e56bcc2",
+      "slug": "death-of-doctor-strange",
+      "title": "Death of Doctor Strange by Jed MacKay",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "b1797def-a13e-4283-bd39-ef52c3d3ee0a",
+      "slug": "punisher-remender-omnibus",
+      "title": "Punisher By Rick Remender Omnibus",
+      "current_era": "hickman-saga",
+      "current_era_name": "The Hickman Saga",
+      "correct_era": "bendis-avengers",
+      "correct_era_name": "The Bendis Avengers Era",
+      "correct_era_id": "dfdb0620-290e-42c7-876a-cf3fec5001b3",
+      "method": "issues_year"
+    },
+    {
+      "id": "b1a05aa7-167f-4c5b-9a23-7eed34990174",
+      "slug": "original-sin-companion",
+      "title": "Original Sin Companion",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "known_run"
+    },
+    {
+      "id": "b28ec340-0cec-4319-a114-5b4818aac95e",
+      "slug": "miracleman-omnibus",
+      "title": "Miracleman Omnibus",
+      "current_era": "event-age",
+      "current_era_name": "The Event Age",
+      "correct_era": "rise-of-x-men",
+      "correct_era_name": "The Rise of the X-Men",
+      "correct_era_id": "49fd3e6f-0cd3-48f5-abbe-7c90e59acfa6",
+      "method": "known_run"
+    },
+    {
+      "id": "b366b21c-3b70-46d4-872b-ed84abc7743d",
+      "slug": "heroes-reborn-1996-omnibus",
+      "title": "Heroes Reborn Omnibus",
+      "current_era": "heroes-reborn-return",
+      "current_era_name": "Heroes Reborn & Return",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "b4a35571-b396-4312-95a6-a51a539e943f",
+      "slug": "what-if-classic-v1",
+      "title": "What If? Classic Vol. 1",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "rise-of-x-men",
+      "correct_era_name": "The Rise of the X-Men",
+      "correct_era_id": "49fd3e6f-0cd3-48f5-abbe-7c90e59acfa6",
+      "method": "known_run"
+    },
+    {
+      "id": "b885225c-f432-4cdb-80b0-edb949dffc28",
+      "slug": "black-panther-priest-omnibus",
+      "title": "Black Panther by Christopher Priest Omnibus",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "heroes-reborn-return",
+      "correct_era_name": "Heroes Reborn & Return",
+      "correct_era_id": "2b73f22c-6333-4928-97ba-78477e5acffe",
+      "method": "known_run"
+    },
+    {
+      "id": "b8e5864d-1475-47fd-9992-bd2fe6524f2b",
+      "slug": "miles-morales-ziglar",
+      "title": "Miles Morales: Spider-Man by Cody Ziglar",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "b90303c5-de69-4655-a9ed-7b94d4644041",
+      "slug": "secret-war-bendis",
+      "title": "Secret War",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "known_run"
+    },
+    {
+      "id": "b9ee76d3-c5a6-431a-9f41-f88a694a2c4d",
+      "slug": "heroic-age-complete",
+      "title": "Heroic Age: Complete Collection",
+      "current_era": "hickman-saga",
+      "current_era_name": "The Hickman Saga",
+      "correct_era": "bendis-avengers",
+      "correct_era_name": "The Bendis Avengers Era",
+      "correct_era_id": "dfdb0620-290e-42c7-876a-cf3fec5001b3",
+      "method": "known_run"
+    },
+    {
+      "id": "bbdebe61-8b20-46d0-bf2c-def32abbb50c",
+      "slug": "secret-warriors-rosenberg",
+      "title": "Secret Warriors (2017) by Matthew Rosenberg",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "known_run"
+    },
+    {
+      "id": "bbeeea3f-cf43-4254-8d63-50779af32ef6",
+      "slug": "heroes-reborn-ff",
+      "title": "Heroes Reborn: Fantastic Four",
+      "current_era": "heroes-reborn-return",
+      "current_era_name": "Heroes Reborn & Return",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "bd790e34-cc04-4a0a-82d3-ec412d613425",
+      "slug": "ms-marvel-kamala-omnibus-v1",
+      "title": "Ms. Marvel Omnibus Vol. 1 (Kamala Khan)",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "known_run"
+    },
+    {
+      "id": "bda58bb8-7982-46ab-9ce4-737fe3fbbc83",
+      "slug": "she-hulk-slott",
+      "title": "She-Hulk by Dan Slott",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "known_run"
+    },
+    {
+      "id": "bfdb2c7c-6db0-4625-acdf-36f609a30e8e",
+      "slug": "miles-morales-ultimate-spider-man",
+      "title": "Miles Morales: Ultimate Spider-Man Ultimate Collection",
+      "current_era": "hickman-saga",
+      "current_era_name": "The Hickman Saga",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "known_run"
+    },
+    {
+      "id": "c1c3c6ff-da27-47d1-8263-41f847fb5410",
+      "slug": "marvel-horror-omnibus-v1",
+      "title": "Marvel Horror Omnibus Vol. 1",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "the-expansion",
+      "correct_era_name": "The Expansion",
+      "correct_era_id": "a9fe2453-0328-4e72-88ac-01d5cbdef337",
+      "method": "known_run"
+    },
+    {
+      "id": "c239002b-7045-479b-9c48-44a74c7628e6",
+      "slug": "captain-marvel-alyssa-wong",
+      "title": "Captain Marvel by Alyssa Wong",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "issues_year"
+    },
+    {
+      "id": "b885225c-f432-4cdb-80b0-edb949dffc28",
+      "slug": "black-panther-priest-omnibus",
+      "title": "Black Panther by Christopher Priest Omnibus",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "heroes-reborn-return",
+      "correct_era_name": "Heroes Reborn & Return",
+      "correct_era_id": "2b73f22c-6333-4928-97ba-78477e5acffe",
+      "method": "known_run"
+    },
+    {
+      "id": "7494b481-b112-4d1d-9f77-fcff73ced7f8",
+      "slug": "pmif-epic-v4-hardball",
+      "title": "Power Man and Iron Fist Epic Collection: Hardball",
+      "current_era": "rise-of-x-men",
+      "current_era_name": "The Rise of the X-Men",
+      "correct_era": "bronze-age",
+      "correct_era_name": "The Bronze Age",
+      "correct_era_id": "70d862f6-720f-46f0-ac11-b3171abd44c6",
+      "method": "known_run"
+    },
+    {
+      "id": "13931016-ae93-425c-a521-9d2c9d6d2c3a",
+      "slug": "asm-omnibus-v3",
+      "title": "Amazing Spider-Man Omnibus Vol. 3",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "the-expansion",
+      "correct_era_name": "The Expansion",
+      "correct_era_id": "a9fe2453-0328-4e72-88ac-01d5cbdef337",
+      "method": "known_run"
+    },
+    {
+      "id": "f73575e7-5451-4f3d-9aaf-57141d1cda9b",
+      "slug": "bucky-barnes-winter-soldier-kot",
+      "title": "Bucky Barnes: The Winter Soldier",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "known_run"
+    },
+    {
+      "id": "d087e245-36fd-4d98-99fc-ae38c1cda772",
+      "slug": "deadpool-epic-v5-johnny-handsome",
+      "title": "Deadpool Epic Collection: Johnny Handsome",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "heroes-reborn-return",
+      "correct_era_name": "Heroes Reborn & Return",
+      "correct_era_id": "2b73f22c-6333-4928-97ba-78477e5acffe",
+      "method": "issues_year"
+    },
+    {
+      "id": "ddc695e3-e1c1-446a-ab28-406a81733416",
+      "slug": "punisher-omnibus-v1",
+      "title": "Punisher Omnibus Vol. 1",
+      "current_era": "rise-of-x-men",
+      "current_era_name": "The Rise of the X-Men",
+      "correct_era": "event-age",
+      "correct_era_name": "The Event Age",
+      "correct_era_id": "93f0e7e8-0cc2-4f06-9090-6ad14520bece",
+      "method": "known_run"
+    },
+    {
+      "id": "6083e57a-58a6-4d18-bd37-d15d87f4bc8c",
+      "slug": "ff-omnibus-v5",
+      "title": "Fantastic Four Omnibus Vol. 5",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "the-expansion",
+      "correct_era_name": "The Expansion",
+      "correct_era_id": "a9fe2453-0328-4e72-88ac-01d5cbdef337",
+      "method": "known_run"
+    },
+    {
+      "id": "7387569d-699e-40f5-a6bf-bb1b06a44bcf",
+      "slug": "spider-girl-may-parker-v1",
+      "title": "Spider-Girl (May Parker) Complete Collection Vol. 1",
+      "current_era": "heroes-reborn-return",
+      "current_era_name": "Heroes Reborn & Return",
+      "correct_era": "event-age",
+      "correct_era_name": "The Event Age",
+      "correct_era_id": "93f0e7e8-0cc2-4f06-9090-6ad14520bece",
+      "method": "issues_year"
+    },
+    {
+      "id": "3e0757f3-8a7a-4c00-823a-45ce5639dbe5",
+      "slug": "dazzler-loo-2024",
+      "title": "Dazzler by Jason Loo (2024)",
+      "current_era": "current-ongoings",
+      "current_era_name": "Current Ongoings",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "title_year"
+    },
+    {
+      "id": "d7ae4fd4-e350-4161-9abf-044832ac1990",
+      "slug": "immortal-thor-ewing",
+      "title": "Immortal Thor by Al Ewing Vol. 1",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "2b164f7b-27a2-429c-81f1-d798ba762b4c",
+      "slug": "one-world-under-doom",
+      "title": "One World Under Doom",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "current-ongoings",
+      "correct_era_name": "Current Ongoings",
+      "correct_era_id": "c4bffdc6-c943-432e-9b61-6b51387076bb",
+      "method": "known_run"
+    },
+    {
+      "id": "0ef7313c-8e45-4002-9b2e-086dbf1782c2",
+      "slug": "avengers-rage-of-ultron",
+      "title": "Avengers: Rage of Ultron",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "known_run"
+    },
+    {
+      "id": "b072a20d-9af9-461e-8eb5-0a091e3d7114",
+      "slug": "iron-man-cantwell-complete",
+      "title": "Iron Man by Christopher Cantwell Complete Collection",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "842a5871-8e66-4931-8523-b42c5e357d15",
+      "slug": "heroes-reborn-iron-man",
+      "title": "Heroes Reborn: Iron Man",
+      "current_era": "heroes-reborn-return",
+      "current_era_name": "Heroes Reborn & Return",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "7f3bf1dd-dc58-440c-88ad-2a095163a8fb",
+      "slug": "secret-warriors-omnibus",
+      "title": "Secret Warriors Omnibus",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "known_run"
+    },
+    {
+      "id": "65ce21d8-6a18-4b96-94af-7cac3ee5a8da",
+      "slug": "immortal-thor-ewing-v2",
+      "title": "Immortal Thor by Al Ewing Vol. 2",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "bfdb2c7c-6db0-4625-acdf-36f609a30e8e",
+      "slug": "miles-morales-ultimate-spider-man",
+      "title": "Miles Morales: Ultimate Spider-Man Ultimate Collection",
+      "current_era": "hickman-saga",
+      "current_era_name": "The Hickman Saga",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "known_run"
+    },
+    {
+      "id": "73722915-6734-49d0-8fcc-8260e03420d4",
+      "slug": "black-panther-2024",
+      "title": "Black Panther by Eve L. Ewing",
+      "current_era": "current-ongoings",
+      "current_era_name": "Current Ongoings",
+      "correct_era": "blood-hunt-doom",
+      "correct_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era_id": "93f854fe-cd0a-4070-9a30-1f671374200e",
+      "method": "issues_year"
+    },
+    {
+      "id": "d8c247c5-c45d-4a57-824e-a92d60e2fedc",
+      "slug": "ultimate-comics-ultimates-hickman",
+      "title": "Ultimate Comics Ultimates by Jonathan Hickman",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "known_run"
+    },
+    {
+      "id": "7193ff51-802a-460b-a604-090adbe1eee5",
+      "slug": "ultimate-invasion",
+      "title": "Ultimate Invasion",
+      "current_era": "current-ongoings",
+      "current_era_name": "Current Ongoings",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "c3bab7cd-f31a-4644-800f-9508164444d1",
+      "slug": "nyx-2024",
+      "title": "NYX by Collin Kelly & Jackson Lanzing",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "5a087593-0bbb-4707-9cb8-be67535dd47a",
+      "slug": "genx-epic-v4-pride-and-penance",
+      "title": "Generation X Epic Collection: Pride and Penance",
+      "current_era": "heroes-reborn-return",
+      "current_era_name": "Heroes Reborn & Return",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "7a2e349b-b76d-4111-a8ab-792b4843674c",
+      "slug": "xmen-xfactor-peter-david-v2",
+      "title": "X-Factor by Peter David Omnibus Vol. 2",
+      "current_era": "event-age",
+      "current_era_name": "The Event Age",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "38c0e378-a8ce-4fa0-9cd5-ee5b98e73505",
+      "slug": "nyx-x23-origin",
+      "title": "NYX / X-23: Innocence Lost",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "blood-hunt-doom",
+      "correct_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era_id": "93f854fe-cd0a-4070-9a30-1f671374200e",
+      "method": "known_run"
+    },
+    {
+      "id": "6d48bc0f-a77a-4dbb-88a4-d9d83d894085",
+      "slug": "marvel-knights-spider-man-millar",
+      "title": "Marvel Knights: Spider-Man by Millar & Dodson",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "heroes-reborn-return",
+      "correct_era_name": "Heroes Reborn & Return",
+      "correct_era_id": "2b73f22c-6333-4928-97ba-78477e5acffe",
+      "method": "known_run"
+    },
+    {
+      "id": "498fb216-73cd-410c-b27e-394adac9c369",
+      "slug": "scarlet-witch-orlando-v2",
+      "title": "Scarlet Witch by Steve Orlando Vol. 2",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "c2491289-2b7b-499c-b179-bc1604e32e4e",
+      "slug": "mk-epic-v4-butchers-moon",
+      "title": "Moon Knight Epic Collection: Butcher's Moon",
+      "current_era": "event-age",
+      "current_era_name": "The Event Age",
+      "correct_era": "rise-of-x-men",
+      "correct_era_name": "The Rise of the X-Men",
+      "correct_era_id": "49fd3e6f-0cd3-48f5-abbe-7c90e59acfa6",
+      "method": "issues_year"
+    },
+    {
+      "id": "ed26ad92-0ad7-4021-9c50-604d433d816e",
+      "slug": "sensational-spider-man-jurgens",
+      "title": "Sensational Spider-Man by Jurgens: The Complete Collection",
+      "current_era": "heroes-reborn-return",
+      "current_era_name": "Heroes Reborn & Return",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "issues_year"
+    },
+    {
+      "id": "2270d86b-2d54-4fe5-aa2c-1414b1c5633e",
+      "slug": "cap-coates",
+      "title": "Captain America by Ta-Nehisi Coates",
+      "current_era": "dawn-of-krakoa",
+      "current_era_name": "The Dawn of Krakoa",
+      "correct_era": "all-new-all-different",
+      "correct_era_name": "All-New All-Different Marvel",
+      "correct_era_id": "e8879226-9a97-4fdb-a2d8-484a3579385d",
+      "method": "known_run"
+    },
+    {
+      "id": "bbeeea3f-cf43-4254-8d63-50779af32ef6",
+      "slug": "heroes-reborn-ff",
+      "title": "Heroes Reborn: Fantastic Four",
+      "current_era": "heroes-reborn-return",
+      "current_era_name": "Heroes Reborn & Return",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "a1185443-8648-482e-8005-20819215272b",
+      "slug": "new-avengers-epic-v1-assembled",
+      "title": "New Avengers Epic Collection: Assembled",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "known_run"
+    },
+    {
+      "id": "98265a56-ab40-44d7-8d1d-757551203607",
+      "slug": "new-avengers-epic-v2-civil-war",
+      "title": "New Avengers Epic Collection: Civil War",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "known_run"
+    },
+    {
+      "id": "fd82135a-6453-4a64-b697-97d382433795",
+      "slug": "new-avengers-omnibus-v2",
+      "title": "New Avengers Omnibus Vol. 2",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "birth-of-marvel",
+      "correct_era_name": "The Birth of Marvel",
+      "correct_era_id": "eb1a7d39-e8d3-41f1-9ec2-74e2ec3d3be6",
+      "method": "known_run"
+    },
+    {
+      "id": "7a54d18d-5223-4346-a070-43b81c5d3db4",
+      "slug": "thor-lee-kirby-omnibus-v2",
+      "title": "The Mighty Thor Omnibus Vol. 2 (Lee/Kirby)",
+      "current_era": "the-expansion",
+      "current_era_name": "The Expansion",
+      "correct_era": "birth-of-marvel",
+      "correct_era_name": "The Birth of Marvel",
+      "correct_era_id": "eb1a7d39-e8d3-41f1-9ec2-74e2ec3d3be6",
+      "method": "known_run"
+    },
+    {
+      "id": "df45afd0-e299-4015-9723-908e8d47aad5",
+      "slug": "rise-of-powers-of-x",
+      "title": "Rise of the Powers of X",
+      "current_era": "dawn-of-krakoa",
+      "current_era_name": "The Dawn of Krakoa",
+      "correct_era": "blood-hunt-doom",
+      "correct_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era_id": "93f854fe-cd0a-4070-9a30-1f671374200e",
+      "method": "known_run"
+    },
+    {
+      "id": "781beadd-4bc3-4a07-9514-6a851ee70820",
+      "slug": "dd-miller-companion",
+      "title": "Daredevil By Frank Miller Omnibus Companion",
+      "current_era": "event-age",
+      "current_era_name": "The Event Age",
+      "correct_era": "rise-of-x-men",
+      "correct_era_name": "The Rise of the X-Men",
+      "correct_era_id": "49fd3e6f-0cd3-48f5-abbe-7c90e59acfa6",
+      "method": "known_run"
+    },
+    {
+      "id": "4ccbe668-4b71-48e8-a76f-1d76caa325a8",
+      "slug": "squadron-supreme-weisman",
+      "title": "Squadron Supreme by James Robinson",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "rise-of-x-men",
+      "correct_era_name": "The Rise of the X-Men",
+      "correct_era_id": "49fd3e6f-0cd3-48f5-abbe-7c90e59acfa6",
+      "method": "known_run"
+    },
+    {
+      "id": "04be51d9-0ad7-4383-b975-f187e839e44f",
+      "slug": "phoenix-2024",
+      "title": "Phoenix by Stephanie Phillips",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "2b81168f-9e72-46d2-b4eb-6252e03eec0e",
+      "slug": "avengers-disassembled",
+      "title": "Avengers Disassembled",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "known_run"
+    },
+    {
+      "id": "efe71a53-3d58-4d92-868a-77c3e205dc21",
+      "slug": "asm-zeb-wells-v3",
+      "title": "Amazing Spider-Man by Zeb Wells Vol. 3",
+      "current_era": "blood-hunt-doom",
+      "current_era_name": "Blood Hunt & One World Under Doom",
+      "correct_era": "dawn-of-krakoa",
+      "correct_era_name": "The Dawn of Krakoa",
+      "correct_era_id": "ef8c9832-e06d-4028-ae89-a2bb5eb13e1c",
+      "method": "known_run"
+    },
+    {
+      "id": "05860cea-99e1-45f4-aa8e-b6e2d0209854",
+      "slug": "asm-omnibus-v2",
+      "title": "Amazing Spider-Man Omnibus Vol. 2",
+      "current_era": "the-expansion",
+      "current_era_name": "The Expansion",
+      "correct_era": "birth-of-marvel",
+      "correct_era_name": "The Birth of Marvel",
+      "correct_era_id": "eb1a7d39-e8d3-41f1-9ec2-74e2ec3d3be6",
+      "method": "known_run"
+    },
+    {
+      "id": "2ecd83ea-f034-49d6-8a21-f76b68c6b00b",
+      "slug": "wolverine-hama-omnibus-v2",
+      "title": "Wolverine by Larry Hama Omnibus Vol. 2",
+      "current_era": "speculation-crash",
+      "current_era_name": "The Speculation Crash",
+      "correct_era": "event-age",
+      "correct_era_name": "The Event Age",
+      "correct_era_id": "93f0e7e8-0cc2-4f06-9090-6ad14520bece",
+      "method": "issues_year"
+    },
+    {
+      "id": "40ba2ddf-9cd0-4d79-8a74-2a1b619fae96",
+      "slug": "wolverine-enemy-of-state",
+      "title": "Wolverine: Enemy of the State",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "issues_year"
+    },
+    {
+      "id": "5b503cc7-438c-4002-8fd2-5fbc5ab6a4b6",
+      "slug": "ms-marvel-wilson",
+      "title": "Ms. Marvel by G. Willow Wilson",
+      "current_era": "all-new-all-different",
+      "current_era_name": "All-New All-Different Marvel",
+      "correct_era": "hickman-saga",
+      "correct_era_name": "The Hickman Saga",
+      "correct_era_id": "fe75c870-3888-4405-9c8a-1f0341f19339",
+      "method": "known_run"
+    },
+    {
+      "id": "c4e78a63-87a5-4f24-b552-7a6c31c99e9b",
+      "slug": "xmen-lobdell-post-onslaught",
+      "title": "X-Men by Lobdell: Zero Tolerance",
+      "current_era": "heroes-reborn-return",
+      "current_era_name": "Heroes Reborn & Return",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "d36a4d5d-e5ca-43f3-80d1-e37ef2ff485b",
+      "slug": "young-avengers-children-crusade",
+      "title": "Avengers: The Children's Crusade",
+      "current_era": "hickman-saga",
+      "current_era_name": "The Hickman Saga",
+      "correct_era": "bendis-avengers",
+      "correct_era_name": "The Bendis Avengers Era",
+      "correct_era_id": "dfdb0620-290e-42c7-876a-cf3fec5001b3",
+      "method": "known_run"
+    },
+    {
+      "id": "55d508a7-7cf9-4e1b-975c-841d0dc007f2",
+      "slug": "amazing-spider-man-omnibus-v3-conway",
+      "title": "Amazing Spider-Man Omnibus Vol. 3 (Conway/Kane)",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "the-expansion",
+      "correct_era_name": "The Expansion",
+      "correct_era_id": "a9fe2453-0328-4e72-88ac-01d5cbdef337",
+      "method": "known_run"
+    },
+    {
+      "id": "26428e73-a762-49ce-a1e5-212262381337",
+      "slug": "silver-surfer-omnibus-v3-englehart",
+      "title": "Silver Surfer Omnibus Vol. 3 (Englehart/Lim)",
+      "current_era": "rise-of-x-men",
+      "current_era_name": "The Rise of the X-Men",
+      "correct_era": "event-age",
+      "correct_era_name": "The Event Age",
+      "correct_era_id": "93f0e7e8-0cc2-4f06-9090-6ad14520bece",
+      "method": "known_run"
+    },
+    {
+      "id": "62355992-67d1-4e86-9f90-0ccf83732a20",
+      "slug": "marvels-snapshots",
+      "title": "Marvels Snapshots",
+      "current_era": "dawn-of-krakoa",
+      "current_era_name": "The Dawn of Krakoa",
+      "correct_era": "speculation-crash",
+      "correct_era_name": "The Speculation Crash",
+      "correct_era_id": "f9559f37-f08a-4eec-a19d-8d63123d19d3",
+      "method": "known_run"
+    },
+    {
+      "id": "1699fa56-051e-460d-9fe5-26fa0f947b0c",
+      "slug": "life-and-death-of-captain-marvel",
+      "title": "The Life and Death of Captain Marvel",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "rise-of-x-men",
+      "correct_era_name": "The Rise of the X-Men",
+      "correct_era_id": "49fd3e6f-0cd3-48f5-abbe-7c90e59acfa6",
+      "method": "known_run"
+    },
+    {
+      "id": "ea8a8efb-596e-455a-a0bf-831b233aeb3e",
+      "slug": "secret-warriors-hickman-v2",
+      "title": "Secret Warriors by Jonathan Hickman Complete Vol. 2",
+      "current_era": "bendis-avengers",
+      "current_era_name": "The Bendis Avengers Era",
+      "correct_era": "marvel-knights-ultimate",
+      "correct_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era_id": "f8924169-4590-4ef4-88e4-c9713a1540ab",
+      "method": "known_run"
+    },
+    {
+      "id": "1ea55356-e433-483d-b1d7-7ebe9b2cb004",
+      "slug": "avengers-omnibus-v3",
+      "title": "Avengers Omnibus Vol. 3",
+      "current_era": "bronze-age",
+      "current_era_name": "The Bronze Age",
+      "correct_era": "the-expansion",
+      "correct_era_name": "The Expansion",
+      "correct_era_id": "a9fe2453-0328-4e72-88ac-01d5cbdef337",
+      "method": "known_run"
+    },
+    {
+      "id": "93b5a01f-fcbc-4c26-8a01-c27617a95e29",
+      "slug": "ultimate-ff-omnibus-v1",
+      "title": "Ultimate Fantastic Four Omnibus Vol. 1",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "birth-of-marvel",
+      "correct_era_name": "The Birth of Marvel",
+      "correct_era_id": "eb1a7d39-e8d3-41f1-9ec2-74e2ec3d3be6",
+      "method": "known_run"
+    },
+    {
+      "id": "7b4dd5fa-a25f-4cac-bcba-f1072d8ee751",
+      "slug": "inhumans-jenkins-lee",
+      "title": "Inhumans",
+      "current_era": "marvel-knights-ultimate",
+      "current_era_name": "Marvel Knights & The Ultimate Era",
+      "correct_era": "heroes-reborn-return",
+      "correct_era_name": "Heroes Reborn & Return",
+      "correct_era_id": "2b73f22c-6333-4928-97ba-78477e5acffe",
+      "method": "issues_year"
+    },
+    {
+      "id": "8ad6dbe1-4e10-4967-b62b-a5d153608862",
+      "slug": "avengers-omnibus-v2-thomas",
+      "title": "Avengers Omnibus Vol. 2 (Thomas/Buscema)",
+      "current_era": "the-expansion",
+      "current_era_name": "The Expansion",
+      "correct_era": "birth-of-marvel",
+      "correct_era_name": "The Birth of Marvel",
+      "correct_era_id": "eb1a7d39-e8d3-41f1-9ec2-74e2ec3d3be6",
+      "method": "known_run"
+    },
+    {
+      "id": "2e1d2418-dc79-40ec-be77-d4a7b10a7d23",
+      "slug": "defenders-fraction",
+      "title": "Defenders by Matt Fraction",
+      "current_era": "hickman-saga",
+      "current_era_name": "The Hickman Saga",
+      "correct_era": "bendis-avengers",
+      "correct_era_name": "The Bendis Avengers Era",
+      "correct_era_id": "dfdb0620-290e-42c7-876a-cf3fec5001b3",
+      "method": "issues_year"
+    }
+  ],
+  "no_signal_editions": [
+    {
+      "slug": "punisher-epic-v3-kingpin-rules",
+      "title": "Punisher Epic Collection: Kingpin Rules",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "omega-men-gerber-complete",
+      "title": "Omega Men by Gerber Complete (Marvel)",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "ff-epic-worlds-greatest",
+      "title": "Fantastic Four Epic Collection: World's Greatest Comic Magazine",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "asm-epic-v7-goblins-last-stand",
+      "title": "Amazing Spider-Man Epic Collection: The Goblin's Last Stand",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "excalibur-epic-v1-the-sword-is-drawn",
+      "title": "Excalibur Epic Collection: The Sword is Drawn",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "marvel-graphic-novel-collection-v2",
+      "title": "Marvel Graphic Novel Collection Vol. 2",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "inhuman-soule",
+      "title": "Inhuman by Charles Soule: The Complete Collection",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "incredible-hulk-byrne-to-david",
+      "title": "Incredible Hulk Epic Collection: Going Grey",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "avengers-endless-wartime",
+      "title": "Avengers: Endless Wartime",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "thor-epic-v9-even-an-immortal-can-die",
+      "title": "Thor Epic Collection: Even an Immortal Can Die",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "dd-epic-v12-claws",
+      "title": "Daredevil Epic Collection: It Comes with the Claws",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "alien-thaw",
+      "title": "Alien: Thaw",
+      "current_era": "blood-hunt-doom"
+    },
+    {
+      "slug": "black-goliath-complete",
+      "title": "Black Goliath Complete Collection",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "hulk-epic-v5-who-will-judge-the-hulk",
+      "title": "Incredible Hulk Epic Collection: Who Will Judge the Hulk",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "marvel-voices-heritage",
+      "title": "Marvel Voices: Heritage",
+      "current_era": "current-ongoings"
+    },
+    {
+      "slug": "excalibur-epic-v9-you-are-cordially-invited",
+      "title": "Excalibur Epic Collection: You Are Cordially Invited",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "pulse-bendis",
+      "title": "The Pulse: The Complete Collection",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "cap-epic-v19-arena-of-death",
+      "title": "Captain America Epic Collection: Arena of Death",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "evolutionary-war-omnibus",
+      "title": "Avengers: Evolutionary War Omnibus",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "captain-marvel-epic-coming-of",
+      "title": "Captain Marvel Epic Collection: The Coming of Captain Marvel",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "xmen-fatal-attractions",
+      "title": "X-Men: Fatal Attractions",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "occupy-avengers",
+      "title": "Occupy Avengers: Taking Back Justice",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "asm-epic-v23-hero-killers",
+      "title": "Amazing Spider-Man Epic Collection: The Hero Killers",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "thor-epic-v10-the-eternals-saga",
+      "title": "Thor Epic Collection: The Eternals Saga",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "thor-epic-v6-into-the-dark-nebula",
+      "title": "Thor Epic Collection: Into the Dark Nebula",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "spider-man-2099-complete-v2",
+      "title": "Spider-Man 2099 Complete Collection Vol. 2",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "x-factor-epic-v8-x-aminations",
+      "title": "X-Factor Epic Collection: X-Aminations",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "ds-epic-v9-vampiric-verses",
+      "title": "Doctor Strange Epic Collection: The Vampiric Verses",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "avengers-crossing",
+      "title": "Avengers: The Crossing",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "cap-modern-epic-death-dream",
+      "title": "Captain America Modern Era Epic Collection: Death of the Dream",
+      "current_era": "bendis-avengers"
+    },
+    {
+      "slug": "x-men-schism",
+      "title": "X-Men: Schism",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "mc2-universe-collection",
+      "title": "MC2 Universe Collection",
+      "current_era": "heroes-reborn-return"
+    },
+    {
+      "slug": "dd-nocenti-epic",
+      "title": "Daredevil Epic Collection: A Touch of Typhoid",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "ff-epic-v5-the-name-is-doom",
+      "title": "Fantastic Four Epic Collection: The Name is Doom",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "avengers-epic-v18-heavy-metal",
+      "title": "Avengers Epic Collection: Heavy Metal",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "doctor-doom-books-of-doom",
+      "title": "Doctor Doom: Books of Doom",
+      "current_era": "bendis-avengers"
+    },
+    {
+      "slug": "not-brand-echh-complete",
+      "title": "Not Brand Echh Complete Collection",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "ult-ff-epic-v1",
+      "title": "Ultimate Fantastic Four Epic Collection: The Fantastic",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "ultimates-epic-v1",
+      "title": "The Ultimates Epic Collection: Super-Human",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "avengers-expansion-era-epic",
+      "title": "Avengers Epic Collection: Behold... the Vision",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "marvel-masterworks-avengers-v4",
+      "title": "Marvel Masterworks: The Avengers Vol. 4",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "patsy-walker-hellcat-leth",
+      "title": "Patsy Walker AKA Hellcat by Kate Leth",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "ff-epic-v21-the-new-fantastic-four",
+      "title": "Fantastic Four Epic Collection: The New Fantastic Four",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "iron-man-epic-v22-age-of-innocence",
+      "title": "Iron Man Epic Collection: Age of Innocence",
+      "current_era": "heroes-reborn-return"
+    },
+    {
+      "slug": "venom-separation-anxiety-complete",
+      "title": "Venom: Separation Anxiety Complete",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "silver-surfer-omnibus-v2",
+      "title": "Silver Surfer Omnibus Vol. 2",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "dd-epic-v3-brother-take-my-hand",
+      "title": "Daredevil Epic Collection: Brother, Take My Hand",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "thor-epic-v16-war-of-the-pantheons",
+      "title": "Thor Epic Collection: War of the Pantheons",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "dark-wolverine-complete",
+      "title": "Dark Wolverine: The Complete Collection",
+      "current_era": "bendis-avengers"
+    },
+    {
+      "slug": "iron-man-epic-v2-by-force-of-arms",
+      "title": "Iron Man Epic Collection: By Force of Arms",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "hulk-epic-man-or-monster",
+      "title": "Hulk Epic Collection: Man or Monster?",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "avengers-kree-skrull-war",
+      "title": "Avengers: The Kree-Skrull War",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "asm-epic-v28-web-of-life",
+      "title": "Amazing Spider-Man Epic Collection: Web of Life, Web of Death",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "the-order-fraction",
+      "title": "The Order by Matt Fraction",
+      "current_era": "bendis-avengers"
+    },
+    {
+      "slug": "drax-destroyer-mini",
+      "title": "Drax the Destroyer: Earth Fall",
+      "current_era": "bendis-avengers"
+    },
+    {
+      "slug": "xm-epic-v2-lonely-are-the-hunted",
+      "title": "X-Men Epic Collection: Lonely Are the Hunted",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "defenders-epic-day-of-defenders",
+      "title": "Defenders Epic Collection: The Day of the Defenders",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "hawkeye-epic-v1-avenging-archer",
+      "title": "Hawkeye Epic Collection: The Avenging Archer",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "winter-soldier-brubaker",
+      "title": "Winter Soldier by Brubaker Complete",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "new-mutants-epic-v6-curse-of-the-valkyries",
+      "title": "New Mutants Epic Collection: Curse of the Valkyries",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "avengers-epic-v21-collection-obsession",
+      "title": "Avengers Epic Collection: The Collection Obsession",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "doctor-strange-epic-master-mystic-arts",
+      "title": "Doctor Strange Epic Collection: Master of the Mystic Arts",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "x-force-epic-v1-under-the-gun",
+      "title": "X-Force Epic Collection: Under the Gun",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "thor-epic-v2-when-titans-clash",
+      "title": "Thor Epic Collection: When Titans Clash",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "asm-epic-great-responsibility",
+      "title": "Spider-Man Epic Collection: Great Responsibility",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "district-x",
+      "title": "District X: The Complete Collection",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "ds-epic-v1-master-mystic-arts",
+      "title": "Doctor Strange Epic Collection: Master of the Mystic Arts",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "xm-epic-v17-dissolution-and-rebirth",
+      "title": "X-Men Epic Collection: Dissolution and Rebirth",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "avengers-epic-v26-taking-aim",
+      "title": "Avengers Epic Collection: Taking A.I.M.",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "war-machine-classic-complete",
+      "title": "War Machine Classic Complete Collection",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "moon-girl-devil-dinosaur",
+      "title": "Moon Girl and Devil Dinosaur: The Complete Collection Vol. 1",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "spider-man-reign-2",
+      "title": "Spider-Man: Reign 2",
+      "current_era": "current-ongoings"
+    },
+    {
+      "slug": "marvel-masterworks-spider-man-v4",
+      "title": "Marvel Masterworks: Amazing Spider-Man Vol. 4",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "hulk-epic-v24-lone-and-level-sands",
+      "title": "Incredible Hulk Epic Collection: Lone and Level Sands",
+      "current_era": "heroes-reborn-return"
+    },
+    {
+      "slug": "resurrection-of-magneto",
+      "title": "Resurrection of Magneto",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "mtio-epic-v3-remembrance",
+      "title": "Marvel Two-in-One Epic Collection: Remembrance of Things Past",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "marvel-premiere-classic",
+      "title": "Marvel Premiere Classic Collection",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "asm-epic-v24-spider-slayers",
+      "title": "Amazing Spider-Man Epic Collection: Invasion of the Spider-Slayers",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "thor-epic-v23-worldengine",
+      "title": "Thor Epic Collection: Worldengine",
+      "current_era": "heroes-reborn-return"
+    },
+    {
+      "slug": "old-man-hawkeye",
+      "title": "Old Man Hawkeye",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "wolverine-epic-v13-blood-debt",
+      "title": "Wolverine Epic Collection: Blood Debt",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "new-mutants-epic-v2-the-demon-bear-saga",
+      "title": "New Mutants Epic Collection: The Demon Bear Saga",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "thor-epic-god-of-thunder",
+      "title": "Thor Epic Collection: The God of Thunder",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "ben-reilly-scarlet-spider-david",
+      "title": "Ben Reilly: Scarlet Spider by Peter David",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "mystique-complete",
+      "title": "Mystique by Brian K. Vaughan: The Complete Collection",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "avengers-twilight",
+      "title": "Avengers: Twilight",
+      "current_era": "current-ongoings"
+    },
+    {
+      "slug": "xm-epic-v9-the-brood-saga",
+      "title": "X-Men Epic Collection: The Brood Saga",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "legendary-star-lord",
+      "title": "Legendary Star-Lord",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "thor-epic-v7-ulik-unchained",
+      "title": "Thor Epic Collection: Ulik Unchained",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "ff-epic-v24-atlantis-rising",
+      "title": "Fantastic Four Epic Collection: Atlantis Rising",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "moon-knight-moench-omnibus-v1",
+      "title": "Moon Knight by Doug Moench Omnibus Vol. 1",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "hulk-epic-v8-the-curing-of-dr-banner",
+      "title": "Incredible Hulk Epic Collection: The Curing of Dr Banner",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "thor-epic-v21-blood-and-thunder",
+      "title": "Thor Epic Collection: Blood and Thunder",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "fearless-defenders-bunn",
+      "title": "Fearless Defenders by Cullen Bunn Complete",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "x-force-epic-v2-x-cutioners-song",
+      "title": "X-Force Epic Collection: X-Cutioners Song",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "asm-epic-v15-ghosts-of-past",
+      "title": "Amazing Spider-Man Epic Collection: Ghosts of the Past",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "iron-man-epic-v13-stark-wars",
+      "title": "Iron Man Epic Collection: Stark Wars",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "ss-epic-v14-sun-rise-and-shadow-fall",
+      "title": "Silver Surfer Epic Collection: Sun Rise and Shadow Fall",
+      "current_era": "heroes-reborn-return"
+    },
+    {
+      "slug": "namor-conquered-shores",
+      "title": "Namor: Conquered Shores",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "photon-ewing",
+      "title": "Monica Rambeau: Photon by Eve Ewing",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "realm-of-x",
+      "title": "Realm of X",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "vengeance-of-moon-knight",
+      "title": "Vengeance of Moon Knight: Complete Collection",
+      "current_era": "bendis-avengers"
+    },
+    {
+      "slug": "super-villain-team-up-complete",
+      "title": "Super-Villain Team-Up Complete Collection",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "iron-man-epic-v6-war-of-the-super-villains",
+      "title": "Iron Man Epic Collection: War of the Super Villains",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "ds-epic-v13-afterlife",
+      "title": "Doctor Strange Epic Collection: Afterlife",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "iron-man-epic-v16-war-games",
+      "title": "Iron Man Epic Collection: War Games",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "marvel-vs-dc",
+      "title": "Marvel vs DC / DC vs Marvel",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "wisdom-cornell",
+      "title": "Wisdom by Paul Cornell",
+      "current_era": "bendis-avengers"
+    },
+    {
+      "slug": "shang-chi-ten-rings",
+      "title": "Shang-Chi and the Ten Rings",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "ms-marvel-new-mutant",
+      "title": "Ms. Marvel: The New Mutant",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "xm-epic-v3-the-sentinels-live",
+      "title": "X-Men Epic Collection: The Sentinels Live",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "thor-epic-v12-runequest",
+      "title": "Thor Epic Collection: Runequest",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "avengers-epic-v25-gathering",
+      "title": "Avengers Epic Collection: The Gathering",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "tbolts-epic-v2-wanted-dead-alive",
+      "title": "Thunderbolts Epic Collection: Wanted Dead or Alive",
+      "current_era": "heroes-reborn-return"
+    },
+    {
+      "slug": "strange-tales-omnibus-v2",
+      "title": "Strange Tales Omnibus Vol. 2",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "new-mutants-epic-v4-fallen-angels",
+      "title": "New Mutants Epic Collection: Fallen Angels",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "captain-america-bucky-brubaker",
+      "title": "Captain America & Bucky by Brubaker",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "xm-epic-v20-bishops-crossing",
+      "title": "X-Men Epic Collection: Bishops Crossing",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "tbolts-epic-v1-justice-like-lightning",
+      "title": "Thunderbolts Epic Collection: Justice, Like Lightning",
+      "current_era": "heroes-reborn-return"
+    },
+    {
+      "slug": "cannonball-new-mutants-complete",
+      "title": "New Mutants: Cannonball & Sunspot \u2014 Complete Duo",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "ff-epic-v8-annihilus-revealed",
+      "title": "Fantastic Four Epic Collection: Annihilus Revealed",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "symbiote-spider-man-peter-david",
+      "title": "Symbiote Spider-Man by Peter David",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "incredible-hulk-omnibus-v2",
+      "title": "Incredible Hulk Omnibus Vol. 2",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "avengers-90s-epic-gatherers",
+      "title": "Avengers Epic Collection: The Gatherers Strike!",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "last-avengers-story",
+      "title": "The Last Avengers Story",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "marvel-masterworks-daredevil-v1",
+      "title": "Marvel Masterworks: Daredevil Vol. 1",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "asm-epic-v19-assassin-nation",
+      "title": "Amazing Spider-Man Epic Collection: Assassin Nation",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "avengers-epic-earths-mightiest",
+      "title": "Avengers Epic Collection: Earth's Mightiest Heroes",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "avengers-inc-mackay",
+      "title": "Avengers Inc. by Jed MacKay",
+      "current_era": "blood-hunt-doom"
+    },
+    {
+      "slug": "ff-epic-v19-the-dream-is-dead",
+      "title": "Fantastic Four Epic Collection: The Dream is Dead",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "asm-michelinie-bagley-omnibus",
+      "title": "Amazing Spider-Man by Michelinie & Bagley Omnibus",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "asm-omnibus-v6",
+      "title": "Amazing Spider-Man Omnibus Vol. 6",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "captain-america-omnibus-v2-steranko",
+      "title": "Captain America Omnibus Vol. 2",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "mtio-epic-v1-cry-monster",
+      "title": "Marvel Two-in-One Epic Collection: Cry Monster",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "excalibur-epic-v4-curiouser-and-curiouser",
+      "title": "Excalibur Epic Collection: Curiouser and Curiouser",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "new-mutants-lethal-legion",
+      "title": "New Mutants: Lethal Legion",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "ff-epic-v22-this-flame-this-fury",
+      "title": "Fantastic Four Epic Collection: This Flame This Fury",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "cap-epic-v12-society-serpents",
+      "title": "Captain America Epic Collection: Society of Serpents",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "marvel-masterworks-ff-v4",
+      "title": "Marvel Masterworks: Fantastic Four Vol. 4",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "us-avengers",
+      "title": "U.S.Avengers: American Intelligence Mechanics",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "bishop-complete",
+      "title": "Bishop: The Complete Collection",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "avengers-epic-v9-final-threat",
+      "title": "Avengers Epic Collection: The Final Threat",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "jean-grey-solo",
+      "title": "Jean Grey by Dennis Hopeless",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "x-men-milestone-compendium-v1",
+      "title": "X-Men Milestone Compendium Vol. 1",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "betsy-braddock-captain-britain",
+      "title": "Betsy Braddock: Captain Britain",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "madrox-multiple-man",
+      "title": "Madrox: Multiple Choice",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "spider-man-blue",
+      "title": "Spider-Man: Blue",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "dd-epic-v17-into-fire",
+      "title": "Daredevil Epic Collection: Into the Fire",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "new-mutants-epic-v1-renewal",
+      "title": "New Mutants Epic Collection: Renewal",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "dd-epic-v15-last-rites",
+      "title": "Daredevil Epic Collection: Last Rites",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "all-new-xmen-bendis-omnibus",
+      "title": "All-New X-Men By Brian Michael Bendis Omnibus",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "hawkeye-epic-v2-way-of-arrow",
+      "title": "Hawkeye Epic Collection: The Way of the Arrow",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "marvel-masterworks-captain-america-v1",
+      "title": "Marvel Masterworks: Captain America Vol. 1",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "punisher-war-zone-classic-v1",
+      "title": "Punisher: War Zone Classic Vol. 1",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "hulk-epic-v7-and-now-the-wolverine",
+      "title": "Incredible Hulk Epic Collection: And Now the Wolverine",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "avengers-epic-v6-traitor-stalks",
+      "title": "Avengers Epic Collection: A Traitor Stalks Among Us",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "asm-michelinie-larsen-omnibus",
+      "title": "Amazing Spider-Man by Michelinie & Larsen Omnibus",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "mk-epic-v5-trial-marc-spector",
+      "title": "Moon Knight Epic Collection: The Trial of Marc Spector",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "cage-genndy",
+      "title": "Cage!",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "xm-epic-v4-its-always-darkest-before-the-dawn",
+      "title": "X-Men Epic Collection: Its Always Darkest Before the Dawn",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "ff-full-circle-ii",
+      "title": "Fantastic Four: Full Circle II",
+      "current_era": "blood-hunt-doom"
+    },
+    {
+      "slug": "asm-epic-great-power",
+      "title": "Spider-Man Epic Collection: Great Power",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "mtio-epic-v2-two-against-hydra",
+      "title": "Marvel Two-in-One Epic Collection: Two Against Hydra",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "x-factor-epic-v4-judgement-war",
+      "title": "X-Factor Epic Collection: Judgement War",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "iron-man-epic-v15-doom",
+      "title": "Iron Man Epic Collection: Doom",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "x-force-epic-v7-zero-tolerance",
+      "title": "X-Force Epic Collection: Zero Tolerance",
+      "current_era": "heroes-reborn-return"
+    },
+    {
+      "slug": "superior-iron-man-v2-stark-contrast",
+      "title": "Superior Iron Man Vol. 2: Stark Contrast",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "astonishing-xm-epic-v1-gifted",
+      "title": "Astonishing X-Men Epic Collection: Gifted",
+      "current_era": "bendis-avengers"
+    },
+    {
+      "slug": "team-america-us1-complete",
+      "title": "Team America / US 1 Complete Collection",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "excalibur-epic-v2-the-cross-time-caper",
+      "title": "Excalibur Epic Collection: The Cross-Time Caper",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "awc-epic-v4-vision-quest",
+      "title": "Avengers West Coast Epic Collection: Vision Quest",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "cap-symbol-of-truth",
+      "title": "Captain America: Symbol of Truth by Nnedi Okorafor",
+      "current_era": "blood-hunt-doom"
+    },
+    {
+      "slug": "xmen-phalanx-covenant",
+      "title": "X-Men: Phalanx Covenant",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "ms-marvel-epic-v1-this-woman-warrior",
+      "title": "Ms. Marvel Epic Collection: This Woman, This Warrior",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "carnage-epic-v1-born-in-blood",
+      "title": "Carnage Epic Collection: Born in Blood",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "wolverine-epic-v7-to-the-bone",
+      "title": "Wolverine Epic Collection: To the Bone",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "way-of-x-spurrier",
+      "title": "Way of X by Si Spurrier",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "avengers-undercover",
+      "title": "Avengers Undercover",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "blade-vampire-hunter-tpb",
+      "title": "Blade: Vampire Hunter TPB",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "ff-epic-v20-into-the-time-stream",
+      "title": "Fantastic Four Epic Collection: Into the Time Stream",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "knights-of-x-howard",
+      "title": "Knights of X by Tini Howard",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "ff-epic-v9-the-crusader-syndrome",
+      "title": "Fantastic Four Epic Collection: The Crusader Syndrome",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "x-force-epic-v3-assault-on-graymalkin",
+      "title": "X-Force Epic Collection: Assault on Graymalkin",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "tigra-complete-collection",
+      "title": "Tigra: The Complete Collection",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "excalibur-epic-v5-days-of-futures-yet-to-come",
+      "title": "Excalibur Epic Collection: Days of Futures Yet to Come",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "champions-classic-70s",
+      "title": "Champions Classic Complete",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "marvel-masterworks-hulk-v2",
+      "title": "Incredible Hulk Masterworks Vol. 2",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "x-factor-epic-v9-afterlives",
+      "title": "X-Factor Epic Collection: Afterlives",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "defenders-epic-v6-six-fingered-hand",
+      "title": "Defenders Epic Collection: The Six-Fingered Hand",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "cap-epic-v17-superia-stratagem",
+      "title": "Captain America Epic Collection: The Superia Stratagem",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "deadpool-cable-epic",
+      "title": "Deadpool & Cable Epic Collection: Ballistic Bromance",
+      "current_era": "bendis-avengers"
+    },
+    {
+      "slug": "ds-epic-v11-nightmare-bleecker",
+      "title": "Doctor Strange Epic Collection: Nightmare on Bleecker Street",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "avengers-initiative-complete-v1",
+      "title": "Avengers: The Initiative Complete Collection Vol. 1",
+      "current_era": "bendis-avengers"
+    },
+    {
+      "slug": "she-hulk-epic-v3-fourth-wall",
+      "title": "She-Hulk Epic Collection: Breaking the Fourth Wall",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "mosaic-thorne",
+      "title": "Mosaic by Geoffrey Thorne",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "xm-epic-v21-the-x-cutioners-song",
+      "title": "X-Men Epic Collection: The X-Cutioners Song",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "dead-x-men-foxe",
+      "title": "Dead X-Men by Steve Foxe",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "hulk-epic-v6-crisis-on-counter-earth",
+      "title": "Incredible Hulk Epic Collection: Crisis on Counter-Earth",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "asm-epic-v21-sinister-six",
+      "title": "Amazing Spider-Man Epic Collection: Return of the Sinister Six",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "wolverine-epic-v12-shadow-of-apocalypse",
+      "title": "Wolverine Epic Collection: Shadow of Apocalypse",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "ff-epic-v17-all-in-the-family",
+      "title": "Fantastic Four Epic Collection: All in the Family",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "wolverine-origin-jenkins",
+      "title": "Wolverine: Origin",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "hulk-epic-v3-the-leader-lives",
+      "title": "Incredible Hulk Epic Collection: The Leader Lives",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "asm-epic-v5-petrified-tablet",
+      "title": "Amazing Spider-Man Epic Collection: The Secret of the Petrified Tablet",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "cap-epic-v22-man-without-country",
+      "title": "Captain America Epic Collection: Man Without a Country",
+      "current_era": "heroes-reborn-return"
+    },
+    {
+      "slug": "bw-epic-v1-beware",
+      "title": "Black Widow Epic Collection: Beware the Black Widow",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "thor-epic-v4-to-wake-the-mangog",
+      "title": "Thor Epic Collection: To Wake the Mangog",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "mr-mrs-x-thompson",
+      "title": "Mr. & Mrs. X by Kelly Thompson",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "thor-epic-v5-the-fall-of-asgard",
+      "title": "Thor Epic Collection: The Fall of Asgard",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "venomverse",
+      "title": "Venomverse / Venomized",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "quicksilver-complete-collection",
+      "title": "Quicksilver Complete Collection",
+      "current_era": "heroes-reborn-return"
+    },
+    {
+      "slug": "marvel-super-heroes-classic",
+      "title": "Marvel Super-Heroes Classic Collection",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "avengers-epic-v11-evil-reborn",
+      "title": "Avengers Epic Collection: The Evil Reborn",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "captain-america-dematteis",
+      "title": "Captain America by J.M. DeMatteis Epic Collection: Sturm Und Drang",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "marvel-masterworks-daredevil-v2",
+      "title": "Daredevil Masterworks Vol. 2",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "asm-epic-v26-lifetheft",
+      "title": "Amazing Spider-Man Epic Collection: Lifetheft",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "venom-epic-v2-lethal-protector",
+      "title": "Venom Epic Collection: Lethal Protector",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "punisher-epic-v4-return-to-big-nothing",
+      "title": "Punisher Epic Collection: Return to Big Nothing",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "avengers-united-they-stand",
+      "title": "Avengers: Earth's Mightiest Heroes by Joe Casey",
+      "current_era": "bendis-avengers"
+    },
+    {
+      "slug": "awc-epic-v7-ultron-unbound",
+      "title": "Avengers West Coast Epic Collection: Ultron Unbound",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "exiles-omnibus-v1",
+      "title": "Exiles Omnibus Vol. 1",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "dd-epic-v21-widows-kiss",
+      "title": "Daredevil Epic Collection: Widow's Kiss",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "bishop-war-college",
+      "title": "Bishop: War College",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "x-men-epic-children-of-atom",
+      "title": "X-Men Epic Collection: Children of the Atom",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "thor-epic-v20-the-final-gauntlet",
+      "title": "Thor Epic Collection: The Final Gauntlet",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "death-of-inhumans-cates",
+      "title": "Death of the Inhumans",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "wolverine-epic-v8-the-dying-game",
+      "title": "Wolverine Epic Collection: The Dying Game",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "iron-man-epic-v17-war-machine",
+      "title": "Iron Man Epic Collection: War Machine",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "pet-avengers-complete",
+      "title": "Pet Avengers Complete Collection",
+      "current_era": "bendis-avengers"
+    },
+    {
+      "slug": "ms-marvel-iman-vellani",
+      "title": "Ms. Marvel: The New Mutant by Iman Vellani",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "spider-man-shadow-green-goblin",
+      "title": "Spider-Man: Shadow of the Green Goblin",
+      "current_era": "blood-hunt-doom"
+    },
+    {
+      "slug": "iron-man-epic-v10-the-enemy-within",
+      "title": "Iron Man Epic Collection: The Enemy Within",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "marvel-masterworks-x-men-v1",
+      "title": "Marvel Masterworks: The X-Men Vol. 1",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "cap-epic-v13-justice-served",
+      "title": "Captain America Epic Collection: Justice is Served",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "jack-of-hearts-complete",
+      "title": "Jack of Hearts Complete Collection",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "new-mutants-epic-v5-sudden-death",
+      "title": "New Mutants Epic Collection: Sudden Death",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "ghost-rider-omnibus",
+      "title": "Ghost Rider Omnibus Vol. 1",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "new-mutants-epic-v3-asgardian-wars",
+      "title": "New Mutants Epic Collection: Asgardian Wars",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "nick-fury-steranko-complete",
+      "title": "Nick Fury by Jim Steranko Complete Collection",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "wolverine-epic-v6-inner-fury",
+      "title": "Wolverine Epic Collection: Inner Fury",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "wolverine-epic-v2-back-to-basics",
+      "title": "Wolverine Epic Collection: Back to Basics",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "loki-epic-v1-journey-into-mystery",
+      "title": "Loki Epic Collection: Journey into Mystery",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "kate-bishop-hawkeye-tamaki",
+      "title": "Hawkeye: Kate Bishop by Mariko Tamaki",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "ss-epic-v9-resurrection",
+      "title": "Silver Surfer Epic Collection: Resurrection",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "web-warriors",
+      "title": "Web Warriors: Electroverse",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "x-factor-epic-v10-wreaking-havok",
+      "title": "X-Factor Epic Collection: Wreaking Havok",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "xm-epic-v22-legacies",
+      "title": "X-Men Epic Collection: Legacies",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "ds-epic-v2-i-dormammu",
+      "title": "Doctor Strange Epic Collection: I, Dormammu",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "spider-woman-epic-tangled-web",
+      "title": "Spider-Woman Epic Collection: A Tangled Web",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "incredible-hulk-byrne-omnibus",
+      "title": "Incredible Hulk by John Byrne & Peter David Omnibus",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "hulk-epic-v22-ghosts-of-the-future",
+      "title": "Incredible Hulk Epic Collection: Ghosts of the Future",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "gold-goblin-cantwell",
+      "title": "Gold Goblin by Christopher Cantwell",
+      "current_era": "blood-hunt-doom"
+    },
+    {
+      "slug": "x-force-cable-90s-omnibus-v2",
+      "title": "X-Force Omnibus Vol. 2",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "hulk-epic-v13-crossroads",
+      "title": "Incredible Hulk Epic Collection: Crossroads",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "marvel-masterworks-x-men-v2",
+      "title": "Marvel Masterworks: The X-Men Vol. 2",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "punisher-epic-v5-jigsaw-puzzle",
+      "title": "Punisher Epic Collection: Jigsaw Puzzle",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "age-of-x-complete",
+      "title": "Age of X Complete",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "rawhide-kid-western-omnibus",
+      "title": "Rawhide Kid Western Omnibus",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "legion-of-x-spurrier",
+      "title": "Legion of X by Si Spurrier",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "black-panther-epic-panthers-rage",
+      "title": "Black Panther Epic Collection: Panther's Rage",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "namor-first-mutant",
+      "title": "Namor: The First Mutant Complete Collection",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "marvel-masterworks-thor-v2",
+      "title": "Marvel Masterworks: The Mighty Thor Vol. 2",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "defenders-epic-v9-end-of-all-songs",
+      "title": "Defenders Epic Collection: The End of All Songs",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "thor-epic-v18-the-black-galaxy",
+      "title": "Thor Epic Collection: The Black Galaxy",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "kang-conqueror-only-myself",
+      "title": "Kang The Conqueror: Only Myself Left to Conquer",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "asm-epic-v17-kravens-last-hunt",
+      "title": "Amazing Spider-Man Epic Collection: Kraven's Last Hunt",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "strange-tales-human-torch-thing",
+      "title": "Strange Tales: Human Torch & The Thing Complete Collection",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "deadpool-badder-blood",
+      "title": "Deadpool: Badder Blood",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "mighty-avengers-slott",
+      "title": "Mighty Avengers by Dan Slott Complete",
+      "current_era": "bendis-avengers"
+    },
+    {
+      "slug": "exiles-omnibus-v2",
+      "title": "Exiles Omnibus Vol. 2",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "x-terminators-williams",
+      "title": "X-Terminators by Leah Williams",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "avengers-epic-v23-fear-reaper",
+      "title": "Avengers Epic Collection: Fear the Reaper",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "avengers-defenders-war",
+      "title": "Avengers/Defenders War",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "punisher-epic-circle-of-blood",
+      "title": "Punisher Epic Collection: Circle of Blood",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "marvel-the-end",
+      "title": "Marvel: The End",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "hercules-assault-on-olympus",
+      "title": "Hercules: Assault on New Olympus",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "warriors-three-complete",
+      "title": "Warriors Three Complete Collection",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "asm-epic-v18-venom",
+      "title": "Amazing Spider-Man Epic Collection: Venom",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "x-force-epic-v4-toy-soldiers",
+      "title": "X-Force Epic Collection: Toy Soldiers",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "marvel-masterworks-avengers-v3",
+      "title": "Marvel Masterworks: The Avengers Vol. 3",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "emma-frost-omnibus",
+      "title": "Emma Frost: The Complete Collection",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "avengers-masterworks-v2",
+      "title": "Avengers Masterworks Vol. 2",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "mk-epic-v7-death-watch",
+      "title": "Moon Knight Epic Collection: Death Watch",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "dd-epic-v4-woman-called-widow",
+      "title": "Daredevil Epic Collection: A Woman Called Widow",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "x-force-epic-under-the-gun",
+      "title": "X-Force Epic Collection: Under the Gun",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "marvel-presents-guardians-galaxy",
+      "title": "Marvel Presents: Guardians of the Galaxy",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "ss-epic-v13-inner-demons",
+      "title": "Silver Surfer Epic Collection: Inner Demons",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "punisher-compendium-v1",
+      "title": "Punisher Compendium Vol. 1",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "ms-marvel-epic-v2-woman-who-fell",
+      "title": "Ms. Marvel Epic Collection: The Woman Who Fell to Earth",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "marvel-masterworks-x-men-v3",
+      "title": "X-Men Masterworks Vol. 3",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "marvel-masterworks-iron-man-v1",
+      "title": "Marvel Masterworks: Iron Man Vol. 1",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "asm-epic-v3-spider-man-no-more",
+      "title": "Amazing Spider-Man Epic Collection: Spider-Man No More",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "uncanny-spider-man",
+      "title": "Uncanny Spider-Man by Si Spurrier",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "x-men-before-the-fall",
+      "title": "X-Men: Before the Fall",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "captain-marvel-omnibus-v1",
+      "title": "Captain Marvel Omnibus Vol. 1",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "cap-epic-v4-hero-or-hoax",
+      "title": "Captain America Epic Collection: Hero or Hoax?",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "spider-man-black-cat-evil-men-do",
+      "title": "Spider-Man/Black Cat: The Evil That Men Do",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "punisher-born",
+      "title": "Punisher: Born",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "deadpool-bad-blood",
+      "title": "Deadpool: Bad Blood",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "awc-epic-v5-darker-than-scarlet",
+      "title": "Avengers West Coast Epic Collection: Darker Than Scarlet",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "nxm-epic-e-is-extinction",
+      "title": "New X-Men Epic Collection: E Is for Extinction",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "excalibur-epic-v8-battle-for-britain",
+      "title": "Excalibur Epic Collection: Battle for Britain",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "asm-epic-v11-black-cat",
+      "title": "Amazing Spider-Man Epic Collection: Nine Lives Has the Black Cat",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "cap-epic-v18-blood-and-glory",
+      "title": "Captain America Epic Collection: Blood and Glory",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "avengers-no-road-home",
+      "title": "Avengers: No Road Home",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "dd-epic-v20-purgatory-paradise",
+      "title": "Daredevil Epic Collection: Purgatory & Paradise",
+      "current_era": "heroes-reborn-return"
+    },
+    {
+      "slug": "spider-punk-arms-race",
+      "title": "Spider-Punk: Arms Race",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "xm-epic-v12-the-gift",
+      "title": "X-Men Epic Collection: The Gift",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "hulk-epic-v2-the-hulk-must-die",
+      "title": "Incredible Hulk Epic Collection: The Hulk Must Die",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "defenders-epic-v8-new-defenders",
+      "title": "Defenders Epic Collection: The New Defenders",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "spider-girl-may-parker-v2",
+      "title": "Spider-Girl (May Parker) Complete Collection Vol. 2",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "asm-epic-v4-goblin-lives",
+      "title": "Amazing Spider-Man Epic Collection: The Goblin Lives",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "hellcat-nicieza-miniseries",
+      "title": "Hellcat by Nicieza & DeMatteis Complete",
+      "current_era": "heroes-reborn-return"
+    },
+    {
+      "slug": "defenders-epic-v7-ashes-ashes",
+      "title": "Defenders Epic Collection: Ashes, Ashes",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "premier-dd-born-again",
+      "title": "Marvel Premier Collection: Daredevil \u2014 Born Again",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "avengers-epic-v20-crossing-line",
+      "title": "Avengers Epic Collection: The Crossing Line",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "tales-to-astonish-omnibus-v2",
+      "title": "Tales to Astonish Omnibus Vol. 2",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "superior-iron-man",
+      "title": "Superior Iron Man",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "patsy-walker-hellcat-omnibus",
+      "title": "Patsy Walker: Hellcat Omnibus",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "royals-inhumans",
+      "title": "Royals",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "ff-epic-coming-of-galactus",
+      "title": "Fantastic Four Epic Collection: The Coming of Galactus",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "deadpool-kills-marvel-universe",
+      "title": "Deadpool Kills the Marvel Universe",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "marvel-saga-official-history",
+      "title": "Marvel Saga: The Official History",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "dd-epic-v6-watch-out-bullseye",
+      "title": "Daredevil Epic Collection: Watch Out for Bullseye",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "ss-epic-v8-the-herald-ordeal",
+      "title": "Silver Surfer Epic Collection: The Herald Ordeal",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "avengers-epic-v17-judgment-day",
+      "title": "Avengers Epic Collection: Judgment Day",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "awc-epic-v6-california-screamin",
+      "title": "Avengers West Coast Epic Collection: California Screamin'",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "doc-savage-marvel-years",
+      "title": "Doc Savage: The Marvel Years",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "thor-epic-v11-a-kingdom-lost",
+      "title": "Thor Epic Collection: A Kingdom Lost",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "awc-epic-v2-lost-in-space-time",
+      "title": "Avengers West Coast Epic Collection: Lost in Space-Time",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "ghost-rider-epic-v2-salvation-run",
+      "title": "Ghost Rider Epic Collection: The Salvation Run",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "astonishing-xm-epic-v2-unstoppable",
+      "title": "Astonishing X-Men Epic Collection: Unstoppable",
+      "current_era": "bendis-avengers"
+    },
+    {
+      "slug": "ss-epic-v1-when-galactus-calls",
+      "title": "Silver Surfer Epic Collection: When Galactus Calls",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "atlantis-attacks-omnibus",
+      "title": "Atlantis Attacks Omnibus",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "agents-of-wakanda",
+      "title": "Black Panther and the Agents of Wakanda",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "dd-epic-v14-heart-darkness",
+      "title": "Daredevil Epic Collection: Heart of Darkness",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "avengers-west-coast-omnibus-v3",
+      "title": "Avengers West Coast Omnibus Vol. 3",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "hulk-epic-v9-kill-or-be-killed",
+      "title": "Incredible Hulk Epic Collection: Kill or Be Killed",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "ff-1234-morrison",
+      "title": "Fantastic Four: 1234",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "hulk-epic-v19-ghost-of-the-past",
+      "title": "Incredible Hulk Epic Collection: Ghost of the Past",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "spider-man-unlimited-epic",
+      "title": "Spider-Man Unlimited Epic Collection: Maximum Clonage",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "miles-morales-epic-v1",
+      "title": "Miles Morales: Spider-Man Epic Collection: Hero in Training",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "cap-epic-v20-fighting-chance",
+      "title": "Captain America Epic Collection: Fighting Chance",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "thor-vikings",
+      "title": "Thor: Vikings",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "venom-epic-v1-symbiosis",
+      "title": "Venom Epic Collection: Symbiosis",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "asm-epic-v10-big-apple",
+      "title": "Amazing Spider-Man Epic Collection: Big Apple Battleground",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "spider-girl-epic-v1",
+      "title": "Spider-Girl Epic Collection: Legacy",
+      "current_era": "heroes-reborn-return"
+    },
+    {
+      "slug": "iron-man-epic-v1-the-golden-avenger",
+      "title": "Iron Man Epic Collection: The Golden Avenger",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "cap-epic-v3-bucky-reborn",
+      "title": "Captain America Epic Collection: Bucky Reborn",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "thor-epic-v8-war-of-the-gods",
+      "title": "Thor Epic Collection: War of the Gods",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "devil-dinosaur-kirby-complete",
+      "title": "Devil Dinosaur by Jack Kirby Complete Collection",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "daredevil-yellow",
+      "title": "Daredevil: Yellow",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "spine-tingling-spider-man",
+      "title": "Spine-Tingling Spider-Man",
+      "current_era": "blood-hunt-doom"
+    },
+    {
+      "slug": "defenders-epic-v1-day-of-defenders",
+      "title": "Defenders Epic Collection: Day of the Defenders",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "ff-epic-v23-nobody-gets-out-alive",
+      "title": "Fantastic Four Epic Collection: Nobody Gets Out Alive",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "savage-avengers-duggan-omnibus",
+      "title": "Savage Avengers Omnibus by Gerry Duggan",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "iron-man-epic-v14-return-of-the-ghost",
+      "title": "Iron Man Epic Collection: Return of the Ghost",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "cap-epic-v21-twilights-last-gleaming",
+      "title": "Captain America Epic Collection: Twilight's Last Gleaming",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "defenders-beyond-ewing",
+      "title": "Defenders: Beyond by Al Ewing",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "wolverine-epic-v15-law-of-the-jungle",
+      "title": "Wolverine Epic Collection: Law of the Jungle",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "avengers-world-hickman",
+      "title": "Avengers World",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "xmen-x-lives-deaths-wolverine",
+      "title": "X Lives of Wolverine / X Deaths of Wolverine",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "ff-epic-v7-battle-of-the-behemoths",
+      "title": "Fantastic Four Epic Collection: Battle of the Behemoths",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "indestructible-hulk-complete",
+      "title": "Indestructible Hulk: The Complete Collection",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "wolverine-madripoor-knights",
+      "title": "Wolverine: Madripoor Knights",
+      "current_era": "current-ongoings"
+    },
+    {
+      "slug": "silver-surfer-epic-freedom",
+      "title": "Silver Surfer Epic Collection: Freedom",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "captain-america-dawns-early-light",
+      "title": "Captain America Epic Collection: Dawn's Early Light",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "avengers-epic-v13-seasons-witch",
+      "title": "Avengers Epic Collection: Seasons of the Witch",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "awc-epic-v3-tales-to-astonish",
+      "title": "Avengers West Coast Epic Collection: Tales to Astonish",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "wolverine-epic-v9-tooth-and-claw",
+      "title": "Wolverine Epic Collection: Tooth and Claw",
+      "current_era": "heroes-reborn-return"
+    },
+    {
+      "slug": "sgt-fury-epic-v2-berlin-breakout",
+      "title": "Sgt. Fury Epic Collection: Berlin Breakout",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "hawkeye-freefall",
+      "title": "Hawkeye: Freefall",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "avengers-epic-v5-beachhead-earth",
+      "title": "Avengers Epic Collection: This Beachhead Earth",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "silver-surfer-best-defense",
+      "title": "Silver Surfer: The Best Defense",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "sentry-jenkins-complete",
+      "title": "Sentry by Paul Jenkins Complete",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "avengers-forever-omnibus",
+      "title": "Avengers Forever Omnibus",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "cable-deadpool-omnibus",
+      "title": "Cable & Deadpool Omnibus",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "ff-epic-v11-four-no-more",
+      "title": "Fantastic Four Epic Collection: Four No More",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "ghost-spider-mcguire",
+      "title": "Ghost-Spider by Seanan McGuire",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "weapon-x-men",
+      "title": "Weapon X-Men",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "awc-epic-v1-west-was-won",
+      "title": "Avengers West Coast Epic Collection: How the West Was Won",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "valkyrie-jane-foster",
+      "title": "Valkyrie: Jane Foster by Aaron & Ewing",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "champions-classic-70s",
+      "title": "Champions Classic Complete",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "hercules-assault-on-olympus",
+      "title": "Hercules: Assault on New Olympus",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "betsy-braddock-captain-britain",
+      "title": "Betsy Braddock: Captain Britain",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "new-mutants-epic-v1-renewal",
+      "title": "New Mutants Epic Collection: Renewal",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "captain-america-dawns-early-light",
+      "title": "Captain America Epic Collection: Dawn's Early Light",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "dd-epic-v4-woman-called-widow",
+      "title": "Daredevil Epic Collection: A Woman Called Widow",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "silver-surfer-best-defense",
+      "title": "Silver Surfer: The Best Defense",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "dd-epic-v5-going-out-west",
+      "title": "Daredevil Epic Collection: Going Out West",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "sgt-fury-epic-v2-berlin-breakout",
+      "title": "Sgt. Fury Epic Collection: Berlin Breakout",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "ff-epic-v10-counter-earth-must-die",
+      "title": "Fantastic Four Epic Collection: Counter-Earth Must Die",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "cap-modern-epic-death-dream",
+      "title": "Captain America Modern Era Epic Collection: Death of the Dream",
+      "current_era": "bendis-avengers"
+    },
+    {
+      "slug": "hulk-epic-v13-crossroads",
+      "title": "Incredible Hulk Epic Collection: Crossroads",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "dd-epic-v18-fall-from-grace",
+      "title": "Daredevil Epic Collection: Fall from Grace",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "x-force-epic-v3-assault-on-graymalkin",
+      "title": "X-Force Epic Collection: Assault on Graymalkin",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "sgt-fury-omnibus-v1",
+      "title": "Sgt. Fury and His Howling Commandos Omnibus Vol. 1",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "deadpool-bad-blood",
+      "title": "Deadpool: Bad Blood",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "iron-man-epic-v15-doom",
+      "title": "Iron Man Epic Collection: Doom",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "ult-xm-epic-v1",
+      "title": "Ultimate X-Men Epic Collection: The Tomorrow Children",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "hulk-epic-v20-future-imperfect",
+      "title": "Incredible Hulk Epic Collection: Future Imperfect",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "patsy-walker-hellcat-omnibus",
+      "title": "Patsy Walker: Hellcat Omnibus",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "avengers-epic-v10-yesterday-quest",
+      "title": "Avengers Epic Collection: The Yesterday Quest",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "dd-epic-v14-heart-darkness",
+      "title": "Daredevil Epic Collection: Heart of Darkness",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "doc-savage-marvel-years",
+      "title": "Doc Savage: The Marvel Years",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "thor-epic-god-of-thunder",
+      "title": "Thor Epic Collection: The God of Thunder",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "avengers-epic-earths-mightiest",
+      "title": "Avengers Epic Collection: Earth's Mightiest Heroes",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "carnage-epic-v1-born-in-blood",
+      "title": "Carnage Epic Collection: Born in Blood",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "asm-epic-v8-man-wolf",
+      "title": "Amazing Spider-Man Epic Collection: Man-Wolf at Midnight",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "punisher-epic-v4-return-to-big-nothing",
+      "title": "Punisher Epic Collection: Return to Big Nothing",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "avengers-epic-v18-heavy-metal",
+      "title": "Avengers Epic Collection: Heavy Metal",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "asm-epic-great-power",
+      "title": "Spider-Man Epic Collection: Great Power",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "hawkeye-epic-v2-way-of-arrow",
+      "title": "Hawkeye Epic Collection: The Way of the Arrow",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "asm-epic-v11-black-cat",
+      "title": "Amazing Spider-Man Epic Collection: Nine Lives Has the Black Cat",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "tbolts-epic-v2-wanted-dead-alive",
+      "title": "Thunderbolts Epic Collection: Wanted Dead or Alive",
+      "current_era": "heroes-reborn-return"
+    },
+    {
+      "slug": "new-mutants-epic-v3-asgardian-wars",
+      "title": "New Mutants Epic Collection: Asgardian Wars",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "black-panther-epic-panthers-rage",
+      "title": "Black Panther Epic Collection: Panther's Rage",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "cap-epic-v4-hero-or-hoax",
+      "title": "Captain America Epic Collection: Hero or Hoax?",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "mk-epic-v7-death-watch",
+      "title": "Moon Knight Epic Collection: Death Watch",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "sgt-fury-epic-v1-howling-commandos",
+      "title": "Sgt. Fury Epic Collection: The Howling Commandos",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "new-mutants-epic-v7-cable",
+      "title": "New Mutants Epic Collection: Cable",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "ff-epic-v23-nobody-gets-out-alive",
+      "title": "Fantastic Four Epic Collection: Nobody Gets Out Alive",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "thor-epic-v5-the-fall-of-asgard",
+      "title": "Thor Epic Collection: The Fall of Asgard",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "cannonball-new-mutants-complete",
+      "title": "New Mutants: Cannonball & Sunspot \u2014 Complete Duo",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "marvel-masterworks-hulk-v2",
+      "title": "Incredible Hulk Masterworks Vol. 2",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "incredible-hulk-omnibus-v2",
+      "title": "Incredible Hulk Omnibus Vol. 2",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "xm-epic-v22-legacies",
+      "title": "X-Men Epic Collection: Legacies",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "asm-epic-v6-death-captain-stacy",
+      "title": "Amazing Spider-Man Epic Collection: The Death of Captain Stacy",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "thor-epic-v16-war-of-the-pantheons",
+      "title": "Thor Epic Collection: War of the Pantheons",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "asm-epic-v18-venom",
+      "title": "Amazing Spider-Man Epic Collection: Venom",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "thor-epic-v19-the-thor-war",
+      "title": "Thor Epic Collection: The Thor War",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "marvel-masterworks-doctor-strange-v1",
+      "title": "Marvel Masterworks: Doctor Strange Vol. 1",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "excalibur-epic-v2-the-cross-time-caper",
+      "title": "Excalibur Epic Collection: The Cross-Time Caper",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "asm-compendium-v1",
+      "title": "Amazing Spider-Man Compendium Vol. 1",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "astonishing-xm-epic-v1-gifted",
+      "title": "Astonishing X-Men Epic Collection: Gifted",
+      "current_era": "bendis-avengers"
+    },
+    {
+      "slug": "avengers-epic-v17-judgment-day",
+      "title": "Avengers Epic Collection: Judgment Day",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "iron-man-epic-v5-battle-royal",
+      "title": "Iron Man Epic Collection: Battle Royal",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "nick-fury-steranko-complete",
+      "title": "Nick Fury by Jim Steranko Complete Collection",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "asm-epic-v26-lifetheft",
+      "title": "Amazing Spider-Man Epic Collection: Lifetheft",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "superior-iron-man",
+      "title": "Superior Iron Man",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "thor-epic-v10-the-eternals-saga",
+      "title": "Thor Epic Collection: The Eternals Saga",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "asm-epic-great-responsibility",
+      "title": "Spider-Man Epic Collection: Great Responsibility",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "awc-epic-v5-darker-than-scarlet",
+      "title": "Avengers West Coast Epic Collection: Darker Than Scarlet",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "thor-epic-v7-ulik-unchained",
+      "title": "Thor Epic Collection: Ulik Unchained",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "district-x",
+      "title": "District X: The Complete Collection",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "xm-epic-v3-the-sentinels-live",
+      "title": "X-Men Epic Collection: The Sentinels Live",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "asm-michelinie-larsen-omnibus",
+      "title": "Amazing Spider-Man by Michelinie & Larsen Omnibus",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "bishop-war-college",
+      "title": "Bishop: War College",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "cap-symbol-of-truth",
+      "title": "Captain America: Symbol of Truth by Nnedi Okorafor",
+      "current_era": "blood-hunt-doom"
+    },
+    {
+      "slug": "avengers-defenders-war",
+      "title": "Avengers/Defenders War",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "age-of-x-complete",
+      "title": "Age of X Complete",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "marvel-the-end",
+      "title": "Marvel: The End",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "cap-epic-v21-twilights-last-gleaming",
+      "title": "Captain America Epic Collection: Twilight's Last Gleaming",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "marvel-masterworks-avengers-v3",
+      "title": "Marvel Masterworks: The Avengers Vol. 3",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "wolverine-epic-v13-blood-debt",
+      "title": "Wolverine Epic Collection: Blood Debt",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "mtio-epic-v2-two-against-hydra",
+      "title": "Marvel Two-in-One Epic Collection: Two Against Hydra",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "cap-epic-v19-arena-of-death",
+      "title": "Captain America Epic Collection: Arena of Death",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "mtio-epic-v3-remembrance",
+      "title": "Marvel Two-in-One Epic Collection: Remembrance of Things Past",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "avengers-expansion-era-epic",
+      "title": "Avengers Epic Collection: Behold... the Vision",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "hulk-epic-v8-the-curing-of-dr-banner",
+      "title": "Incredible Hulk Epic Collection: The Curing of Dr Banner",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "resurrection-of-magneto",
+      "title": "Resurrection of Magneto",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "multiple-man-rosenberg",
+      "title": "Multiple Man by Matthew Rosenberg",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "hulk-epic-v5-who-will-judge-the-hulk",
+      "title": "Incredible Hulk Epic Collection: Who Will Judge the Hulk",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "avengers-epic-v11-evil-reborn",
+      "title": "Avengers Epic Collection: The Evil Reborn",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "ff-epic-worlds-greatest",
+      "title": "Fantastic Four Epic Collection: World's Greatest Comic Magazine",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "shang-chi-ten-rings",
+      "title": "Shang-Chi and the Ten Rings",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "venom-epic-v1-symbiosis",
+      "title": "Venom Epic Collection: Symbiosis",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "marvel-masterworks-thor-v2",
+      "title": "Marvel Masterworks: The Mighty Thor Vol. 2",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "gold-goblin-cantwell",
+      "title": "Gold Goblin by Christopher Cantwell",
+      "current_era": "blood-hunt-doom"
+    },
+    {
+      "slug": "daredevil-gang-war",
+      "title": "Daredevil: Gang War",
+      "current_era": "blood-hunt-doom"
+    },
+    {
+      "slug": "dark-wolverine-complete",
+      "title": "Dark Wolverine: The Complete Collection",
+      "current_era": "bendis-avengers"
+    },
+    {
+      "slug": "thor-epic-v23-worldengine",
+      "title": "Thor Epic Collection: Worldengine",
+      "current_era": "heroes-reborn-return"
+    },
+    {
+      "slug": "savage-avengers-duggan-omnibus",
+      "title": "Savage Avengers Omnibus by Gerry Duggan",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "new-mutants-epic-v6-curse-of-the-valkyries",
+      "title": "New Mutants Epic Collection: Curse of the Valkyries",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "black-goliath-complete",
+      "title": "Black Goliath Complete Collection",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "tbolts-epic-v1-justice-like-lightning",
+      "title": "Thunderbolts Epic Collection: Justice, Like Lightning",
+      "current_era": "heroes-reborn-return"
+    },
+    {
+      "slug": "moon-knight-moench-omnibus-v1",
+      "title": "Moon Knight by Doug Moench Omnibus Vol. 1",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "way-of-x-spurrier",
+      "title": "Way of X by Si Spurrier",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "mosaic-thorne",
+      "title": "Mosaic by Geoffrey Thorne",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "knights-of-x-howard",
+      "title": "Knights of X by Tini Howard",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "defenders-epic-day-of-defenders",
+      "title": "Defenders Epic Collection: The Day of the Defenders",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "marvel-masterworks-daredevil-v2",
+      "title": "Daredevil Masterworks Vol. 2",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "avengers-epic-v23-fear-reaper",
+      "title": "Avengers Epic Collection: Fear the Reaper",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "marvel-voices-heritage",
+      "title": "Marvel Voices: Heritage",
+      "current_era": "current-ongoings"
+    },
+    {
+      "slug": "spider-girl-may-parker-v2",
+      "title": "Spider-Girl (May Parker) Complete Collection Vol. 2",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "dd-epic-v3-brother-take-my-hand",
+      "title": "Daredevil Epic Collection: Brother, Take My Hand",
+      "current_era": "the-expansion"
+    },
+    {
+      "slug": "wolverine-epic-v2-back-to-basics",
+      "title": "Wolverine Epic Collection: Back to Basics",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "all-new-xmen-bendis-omnibus",
+      "title": "All-New X-Men By Brian Michael Bendis Omnibus",
+      "current_era": "hickman-saga"
+    },
+    {
+      "slug": "strikeforce-complete",
+      "title": "Strikeforce Complete",
+      "current_era": "dawn-of-krakoa"
+    },
+    {
+      "slug": "venomverse",
+      "title": "Venomverse / Venomized",
+      "current_era": "all-new-all-different"
+    },
+    {
+      "slug": "asm-epic-v19-assassin-nation",
+      "title": "Amazing Spider-Man Epic Collection: Assassin Nation",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "avengers-masterworks-v2",
+      "title": "Avengers Masterworks Vol. 2",
+      "current_era": "birth-of-marvel"
+    },
+    {
+      "slug": "cap-epic-v16-streets-poison",
+      "title": "Captain America Epic Collection: Streets of Poison",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "excalibur-epic-v5-days-of-futures-yet-to-come",
+      "title": "Excalibur Epic Collection: Days of Futures Yet to Come",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "hulk-epic-v9-kill-or-be-killed",
+      "title": "Incredible Hulk Epic Collection: Kill or Be Killed",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "iron-man-epic-v6-war-of-the-super-villains",
+      "title": "Iron Man Epic Collection: War of the Super Villains",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "wolverine-epic-v7-to-the-bone",
+      "title": "Wolverine Epic Collection: To the Bone",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "hulk-epic-v21-fall-of-the-pantheon",
+      "title": "Incredible Hulk Epic Collection: Fall of the Pantheon",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "new-warriors-epic-forces-of-darkness",
+      "title": "New Warriors Epic Collection: Forces of Darkness, Forces of Light",
+      "current_era": "event-age"
+    },
+    {
+      "slug": "asm-omnibus-v6",
+      "title": "Amazing Spider-Man Omnibus Vol. 6",
+      "current_era": "rise-of-x-men"
+    },
+    {
+      "slug": "deadpool-cable-epic",
+      "title": "Deadpool & Cable Epic Collection: Ballistic Bromance",
+      "current_era": "bendis-avengers"
+    },
+    {
+      "slug": "venom-separation-anxiety-complete",
+      "title": "Venom: Separation Anxiety Complete",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "asm-epic-v28-web-of-life",
+      "title": "Amazing Spider-Man Epic Collection: Web of Life, Web of Death",
+      "current_era": "speculation-crash"
+    },
+    {
+      "slug": "marvel-presents-guardians-galaxy",
+      "title": "Marvel Presents: Guardians of the Galaxy",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "universe-x",
+      "title": "Universe X",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "wolverine-origin-jenkins",
+      "title": "Wolverine: Origin",
+      "current_era": "marvel-knights-ultimate"
+    },
+    {
+      "slug": "avengers-kree-skrull-war",
+      "title": "Avengers: The Kree-Skrull War",
+      "current_era": "bronze-age"
+    },
+    {
+      "slug": "ult-ff-epic-v1",
+      "title": "Ultimate Fantastic Four Epic Collection: The Fantastic",
+      "current_era": "marvel-knights-ultimate"
+    }
+  ]
+}

@@ -1,0 +1,1220 @@
+[
+  {
+    "slug": "sliding-timescale",
+    "title": "The Sliding Timescale — When Did the FF Form?",
+    "description": "Marvel operates on a 'sliding timescale' where all of Marvel history occurred within roughly 13-15 years of in-universe time. This means the Fantastic Four didn't form in 1961 — they formed 'about 13 years ago' relative to whatever year you're reading in.",
+    "official_stance": "Approximately 13-15 years before 'now,' whenever 'now' is. Marvel's Official Handbook and editorial policy since the 1970s maintains a sliding timescale. Cite: Official Handbook of the Marvel Universe, FF #1 (1961), FF (1998) #60.",
+    "fan_interpretation": "Most readers mentally anchor key events to their publication context — the FF are 'from the 60s' even if Marvel says otherwise. Some fans prefer a fixed timeline with actual dates.",
+    "editorial_context": "The sliding timescale is an editorial necessity to keep characters young. Without it, Reed Richards would be ~90. It creates oddities: How did Tony Stark get captured in a recent war if his origin was '15 years ago'?",
+    "confidence": 90,
+    "source_citations": [
+      "FF #1 (1961)",
+      "FF (1998) #60",
+      "Official Handbook of the Marvel Universe"
+    ],
+    "tags": [
+      "timescale",
+      "continuity",
+      "fantastic-four",
+      "meta"
+    ]
+  },
+  {
+    "slug": "spider-man-marriage",
+    "title": "Spider-Man's Marriage — Did It Happen?",
+    "description": "The core continuity question: did Peter Parker and Mary Jane Watson's marriage (ASM Annual #21, 1987) actually happen in current canon? Mephisto erased it in One More Day (2007), but fans and writers continue to treat the marriage as 'real' continuity.",
+    "official_stance": "Erased by Mephisto in One More Day (ASM #545, 2007). In current 616 canon, Peter and MJ were never married.",
+    "fan_interpretation": "Almost universally rejected by fans. The marriage (ASM Annual #21, 1987) is considered canon by most readers. Recent writers have danced around restoring it.",
+    "editorial_context": "Joe Quesada (EIC) felt a married Spider-Man limited stories. OMD was the mechanism. Nick Spencer's run hinted at undoing it but didn't.",
+    "confidence": 95,
+    "source_citations": [
+      "ASM Annual #21 (1987)",
+      "ASM #544-545 (2007)",
+      "ASM (2018) #1"
+    ],
+    "tags": [
+      "spider-man",
+      "marriage",
+      "retcon",
+      "one-more-day",
+      "mephisto"
+    ]
+  },
+  {
+    "slug": "xorn-magneto",
+    "title": "Was Xorn Really Magneto?",
+    "description": "In Grant Morrison's New X-Men, Xorn was revealed to be Magneto in disguise. After Morrison left, Marvel retconned this — Xorn was actually a separate character impersonating Magneto.",
+    "official_stance": "Marvel editorial retconned that it was NOT Magneto but a Chinese mutant named Xorn impersonating him (Excalibur #1-2, 2004).",
+    "fan_interpretation": "Morrison wrote it as Magneto, period. The retcon was done after Morrison left. Most fans accept Morrison's intent.",
+    "editorial_context": "Chuck Austen and Chris Claremont wrote the retcon. Later writers mostly ignore the confusion. Hickman doesn't address it directly.",
+    "confidence": 50,
+    "source_citations": [
+      "New X-Men #146-154",
+      "Excalibur (2004) #1-2"
+    ],
+    "tags": [
+      "x-men",
+      "magneto",
+      "xorn",
+      "morrison",
+      "retcon"
+    ]
+  },
+  {
+    "slug": "post-secret-wars-universe",
+    "title": "Post-Secret Wars (2015) — Same Universe?",
+    "description": "After Secret Wars (2015) destroyed and rebuilt the multiverse, it's debated whether the resulting Earth-616 is truly the same universe or a functional soft reboot.",
+    "official_stance": "Earth-616 was rebuilt by Reed Richards. All prior history 'happened.' It is the same universe (Secret Wars #9).",
+    "fan_interpretation": "Functionally a soft reboot. Miles Morales, the Maker from Ultimate Universe now in 616. Some details intentionally vague.",
+    "editorial_context": "Secret Wars allowed new #1s without technically rebooting. Hickman intended it as a complete story, not a continuity reset.",
+    "confidence": 80,
+    "source_citations": [
+      "Secret Wars #1-9 (2015)",
+      "ANAD Marvel Point One",
+      "Hickman interviews (2015-2016)"
+    ],
+    "tags": [
+      "secret-wars",
+      "multiverse",
+      "reboot",
+      "hickman",
+      "616"
+    ]
+  },
+  {
+    "slug": "moira-mactaggert-mutant",
+    "title": "Moira MacTaggert — Always a Mutant?",
+    "description": "House of X #2 (2019) revealed that Moira MacTaggert, long established as a human ally of the X-Men, had secretly been a mutant with reincarnation powers all along.",
+    "official_stance": "Yes. House of X #2 (2019) reveals Moira has always been a mutant with reincarnation powers.",
+    "fan_interpretation": "Divisive. Some love it as brilliant recontextualization. Others feel it undermines decades of Moira as explicitly human.",
+    "editorial_context": "Hickman designed this as the key to his X-Men reimagining. Inferno (2021) 'depowered' Moira, somewhat walking it back.",
+    "confidence": 85,
+    "source_citations": [
+      "House of X #2 (2019)",
+      "Inferno (2021) #1-4",
+      "Rise of the Powers of X (2024)"
+    ],
+    "tags": [
+      "x-men",
+      "moira",
+      "hickman",
+      "krakoa",
+      "retcon"
+    ]
+  },
+  {
+    "slug": "clone-saga",
+    "title": "The Clone Saga — Who Is the Real Spider-Man?",
+    "description": "The Clone Saga (1994-1996) was a prolonged Spider-Man storyline that attempted to replace Peter Parker with his clone Ben Reilly as the 'real' Spider-Man, only to reverse course after massive fan backlash.",
+    "official_stance": "Peter Parker is the original Spider-Man. Ben Reilly was the clone. This was eventually confirmed after a prolonged storyline that originally tried to make Ben the original (ASM #394-418, Sensational Spider-Man #0-11).",
+    "fan_interpretation": "Widely regarded as one of Marvel's biggest editorial disasters. The constant reversals destroyed reader trust. Ben Reilly has been rehabilitated in recent years, but the Saga itself remains infamous.",
+    "editorial_context": "Originally planned as a short story, the Clone Saga was extended by editorial mandate due to strong initial sales. The decision to make Ben the 'real' Peter was reversed after massive fan backlash. Multiple writers and editors clashed over the direction.",
+    "confidence": 95,
+    "source_citations": [
+      "ASM #394-418",
+      "Sensational Spider-Man #0-11",
+      "Web of Spider-Man #117-129",
+      "Life of Reilly (online retrospective)"
+    ],
+    "tags": [
+      "spider-man",
+      "clone-saga",
+      "ben-reilly"
+    ]
+  },
+  {
+    "slug": "jean-grey-deaths",
+    "title": "Jean Grey — How Many Times Can She Die?",
+    "description": "Jean Grey's repeated deaths and resurrections have become one of the most iconic running threads in X-Men history, raising questions about the permanence of death in comics.",
+    "official_stance": "Jean Grey has died and returned multiple times. The current 'official' count is approximately 4 distinct deaths. She was fully resurrected in Phoenix Resurrection: The Return of Jean Grey (2018).",
+    "fan_interpretation": "The revolving door of death became a running joke. 'Jean Grey dying' is comics shorthand for 'this won't stick.' Her Krakoa-era resurrection made death even more trivial for mutants.",
+    "editorial_context": "The original Dark Phoenix death (UXM #137, 1980) was intended to be permanent. Editor Jim Shooter mandated it. Kurt Busiek suggested the 'Phoenix was a cosmic entity, not really Jean' retcon in 1986 to bring her back for X-Factor.",
+    "confidence": 90,
+    "source_citations": [
+      "UXM #137 (1980)",
+      "Avengers #263 (1986)",
+      "New X-Men #150 (2004)",
+      "Phoenix Resurrection #1-5 (2018)"
+    ],
+    "tags": [
+      "x-men",
+      "phoenix",
+      "jean-grey",
+      "death-and-resurrection"
+    ]
+  },
+  {
+    "slug": "quicksilver-parentage",
+    "title": "Who Is Quicksilver and Scarlet Witch's Father?",
+    "description": "The parentage of Quicksilver and Scarlet Witch has been retconned multiple times, most controversially in 2015 when Marvel severed their connection to Magneto.",
+    "official_stance": "As of Uncanny Avengers #4 (2015), Quicksilver and Scarlet Witch are NOT Magneto's children. They were experimented on by the High Evolutionary. Their birth parents are Django and Marya Maximoff.",
+    "fan_interpretation": "Widely seen as a retcon motivated by the MCU — Fox owned X-Men movie rights, so Marvel comics distanced the twins from Magneto. Many fans still consider them Magneto's children.",
+    "editorial_context": "Originally introduced as Magneto's children in Vision and the Scarlet Witch #4 (1983). Retconned away in 2015 during a period when Marvel was perceived to be de-emphasizing X-Men properties due to Fox film rights.",
+    "confidence": 85,
+    "source_citations": [
+      "Vision and the Scarlet Witch #4 (1983)",
+      "Uncanny Avengers #4 (2015)",
+      "Magneto #1 (2014)"
+    ],
+    "tags": [
+      "scarlet-witch",
+      "quicksilver",
+      "magneto",
+      "parentage"
+    ]
+  },
+  {
+    "slug": "captain-america-age",
+    "title": "How Old Is Captain America?",
+    "description": "Captain America's WWII origin creates a fundamental tension with the sliding timescale, since his history is anchored to real-world events that cannot slide.",
+    "official_stance": "Steve Rogers was born July 4, 1920 (per multiple canon sources). He was frozen in 1945 and thawed by the Avengers approximately '15 years ago' per the sliding timescale.",
+    "fan_interpretation": "The math doesn't work. If the sliding timescale means the Avengers formed 15 years ago, Cap was frozen for only ~66 years. But stories regularly reference 'decades on ice.' Fans generally accept the WWII history as fixed-date canon.",
+    "editorial_context": "Cap is the clearest example of the sliding timescale's limits. His WWII history is tied to real events that can't slide. Marvel has mostly avoided addressing the paradox directly.",
+    "confidence": 75,
+    "source_citations": [
+      "Avengers #4 (1964)",
+      "Captain America #255 (1981)",
+      "Captain America: Man Out of Time #1-5 (2011)"
+    ],
+    "tags": [
+      "captain-america",
+      "sliding-timescale",
+      "age"
+    ]
+  },
+  {
+    "slug": "vision-original-torch",
+    "title": "Is Vision Made from the Original Human Torch?",
+    "description": "The question of whether the Vision was constructed from the original Human Torch's android body has been contradicted and re-established multiple times across decades.",
+    "official_stance": "Contradictory. Avengers #133-135 (1975) established Vision was built from the original Human Torch's body. West Coast Avengers #44-45 (1989) retconned this. Later stories have gone back and forth.",
+    "fan_interpretation": "Most fans accept the Roy Thomas original intent: Vision IS rebuilt from Jim Hammond's body, making him a legacy character. The retcons are generally seen as unnecessary complications.",
+    "editorial_context": "John Byrne wanted to diminish Vision's connection to humanity during West Coast Avengers. Later writers, particularly Kurt Busiek, tried to reconcile the contradictions.",
+    "confidence": 60,
+    "source_citations": [
+      "Avengers #133-135 (1975)",
+      "WCA #44-45 (1989)",
+      "Avengers Forever #8 (1999)"
+    ],
+    "tags": [
+      "vision",
+      "human-torch",
+      "android",
+      "continuity"
+    ]
+  },
+  {
+    "slug": "kang-identity",
+    "title": "Who Is Kang the Conqueror, Really?",
+    "description": "Kang the Conqueror's identity has become one of the most convoluted in Marvel history, with multiple past and future selves coexisting as separate characters.",
+    "official_stance": "Kang is Nathaniel Richards, a descendant of Reed Richards from the 30th century. He is also Immortus (his future self), Rama-Tut (his past self), Iron Lad (his teenage self), and the Scarlet Centurion. All confirmed canon.",
+    "fan_interpretation": "One of the most confusing villain identities in comics. The time travel means multiple versions exist simultaneously. Most fans just accept 'Kang is Kang' and don't try to track the timeline.",
+    "editorial_context": "Kang's complexity grew organically as different writers added layers. Busiek's Avengers Forever tried to sort it all out but may have made it more confusing. The MCU's approach with He Who Remains was a simplification.",
+    "confidence": 70,
+    "source_citations": [
+      "Avengers #8 (1964)",
+      "Avengers #269 (1986)",
+      "Avengers Forever #1-12 (1998-1999)",
+      "Kang the Conqueror #1-5 (2021)"
+    ],
+    "tags": [
+      "kang",
+      "time-travel",
+      "immortus",
+      "identity"
+    ]
+  },
+  {
+    "slug": "one-more-day-expanded",
+    "title": "One More Day — The Editorial Controversy",
+    "description": "Beyond the continuity question of the marriage itself, One More Day represents one of the most controversial editorial decisions in Marvel history — the behind-the-scenes mandate, creative conflicts, and lasting fan backlash that continue to shape Spider-Man storytelling.",
+    "official_stance": "In Amazing Spider-Man #545 (2007), Peter and MJ made a deal with Mephisto to save Aunt May's life, erasing their marriage from existence. This is current canon — they were never married.",
+    "fan_interpretation": "Almost universally despised by fans. Regularly cited as the worst Spider-Man story ever told. Nick Spencer's run heavily teased undoing it but ultimately didn't. Fans consider the pre-OMD marriage as 'real' continuity.",
+    "editorial_context": "Joe Quesada believed a married Peter Parker limited storytelling possibilities. He mandated the change. J. Michael Straczynski asked to have his name removed from the final issue. The story's reception was so negative it became a cautionary tale about editorial interference.",
+    "confidence": 98,
+    "source_citations": [
+      "ASM #544-545 (2007)",
+      "ASM (2018) #1-74 (Spencer run)",
+      "One Moment in Time (ASM #638-641)"
+    ],
+    "tags": [
+      "spider-man",
+      "marriage",
+      "mephisto",
+      "editorial-mandate"
+    ]
+  },
+  {
+    "slug": "magneto-age-holocaust",
+    "title": "Magneto's Age and the Holocaust",
+    "description": "Magneto's identity as a Holocaust survivor is central to his character, but the sliding timescale makes his age increasingly impossible. Marvel has used various mechanisms to keep him active while preserving the Holocaust connection.",
+    "official_stance": "Magneto is a Holocaust survivor. Marvel has used de-aging to keep him active. UXM #161 (1982) established the name 'Erik Lehnsherr,' but X-Men: Magneto Testament #1-5 (2008) by Greg Pak revealed his birth name is Max Eisenhardt — 'Erik Lehnsherr' is a false identity assumed after the war.",
+    "fan_interpretation": "The Holocaust connection is central to Magneto's character. Fans resist any attempt to sever this tie. The sliding timescale makes his age increasingly implausible.",
+    "editorial_context": "Marvel has resisted aging Magneto out or changing his origin, despite the timeline math becoming impossible. The Krakoa era used Resurrection to sidestep the issue.",
+    "confidence": 85,
+    "source_citations": [
+      "Uncanny X-Men #161 (1982)",
+      "X-Men: Magneto Testament #1-5 (2008)",
+      "House of X #1 (2019)"
+    ],
+    "tags": [
+      "magneto",
+      "x-men",
+      "holocaust",
+      "sliding-timescale",
+      "age"
+    ]
+  },
+  {
+    "slug": "nick-fury-race-change",
+    "title": "Nick Fury — White or Black?",
+    "description": "The original Nick Fury was a white WWII veteran and spy. The MCU's Samuel L. Jackson portrayal led Marvel to create a Black Nick Fury in the main comics universe, raising questions about corporate synergy versus organic character evolution.",
+    "official_stance": "The original Nick Fury (Earth-616) is white, introduced in Sgt. Fury #1 (1963). Nick Fury Jr. (Marcus Johnson) is his biracial son, introduced in Battle Scars #1 (2012).",
+    "fan_interpretation": "Most modern fans know the Samuel L. Jackson version from the MCU. The comics retroactively created a character to match. Some fans see this as organic evolution, others as corporate synergy.",
+    "editorial_context": "The Ultimate Universe (2001) first depicted Nick Fury as Black, explicitly based on Samuel L. Jackson. After the MCU success, Marvel created Nick Fury Jr. to have a 616 equivalent.",
+    "confidence": 95,
+    "source_citations": [
+      "Sgt. Fury and his Howling Commandos #1 (1963)",
+      "The Ultimates #1 (2002)",
+      "Battle Scars #1-6 (2012)"
+    ],
+    "tags": [
+      "nick-fury",
+      "mcu-synergy",
+      "ultimate-universe",
+      "race"
+    ]
+  },
+  {
+    "slug": "the-sentry-retcon",
+    "title": "The Sentry — Did He Always Exist?",
+    "description": "The Sentry was introduced as a forgotten hero who had always existed in the Marvel Universe but was erased from everyone's memory. The meta-narrative of his first miniseries gave way to controversial mainstream continuity use.",
+    "official_stance": "Yes. Robert Reynolds (The Sentry) has always existed in the Marvel Universe but everyone forgot him, including the readers. He has the power of 'a million exploding suns.'",
+    "fan_interpretation": "Divisive. The original Paul Jenkins miniseries (2000) was a brilliant meta-narrative. Later uses (especially Bendis's Dark Avengers) were controversial. The Void concept was never consistently handled.",
+    "editorial_context": "Jenkins's original Sentry was meant as a one-off prestige story. Bendis brought him into main continuity. His power level was never properly defined, leading to inconsistent portrayals.",
+    "confidence": 70,
+    "source_citations": [
+      "The Sentry #1-5 (2000)",
+      "New Avengers #1 (2005)",
+      "Dark Avengers #1 (2009)",
+      "Siege #3-4 (2010)"
+    ],
+    "tags": [
+      "sentry",
+      "retcon",
+      "power-levels",
+      "bendis",
+      "meta-narrative"
+    ]
+  },
+  {
+    "slug": "no-more-mutants-scope",
+    "title": "No More Mutants — How Many Survived?",
+    "description": "Scarlet Witch's 'No more mutants' decimation reduced the mutant population dramatically, but the exact scope was never consistently applied across titles, leading to ongoing confusion about who was depowered and how many remained.",
+    "official_stance": "Scarlet Witch reduced the mutant population from millions to 198 in House of M #7 (2005). The exact number '198' was used as a label but more than 198 survived.",
+    "fan_interpretation": "The '198' label was taken literally by some, figuratively by others. Writers inconsistently applied it. Some X-books showed hundreds of remaining mutants, others strictly enforced the cap.",
+    "editorial_context": "Editorial wanted a way to make mutants special again (after Grant Morrison had millions). The number '198' was evocative but never strictly enforced. AvX and later Krakoa reversed it entirely.",
+    "confidence": 80,
+    "source_citations": [
+      "House of M #7 (2005)",
+      "Decimation: The 198 #1 (2006)",
+      "Avengers vs. X-Men #12 (2012)"
+    ],
+    "tags": [
+      "scarlet-witch",
+      "house-of-m",
+      "decimation",
+      "mutants",
+      "x-men"
+    ]
+  },
+  {
+    "slug": "krakoan-resurrection-stakes",
+    "title": "Krakoan Resurrection — Does Death Matter?",
+    "description": "The Krakoa era introduced mutant resurrection as a systematic process, eliminating the permanence of death for mutants. This fundamentally altered the dramatic stakes of X-Men storytelling.",
+    "official_stance": "The Five (Hope, Proteus, Elixir, Tempus, Egg) can resurrect any mutant from backup Cerebro data. Death is genuinely eliminated for mutants during the Krakoa era.",
+    "fan_interpretation": "Critics argue resurrection eliminates dramatic stakes. Supporters counter that Hickman deliberately explored the social/philosophical implications. The 'Quiet Council choosing who gets resurrected' added political stakes.",
+    "editorial_context": "Hickman designed this as a feature, not a bug. The loss of dramatic death-stakes was replaced by political/moral tension about who controls resurrection. Inferno and Fall of X challenged the system.",
+    "confidence": 90,
+    "source_citations": [
+      "House of X #5 (2019)",
+      "X-Force #1 (2019)",
+      "Inferno #1-4 (2021)",
+      "Fall of X (2023-2024)"
+    ],
+    "tags": [
+      "krakoa",
+      "resurrection",
+      "x-men",
+      "hickman",
+      "stakes"
+    ]
+  },
+  {
+    "slug": "franklin-richards-powers",
+    "title": "Franklin Richards — Mutant or Not?",
+    "description": "Franklin Richards was established as one of the most powerful mutants in existence for over 50 years. The Krakoa era controversially retconned this, declaring his powers were reality-warped rather than genetic.",
+    "official_stance": "As of Hickman's X-Men, Franklin Richards is no longer classified as a mutant. His powers were reality-warped, not genetic. This was revealed in X-Men #16 (2020).",
+    "fan_interpretation": "Extremely controversial. Franklin was a mutant for 50+ years (since FF Annual #6, 1968). Many fans and even writers (Dan Slott publicly) disagreed with this retcon.",
+    "editorial_context": "Hickman needed Franklin excluded from Krakoa to maintain the FF/X-Men dynamic. The retcon served the Krakoa narrative but upset Franklin's long history. Slott's FF run pushed back on it.",
+    "confidence": 75,
+    "source_citations": [
+      "Fantastic Four Annual #6 (1968)",
+      "X-Men/Fantastic Four #3-4 (2020)",
+      "Fantastic Four #26 (2020)"
+    ],
+    "tags": [
+      "franklin-richards",
+      "fantastic-four",
+      "x-men",
+      "krakoa",
+      "mutant",
+      "retcon"
+    ]
+  },
+  {
+    "slug": "wolverine-origins-timeline",
+    "title": "Wolverine's Origin — When Was He Born?",
+    "description": "Wolverine's mysterious past was a deliberate creative choice for 25+ years. The Origin miniseries (2001) finally revealed his Victorian-era childhood, but subsequent additions to his history have sometimes contradicted each other.",
+    "official_stance": "James Howlett was born in the late 1880s in Alberta, Canada. Origin (2001) established his Victorian-era childhood. He has lived ~130+ years thanks to his healing factor.",
+    "fan_interpretation": "The mystery of Wolverine's past was considered part of his appeal. Many fans felt the Origin miniseries (2001) diminished the character by explaining too much. The 'Dog Logan = Sabretooth' theory persists despite being denied.",
+    "editorial_context": "Marvel deliberately kept Wolverine's past mysterious for 25+ years. Origin was a prestige project that finally revealed it. Subsequent writers have layered additional history (WWII, Cold War, Weapon X) that sometimes contradicts.",
+    "confidence": 85,
+    "source_citations": [
+      "Origin #1-6 (2001)",
+      "Wolverine (2003) #36-40",
+      "Weapon X (1991)"
+    ],
+    "tags": [
+      "wolverine",
+      "origin",
+      "mystery",
+      "timeline",
+      "weapon-x"
+    ]
+  },
+  {
+    "slug": "phoenix-force-vs-jean",
+    "title": "Phoenix Force — Was It Ever Jean Grey?",
+    "description": "The nature of the Phoenix Force and its relationship to Jean Grey has been retconned multiple times. Was Jean the Phoenix, or was it always a separate entity? The answer changed to facilitate Jean's return for X-Factor.",
+    "official_stance": "The Phoenix Force is a separate cosmic entity. In the original Claremont story, Jean WAS Phoenix. The 1986 retcon (FF #286) established the Phoenix replaced Jean in a cocoon on the moon.",
+    "fan_interpretation": "The retcon was done to bring Jean back for X-Factor #1 without her being a mass murderer (destroying D'Bari). Claremont intended Jean to actually die. Many fans prefer the original tragic version.",
+    "editorial_context": "Kurt Busiek suggested the cocoon retcon. It allowed Jean's return but undermined the Dark Phoenix Saga's emotional impact. Later writers tried to reconcile both versions — Jean DID touch the Phoenix, it copied her, etc.",
+    "confidence": 90,
+    "source_citations": [
+      "Uncanny X-Men #101-108 (1977)",
+      "Uncanny X-Men #137 (1980)",
+      "Fantastic Four #286 (1986)",
+      "X-Factor #1 (1986)"
+    ],
+    "tags": [
+      "phoenix",
+      "jean-grey",
+      "x-men",
+      "retcon",
+      "cosmic"
+    ]
+  },
+  {
+    "slug": "ultimate-universe-merger",
+    "title": "Ultimate Universe Merger — What Carried Over?",
+    "description": "Secret Wars (2015) destroyed the Ultimate Universe (Earth-1610) and merged elements into Earth-616. The exact scope of what carried over and how previous history was reconciled remains deliberately ambiguous.",
+    "official_stance": "After Secret Wars (2015), Miles Morales and his supporting cast were transplanted into Earth-616. The Maker (evil Reed Richards) also survived. The rest of Earth-1610 was destroyed.",
+    "fan_interpretation": "The mechanics of the merger are deliberately vague. How much of Miles's history 'happened' in 616 is unclear. The 2023 Ultimate Universe relaunch further complicated things.",
+    "editorial_context": "Hickman's Secret Wars was meant to merge the best of both universes. In practice, mostly Miles came over. Maker became a recurring villain. The 2023 Ultimate relaunch (by Hickman) re-created Earth-6160.",
+    "confidence": 80,
+    "source_citations": [
+      "Secret Wars #9 (2015)",
+      "Spider-Man (2016) #1",
+      "Ultimate Invasion #1-4 (2023)"
+    ],
+    "tags": [
+      "ultimate-universe",
+      "secret-wars",
+      "miles-morales",
+      "maker",
+      "multiverse"
+    ]
+  },
+  {
+    "slug": "beyonder-nature",
+    "title": "The Beyonder's Nature — What Is He?",
+    "description": "The Beyonder has been retconned more times than almost any Marvel character. Each era redefines what he actually is — from omnipotent being to Inhuman mutant to cosmic cube to child unit of a greater cosmic hierarchy.",
+    "official_stance": "The Beyonder has been retconned multiple times: omnipotent being, an Inhuman mutant, a cosmic cube, a 'child unit' of the cosmic hierarchy. Each era redefined him.",
+    "fan_interpretation": "Most fans prefer the original Secret Wars depiction: an all-powerful being from beyond the multiverse. The Inhuman/Cosmic Cube retcons are widely disliked.",
+    "editorial_context": "Jim Shooter created the Beyonder as truly omnipotent. Later writers found this problematic and kept reducing his power level. Al Ewing's Defenders: Beyond (2022) attempted a definitive explanation.",
+    "confidence": 60,
+    "source_citations": [
+      "Secret Wars #1-12 (1984-1985)",
+      "Secret Wars II #1-9 (1985-1986)",
+      "Illuminati #3 (2007)",
+      "Defenders: Beyond #5 (2022)"
+    ],
+    "tags": [
+      "beyonder",
+      "secret-wars",
+      "cosmic",
+      "retcon",
+      "power-levels"
+    ]
+  },
+  {
+    "slug": "thanos-death-cycle",
+    "title": "Thanos — How Many Times Has He Really Died?",
+    "description": "Thanos's repeated deaths and resurrections have become a running thread in Marvel cosmic storytelling, complicated by his creator Jim Starlin's proprietary attitude toward the character and inconsistent handling by different writers.",
+    "official_stance": "Thanos has died and returned numerous times. He was killed in Annihilation (2006), returned in Thanos Imperative, died in Secret Wars, returned, and was killed by Gamora in Infinity Wars (2018).",
+    "fan_interpretation": "Thanos's deaths and resurrections have become a running joke. His relationship with Lady Death originally motivated his returns. Post-Starlin writers often struggled with consistent Thanos characterization.",
+    "editorial_context": "Starlin has proprietary feelings about Thanos and has occasionally undone other writers' Thanos stories. The character's power level and motivations shift dramatically between writers.",
+    "confidence": 75,
+    "source_citations": [
+      "Infinity Gauntlet #6 (1991)",
+      "Annihilation #6 (2006)",
+      "Thanos Imperative #6 (2010)",
+      "Infinity Wars #5 (2018)"
+    ],
+    "tags": [
+      "thanos",
+      "death-and-resurrection",
+      "cosmic",
+      "starlin"
+    ]
+  },
+  {
+    "slug": "miles-morales-616-history",
+    "title": "Miles Morales in 616 — Same Person?",
+    "description": "After Secret Wars (2015), Miles Morales was transplanted from the Ultimate Universe into Earth-616 with reality rewritten to accommodate him. The details of how his history was reconciled remain intentionally fuzzy.",
+    "official_stance": "Post-Secret Wars, reality was rewritten so Miles Morales has always lived in Earth-616. His mother is alive again. His previous Ultimate Universe history is acknowledged but fuzzy.",
+    "fan_interpretation": "The transition was handled well narratively but the details are deliberately vague. Some fans prefer clear delineation between 1610-Miles and 616-Miles.",
+    "editorial_context": "Bendis wanted Miles in the main universe. Molecule Man granted his 'wish' in Secret Wars #9. Later writers have mostly treated him as a 616 native with occasional 1610 memories.",
+    "confidence": 85,
+    "source_citations": [
+      "Secret Wars #9 (2015)",
+      "Spider-Man (2016) #1",
+      "Miles Morales: Spider-Man (2019) #10"
+    ],
+    "tags": [
+      "miles-morales",
+      "spider-man",
+      "ultimate-universe",
+      "secret-wars",
+      "identity"
+    ]
+  },
+  {
+    "slug": "jane-foster-thor-timeline",
+    "title": "Jane Foster as Thor — Was She Worthy All Along?",
+    "description": "Jane Foster's time as Thor was a planned arc within Jason Aaron's multi-year Thor saga, raising questions about worthiness, sacrifice, and whether the hammer or the person defines the hero.",
+    "official_stance": "Jane Foster lifted Mjolnir in Thor (2014) #1 after the original Thor became 'unworthy' due to Nick Fury's whisper. She had breast cancer and transforming into Thor reset her chemotherapy each time.",
+    "fan_interpretation": "Widely acclaimed run by Jason Aaron. Some fans debated whether the 'unworthy' concept for Odinson was forced. The cancer subplot was praised as adding genuine stakes to the transformation.",
+    "editorial_context": "Aaron planned the Jane Foster Thor arc from the beginning of his God of Thunder run (2012). The mystery of her identity drove two years of storytelling. Her sacrifice in Mighty Thor #705 was a deliberate parallel to the mythology.",
+    "confidence": 90,
+    "source_citations": [
+      "Thor (2014) #1",
+      "Mighty Thor #705-706 (2018)",
+      "Thor God of Thunder #1 (2012)"
+    ],
+    "tags": [
+      "thor",
+      "jane-foster",
+      "worthiness",
+      "mjolnir",
+      "jason-aaron"
+    ]
+  },
+  {
+    "slug": "scarlet-witch-mutant-or-not",
+    "title": "Scarlet Witch -- Mutant, Sorceress, or Something Else?",
+    "description": "Wanda Maximoff was a mutant for decades, then retconned into a non-mutant enhanced by the High Evolutionary in 2015. The Krakoa era complicated things further by having her declared an 'honorary mutant' and the 'Great Pretender.'",
+    "official_stance": "As of Uncanny Avengers (2015) #4, Wanda is NOT a mutant. She was experimented on by the High Evolutionary. However, during the Krakoa era, the Hellfire Gala declared her the 'Pretender' and later the Trial of Magneto (2021) reframed her as connected to mutantkind through Magneto's relationship as adoptive father.",
+    "fan_interpretation": "Most fans still consider Wanda a mutant in spirit, even if the genetics say otherwise. The retcon is widely seen as MCU-driven (Fox owned X-Men film rights). Orlando's Scarlet Witch solo treated her as magical regardless of genetics.",
+    "editorial_context": "The retcon in 2015 coincided with Marvel's perceived de-emphasis of X-Men properties due to Fox film rights. After Disney acquired Fox, the editorial pressure to distance characters from mutants lessened, leading to the softer Krakoa-era reconciliation.",
+    "confidence": 85,
+    "source_citations": [
+      "Uncanny Avengers #4 (2015)",
+      "Trial of Magneto #1-5 (2021)",
+      "Scarlet Witch (2023) #1"
+    ],
+    "tags": [
+      "scarlet-witch",
+      "mutant",
+      "retcon",
+      "mcu-synergy",
+      "krakoa"
+    ]
+  },
+  {
+    "slug": "dooms-face-scarring",
+    "title": "Doctor Doom's Face -- How Scarred Is He?",
+    "description": "The severity of Doom's facial scarring has been depicted inconsistently for 60 years. Some stories show a single small scar he overreacted to; others depict his entire face as ruined. The contradiction is arguably the point -- it reveals Doom's pathology.",
+    "official_stance": "Doom's original story (FF Annual #2, 1964) showed a relatively minor scar from his experiment to contact his mother's spirit. However, he put on his iron mask before it cooled, making the scarring far worse. Byrne's FF #278 (1985) showed a small scar, emphasizing Doom's vanity.",
+    "fan_interpretation": "The small scar version (Byrne, later Waid) is more psychologically interesting -- Doom's perfectionism means ANY flaw is unacceptable. The heavily scarred version (most other depictions) is more dramatically compelling. Fans generally accept that the severity varies by artistic interpretation.",
+    "editorial_context": "Byrne deliberately showed a minor scar to emphasize that Doom's ego, not his actual disfigurement, is the real wound. Later writers went back to severe scarring because it's more visually dramatic. There is no single 'correct' version.",
+    "confidence": 70,
+    "source_citations": [
+      "Fantastic Four Annual #2 (1964)",
+      "Fantastic Four #278 (1985)",
+      "Books of Doom #1-6 (2006)"
+    ],
+    "tags": [
+      "doctor-doom",
+      "continuity",
+      "artistic-interpretation",
+      "fantastic-four"
+    ]
+  },
+  {
+    "slug": "captain-america-hydra-secret-empire",
+    "title": "Captain America -- Secretly Hydra?",
+    "description": "Nick Spencer's Secret Empire (2017) revealed that Captain America had been a Hydra agent all along, rewritten by a sentient Cosmic Cube. The most controversial Captain America story since his creation raised questions about whether such a story should exist.",
+    "official_stance": "Steve Rogers was rewritten by Kobik (a sentient Cosmic Cube fragment) to have always been a Hydra loyalist. He conquered America in Secret Empire #1-10 (2017). The 'real' Steve was restored from within the Cube. Current canon: it happened, but it wasn't the 'real' Steve.",
+    "fan_interpretation": "Extremely divisive. Critics argued making Cap a Nazi was unconscionable, especially given his Jewish creators. Defenders noted the story was explicitly about how fascism corrupts symbols. The resolution -- that the 'real' Cap was trapped inside the Cube -- satisfied few.",
+    "editorial_context": "Spencer planned the twist from his first Cap issue. The timing -- during real-world political upheaval in 2017 -- made it more inflammatory than intended. Marvel defended it as a story about fighting fascism, but the optics of Cap doing a Nazi salute dominated media coverage.",
+    "confidence": 95,
+    "source_citations": [
+      "Captain America: Steve Rogers #1 (2016)",
+      "Secret Empire #0-10 (2017)",
+      "Captain America (2018) #1"
+    ],
+    "tags": [
+      "captain-america",
+      "hydra",
+      "secret-empire",
+      "controversy",
+      "cosmic-cube"
+    ]
+  },
+  {
+    "slug": "thors-worthiness-rules",
+    "title": "Thor's Hammer Worthiness -- What Are the Rules?",
+    "description": "Mjolnir's worthiness enchantment ('Whosoever holds this hammer, if he be worthy, shall possess the power of Thor') has been applied inconsistently across decades. Who qualifies as 'worthy' and why shifts with each writer.",
+    "official_stance": "Odin placed the worthiness enchantment on Mjolnir after exiling Thor to Earth (Thor #159, 1968 origin). Notable wielders: Beta Ray Bill, Captain America, Jane Foster, Storm (briefly). The enchantment responds to selflessness, willingness to kill when necessary, and a warrior's spirit.",
+    "fan_interpretation": "The worthiness rules seem to change based on story needs. Cap could always lift it (hinted in Thor #390, confirmed in Fear Itself). But why couldn't other clearly 'good' heroes? Aaron's run added that Mjolnir is semi-sentient and CHOOSES its wielder, which explains the inconsistency.",
+    "editorial_context": "Originally a simple power restriction, worthiness became thematically central during Aaron's run. The 'Gorr was right -- all gods are unworthy' whisper from Nick Fury that stripped Thor's worthiness was never fully revealed, deliberately leaving it ambiguous.",
+    "confidence": 75,
+    "source_citations": [
+      "Thor #159 (1968)",
+      "Thor #390 (1988)",
+      "Fear Itself #7 (2011)",
+      "Original Sin #7 (2014)",
+      "Thor (2014) #1"
+    ],
+    "tags": [
+      "thor",
+      "mjolnir",
+      "worthiness",
+      "enchantment",
+      "power-rules"
+    ]
+  },
+  {
+    "slug": "spider-man-organic-vs-mechanical-webshooters",
+    "title": "Spider-Man's Web-Shooters -- Organic or Mechanical?",
+    "description": "Peter Parker traditionally builds mechanical web-shooters, showcasing his scientific genius. The Raimi films gave him organic webs, and JMS's comics briefly followed suit before reverting. The debate touches on what makes Spider-Man special.",
+    "official_stance": "Peter Parker invents mechanical web-shooters (Amazing Fantasy #15, 1962). During JMS's run, 'The Other' storyline (ASM #527, 2005) gave Peter organic web-shooters temporarily. Brand New Day (2008) quietly restored mechanical shooters without explanation.",
+    "fan_interpretation": "Purists insist mechanical web-shooters are essential -- they demonstrate Peter's genius and create dramatic tension when he runs out of fluid. Organic web defenders argue it's more logical biologically. Most fans accept mechanical as definitive.",
+    "editorial_context": "The organic webs in JMS's run were likely influenced by the Raimi films' success. The revert during Brand New Day suggests editorial realized mechanical shooters are more dramatically interesting. Miles Morales has organic venom blasts instead, differentiating him.",
+    "confidence": 90,
+    "source_citations": [
+      "Amazing Fantasy #15 (1962)",
+      "Amazing Spider-Man #527 (2005)",
+      "Amazing Spider-Man #546 (2008)"
+    ],
+    "tags": [
+      "spider-man",
+      "web-shooters",
+      "powers",
+      "science",
+      "mcu-synergy"
+    ]
+  },
+  {
+    "slug": "illuminati-always-meeting",
+    "title": "The Illuminati -- Were They Always Meeting in Secret?",
+    "description": "Bendis's New Avengers: Illuminati (2006) retroactively established that Iron Man, Reed Richards, Black Bolt, Namor, Doctor Strange, and Professor X had been secretly meeting to guide the Marvel Universe since the Kree-Skrull War. Was this always the plan?",
+    "official_stance": "The Illuminati formed after the Kree-Skrull War (retconned in New Avengers: Illuminati #1, 2006) and secretly influenced events like the Beyonder's arrival, the Infinity Gems' dispersal, and the decision to exile Hulk. Their existence was unknown until House of M aftermath.",
+    "fan_interpretation": "A clever retcon that recontextualizes decades of Marvel history. Some fans appreciate the added depth; others dislike the implication that heroes were secretly manipulating events. Hickman's use in New Avengers (2013) elevated the concept to tragic greatness.",
+    "editorial_context": "Bendis created the Illuminati to explore power and accountability. It was never 'the plan' -- it's pure retcon. But Hickman's Avengers/New Avengers run made it essential continuity by having the Illuminati face impossible choices during the incursions.",
+    "confidence": 80,
+    "source_citations": [
+      "New Avengers: Illuminati #1 (2006)",
+      "New Avengers (2013) #1",
+      "Avengers (2012) #1"
+    ],
+    "tags": [
+      "illuminati",
+      "retcon",
+      "bendis",
+      "hickman",
+      "secret-history"
+    ]
+  },
+  {
+    "slug": "hulk-intelligence-personas",
+    "title": "Hulk's Intelligence -- Banner vs. Hulk Personas",
+    "description": "The Hulk's intelligence level has varied wildly: mindless brute, crafty Gray Hulk, eloquent Professor Hulk, world-breaker, and the manipulative Devil Hulk. The shifting personas reflect different writers' approaches to dissociative identity disorder.",
+    "official_stance": "Peter David established that Banner has dissociative identity disorder (Incredible Hulk #377, 1991). Different Hulk personas -- Savage (green, childlike), Gray/Joe Fixit (cunning), Professor (merged), Devil Hulk (manipulative) -- represent fractured aspects of Banner's psyche.",
+    "fan_interpretation": "David's DID framework is the most widely accepted explanation for the Hulk's inconsistency. Ewing's Immortal Hulk added cosmic horror dimensions -- the Green Door, the Below Place -- that reframed Hulk personas as something beyond mere psychology.",
+    "editorial_context": "Before David, Hulk's intelligence shifted arbitrarily between writers. David gave it a psychological framework that retroactively explained decades of inconsistency. Ewing built on this by adding supernatural elements, suggesting the Hulk is more than just Banner's trauma.",
+    "confidence": 85,
+    "source_citations": [
+      "Incredible Hulk #377 (1991)",
+      "Incredible Hulk #1 (1962)",
+      "Immortal Hulk #1-50 (2018-2021)"
+    ],
+    "tags": [
+      "hulk",
+      "personas",
+      "psychology",
+      "peter-david",
+      "al-ewing"
+    ]
+  },
+  {
+    "slug": "magneto-villain-antihero",
+    "title": "Magneto -- Villain, Antihero, or Hero?",
+    "description": "Magneto's moral alignment has shifted more times than almost any character in Marvel. Claremont humanized him. Morrison made him a genocidal villain again (or did he?). Krakoa made him a founding father. Is he redeemed or unredeemable?",
+    "official_stance": "Magneto's alignment has officially shifted multiple times: villain (early appearances), redeemed hero (UXM #200-275, running Xavier's school), villain again (various 90s stories), complex antihero (Morrison era -- complicated by Xorn retcon), founding father of Krakoa (HoX/PoX 2019), sacrificial hero (Rise of the Powers of X 2024).",
+    "fan_interpretation": "Claremont's rehabilitation is considered the definitive Magneto -- a Holocaust survivor whose extremism is understandable if not justified. The Krakoa era fulfilled Magneto's dream without compromise. His sacrifice in Rise of the Powers of X was widely praised as the perfect ending.",
+    "editorial_context": "Different writers have different Magnetos. Claremont saw him as redeemable. Morrison used him as a cautionary tale. Hickman saw him as a pragmatic leader. The character works precisely BECAUSE his morality is genuinely ambiguous. Each interpretation is valid.",
+    "confidence": 80,
+    "source_citations": [
+      "Uncanny X-Men #150 (1981)",
+      "Uncanny X-Men #200 (1985)",
+      "New X-Men #146-150 (2003)",
+      "House of X #1 (2019)",
+      "Rise of the Powers of X #5 (2024)"
+    ],
+    "tags": [
+      "magneto",
+      "morality",
+      "x-men",
+      "villain",
+      "antihero",
+      "krakoa"
+    ]
+  },
+  {
+    "slug": "emma-frost-reformation",
+    "title": "Emma Frost -- Reliable Reformation?",
+    "description": "Emma Frost went from White Queen of the Hellfire Club (villain) to X-Men member and Scott Summers's lover. Her reformation has been a slow burn across 25+ years, but every writer handles her differently -- is she truly reformed or always playing an angle?",
+    "official_stance": "Emma joined the X-Men after Generation X (1994-2001). Morrison's New X-Men made her a main character and Scott's partner. She has remained an X-Man through the Krakoa era, serving on the Quiet Council. Her transformation from villain to hero is one of Marvel's longest character arcs.",
+    "fan_interpretation": "Emma's appeal is precisely the ambiguity. She's never entirely trustworthy, never entirely a villain. Her relationship with Scott was controversial (she telepathically seduced him while he was married to Jean). Fans debate whether she's reformed or just playing a longer game.",
+    "editorial_context": "Morrison made Emma central to X-Men. Whedon's Astonishing continued her arc. The Krakoa era had her as a key political figure. Her character works because writers maintain the tension between genuine heroism and residual ruthlessness. She's not Jean Grey, and that's the point.",
+    "confidence": 80,
+    "source_citations": [
+      "Generation X #1 (1994)",
+      "New X-Men #116 (2001)",
+      "Astonishing X-Men #1 (2004)",
+      "Immortal X-Men #1 (2022)"
+    ],
+    "tags": [
+      "emma-frost",
+      "x-men",
+      "reformation",
+      "hellfire-club",
+      "morality"
+    ]
+  },
+  {
+    "slug": "vision-scarlet-witch-children",
+    "title": "Vision and Scarlet Witch's Children -- Real or Not?",
+    "description": "Wanda and Vision had twin sons Thomas and William, who were revealed to be fragments of Mephisto's soul, then ceased to exist, then were reincarnated as Wiccan and Speed of the Young Avengers. The timeline of what's 'real' is deeply convoluted.",
+    "official_stance": "Thomas and William were created by Wanda's reality-warping powers using fragments of Mephisto's soul (West Coast Avengers #51-52, 1989). They were reabsorbed by Mephisto and ceased to exist. They reincarnated as Billy Kaplan (Wiccan) and Tommy Shepherd (Speed) in Young Avengers (2005).",
+    "fan_interpretation": "The original 'children were Mephisto's soul fragments' story is considered needlessly cruel to Wanda. The Young Avengers reincarnation was a popular fix. Most fans accept Wiccan and Speed as Wanda's 'real' sons in spirit. King's Vision (2015) explored Vision building a NEW family, avoiding the old baggage.",
+    "editorial_context": "Byrne wrote the Mephisto retcon during West Coast Avengers. It contributed to Wanda's later mental instability (Avengers Disassembled). Heinberg's Young Avengers elegantly resolved it by reincarnating the twins. The WandaVision show drew from all versions.",
+    "confidence": 85,
+    "source_citations": [
+      "Vision and the Scarlet Witch #12 (1986)",
+      "West Coast Avengers #51-52 (1989)",
+      "Avengers Disassembled (2004)",
+      "Young Avengers #1 (2005)"
+    ],
+    "tags": [
+      "vision",
+      "scarlet-witch",
+      "children",
+      "mephisto",
+      "wiccan",
+      "speed"
+    ]
+  },
+  {
+    "slug": "moon-knight-powers-real",
+    "title": "Moon Knight -- Are His Powers Real or Is He Insane?",
+    "description": "Moon Knight's central tension: does he actually receive power from the Egyptian moon god Khonshu, or is he a mentally ill man who believes he does? Different writers have answered this differently, and the ambiguity is arguably the character's greatest strength.",
+    "official_stance": "Canonically, Khonshu IS real in the Marvel Universe (confirmed in multiple stories, particularly Jason Aaron's Avengers where Khonshu physically appears). Moon Knight does receive enhanced strength under moonlight. However, Marc's dissociative identity disorder (Marc Spector, Steven Grant, Jake Lockley) is also genuinely real.",
+    "fan_interpretation": "The best Moon Knight stories maintain the ambiguity. Moench's original played it straight. Ellis treated it as mental illness. Lemire made the uncertainty the entire story. MacKay confirmed the supernatural elements while respecting the DID. Fans prefer the tension unresolved.",
+    "editorial_context": "Moon Knight works best when writers don't fully commit to either explanation. The MCU show went supernatural. Aaron's Avengers made Khonshu definitively real (and a villain). MacKay balanced both. The character's longevity depends on maintaining the question.",
+    "confidence": 70,
+    "source_citations": [
+      "Moon Knight #1 (1980)",
+      "Moon Knight (2014) #1",
+      "Moon Knight (2016) #1",
+      "Moon Knight (2021) #1",
+      "Avengers (2018) #33"
+    ],
+    "tags": [
+      "moon-knight",
+      "khonshu",
+      "mental-illness",
+      "powers",
+      "ambiguity"
+    ]
+  },
+  {
+    "slug": "mephisto-deal-memory",
+    "title": "Mephisto's Deal -- Does Peter Remember the Marriage?",
+    "description": "After One More Day erased Peter and MJ's marriage, the question of whether they REMEMBER being married has been inconsistently addressed. Some writers imply they remember; others treat it as if the relationship was always just dating.",
+    "official_stance": "The deal with Mephisto erased the marriage from reality -- it 'never happened.' Peter and MJ were never married in current continuity. One Moment in Time (ASM #638-641, 2010) established that they dated but the wedding didn't occur. Their memories are altered.",
+    "fan_interpretation": "Writers keep hinting at lingering memories or feelings. Spencer's run heavily implied Peter and MJ remember something. The inconsistency frustrates fans who want either full restoration or clean erasure. The ambiguity feels like editorial indecision rather than intentional mystery.",
+    "editorial_context": "Quesada's OMD was meant to be a clean break, but subsequent writers keep pulling at the thread. Spencer nearly undid it. Wells's run addressed it obliquely. The marriage question haunts every Spider-Man writer because fans never accepted the retcon.",
+    "confidence": 75,
+    "source_citations": [
+      "Amazing Spider-Man #545 (2007)",
+      "Amazing Spider-Man #638-641 (2010)",
+      "Amazing Spider-Man (2018) #1-74"
+    ],
+    "tags": [
+      "spider-man",
+      "mephisto",
+      "marriage",
+      "memory",
+      "one-more-day"
+    ]
+  },
+  {
+    "slug": "captain-marvel-carol-powers-timeline",
+    "title": "Captain Marvel (Carol) -- Timeline of Powers and Names",
+    "description": "Carol Danvers has been Ms. Marvel, Binary, Warbird, and Captain Marvel, with power levels ranging from street-level to cosmic god. Her power set and codename changes are genuinely confusing even for dedicated readers.",
+    "official_stance": "Carol gained Kree-hybrid powers from an explosion with Mar-Vell (Ms. Marvel #1, 1977). She was depowered by Rogue (Avengers Annual #10, 1981), then gained Binary cosmic powers (UXM #164), lost most Binary powers, became Warbird, then Captain Marvel (Captain Marvel #1, 2012). Her power level fluctuates between 'very strong' and 'cosmic-level' depending on the story.",
+    "fan_interpretation": "Carol's inconsistent power level is a frequent complaint. She can sometimes go toe-to-toe with cosmic threats, other times struggles with ground-level villains. The DeConnick run stabilized her identity as Captain Marvel but power scaling remains inconsistent across different books.",
+    "editorial_context": "Carol's complicated history reflects decades of different writers with different visions. The Captain Marvel rebrand (2012) was an editorial push to make her Marvel's top female hero. Power level inconsistency is common in shared universes but particularly pronounced with Carol.",
+    "confidence": 80,
+    "source_citations": [
+      "Ms. Marvel #1 (1977)",
+      "Avengers Annual #10 (1981)",
+      "Uncanny X-Men #164 (1982)",
+      "Captain Marvel #1 (2012)"
+    ],
+    "tags": [
+      "captain-marvel",
+      "carol-danvers",
+      "powers",
+      "identity",
+      "power-scaling"
+    ]
+  },
+  {
+    "slug": "thanos-death-obsession-consistency",
+    "title": "Thanos and Death -- Is the Obsession Consistent?",
+    "description": "Thanos's love for the abstract entity Death was his core motivation under Starlin. Later writers often drop or minimize this, making him a generic conqueror. The MCU removed Death entirely. Is Thanos without Death really Thanos?",
+    "official_stance": "Starlin established Thanos as motivated by love for the cosmic entity Death (Captain Marvel #25-33, 1973). The Infinity Gauntlet was a love letter to Death. Post-Starlin, writers have varied: some maintain the Death obsession, others (notably the MCU) replaced it with 'balance' philosophy.",
+    "fan_interpretation": "Starlin purists insist Death is essential to Thanos -- without her, he's just another conqueror. The MCU's 'balance' motivation worked for film but flattened the character. Cates's Thanos Wins featured Death prominently. Most comic fans prefer the Starlin characterization.",
+    "editorial_context": "The Death obsession is weird and specific, which makes it hard for some writers. The MCU couldn't explain a titan in love with a skeleton lady in a blockbuster film. In comics, Starlin has been protective of 'his' Thanos and occasionally undoes other writers' characterizations.",
+    "confidence": 80,
+    "source_citations": [
+      "Captain Marvel #25-33 (1973)",
+      "Infinity Gauntlet #1-6 (1991)",
+      "Thanos Wins #1-6 (2018)",
+      "Avengers: Infinity War (2018 film)"
+    ],
+    "tags": [
+      "thanos",
+      "death",
+      "starlin",
+      "motivation",
+      "cosmic"
+    ]
+  },
+  {
+    "slug": "deadpool-face-inconsistency",
+    "title": "Deadpool's Face -- How Bad Is It?",
+    "description": "Deadpool's disfigured appearance varies dramatically between artists. Sometimes he looks like hamburger meat, sometimes mildly scarred, sometimes played for comedy, sometimes for horror. There is no consistent 'canon' appearance under the mask.",
+    "official_stance": "Wade Wilson's cancer-scarred body is the result of Weapon X's healing factor interacting with his existing cancer. The scarring covers his entire body. The severity depends on the artist and story tone -- comedy stories minimize it, horror stories maximize it.",
+    "fan_interpretation": "Fans generally accept the inconsistency as part of Deadpool's nature -- he's a character who changes based on tone. The Ryan Reynolds films established a particular look that many modern readers default to. In comics, each artist brings their own interpretation.",
+    "editorial_context": "Deadpool's visual inconsistency mirrors his tonal inconsistency -- is he comedy, action, or tragedy? The character works in all registers. Some writers have given him temporary 'handsome' face restoration as plot points (Duggan's run), which always revert.",
+    "confidence": 65,
+    "source_citations": [
+      "New Mutants #98 (1991)",
+      "Deadpool #1 (1997)",
+      "Deadpool (2012) #1",
+      "Deadpool (2024) #1"
+    ],
+    "tags": [
+      "deadpool",
+      "appearance",
+      "artistic-interpretation",
+      "healing-factor"
+    ]
+  },
+  {
+    "slug": "ultimate-universe-destroyed-preserved",
+    "title": "The Ultimate Universe -- Destroyed or Preserved?",
+    "description": "The Ultimate Universe (Earth-1610) was definitively destroyed in Secret Wars (2015). Then Hickman relaunched it in 2023 as Earth-6160. Are they the same universe? Was it rebuilt? Is it a completely new creation? The answer is deliberately unclear.",
+    "official_stance": "Earth-1610 was destroyed in Secret Wars #1 (2015). Miles Morales and the Maker survived in 616. Ultimate Invasion #1-4 (2023) established Earth-6160, a new Ultimate Universe created by the Maker. It is officially NOT the same as the original Earth-1610.",
+    "fan_interpretation": "The new Ultimate Universe (6160) is a fresh start with different characters and situations. However, the Maker's involvement creates deliberate echoes of 1610. Some fans treat it as a spiritual successor, others as completely separate. The branding deliberately evokes nostalgia.",
+    "editorial_context": "Hickman created Earth-6160 as something new, not a resurrection of 1610. The Maker reshaping reality allows fresh takes on characters without the baggage of Ultimatum and later 1610 stories. It's a reboot in everything but name.",
+    "confidence": 85,
+    "source_citations": [
+      "Secret Wars #1 (2015)",
+      "Ultimate Invasion #1-4 (2023)",
+      "Ultimate Spider-Man (2024) #1"
+    ],
+    "tags": [
+      "ultimate-universe",
+      "multiverse",
+      "reboot",
+      "hickman",
+      "maker"
+    ]
+  },
+  {
+    "slug": "peter-parker-age-timeline",
+    "title": "How Old Is Peter Parker?",
+    "description": "Peter Parker was 15 when bitten by a radioactive spider in 1962. The sliding timescale means he's perpetually in his late 20s. But he's been through college, multiple careers, a marriage, and decades of experiences. The math doesn't work.",
+    "official_stance": "Peter was approximately 15 in Amazing Fantasy #15 (1962). The sliding timescale places him in his late 20s to early 30s currently. He graduated high school, attended ESU, became a teacher, a photographer, a scientist at Horizon Labs, and ran Parker Industries. All within roughly 15 years of in-universe time.",
+    "fan_interpretation": "The amount of life experience Peter has had is impossible to compress into 15 in-universe years. Spider-Man: Life Story (2019) explored what happens when Peter ages in real time. Most fans just accept the compression and don't think about it too hard.",
+    "editorial_context": "Marvel keeps Peter young because Spider-Man's appeal is partly generational relatability. The aging question is why the marriage was erased (a married Spider-Man 'felt too old'). Hickman's Ultimate Spider-Man (2024) finally depicted Peter at 40, which felt revolutionary.",
+    "confidence": 80,
+    "source_citations": [
+      "Amazing Fantasy #15 (1962)",
+      "Spider-Man: Life Story #1-6 (2019)",
+      "Ultimate Spider-Man (2024) #1"
+    ],
+    "tags": [
+      "spider-man",
+      "age",
+      "sliding-timescale",
+      "continuity"
+    ]
+  },
+  {
+    "slug": "tony-stark-origin-wars",
+    "title": "Tony Stark's Origin -- Which War?",
+    "description": "Tony Stark was originally captured during the Vietnam War. The sliding timescale has forced his origin to be re-set in different conflicts: Gulf War, Afghanistan, a fictional conflict. Which war is canon changes every decade.",
+    "official_stance": "Original: Vietnam War (Tales of Suspense #39, 1963). Updated to unnamed Southeast Asian conflict, then Gulf War, then Afghanistan (Iron Man: Extremis, 2005, and the 2008 film), then a more generic conflict. The core story -- weapons manufacturer captured, builds armor, has change of heart -- remains constant.",
+    "fan_interpretation": "Fans generally accept the sliding origin. The specific war matters less than the character arc: arms dealer to hero. The MCU's Afghanistan setting has become the default for modern readers. The Vietnam origin is preserved in 'spirit' through the character's age and Cold War sensibilities.",
+    "editorial_context": "Every generation updates Tony's origin war. This is the sliding timescale's most obvious problem -- real-world conflicts anchor origins in ways that can't slide. Marvel eventually stopped specifying the conflict in some stories.",
+    "confidence": 85,
+    "source_citations": [
+      "Tales of Suspense #39 (1963)",
+      "Iron Man: Extremis #1-6 (2005)",
+      "Iron Man (2008 film)"
+    ],
+    "tags": [
+      "iron-man",
+      "origin",
+      "sliding-timescale",
+      "vietnam",
+      "afghanistan"
+    ]
+  },
+  {
+    "slug": "black-panther-wakanda-technology",
+    "title": "Wakanda's Technology Level -- Consistent?",
+    "description": "Wakanda has been depicted as everything from a hidden tribal kingdom to the most advanced civilization on Earth. The technology level varies wildly depending on the writer, and the question of how Wakanda avoided colonialism while being technologically superior creates contradictions.",
+    "official_stance": "Wakanda is the most technologically advanced nation on Earth thanks to Vibranium, an alien metal. They chose isolation and disguised their advancement. Priest's run (1998) and Coates's run (2016) established the modern technological Wakanda that the MCU adapted.",
+    "fan_interpretation": "Early depictions (FF #52-53, 1966) showed Wakanda as advanced but still somewhat stereotypical. Priest's run modernized it dramatically. The MCU's Afrofuturist vision is now the default. Some fans note the tension between 'most advanced nation' and 'chose not to help the African diaspora during slavery.'",
+    "editorial_context": "Wakanda's technology level has been retconned upward over decades. Lee/Kirby showed it as advanced for the 1960s. Priest made it definitively the world's most advanced nation. Coates explored the political implications. The MCU crystallized the current vision.",
+    "confidence": 75,
+    "source_citations": [
+      "Fantastic Four #52-53 (1966)",
+      "Black Panther (1998) #1",
+      "Black Panther (2016) #1"
+    ],
+    "tags": [
+      "black-panther",
+      "wakanda",
+      "technology",
+      "continuity",
+      "worldbuilding"
+    ]
+  },
+  {
+    "slug": "mutant-population-inconsistency",
+    "title": "How Many Mutants Are There?",
+    "description": "The mutant population has swung from millions to hundreds of thousands to 198 to 'hundreds of thousands again' to 'nation of Krakoa.' Every era gives different numbers, and the emotional impact of mutants as a minority depends on the count.",
+    "official_stance": "Pre-Morrison: vague 'minority.' Morrison established millions of mutants worldwide. House of M (2005) reduced to 198 (approximately). AvX (2012) started restoring the population. Krakoa era (2019): full restoration with a nation of mutants. Post-Krakoa: uncertain.",
+    "fan_interpretation": "The X-Men metaphor works better when mutants are a feared minority. Millions of mutants diluted the persecution angle. 198 was too restrictive. Krakoa's nation-state angle cleverly sidestepped the number question by making it about sovereignty instead of scarcity.",
+    "editorial_context": "Morrison wanted mutants to be the next step in evolution (millions). Quesada wanted them to be special again (198). Bendis partially restored numbers. Hickman made numbers irrelevant by focusing on nationhood. Each editorial regime has a different vision for what mutants symbolize.",
+    "confidence": 75,
+    "source_citations": [
+      "New X-Men #114 (2001)",
+      "House of M #7 (2005)",
+      "Avengers vs. X-Men #12 (2012)",
+      "House of X #1 (2019)"
+    ],
+    "tags": [
+      "mutants",
+      "x-men",
+      "population",
+      "continuity",
+      "metaphor"
+    ]
+  },
+  {
+    "slug": "groot-intelligence-speech",
+    "title": "Groot -- Genius or Three Words?",
+    "description": "Groot was originally an intelligent alien tree who spoke normally (Tales to Astonish #13, 1960). Modern Groot only says 'I am Groot.' The MCU cemented the latter, but the original Groot was articulate and villainous.",
+    "official_stance": "Original Groot (1960) was an intelligent alien invader who spoke full sentences. Modern Groot (Annihilation: Conquest, 2007) was reimagined as a gentle giant who can only say 'I am Groot' due to his species' stiff vocal cords. His language contains complex meaning that Rocket can understand.",
+    "fan_interpretation": "The MCU's 'I am Groot' version is overwhelmingly the one fans know and love. The original intelligent Groot is a curiosity piece. The DnA reimagining was so successful that the original characterization is essentially non-canon in spirit.",
+    "editorial_context": "DnA's Guardians of the Galaxy reinvented Groot from obscure 1960s monster into a beloved character. The 'I am Groot' limitation was a creative choice that became iconic. The MCU made Groot a pop culture phenomenon, cementing the modern version permanently.",
+    "confidence": 90,
+    "source_citations": [
+      "Tales to Astonish #13 (1960)",
+      "Annihilation: Conquest - Star-Lord #1-4 (2007)",
+      "Guardians of the Galaxy (2008) #1"
+    ],
+    "tags": [
+      "groot",
+      "guardians",
+      "retcon",
+      "characterization",
+      "mcu"
+    ]
+  },
+  {
+    "slug": "retcon-wars-secret-wars-naming",
+    "title": "Secret Wars -- Why Are There Three Different Events?",
+    "description": "There are three major events called 'Secret Wars': Shooter's 1984 original, Hickman's 2015 multiverse-ending event, and Bendis's 'Secret War' (singular, 2004). The naming confusion extends to 'Secret Invasion' and 'Secret Empire.' Marvel loves secrets.",
+    "official_stance": "Secret Wars (1984-1985): Beyonder teleports heroes and villains to Battleworld. Secret War (2004): Nick Fury's unsanctioned Latverian invasion. Secret Wars (2015): Hickman's multiverse destruction and Battleworld rebuild. They are entirely separate events with no narrative connection beyond the 'Secret' branding.",
+    "fan_interpretation": "The naming overlap is confusing, especially for new readers. Hickman's 2015 Secret Wars deliberately echoes 1984's Battleworld concept while being a completely different story. Bendis's Secret War (singular) is the least remembered. Fans usually specify by year to avoid confusion.",
+    "editorial_context": "Marvel reused 'Secret Wars' because it's a recognizable brand. Hickman's version intentionally references and inverts the 1984 original -- both feature Battleworld and Doom stealing power, but the 2015 version is about the end of everything rather than a simple contest.",
+    "confidence": 95,
+    "source_citations": [
+      "Secret Wars #1-12 (1984-1985)",
+      "Secret War #1-5 (2004)",
+      "Secret Wars #1-9 (2015)"
+    ],
+    "tags": [
+      "secret-wars",
+      "naming",
+      "events",
+      "continuity",
+      "confusion"
+    ]
+  },
+  {
+    "slug": "wolverine-bone-claws-retcon",
+    "title": "Wolverine's Claws -- Bone or Adamantium Original?",
+    "description": "For 20 years, Wolverine's claws were assumed to be part of his adamantium skeleton implants. In 1993, Magneto ripped out the adamantium, revealing bone claws underneath. Were bone claws always the plan, or was this a retcon?",
+    "official_stance": "Wolverine has bone claws naturally, which were coated in adamantium by Weapon X. This was revealed in X-Men #25 (1993) when Magneto extracted the metal. Origin (2001) confirmed James Howlett manifested bone claws as a child, pre-adamantium.",
+    "fan_interpretation": "The bone claws were almost certainly NOT the original intention. Len Wein and John Romita Sr. designed Wolverine's claws as part of his gloves/costume originally. The adamantium implant was later canon. Bone claws being 'natural' was Larry Hama's 1993 innovation that was retroactively made permanent.",
+    "editorial_context": "The Fatal Attractions crossover needed a dramatic moment. Magneto ripping out adamantium was shocking. The bone claws were Hama's creative solution to 'what's left?' Origin confirmed them as biological. Now bone claws are so embedded in canon that most fans forget it was a retcon.",
+    "confidence": 90,
+    "source_citations": [
+      "X-Men #25 (1993)",
+      "Wolverine #75 (1993)",
+      "Origin #1-6 (2001)"
+    ],
+    "tags": [
+      "wolverine",
+      "claws",
+      "adamantium",
+      "retcon",
+      "x-men"
+    ]
+  },
+  {
+    "slug": "cosmic-hierarchy-inconsistency",
+    "title": "Marvel's Cosmic Hierarchy -- Who's the Most Powerful?",
+    "description": "Marvel's cosmic hierarchy (Living Tribunal, Beyonders, One-Above-All, Celestials, Galactus, abstract entities) has been contradicted and reshuffled by nearly every writer who touches cosmic stories. The 'official' power ranking is functionally meaningless.",
+    "official_stance": "The generally accepted hierarchy: One-Above-All > Living Tribunal > Beyonders > Celestials > Abstract Entities (Eternity, Death, Infinity, Oblivion) > Galactus > Cosmic Cube Beings > Elders of the Universe. But exceptions exist constantly.",
+    "fan_interpretation": "Power scaling in Marvel cosmic stories is notoriously inconsistent. Starlin's Thanos with the Infinity Gauntlet exceeded the Living Tribunal. Hickman's Beyonders killed the Living Tribunal. Ewing's Defenders: Beyond attempted to create a definitive hierarchy. Fans mostly give up on strict rankings.",
+    "editorial_context": "Each cosmic writer reshuffles the hierarchy to serve their story. Starlin elevated Thanos. Hickman elevated the Beyonders. Ewing elevated the One Above All. The hierarchy exists in a permanent state of flux because cosmic stories need stakes, and stakes require someone stronger.",
+    "confidence": 60,
+    "source_citations": [
+      "Infinity Gauntlet #1-6 (1991)",
+      "New Avengers (2013) #30",
+      "Defenders: Beyond #5 (2022)",
+      "Official Handbook of the Marvel Universe"
+    ],
+    "tags": [
+      "cosmic",
+      "power-scaling",
+      "hierarchy",
+      "continuity",
+      "inconsistency"
+    ]
+  },
+  {
+    "slug": "spider-man-totemic-destiny",
+    "title": "Spider-Man's Powers -- Science or Mystical Destiny?",
+    "description": "JMS introduced the concept that Spider-Man's powers come from a totemic, mystical connection to 'the Spider' rather than mere radiation. This divided fans who valued Spidey's science origin. The Spider-Verse expanded the mystical angle further.",
+    "official_stance": "JMS's run (ASM #471+, 2001) introduced Ezekiel and the idea that the radioactive spider bite was guided by totemic destiny. Spider-Verse (2014) expanded this with the Web of Life and Destiny connecting all spider-totems across the multiverse. Both the science and mystical origins are simultaneously 'true.'",
+    "fan_interpretation": "Controversial. Peter Parker's relatability comes partly from being an ordinary kid who got lucky with a spider bite. Adding cosmic destiny undermines the 'random accident creates a hero' appeal. Spider-Verse fans embrace the mystical angle. Traditional fans prefer pure science.",
+    "editorial_context": "JMS wanted to add mythological depth to Spider-Man. Slott's Spider-Verse made the totemic connection central to a major crossover. The MCU has avoided the mystical angle entirely. Most recent comics treat it as background lore rather than central to Peter's identity.",
+    "confidence": 75,
+    "source_citations": [
+      "Amazing Spider-Man #471 (2001)",
+      "Amazing Spider-Man #507-508 (2004)",
+      "Amazing Spider-Man (2014) #9-15"
+    ],
+    "tags": [
+      "spider-man",
+      "totem",
+      "mystical",
+      "science",
+      "origin",
+      "spider-verse"
+    ]
+  },
+  {
+    "slug": "cyclops-hero-or-villain",
+    "title": "Cyclops -- Hero, Revolutionary, or Terrorist?",
+    "description": "Scott Summers went from boy scout X-Men leader to mutant revolutionary to phoenix-possessed Xavier-killer to Krakoa-era statesman. His moral trajectory is one of the most debated in X-Men fandom. Was Cyclops right?",
+    "official_stance": "Cyclops led the X-Men as a traditional hero for decades. Post-House of M, he became increasingly militant (Utopia era). He killed Xavier while Phoenix-possessed (AvX #11, 2012). He led a mutant revolution until his death (Death of X, 2016). He was resurrected and served on Krakoa's Quiet Council. 'Cyclops was right' became his defining phrase.",
+    "fan_interpretation": "'Cyclops was right' became a rallying cry for fans who saw his militant turn as justified by the persecution mutants faced. Others felt he crossed moral lines that couldn't be excused by the Phoenix. The Krakoa era validated his philosophy without fully endorsing his methods.",
+    "editorial_context": "Whedon's Astonishing reclaimed Cyclops as cool. Brubaker and Fraction made him a general. Gillen made him tragic. Bendis made him a revolutionary. The journey from Xavier's star pupil to the man who killed Xavier is the most complete character arc in modern X-Men.",
+    "confidence": 85,
+    "source_citations": [
+      "Astonishing X-Men #1 (2004)",
+      "Uncanny X-Men #500 (2008)",
+      "Avengers vs. X-Men #11 (2012)",
+      "Death of X #4 (2016)",
+      "House of X #1 (2019)"
+    ],
+    "tags": [
+      "cyclops",
+      "x-men",
+      "morality",
+      "leadership",
+      "revolution"
+    ]
+  },
+  {
+    "slug": "avengers-founding-membership",
+    "title": "Who Founded the Avengers?",
+    "description": "The founding Avengers lineup has been subtly altered over the years. The Wasp named the team but is sometimes excluded from founding member lists. The Hulk left in issue #2. The retroactive addition of Captain America as a 'founding' member confuses things further.",
+    "official_stance": "Founding members (Avengers #1, 1963): Thor, Iron Man, Hulk, Ant-Man (Hank Pym), and Wasp (Janet Van Dyne). Hulk left in #2. Captain America joined in #4 and is considered an 'honorary founding member' but was NOT in the original lineup. Janet named the team.",
+    "fan_interpretation": "The MCU's founding lineup (Iron Man, Cap, Thor, Hulk, Black Widow, Hawkeye) has confused an entire generation about comics history. In comics, Janet Van Dyne is the team's soul and named it. Cap's 'founding member' status despite joining in #4 is a long-standing honorary title that some fans incorrectly take as literal.",
+    "editorial_context": "Marvel has sometimes sidelined Wasp and Ant-Man from founding member discussions, particularly when aligning with the MCU. Recent comics (particularly Ewing's work) have been more careful about crediting Janet's foundational role. The MCU influence on perceived comics canon is significant.",
+    "confidence": 90,
+    "source_citations": [
+      "Avengers #1 (1963)",
+      "Avengers #4 (1964)",
+      "Avengers (2018) #1"
+    ],
+    "tags": [
+      "avengers",
+      "founding",
+      "roster",
+      "wasp",
+      "captain-america",
+      "mcu"
+    ]
+  },
+  {
+    "slug": "heroes-reborn-pocket-universe",
+    "title": "Heroes Reborn — Did It Really Happen?",
+    "description": "After Onslaught (1996), the Fantastic Four, Avengers, Iron Man, and Captain America were sent to a pocket universe created by Franklin Richards. Jim Lee and Rob Liefeld's studios retold their origins in a year-long experiment. When Heroes Return brought them back, the question remained: did the pocket universe versions 'count' as real experiences?",
+    "official_stance": "The pocket universe was real and created by Franklin Richards. The heroes lived there for approximately one year and returned with full memories. Marvel treats Heroes Reborn as canon — it happened, but in an alternate pocket reality (Earth-616 heroes temporarily relocated).",
+    "fan_interpretation": "Most fans treat Heroes Reborn as a publishing stunt and ignore it. The stories were not well-received critically, and very little from that year is ever referenced again. Functionally, it's as if the heroes were simply 'away' for a year.",
+    "editorial_context": "Heroes Reborn was a business deal born of desperation — Marvel was heading toward bankruptcy and farmed out its biggest properties to the Image founders for guaranteed sales. It worked commercially but was creatively controversial. The return was orchestrated by Peter David (Heroes Reborn: The Return).",
+    "confidence": 75,
+    "source_citations": [
+      "Onslaught: Marvel Universe (1996)",
+      "Heroes Reborn: The Return #1-4 (1997)",
+      "Thunderbolts #1-12 (1997)"
+    ],
+    "related_edition_ids": [],
+    "tags": [
+      "heroes-reborn",
+      "franklin-richards",
+      "onslaught",
+      "pocket-universe",
+      "image-comics"
+    ]
+  },
+  {
+    "slug": "third-summers-brother",
+    "title": "The Third Summers Brother — Who Was It?",
+    "description": "In X-Men #23 (1993), Mr. Sinister cryptically referenced a 'third Summers brother' beyond Cyclops and Havok. This mystery dangled for over a decade, with fans speculating it was Adam-X the X-Treme. It was finally resolved in X-Men: Deadly Genesis (2006) as Vulcan (Gabriel Summers).",
+    "official_stance": "Gabriel Summers / Vulcan is the third Summers brother, as revealed in X-Men: Deadly Genesis #1-6 (2006) by Ed Brubaker. Vulcan was a secret X-Men member sent on a doomed mission to rescue the original team from Krakoa, and Xavier wiped everyone's memories of the event.",
+    "fan_interpretation": "Many fans felt Vulcan was a retcon that created more problems than it solved — Xavier's memory wipe was morally damning and felt out of character. Some fans still prefer the Adam-X theory. The Deadly Genesis revelation was divisive because it undermined Xavier's integrity and retconned Giant-Size X-Men #1.",
+    "editorial_context": "Fabian Nicieza planted the third brother hint in 1993 and intended it to be Adam-X the X-Treme, whose parentage (Shi'ar D'Ken + Katherine Summers) was being set up. When Nicieza left the X-books, the plot was abandoned. Ed Brubaker's Deadly Genesis (2006) created an entirely different answer. This is a case where creator departure led to a retcon of a retcon.",
+    "confidence": 90,
+    "source_citations": [
+      "X-Men #23 (1993)",
+      "X-Men: Deadly Genesis #1-6 (2006)",
+      "War of Kings (2009)"
+    ],
+    "related_edition_ids": [],
+    "tags": [
+      "cyclops",
+      "havok",
+      "vulcan",
+      "sinister",
+      "summers-family",
+      "retcon"
+    ]
+  },
+  {
+    "slug": "norman-osborn-return",
+    "title": "Norman Osborn — How Did He Survive?",
+    "description": "Norman Osborn (Green Goblin) was impaled on his own glider in Amazing Spider-Man #122 (1973) and stayed dead for 23 years. The Clone Saga (1996) revealed he had survived thanks to the Goblin Formula's healing factor and had been orchestrating events from Europe.",
+    "official_stance": "Norman survived his impalement due to the Goblin Formula's regenerative properties. He faked his death, fled to Europe, and spent decades manipulating events from behind the scenes, including orchestrating the entire Clone Saga. This is established in Spectacular Spider-Man #250 (1997) and Spider-Man: Revelations.",
+    "fan_interpretation": "Many fans consider Norman's return one of the worst retcons in Spider-Man history because his death in ASM #122 was one of comics' most sacred moments. Others accept it because Norman became one of Marvel's most compelling villains in his post-return appearances (Thunderbolts, Dark Reign, Dark Avengers). The quality of his later stories somewhat retroactively justifies the retcon.",
+    "editorial_context": "Norman's return was driven by the need to provide a mastermind behind the Clone Saga, which had spiraled out of editorial control. The original Clone Saga had no clear villain, and Norman was retrofitted as the puppet master. His return broke the 'rule' that only Bucky, Jason Todd, and Uncle Ben stay dead in comics.",
+    "confidence": 95,
+    "source_citations": [
+      "ASM #121-122 (1973)",
+      "Spectacular Spider-Man #250 (1997)",
+      "Thunderbolts (1997)",
+      "Dark Avengers #1 (2009)"
+    ],
+    "related_edition_ids": [],
+    "tags": [
+      "green-goblin",
+      "spider-man",
+      "clone-saga",
+      "death-and-return",
+      "retcon"
+    ]
+  },
+  {
+    "slug": "sins-past",
+    "title": "Sins Past — Gwen Stacy's Children",
+    "description": "Amazing Spider-Man #509-514 (2004) by J. Michael Straczynski revealed that Gwen Stacy had a secret affair with Norman Osborn and gave birth to twins (Gabriel and Sarah) who aged rapidly due to the Goblin Formula. This was one of the most hated retcons in Marvel history and was finally undone by Nick Spencer.",
+    "official_stance": "As of Amazing Spider-Man #73 (2021) by Nick Spencer, the Sins Past storyline has been retconned away. The events were revealed to be false memories implanted by Mysterio and Kindred (Harry Osborn) as part of an elaborate scheme. In current canon, Gwen never had children with Norman Osborn.",
+    "fan_interpretation": "Almost universally despised. Fans rejected the premise that Gwen would have an affair with Norman Osborn, viewing it as a violation of the character. Nick Spencer's retcon of the retcon was one of the most praised editorial decisions in recent Spider-Man history. Most fans pretend Sins Past never happened.",
+    "editorial_context": "JMS originally intended Peter Parker to be the father, but editor Joe Quesada vetoed this because it would age Peter too much. Norman Osborn was substituted, creating a far more controversial story. JMS has publicly expressed dissatisfaction with how the story turned out. Spencer's retcon in 2021 was designed specifically to undo the damage.",
+    "confidence": 98,
+    "source_citations": [
+      "ASM #509-514 (2004)",
+      "ASM #73 (2021)",
+      "ASM #74 (2021)"
+    ],
+    "related_edition_ids": [],
+    "tags": [
+      "gwen-stacy",
+      "norman-osborn",
+      "spider-man",
+      "retcon",
+      "jms",
+      "nick-spencer"
+    ]
+  },
+  {
+    "slug": "bucky-death-and-return",
+    "title": "Bucky Barnes — Breaking the Death Rule",
+    "description": "For decades, the rule in comics was 'only Bucky, Jason Todd, and Uncle Ben stay dead.' Ed Brubaker's Captain America (2004) broke this rule by revealing Bucky survived the plane explosion and was recovered by the Soviets, who brainwashed him into the Winter Soldier assassin.",
+    "official_stance": "Bucky survived the plane explosion over the English Channel. His body was recovered by Soviet operatives who replaced his missing arm with a cybernetic prosthetic and used him as a brainwashed assassin for decades, periodically placing him in cryogenic suspension between missions. Captain America (2004) #1-14 establishes this as canon.",
+    "fan_interpretation": "Unlike most resurrection retcons, Bucky's return is almost universally praised. Brubaker crafted the Winter Soldier reveal so skillfully that it enhanced rather than diminished the original death. The Winter Soldier concept was compelling enough to sustain its own franchise and became the basis for one of the MCU's best films. This is the gold standard for how to bring a dead character back.",
+    "editorial_context": "Brubaker pitched the Winter Soldier concept to Marvel and was initially met with resistance because Bucky's death was considered sacred. Editor Tom Brevoort approved it because the story quality was undeniable. The success of Brubaker's Captain America run and the subsequent MCU adaptation vindicated the decision completely.",
+    "confidence": 98,
+    "source_citations": [
+      "Avengers #4 (1964)",
+      "Captain America (2004) #1-14",
+      "Captain America (2004) #25"
+    ],
+    "related_edition_ids": [],
+    "tags": [
+      "bucky",
+      "winter-soldier",
+      "captain-america",
+      "brubaker",
+      "death-and-return",
+      "retcon"
+    ]
+  }
+]

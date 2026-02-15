@@ -1,0 +1,146 @@
+[
+    {
+        "slug": "birth-of-marvel",
+        "name": "The Birth of Marvel",
+        "number": 1,
+        "year_start": 1961,
+        "year_end": 1966,
+        "subtitle": "Lee, Kirby & Ditko Create a Universe",
+        "description": "Everything begins here. In November 1961, Stan Lee and Jack Kirby launch Fantastic Four #1, and within five years they create the entire foundation of the Marvel Universe. Spider-Man, the Avengers, X-Men, Thor, Iron Man, Hulk, Doctor Strange, Daredevil — all born in this explosive creative period.",
+        "color": "#1a237e"
+    },
+    {
+        "slug": "the-expansion",
+        "name": "The Expansion",
+        "number": 2,
+        "year_start": 1966,
+        "year_end": 1970,
+        "subtitle": "Cosmic Scope, Silver Surfer, and the End of an Era",
+        "description": "The Marvel Universe matures. Cosmic scope increases dramatically with the Galactus Trilogy, Silver Surfer, and the Inhumans. Lee and Kirby's partnership reaches its creative zenith before Kirby departs for DC in 1970.",
+        "color": "#283593"
+    },
+    {
+        "slug": "bronze-age",
+        "name": "The Bronze Age",
+        "number": 3,
+        "year_start": 1970,
+        "year_end": 1980,
+        "subtitle": "Social Relevance, New Heroes, and Cosmic Expansion",
+        "description": "Marvel tackles real-world issues head-on. Introduces diverse new characters: Luke Cage, Storm, Blade, Shang-Chi, Iron Fist. Jim Starlin expands cosmic mythology through Adam Warlock and Thanos. The Kree-Skrull War and Korvac Saga define the Avengers.",
+        "color": "#4527a0",
+        "overlap_note": "Overlaps with Rise of the X-Men era. Marvel's narrative movements ran in parallel across different title families."
+    },
+    {
+        "slug": "rise-of-x-men",
+        "name": "The Rise of the X-Men",
+        "number": 4,
+        "year_start": 1975,
+        "year_end": 1985,
+        "subtitle": "Claremont/Byrne Revolution, Byrne's FF, and Secret Wars",
+        "description": "Giant-Size X-Men #1 (1975) relaunches the X-Men with Wolverine, Storm, Colossus, and Nightcrawler. Chris Claremont begins the longest, most influential run in superhero comics. John Byrne reinvents the FF. Marvel launches Secret Wars, its first mega-crossover.",
+        "color": "#6a1b9a",
+        "overlap_note": "Overlaps with the end of Bronze Age and beginning of Event Age. Claremont's X-Men revolution ran parallel to other Marvel developments."
+    },
+    {
+        "slug": "event-age",
+        "name": "The Event Age",
+        "number": 5,
+        "year_start": 1985,
+        "year_end": 1992,
+        "subtitle": "Crossovers Become King — Infinity Gauntlet to X-Cutioner's Song",
+        "description": "X-Men crossovers multiply annually: Mutant Massacre, Fall of the Mutants, Inferno, X-Tinction Agenda. Jim Starlin returns for the Infinity trilogy. Todd McFarlane redefines Spider-Man visually. The era peaks with Infinity Gauntlet.",
+        "color": "#7b1fa2"
+    },
+    {
+        "slug": "speculation-crash",
+        "name": "The Speculation Crash",
+        "number": 6,
+        "year_start": 1992,
+        "year_end": 1996,
+        "subtitle": "Image Exodus, Clone Saga, and Market Collapse",
+        "description": "The 1990s speculator boom leads to a devastating bust. Top artists leave for Image Comics. The Clone Saga derails Spider-Man for two years. Age of Apocalypse provides a creative bright spot. Marvel declares bankruptcy in 1996.",
+        "color": "#880e4f"
+    },
+    {
+        "slug": "heroes-reborn-return",
+        "name": "Heroes Reborn & Return",
+        "number": 7,
+        "year_start": 1996,
+        "year_end": 1998,
+        "subtitle": "The Pocket Universe Experiment",
+        "description": "After Onslaught, Marvel farms out Fantastic Four, Avengers, Iron Man, and Captain America to Image founders Jim Lee and Rob Liefeld. The experiment is commercially successful but creatively mixed. Heroes Return brings them back to the main universe.",
+        "color": "#ad1457"
+    },
+    {
+        "slug": "marvel-knights-ultimate",
+        "name": "Marvel Knights & The Ultimate Era",
+        "number": 8,
+        "year_start": 1998,
+        "year_end": 2004,
+        "subtitle": "Creative Renaissance",
+        "description": "Marvel Knights revitalizes B-list characters with A-list talent. Bendis, Millar, Morrison, Loeb/Sale bring literary ambition to superhero comics. The Ultimate Universe launches with fresh modern takes. Daredevil, New X-Men, and The Ultimates redefine what Marvel comics can be.",
+        "color": "#c62828"
+    },
+    {
+        "slug": "bendis-avengers",
+        "name": "The Bendis Avengers Era",
+        "number": 9,
+        "year_start": 2004,
+        "year_end": 2012,
+        "subtitle": "Disassembled Through Avengers vs. X-Men",
+        "description": "Brian Michael Bendis becomes Marvel's chief architect. Avengers Disassembled, House of M, Civil War, Secret Invasion, Dark Reign, Siege — each event reshapes the universe. On the cosmic side, Annihilation launches a renaissance. Captain America dies and returns.",
+        "color": "#d32f2f",
+        "overlap_note": "Overlaps with the beginning of the Hickman Saga. Multiple architectural visions coexisted during this period."
+    },
+    {
+        "slug": "hickman-saga",
+        "name": "The Hickman Saga",
+        "number": 10,
+        "year_start": 2009,
+        "year_end": 2016,
+        "subtitle": "The Grand Cosmic Architect",
+        "description": "Jonathan Hickman constructs the most ambitious single-author planned narrative in Marvel history. Starting with Fantastic Four (2009), expanding through Avengers and New Avengers, culminating in Secret Wars (2015-2016, final issue shipped January 2016) — the death and rebirth of the entire multiverse. Every thread connects.",
+        "color": "#e53935",
+        "overlap_note": "Overlaps with the Bendis Avengers era. Hickman's interconnected FF/Avengers narrative started while Bendis was still the primary Avengers architect."
+    },
+    {
+        "slug": "all-new-all-different",
+        "name": "All-New All-Different Marvel",
+        "number": 11,
+        "year_start": 2015,
+        "year_end": 2018,
+        "subtitle": "Post-Secret Wars Relaunch Through Fresh Start",
+        "description": "Post-Secret Wars relaunch. Miles Morales joins Earth-616. The Mighty Thor (Jane Foster, continuing from 2014) and Ms. Marvel (Kamala Khan, continuing from 2014) remain flagship titles. Civil War II (2016) and the controversial Secret Empire (2017) dominate the event landscape. Vision by Tom King and Black Panther by Ta-Nehisi Coates bring literary ambition. Multiple sub-relaunches (ANAD, Marvel NOW! 2.0, Marvel Legacy) reflect editorial transition before the Fresh Start reset in mid-2018.",
+        "color": "#ef5350"
+    },
+    {
+        "slug": "dawn-of-krakoa",
+        "name": "The Dawn of Krakoa",
+        "number": 12,
+        "year_start": 2019,
+        "year_end": 2024,
+        "subtitle": "Mutant Nation-Building and the Fall",
+        "description": "Jonathan Hickman returns and completely reinvents the X-Men with House of X/Powers of X (2019). Mutants establish the island nation of Krakoa, conquer death via resurrection protocols, and welcome former villains. Arguably the most ambitious X-Men reinvention since Giant-Size X-Men #1. Hickman departs after Inferno (late 2021); subsequent phases (Destiny of X, Fall of X) guided by Kieron Gillen, Al Ewing, Gerry Duggan, and others. Ends with Fall of the House of X / Rise of the Powers of X (2024).",
+        "color": "#f44336"
+    },
+    {
+        "slug": "blood-hunt-doom",
+        "name": "Blood Hunt & One World Under Doom",
+        "number": 13,
+        "year_start": 2024,
+        "year_end": 2025,
+        "subtitle": "The Doom Era",
+        "description": "Blade, possessed by the ancient vampire Varnae, is used to orchestrate a global vampire apocalypse in Blood Hunt (5 issues, by Jed MacKay). Doctor Strange sacrifices his corporeal form and transfers the Sorcerer Supreme title to Doctor Doom. In One World Under Doom (9 issues, by Ryan North and R.B. Silva), Doom declares 'United Latveria,' banning war, mandating free healthcare, and offering free education — reforms that civilians genuinely embrace. Heroes must decide whether to fight the man improving the world. Concluded November 2025 with Doom's defeat and Scarlet Witch becoming the new Sorcerer Supreme.",
+        "color": "#ff1744"
+    },
+    {
+        "slug": "current-ongoings",
+        "name": "Current Ongoings",
+        "number": 14,
+        "year_start": 2025,
+        "year_end": 2026,
+        "subtitle": "Post-Doom, Shadows of Tomorrow, and the Road to Armageddon",
+        "description": "One World Under Doom concluded November 2025 with Doom's defeat and Scarlet Witch as the new Sorcerer Supreme. The X-Men line relaunches as 'Shadows of Tomorrow' (January 2026). Hickman's Ultimate Universe concludes with Ultimate Endgame. Jed MacKay's Avengers ends March 2026. Chip Zdarsky's Armageddon event launches June 2026, promising Avengers-level upheaval comparable to Disassembled.",
+        "color": "#ff5252"
+    }
+]

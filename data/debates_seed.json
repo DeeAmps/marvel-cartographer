@@ -1,0 +1,272 @@
+[
+  {
+    "slug": "best-spider-man-run",
+    "title": "Best Spider-Man Run",
+    "question": "Is the Lee/Ditko Amazing Spider-Man the greatest Spider-Man run of all time?",
+    "category": "runs",
+    "context": "Lee and Ditko created Spider-Man and defined every classic villain in just 38 issues. The Master Planner Saga (#31-33) is still considered the definitive Peter Parker story. But does being first make it the best? Or have later runs like JMS, Ultimate Spider-Man, or Spectacular surpassed the original?",
+    "is_featured": true,
+    "status": "active"
+  },
+  {
+    "slug": "one-more-day-worst-decision",
+    "title": "Was One More Day the Worst Editorial Decision?",
+    "question": "Did erasing Peter and MJ's marriage ruin Spider-Man for a generation?",
+    "category": "continuity",
+    "context": "In 2007, Joe Quesada mandated that Peter Parker's marriage to Mary Jane be erased via a deal with Mephisto. Fans almost universally hated it. The reasoning: a married Spider-Man limits storytelling. But was the marriage really the problem, or was this editorial overreach that betrayed decades of character development?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "hickman-secret-wars-best-event",
+    "title": "Best Marvel Event Ever",
+    "question": "Is Hickman's Secret Wars (2015) the greatest Marvel event of all time?",
+    "category": "events",
+    "context": "Secret Wars (2015) was the culmination of a six-year story across FF and Avengers. The multiverse died. Doom became God. Reed Richards rebuilt reality. It was ambitious, beautifully drawn, and actually mattered. But does ambition equal greatness? Or do classics like Infinity Gauntlet, Dark Phoenix, or the original Secret Wars hold the crown?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "krakoa-should-have-stayed",
+    "title": "Should the X-Men Have Stayed on Krakoa?",
+    "question": "Was ending the Krakoa era a mistake?",
+    "category": "continuity",
+    "context": "House of X/Powers of X (2019) revolutionized the X-Men. Mutant nation. Resurrection protocols. Villains welcome. It was the most ambitious X-Men reinvention since Giant-Size #1. But by 2024, Marvel ended it with Fall of X. Was the Krakoa era too good to end, or had it run its course?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "doom-greatest-villain",
+    "title": "Is Doctor Doom Marvel's Greatest Villain?",
+    "question": "Has any Marvel villain surpassed Victor Von Doom?",
+    "category": "characters",
+    "context": "Doctor Doom debuted in FF #5 (1962) and has been Marvel's most complex antagonist ever since. Tyrant, genius, sorcerer, god, and sometimes hero. He's starred in more great stories than any other villain. But does complexity equal greatness? What about Magneto's moral ambiguity, Thanos's cosmic scope, or the Green Goblin's personal horror?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "clone-saga-really-that-bad",
+    "title": "Was the Clone Saga Really That Bad?",
+    "question": "Does the Clone Saga deserve its terrible reputation?",
+    "category": "events",
+    "context": "The Clone Saga (1994-1996) is infamous: Ben Reilly revealed as the 'real' Peter Parker, endless padding, editorial chaos. It nearly killed Spider-Man. But modern readers who approach it with low expectations sometimes find compelling character work buried in the mess. Is it unfairly maligned, or does it deserve every bit of its reputation?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "claremont-greatest-run-ever",
+    "title": "Greatest Comics Run Ever",
+    "question": "Is Claremont's Uncanny X-Men the greatest run in superhero comics history?",
+    "category": "runs",
+    "context": "Chris Claremont wrote Uncanny X-Men for 16 years (1975-1991). He created Phoenix, Dark Phoenix, Days of Future Past, the Shi'ar, Rogue, Kitty Pryde, and defined every major X-Men character. No other writer has matched his tenure or influence. But longevity isn't quality. Is Claremont actually the GOAT, or just the most prolific?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "house-of-m-ruined-xmen",
+    "title": "Did House of M Ruin the X-Men?",
+    "question": "Was 'No More Mutants' a creative disaster?",
+    "category": "events",
+    "context": "House of M (2005) ended with Scarlet Witch depowering 90% of mutants. For a decade, the X-Men books struggled with a decimated mutant population. It wasn't until Hickman's Krakoa era that mutants recovered. Did House of M cripple the franchise, or was it a bold choice that needed better follow-through?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "civil-war-who-was-right",
+    "title": "Civil War: Who Was Right?",
+    "question": "Was Tony Stark or Steve Rogers correct about the Superhero Registration Act?",
+    "category": "events",
+    "context": "Civil War (2006) divided the Marvel Universe. Tony: superheroes should be accountable, trained, and regulated. Cap: government control corrupts freedom. The event was designed to have no clear answer, but fans picked sides anyway. In 2026, with real-world debates about surveillance and accountability, who was actually right?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "heroes-reborn-necessary-evil",
+    "title": "Was Heroes Reborn a Necessary Evil?",
+    "question": "Did the Heroes Reborn experiment save Marvel?",
+    "category": "continuity",
+    "context": "In 1996, Marvel was bankrupt. They handed FF, Avengers, Iron Man, and Cap to Image founders Liefeld and Lee. The result was commercially successful but creatively mixed. Heroes Return (1998) brought them back. But without Heroes Reborn's sales boost, would Marvel have survived to the modern era?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "sliding-timescale-vs-fixed",
+    "title": "Sliding Timescale vs. Fixed Timeline",
+    "question": "Is Marvel's sliding timescale better than a fixed timeline?",
+    "category": "continuity",
+    "context": "Marvel uses a sliding timescale: the FF formed '~13 years ago' regardless of when 'now' is. This keeps characters young but creates logical problems (how did Tony get captured in a war that's always '15 years ago'?). Would a fixed timeline with aging characters be better, or is the sliding timescale the only way superhero universes work?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "bendis-good-for-avengers",
+    "title": "Was Bendis Good for the Avengers?",
+    "question": "Did Brian Michael Bendis elevate or damage the Avengers?",
+    "category": "creators",
+    "context": "Bendis wrote Avengers for 8 years (2004-2012): Disassembled, New Avengers, Secret Invasion, Dark Reign, Siege. He made the Avengers Marvel's flagship team. But his decompressed pacing, focus on street-level heroes, and event-driven storytelling divided fans. Did he save the Avengers or fundamentally change what they should be?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "miles-morales-in-616",
+    "title": "Should Miles Morales Be in 616?",
+    "question": "Was bringing Miles Morales into the main Marvel Universe a mistake?",
+    "category": "characters",
+    "context": "Miles Morales was created in the Ultimate Universe (2011) as a fresh take on Spider-Man. After Secret Wars (2015), he moved to Earth-616. Now there are two Spider-Men in the same universe. Does this dilute both characters, or does it prove Spider-Man is bigger than one person?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "immortal-hulk-best-hulk",
+    "title": "Best Hulk Story",
+    "question": "Is Immortal Hulk the greatest Hulk run of all time?",
+    "category": "runs",
+    "context": "Immortal Hulk (2018-2021) by Al Ewing redefined the character as body horror. Banner can't die. The Hulk is a monster in the truest sense. It won critical acclaim and awards. But is it actually better than Peter David's 12-year run, the original Lee/Kirby, or Planet Hulk?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "secret-invasion-letdown",
+    "title": "Was Secret Invasion a Letdown?",
+    "question": "Did Secret Invasion fail to deliver on its premise?",
+    "category": "events",
+    "context": "Secret Invasion (2008) promised 'He loves you.' Skrulls had infiltrated Earth for years. Any hero could be a Skrull. The reveal was... mostly nobody important. The event had great setup but underwhelming payoff. Was it a letdown, or were fan expectations impossible to meet?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "byrne-ff-vs-lee-kirby",
+    "title": "Byrne's FF vs. Lee/Kirby",
+    "question": "Is John Byrne's Fantastic Four run better than the original Lee/Kirby?",
+    "category": "runs",
+    "context": "Lee and Kirby created the FF and defined Marvel. But John Byrne's run (1981-1986) is often called the definitive FF revival: Trial of Reed Richards, birth of Franklin's powers, She-Hulk joins, Doctor Doom restored. Can a revival ever surpass the original, or is Lee/Kirby untouchable?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "dark-phoenix-vs-infinity-gauntlet",
+    "title": "Dark Phoenix vs. Infinity Gauntlet",
+    "question": "Which is the better cosmic Marvel story?",
+    "category": "events",
+    "context": "Dark Phoenix Saga (1980): Jean Grey becomes a god, devours a star, dies. Infinity Gauntlet (1991): Thanos becomes a god, kills half the universe, loses. Both are cosmic horror stories about power corrupting. Both are essential Marvel. Which is actually better?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "ultimate-universe-worth-reading",
+    "title": "Is the Ultimate Universe Worth Reading?",
+    "question": "Was the Ultimate Universe a failed experiment or essential Marvel?",
+    "category": "what-if",
+    "context": "The Ultimate Universe (2000-2015) was a modern reboot: Ultimate Spider-Man, Ultimates, Ultimate X-Men. It launched Miles Morales and the MCU's Avengers aesthetic. But it also became grim, repetitive, and was eventually destroyed. Is it essential reading or a skippable sidebar?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "omd-necessary-for-stories",
+    "title": "Was OMD Necessary for Good Spider-Man Stories?",
+    "question": "Could modern Spider-Man work with Peter still married?",
+    "category": "hot-takes",
+    "context": "Joe Quesada's argument for One More Day: a married Peter Parker limits storytelling. But Superman, Reed Richards, and Scott Summers are all married and have great stories. Was the marriage really the problem, or was it just easier to erase it than write around it?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "wolverine-should-have-stayed-dead",
+    "title": "Should Wolverine Have Stayed Dead?",
+    "question": "Was bringing Wolverine back a mistake?",
+    "category": "characters",
+    "context": "Wolverine died in Death of Wolverine (2014). He stayed dead for 4 years. His return in 2018 was inevitable but felt too soon. Did Marvel rush it, or is Wolverine too important to keep dead? And does death even matter in a universe with resurrection protocols?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "hickman-best-21st-century-writer",
+    "title": "Best Marvel Writer of the 21st Century",
+    "question": "Is Jonathan Hickman the best Marvel writer since 2000?",
+    "category": "creators",
+    "context": "Hickman: FF (2009-2012), Avengers (2012-2015), Secret Wars (2015), X-Men (2019-2021). Ambitious, structural, cosmic. But is he actually better than Bendis (Daredevil, Ultimate Spider-Man, Avengers), Fraction (Hawkeye, Immortal Iron Fist), or Ewing (Immortal Hulk, X-Men Red)?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "annihilation-vs-civil-war",
+    "title": "Annihilation vs. Civil War",
+    "question": "Was Annihilation (2006) better than Civil War?",
+    "category": "events",
+    "context": "In 2006, Marvel launched two events: Civil War (the big crossover) and Annihilation (cosmic revival). Civil War sold more but divided fans. Annihilation was a creative triumph that saved the cosmic side of Marvel. Which was actually better?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "reed-richards-villain",
+    "title": "Is Reed Richards a Villain?",
+    "question": "Is Reed Richards' utilitarianism actually villainy?",
+    "category": "hot-takes",
+    "context": "Reed Richards has: created a prison in the Negative Zone, joined the Illuminati, built world-ending weapons, and rebuilt the multiverse without consent. The Council of Reeds showed infinite evil Reeds. Is main-616 Reed just a villain who thinks he's a hero?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "morrison-new-xmen-aged-well",
+    "title": "Did Morrison's New X-Men Age Well?",
+    "question": "Is New X-Men (2001-2004) still great, or has it aged poorly?",
+    "category": "runs",
+    "context": "Grant Morrison's New X-Men was revolutionary: Emma Frost joins, Cassandra Nova, 'mutants as species', the Xorn/Magneto twist. But the art is divisive, the ending was editorially compromised, and later writers retconned key elements. Is it still essential, or is nostalgia inflating its reputation?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "krakoa-too-complicated",
+    "title": "Was Krakoa Too Complicated for New Readers?",
+    "question": "Did the Krakoa era's complexity hurt the X-Men?",
+    "category": "continuity",
+    "context": "The Krakoa era had: 10+ simultaneous titles, resurrection protocols, Moira's lives, Quiet Council politics, Otherworld, Arakko, the Five, Cerebro backups. It was ambitious but dense. Did this complexity make the X-Men inaccessible to new readers, or was it exactly what longtime fans wanted?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "starlin-thanos-vs-mcu-thanos",
+    "title": "Starlin's Thanos vs. MCU Thanos",
+    "question": "Which version of Thanos is better?",
+    "category": "characters",
+    "context": "Jim Starlin created Thanos as a lovesick nihilist obsessed with Death. The MCU made him a utilitarian eco-fascist. Comics Thanos is more complex and disturbing. MCU Thanos is more sympathetic and iconic to billions. Which interpretation is actually better?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "x-men-90s-better-than-80s",
+    "title": "90s X-Men vs. 80s X-Men",
+    "question": "Were the 1990s X-Men runs better than Claremont's 1980s?",
+    "category": "runs",
+    "context": "Claremont's 1980s X-Men is legendary: Dark Phoenix, Days of Future Past, God Loves Man Kills, Mutant Massacre. But the 1990s had Jim Lee's X-Men #1 (8 million copies sold), Age of Apocalypse, Onslaught, and Generation X. Which decade was actually better for X-Men?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "spider-man-unmasking-mistake",
+    "title": "Was Spider-Man Unmasking in Civil War a Mistake?",
+    "question": "Should Peter Parker have revealed his identity in Civil War #2?",
+    "category": "events",
+    "context": "In Civil War #2 (2006), Peter Parker publicly unmasked on live TV. It was shocking and had real consequences: Aunt May shot, MJ in danger. But it was also retconned away by One More Day a year later. Was the unmasking a bold choice undermined by editorial, or a mistake from the start?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "captain-america-brubaker-vs-waid",
+    "title": "Best Modern Captain America Run",
+    "question": "Brubaker's Cap vs. Waid's Cap: which is better?",
+    "category": "runs",
+    "context": "Ed Brubaker (2005-2012): Winter Soldier, Death of Captain America, dark espionage. Mark Waid (1995-1996, 1998-1999): Man Out of Time, optimistic heroism. Both are considered definitive modern Cap. Which approach to Steve Rogers is actually superior?",
+    "is_featured": false,
+    "status": "active"
+  },
+  {
+    "slug": "multiverse-oversaturation",
+    "title": "Is Marvel Oversaturating the Multiverse?",
+    "question": "Has the multiverse concept become too common in Marvel?",
+    "category": "continuity",
+    "context": "The multiverse used to be special: What If, Exiles, rare crossovers. Now it's everywhere: Spider-Verse, Secret Wars (2015), Loki show, Multiverse of Madness, Spider-Man: No Way Home. Has overuse made the multiverse meaningless, or is this the natural evolution of superhero storytelling?",
+    "is_featured": false,
+    "status": "active"
+  }
+]

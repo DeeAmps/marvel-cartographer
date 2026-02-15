@@ -1,0 +1,48 @@
+version: "3.9"
+
+services:
+  # ─────────────────────────────────────────────
+  # Next.js web frontend
+  # ─────────────────────────────────────────────
+  web:
+    build:
+      context: ./web
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env
+    environment:
+      - NODE_ENV=production
+      - GO_GRAPH_SERVICE_URL=http://go-graph-service:8080
+    depends_on:
+      go-graph-service:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://localhost:3000"]
+      interval: 30s
+      timeout: 5s
+      start_period: 30s
+      retries: 3
+    restart: unless-stopped
+
+  # ─────────────────────────────────────────────
+  # Go graph computation service
+  # ─────────────────────────────────────────────
+  go-graph-service:
+    build:
+      context: ./go-graph-service
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    env_file:
+      - .env
+    environment:
+      - GO_GRAPH_SERVICE_PORT=8080
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/api/v1/health"]
+      interval: 30s
+      timeout: 5s
+      start_period: 10s
+      retries: 3
+    restart: unless-stopped
