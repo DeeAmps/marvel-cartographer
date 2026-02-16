@@ -1,0 +1,1577 @@
+[
+  {
+    "id": 176,
+    "question": "What are the names of all six Infinity Gems as originally identified in Marvel Comics?",
+    "answer": "The six Infinity Gems are Soul, Time, Space, Mind, Reality, and Power. They were first collectively identified and named in Thanos Quest #1-2 (1990) when Thanos systematically collected them from the Elders of the Universe.",
+    "source_issue": "Thanos Quest #1-2 (1990)",
+    "category": "cosmic",
+    "difficulty": "easy",
+    "tags": ["Infinity Gems", "Thanos", "Elders of the Universe", "cosmic"]
+  },
+  {
+    "id": 177,
+    "question": "Who was Galactus's first herald?",
+    "answer": "The Fallen One was Galactus's first herald, a being imbued with dark energy rather than the Power Cosmic. He was eventually replaced due to his uncontrollable nature. The Fallen One's history was revealed in Thanos #11 (2004) by Keith Giffen.",
+    "source_issue": "Thanos #11 (2004)",
+    "category": "cosmic",
+    "difficulty": "hard",
+    "tags": ["Galactus", "Fallen One", "heralds", "cosmic"]
+  },
+  {
+    "id": 178,
+    "question": "In which issue did the Kree-Skrull War storyline begin in the Avengers?",
+    "answer": "The Kree-Skrull War began in Avengers #89 (1971), written by Roy Thomas with art by Sal Buscema. The storyline ran through Avengers #97 and was one of Marvel's first extended epic storylines.",
+    "source_issue": "Avengers #89 (1971)",
+    "category": "cosmic",
+    "difficulty": "medium",
+    "tags": ["Kree", "Skrull", "Avengers", "Roy Thomas", "cosmic"]
+  },
+  {
+    "id": 179,
+    "question": "What is the name of the Shi'ar emperor who became romantically involved with Professor X?",
+    "answer": "Lilandra Neramani, Majestrix of the Shi'ar Empire, became romantically involved with Charles Xavier. Their psychic bond was first established in Uncanny X-Men #105 (1977) by Chris Claremont and Dave Cockrum.",
+    "source_issue": "Uncanny X-Men #105 (1977)",
+    "category": "cosmic",
+    "difficulty": "easy",
+    "tags": ["Shi'ar", "Lilandra", "Professor X", "X-Men", "cosmic"]
+  },
+  {
+    "id": 180,
+    "question": "Who is the entity known as the Living Tribunal, and what is his role in the Marvel cosmic hierarchy?",
+    "answer": "The Living Tribunal is a cosmic entity who serves as judge of the multiverse, maintaining balance between good and evil across all realities. He first appeared in Strange Tales #157 (1967), created by Stan Lee, Marie Severin, and Herb Trimpe.",
+    "source_issue": "Strange Tales #157 (1967)",
+    "category": "cosmic",
+    "difficulty": "medium",
+    "tags": ["Living Tribunal", "cosmic hierarchy", "multiverse", "Doctor Strange"]
+  },
+  {
+    "id": 181,
+    "question": "What is the Cosmic Cube, and in which issue did it first appear?",
+    "answer": "The Cosmic Cube is a device capable of reshaping reality according to the will of its wielder. It first appeared in Tales of Suspense #79 (1966), created by AIM and used by the Red Skull against Captain America.",
+    "source_issue": "Tales of Suspense #79 (1966)",
+    "category": "cosmic",
+    "difficulty": "medium",
+    "tags": ["Cosmic Cube", "Red Skull", "AIM", "Captain America", "cosmic"]
+  },
+  {
+    "id": 182,
+    "question": "In the original Infinity Gauntlet storyline, who ultimately wields the Gauntlet to undo Thanos's devastation?",
+    "answer": "Adam Warlock ultimately claims the Infinity Gauntlet in Infinity Gauntlet #6 (1991) after Nebula briefly seizes it from Thanos. Warlock uses it to undo the damage Thanos caused, then becomes the custodian of the Gems.",
+    "source_issue": "Infinity Gauntlet #6 (1991)",
+    "category": "cosmic",
+    "difficulty": "medium",
+    "tags": ["Adam Warlock", "Infinity Gauntlet", "Thanos", "Nebula", "cosmic"]
+  },
+  {
+    "id": 183,
+    "question": "Who is Ego the Living Planet, and in which issue did he first appear?",
+    "answer": "Ego the Living Planet is a sentient planet with vast cosmic powers. He first appeared in Thor #132 (1966), created by Stan Lee and Jack Kirby, as a threat encountered by Thor during his journey through the Black Galaxy.",
+    "source_issue": "Thor #132 (1966)",
+    "category": "cosmic",
+    "difficulty": "medium",
+    "tags": ["Ego", "Thor", "Stan Lee", "Jack Kirby", "cosmic"]
+  },
+  {
+    "id": 184,
+    "question": "What is the Annihilation Wave, and who leads it?",
+    "answer": "The Annihilation Wave is a massive insectoid armada from the Negative Zone, led by Annihilus. In Annihilation: Prologue #1 (2006), Annihilus launches the Wave into positive space, devastating the Nova Corps and beginning one of Marvel's greatest cosmic wars.",
+    "source_issue": "Annihilation: Prologue #1 (2006)",
+    "category": "cosmic",
+    "difficulty": "medium",
+    "tags": ["Annihilus", "Annihilation Wave", "Negative Zone", "Nova Corps", "cosmic"]
+  },
+  {
+    "id": 185,
+    "question": "Who was the last survivor of the Nova Corps after the Annihilation Wave destroyed Xandar?",
+    "answer": "Richard Rider (Nova) was the last survivor, absorbing the entire Nova Force and the Xandarian Worldmind into himself. This was depicted in Annihilation: Nova #1 (2006) by Dan Abnett and Andy Lanning.",
+    "source_issue": "Annihilation: Nova #1 (2006)",
+    "category": "cosmic",
+    "difficulty": "medium",
+    "tags": ["Nova", "Richard Rider", "Xandar", "Annihilation", "cosmic"]
+  },
+  {
+    "id": 186,
+    "question": "In which issue does Galactus first appear, and who created him?",
+    "answer": "Galactus first appears in Fantastic Four #48 (1966), the first chapter of the legendary Galactus Trilogy. He was created by Stan Lee and Jack Kirby, arriving on Earth to consume the planet's energy.",
+    "source_issue": "Fantastic Four #48 (1966)",
+    "category": "cosmic",
+    "difficulty": "easy",
+    "tags": ["Galactus", "Fantastic Four", "Silver Surfer", "Stan Lee", "Jack Kirby", "cosmic"]
+  },
+  {
+    "id": 187,
+    "question": "How did the Silver Surfer originally come to serve Galactus?",
+    "answer": "Norrin Radd of Zenn-La offered himself as Galactus's herald in exchange for Galactus sparing his homeworld. This origin was revealed in Silver Surfer #1 (1968) by Stan Lee and John Buscema.",
+    "source_issue": "Silver Surfer #1 (1968)",
+    "category": "cosmic",
+    "difficulty": "easy",
+    "tags": ["Silver Surfer", "Norrin Radd", "Galactus", "Zenn-La", "cosmic"]
+  },
+  {
+    "id": 188,
+    "question": "What cosmic entity is the embodiment of death in the Marvel Universe, and who is famously in love with her?",
+    "answer": "Mistress Death (or Lady Death) is the abstract embodiment of mortality. Thanos is famously in love with her, courting her favor by offering mass death. This obsession was first fully explored in Captain Marvel #28 (1973) by Jim Starlin.",
+    "source_issue": "Captain Marvel #28 (1973)",
+    "category": "cosmic",
+    "difficulty": "easy",
+    "tags": ["Death", "Thanos", "Jim Starlin", "Captain Marvel", "cosmic"]
+  },
+  {
+    "id": 189,
+    "question": "Who are the Celestials, and in which series were they prominently introduced?",
+    "answer": "The Celestials are giant cosmic beings who have experimented on life across the universe, creating the Eternals and Deviants. They were prominently introduced in Eternals #1 (1976) by Jack Kirby.",
+    "source_issue": "Eternals #1 (1976)",
+    "category": "cosmic",
+    "difficulty": "medium",
+    "tags": ["Celestials", "Eternals", "Deviants", "Jack Kirby", "cosmic"]
+  },
+  {
+    "id": 190,
+    "question": "What is the Phoenix Force, and in which issue did it first bond with Jean Grey?",
+    "answer": "The Phoenix Force is a cosmic entity representing life, death, and rebirth. It first bonded with Jean Grey (or replaced her, depending on the retcon) in Uncanny X-Men #101 (1976), when Jean emerged from Jamaica Bay as Phoenix after a space shuttle crash.",
+    "source_issue": "Uncanny X-Men #101 (1976)",
+    "category": "cosmic",
+    "difficulty": "easy",
+    "tags": ["Phoenix Force", "Jean Grey", "X-Men", "cosmic"]
+  },
+  {
+    "id": 191,
+    "question": "Who is the Beyonder, and in which issue did he first appear?",
+    "answer": "The Beyonder is an omnipotent being from beyond the Marvel multiverse who first appeared in Marvel Super Heroes Secret Wars #1 (1984), created by Jim Shooter and Mike Zeck. He transported heroes and villains to Battleworld.",
+    "source_issue": "Marvel Super Heroes Secret Wars #1 (1984)",
+    "category": "cosmic",
+    "difficulty": "easy",
+    "tags": ["Beyonder", "Secret Wars", "Jim Shooter", "cosmic"]
+  },
+  {
+    "id": 192,
+    "question": "Who is Eternity, and what does this cosmic entity represent?",
+    "answer": "Eternity is the abstract embodiment of the entire Marvel Universe and all living things within it. Eternity first appeared in Strange Tales #138 (1965), created by Stan Lee and Steve Ditko, when Doctor Strange sought his aid.",
+    "source_issue": "Strange Tales #138 (1965)",
+    "category": "cosmic",
+    "difficulty": "medium",
+    "tags": ["Eternity", "Doctor Strange", "cosmic", "abstract entities"]
+  },
+  {
+    "id": 193,
+    "question": "Which Elder of the Universe possesses the Power Gem before Thanos claims it?",
+    "answer": "The Champion of the Universe held the Power Gem. In Thanos Quest #1 (1990), Thanos defeated the Champion in combat to claim it, exploiting the Champion's overconfidence in his physical prowess.",
+    "source_issue": "Thanos Quest #1 (1990)",
+    "category": "cosmic",
+    "difficulty": "hard",
+    "tags": ["Champion", "Elders of the Universe", "Power Gem", "Thanos", "cosmic"]
+  },
+  {
+    "id": 194,
+    "question": "What is the name of the Kree Supreme Intelligence?",
+    "answer": "The Supreme Intelligence (also called Supremor) is a vast artificial intelligence created from the greatest Kree minds. It first appeared in Fantastic Four #65 (1967) by Stan Lee and Jack Kirby, and has directed Kree policy for millennia.",
+    "source_issue": "Fantastic Four #65 (1967)",
+    "category": "cosmic",
+    "difficulty": "medium",
+    "tags": ["Kree", "Supreme Intelligence", "Fantastic Four", "cosmic"]
+  },
+  {
+    "id": 195,
+    "question": "Who killed Annihilus at the conclusion of the Annihilation event?",
+    "answer": "Nova (Richard Rider) killed Annihilus by reaching into his throat and ripping out his insides in one of Marvel's most visceral moments. This occurred in Annihilation #6 (2007) by Keith Giffen and Andrea Di Vito.",
+    "source_issue": "Annihilation #6 (2007)",
+    "category": "cosmic",
+    "difficulty": "medium",
+    "tags": ["Nova", "Annihilus", "Annihilation", "cosmic"]
+  },
+  {
+    "id": 196,
+    "question": "What cosmic event saw the Kree Empire absorbed by the Shi'ar?",
+    "answer": "In Operation: Galactic Storm (1992), a crossover spanning Avengers, Captain America, Iron Man, Thor, Wonder Man, and Quasar, the Shi'ar detonated a Nega-Bomb that killed billions of Kree, and the Shi'ar Majestrix Lilandra annexed the Kree Empire. The event began in Captain America #398 (1992).",
+    "source_issue": "Captain America #398 (1992)",
+    "category": "cosmic",
+    "difficulty": "hard",
+    "tags": ["Kree", "Shi'ar", "Operation Galactic Storm", "Avengers", "cosmic"]
+  },
+  {
+    "id": 197,
+    "question": "Who is Adam Warlock's evil future self?",
+    "answer": "The Magus is Adam Warlock's evil future self, the tyrannical leader of the Universal Church of Truth. He was first revealed in Strange Tales #178 (1975) by Jim Starlin, who used the character to explore themes of destiny and free will.",
+    "source_issue": "Strange Tales #178 (1975)",
+    "category": "cosmic",
+    "difficulty": "medium",
+    "tags": ["Adam Warlock", "Magus", "Jim Starlin", "cosmic"]
+  },
+  {
+    "id": 198,
+    "question": "What role did Molecule Man play in Hickman's Secret Wars (2015)?",
+    "answer": "Molecule Man (Owen Reece) was revealed as a multiversal bomb planted by the Beyonders in every universe. He served as the power source for God Emperor Doom's Battleworld. His role was pivotal in Secret Wars #9 (2015) when Reed Richards used his power to rebuild the multiverse.",
+    "source_issue": "Secret Wars #9 (2015)",
+    "category": "cosmic",
+    "difficulty": "hard",
+    "tags": ["Molecule Man", "Beyonders", "Secret Wars 2015", "Hickman", "cosmic"]
+  },
+  {
+    "id": 199,
+    "question": "Who are the original members of the Guardians of the Galaxy as reimagined by Dan Abnett and Andy Lanning?",
+    "answer": "The modern Guardians roster formed in Guardians of the Galaxy #1 (2008) included Star-Lord, Rocket Raccoon, Groot, Drax the Destroyer, Gamora, Adam Warlock, Phyla-Vell (Quasar), and Mantis, operating from Knowhere.",
+    "source_issue": "Guardians of the Galaxy #1 (2008)",
+    "category": "cosmic",
+    "difficulty": "medium",
+    "tags": ["Guardians of the Galaxy", "Star-Lord", "DnA", "cosmic"]
+  },
+  {
+    "id": 200,
+    "question": "What is the Cancerverse, and how did the Guardians encounter it?",
+    "answer": "The Cancerverse is a reality where death was defeated by Mar-Vell (now Lord Mar-Vell), causing life to grow unchecked like a cancer. The Guardians encountered it when the Fault (a tear in spacetime) opened in The Thanos Imperative #1 (2010) by Abnett and Lanning.",
+    "source_issue": "The Thanos Imperative #1 (2010)",
+    "category": "cosmic",
+    "difficulty": "hard",
+    "tags": ["Cancerverse", "Thanos Imperative", "Guardians of the Galaxy", "cosmic"]
+  },
+  {
+    "id": 201,
+    "question": "In which issue did Captain Marvel (Mar-Vell) gain his cosmic awareness?",
+    "answer": "Mar-Vell gained cosmic awareness in Captain Marvel #29 (1973) by Jim Starlin, when the cosmic entity Eon bestowed it upon him, making him the Protector of the Universe. This transformation also gave him his iconic star-emblazoned costume.",
+    "source_issue": "Captain Marvel #29 (1973)",
+    "category": "cosmic",
+    "difficulty": "hard",
+    "tags": ["Mar-Vell", "Captain Marvel", "Eon", "cosmic awareness", "Jim Starlin"]
+  },
+  {
+    "id": 202,
+    "question": "What happened to the Silver Surfer at the end of the Galactus Trilogy?",
+    "answer": "In Fantastic Four #50 (1966), after the Silver Surfer betrayed Galactus to help Earth, Galactus erected an invisible barrier around Earth trapping the Surfer on the planet as punishment. This exile defined the character for years.",
+    "source_issue": "Fantastic Four #50 (1966)",
+    "category": "cosmic",
+    "difficulty": "easy",
+    "tags": ["Silver Surfer", "Galactus", "Fantastic Four", "cosmic"]
+  },
+  {
+    "id": 203,
+    "question": "Who is Thane, and what is his connection to Thanos?",
+    "answer": "Thane is the secret Inhuman son of Thanos, discovered during the Infinity event. He was first revealed in Infinity #4 (2013) by Jonathan Hickman, possessing the power to encase beings in a living death with one hand and destroy with the other.",
+    "source_issue": "Infinity #4 (2013)",
+    "category": "cosmic",
+    "difficulty": "hard",
+    "tags": ["Thane", "Thanos", "Infinity", "Inhumans", "Hickman", "cosmic"]
+  },
+  {
+    "id": 204,
+    "question": "What cosmic object did the Elders of the Universe attempt to use to destroy Galactus?",
+    "answer": "The Elders conspired to use the six Infinity Gems (Soul Gems) to destroy Galactus, believing his death would cause a new Big Bang creating a universe they would rule. This plot unfolded in Silver Surfer #3-10 (1987-1988) by Steve Englehart.",
+    "source_issue": "Silver Surfer #7 (1988)",
+    "category": "cosmic",
+    "difficulty": "hard",
+    "tags": ["Elders of the Universe", "Galactus", "Infinity Gems", "Silver Surfer", "cosmic"]
+  },
+  {
+    "id": 205,
+    "question": "What cosmic being serves as the herald of Galactus immediately after the Silver Surfer?",
+    "answer": "After the Silver Surfer's betrayal, Galactus took Gabriel Lan, an alien starship captain, and transformed him into Air-Walker. Air-Walker first appeared in Fantastic Four #120 (1972) by Stan Lee and John Buscema.",
+    "source_issue": "Fantastic Four #120 (1972)",
+    "category": "cosmic",
+    "difficulty": "hard",
+    "tags": ["Air-Walker", "Galactus", "heralds", "Fantastic Four", "cosmic"]
+  },
+  {
+    "id": 206,
+    "question": "What is Knowhere, and what cosmic being's head is it built inside?",
+    "answer": "Knowhere is a space station built inside the severed head of a Celestial, located at the edge of the universe. It first appeared in Nova #8 (2008) by Dan Abnett and Andy Lanning and served as the base of operations for the Guardians of the Galaxy.",
+    "source_issue": "Nova #8 (2008)",
+    "category": "cosmic",
+    "difficulty": "medium",
+    "tags": ["Knowhere", "Celestials", "Guardians of the Galaxy", "Nova", "cosmic"]
+  },
+  {
+    "id": 207,
+    "question": "Who is Quasar, and what cosmic artifacts does he wield?",
+    "answer": "Wendell Vaughn is Quasar, wielder of the Quantum Bands, cosmic devices originally belonging to the Kree hero Mar-Vell. He was appointed Protector of the Universe by Eon. His solo series launched with Quasar #1 (1989) by Mark Gruenwald.",
+    "source_issue": "Quasar #1 (1989)",
+    "category": "cosmic",
+    "difficulty": "medium",
+    "tags": ["Quasar", "Quantum Bands", "Eon", "cosmic"]
+  },
+  {
+    "id": 208,
+    "question": "What happened when Thanos first acquired all six Infinity Gems?",
+    "answer": "In Infinity Gauntlet #1 (1991), Thanos snapped his fingers and eliminated half of all life in the universe to prove his love to Mistress Death. The surviving heroes then had to mount a desperate counterattack against a virtually omnipotent Thanos.",
+    "source_issue": "Infinity Gauntlet #1 (1991)",
+    "category": "cosmic",
+    "difficulty": "easy",
+    "tags": ["Thanos", "Infinity Gauntlet", "Jim Starlin", "cosmic"]
+  },
+  {
+    "id": 209,
+    "question": "What is the Negative Zone, and in which issue was it first explored?",
+    "answer": "The Negative Zone is an antimatter universe accessible through a portal discovered by Reed Richards. It was first explored in Fantastic Four #51 (1966) by Stan Lee and Jack Kirby, and became the home dimension of Annihilus and Blastaar.",
+    "source_issue": "Fantastic Four #51 (1966)",
+    "category": "cosmic",
+    "difficulty": "medium",
+    "tags": ["Negative Zone", "Fantastic Four", "Annihilus", "cosmic"]
+  },
+  {
+    "id": 210,
+    "question": "Who is the Watcher known as Uatu, and what is his sacred oath?",
+    "answer": "Uatu is the Watcher assigned to observe Earth. He is sworn to never interfere in the events he witnesses, though he frequently breaks this oath. He first appeared in Fantastic Four #13 (1963) by Stan Lee and Jack Kirby.",
+    "source_issue": "Fantastic Four #13 (1963)",
+    "category": "cosmic",
+    "difficulty": "easy",
+    "tags": ["Uatu", "Watcher", "Fantastic Four", "cosmic"]
+  },
+  {
+    "id": 211,
+    "question": "What event saw Ultron conquer the Kree Empire?",
+    "answer": "During Annihilation: Conquest (2007-2008), Ultron took control of the Phalanx and used them to conquer the Kree Empire. This was revealed in Annihilation: Conquest #1 (2008) by Dan Abnett and Andy Lanning, leading to the formation of the modern Guardians of the Galaxy.",
+    "source_issue": "Annihilation: Conquest #1 (2008)",
+    "category": "cosmic",
+    "difficulty": "hard",
+    "tags": ["Ultron", "Kree", "Annihilation Conquest", "Phalanx", "cosmic"]
+  },
+  {
+    "id": 212,
+    "question": "Which cosmic entity is the twin sibling of Eternity?",
+    "answer": "Infinity is the twin cosmic entity of Eternity, representing the spatial aspect of the universe while Eternity represents the temporal aspect. Infinity first appeared in Quasar #24 (1991) by Mark Gruenwald.",
+    "source_issue": "Quasar #24 (1991)",
+    "category": "cosmic",
+    "difficulty": "hard",
+    "tags": ["Infinity", "Eternity", "Quasar", "cosmic", "abstract entities"]
+  },
+  {
+    "id": 213,
+    "question": "Who is the Collector, and why does he hoard artifacts from across the universe?",
+    "answer": "Taneleer Tivan, the Collector, is one of the Elders of the Universe who collects specimens and artifacts from across the cosmos. He first appeared in Avengers #28 (1966) by Stan Lee and Don Heck, originally claiming he collected things to preserve them from a coming catastrophe.",
+    "source_issue": "Avengers #28 (1966)",
+    "category": "cosmic",
+    "difficulty": "medium",
+    "tags": ["Collector", "Elders of the Universe", "Avengers", "cosmic"]
+  },
+  {
+    "id": 214,
+    "question": "How did the Super-Skrull gain his powers?",
+    "answer": "Kl'rt the Super-Skrull was artificially granted the combined powers of all four members of the Fantastic Four by the Skrull Emperor, who wanted revenge for the FF's earlier defeat of the Skrulls. He first appeared in Fantastic Four #18 (1963) by Stan Lee and Jack Kirby.",
+    "source_issue": "Fantastic Four #18 (1963)",
+    "category": "cosmic",
+    "difficulty": "medium",
+    "tags": ["Super-Skrull", "Skrulls", "Fantastic Four", "cosmic"]
+  },
+  {
+    "id": 215,
+    "question": "What is the Fault in Marvel cosmic continuity, and what event created it?",
+    "answer": "The Fault is a massive tear in the fabric of spacetime that connects the Marvel Universe to the Cancerverse. It was created when Black Bolt detonated the Terrigen Bomb against the Kree during War of Kings #6 (2009) by Abnett and Lanning.",
+    "source_issue": "War of Kings #6 (2009)",
+    "category": "cosmic",
+    "difficulty": "hard",
+    "tags": ["Fault", "Black Bolt", "War of Kings", "Cancerverse", "cosmic"]
+  },
+  {
+    "id": 216,
+    "question": "In which issue did the heroes and villains first arrive on Battleworld in the original Secret Wars?",
+    "answer": "Heroes and villains were transported to Battleworld by the Beyonder in Marvel Super Heroes Secret Wars #1 (1984), written by Jim Shooter with art by Mike Zeck. The Beyonder challenged them to 'slay your enemies and all you desire shall be yours.'",
+    "source_issue": "Marvel Super Heroes Secret Wars #1 (1984)",
+    "category": "events",
+    "difficulty": "easy",
+    "tags": ["Secret Wars", "Beyonder", "Battleworld", "Jim Shooter"]
+  },
+  {
+    "id": 217,
+    "question": "What did Doctor Doom do with the Beyonder's power in the original Secret Wars?",
+    "answer": "In Marvel Super Heroes Secret Wars #10 (1985), Doctor Doom stole the Beyonder's power, becoming virtually omnipotent. He briefly held godlike power before the heroes found a way to challenge him, and Captain America stood against him in one of comics' most iconic moments.",
+    "source_issue": "Marvel Super Heroes Secret Wars #10 (1985)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Doctor Doom", "Beyonder", "Secret Wars", "events"]
+  },
+  {
+    "id": 218,
+    "question": "How many heroes survived Thanos's initial snap in Infinity Gauntlet?",
+    "answer": "After Thanos snapped his fingers in Infinity Gauntlet #1 (1991), exactly half of all life in the universe was eliminated. The surviving heroes who mounted the counterattack in Infinity Gauntlet #4 included Captain America, Thor, Iron Man, Spider-Man, Wolverine, and others, led by Adam Warlock.",
+    "source_issue": "Infinity Gauntlet #4 (1991)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Infinity Gauntlet", "Thanos", "Jim Starlin", "events"]
+  },
+  {
+    "id": 219,
+    "question": "What did Scarlet Witch say at the end of House of M that changed the Marvel Universe?",
+    "answer": "In House of M #7 (2005), Scarlet Witch uttered the words 'No more mutants,' which depowered approximately 90% of the world's mutant population in an event known as Decimation. Only 198 mutants retained their powers.",
+    "source_issue": "House of M #7 (2005)",
+    "category": "events",
+    "difficulty": "easy",
+    "tags": ["Scarlet Witch", "House of M", "Decimation", "mutants", "Bendis", "events"]
+  },
+  {
+    "id": 220,
+    "question": "What incident triggered the Superhuman Registration Act in Civil War?",
+    "answer": "In Civil War #1 (2006) by Mark Millar, the New Warriors confronted Nitro near a school in Stamford, Connecticut. Nitro exploded, killing over 600 people including 60 children. This tragedy led to the passage of the Superhuman Registration Act.",
+    "source_issue": "Civil War #1 (2006)",
+    "category": "events",
+    "difficulty": "easy",
+    "tags": ["Civil War", "New Warriors", "Nitro", "Stamford", "events"]
+  },
+  {
+    "id": 221,
+    "question": "Who revealed his secret identity on live television during Civil War?",
+    "answer": "Peter Parker unmasked himself as Spider-Man on live television in Civil War #2 (2006) to support Tony Stark's pro-registration side. This decision had devastating consequences for Peter and his family, eventually leading to the controversial One More Day storyline.",
+    "source_issue": "Civil War #2 (2006)",
+    "category": "events",
+    "difficulty": "easy",
+    "tags": ["Spider-Man", "Civil War", "secret identity", "Tony Stark", "events"]
+  },
+  {
+    "id": 222,
+    "question": "Who killed Goliath during the Civil War?",
+    "answer": "Bill Foster (Goliath) was killed by a clone of Thor, later nicknamed 'Ragnarok' or 'Clor,' in Civil War #4 (2006). The clone was created by Tony Stark, Reed Richards, and Hank Pym, and the death shocked both sides of the conflict.",
+    "source_issue": "Civil War #4 (2006)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Goliath", "Thor clone", "Civil War", "events"]
+  },
+  {
+    "id": 223,
+    "question": "How did Civil War end, and what happened to Captain America?",
+    "answer": "In Civil War #7 (2006), Captain America was on the verge of defeating Iron Man when civilians restrained him. Steve realized the fight was destroying the very thing he was trying to protect and surrendered. He was later assassinated in Captain America #25 (2007).",
+    "source_issue": "Civil War #7 (2006)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Captain America", "Iron Man", "Civil War", "events"]
+  },
+  {
+    "id": 224,
+    "question": "What was the central revelation of Secret Invasion?",
+    "answer": "Secret Invasion #1 (2008) by Brian Michael Bendis revealed that the Skrulls had been secretly replacing key Marvel heroes and figures for years with undetectable impostors. The tagline 'Who do you trust?' defined the paranoia of the event.",
+    "source_issue": "Secret Invasion #1 (2008)",
+    "category": "events",
+    "difficulty": "easy",
+    "tags": ["Secret Invasion", "Skrulls", "Bendis", "events"]
+  },
+  {
+    "id": 225,
+    "question": "Who killed the Skrull Queen Veranke to end Secret Invasion?",
+    "answer": "Norman Osborn shot and killed the Skrull Queen Veranke (who had been impersonating Spider-Woman) on live television in Secret Invasion #8 (2008). This public act of heroism led to Osborn being appointed head of national security, launching the Dark Reign era.",
+    "source_issue": "Secret Invasion #8 (2008)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Norman Osborn", "Skrull Queen", "Secret Invasion", "Dark Reign", "events"]
+  },
+  {
+    "id": 226,
+    "question": "What was the Age of Apocalypse, and how was it created?",
+    "answer": "In X-Men: Alpha #1 (1995), after Legion accidentally killed Professor X in the past (in the Legion Quest storyline), reality was rewritten into the Age of Apocalypse, a dystopian timeline where Apocalypse conquered North America because the X-Men never formed.",
+    "source_issue": "X-Men: Alpha #1 (1995)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Age of Apocalypse", "Legion", "Professor X", "Apocalypse", "X-Men", "events"]
+  },
+  {
+    "id": 227,
+    "question": "What was Contest of Champions, and why is it historically significant?",
+    "answer": "Marvel Super Hero Contest of Champions #1 (1982) was Marvel's first company-wide limited series crossover. The Grandmaster and Death chose teams of heroes from around the world to compete for the Golden Globe of Life, and it featured Marvel's first international heroes.",
+    "source_issue": "Marvel Super Hero Contest of Champions #1 (1982)",
+    "category": "events",
+    "difficulty": "hard",
+    "tags": ["Contest of Champions", "Grandmaster", "first crossover", "events"]
+  },
+  {
+    "id": 228,
+    "question": "What happened during the Onslaught event, and who is Onslaught?",
+    "answer": "Onslaught is a psionic entity born from the combined consciousness of Professor X and Magneto's darkest aspects. In Onslaught: Marvel Universe #1 (1996), the Avengers and Fantastic Four sacrificed themselves to destroy Onslaught, apparently dying but actually being shunted to a pocket universe.",
+    "source_issue": "Onslaught: Marvel Universe #1 (1996)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Onslaught", "Professor X", "Magneto", "Heroes Reborn", "events"]
+  },
+  {
+    "id": 229,
+    "question": "What event brought the Avengers and Fantastic Four back from the Heroes Reborn pocket universe?",
+    "answer": "Heroes Reborn: The Return #1-4 (1997) by Peter David brought the heroes back to the main Marvel Universe (Earth-616). Franklin Richards, son of Reed and Sue, had unconsciously created the pocket universe to save the heroes, and they were restored after about a year in the alternate reality.",
+    "source_issue": "Heroes Reborn: The Return #1 (1997)",
+    "category": "events",
+    "difficulty": "hard",
+    "tags": ["Heroes Reborn", "Heroes Return", "Franklin Richards", "events"]
+  },
+  {
+    "id": 230,
+    "question": "In the Siege event, who tore Ares the God of War in half?",
+    "answer": "The Sentry, under Norman Osborn's command, literally tore Ares in half during the assault on Asgard in Siege #2 (2010) by Brian Michael Bendis and Olivier Coipel. This brutal act showed how far the Sentry had fallen into madness.",
+    "source_issue": "Siege #2 (2010)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Sentry", "Ares", "Siege", "Norman Osborn", "events"]
+  },
+  {
+    "id": 231,
+    "question": "What book did Brian Michael Bendis write that 'disassembled' the Avengers?",
+    "answer": "Avengers #500 (2004), the first issue of 'Avengers Disassembled,' saw Scarlet Witch's mental breakdown cause catastrophic attacks on the team. She destroyed Avengers Mansion, killed Hawkeye, Jack of Hearts, Vision, and Scott Lang, effectively ending the classic Avengers.",
+    "source_issue": "Avengers #500 (2004)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Avengers Disassembled", "Scarlet Witch", "Bendis", "events"]
+  },
+  {
+    "id": 232,
+    "question": "What was Fear Itself about, and which Asgardian villain was the main antagonist?",
+    "answer": "Fear Itself #1 (2011) by Matt Fraction introduced the Serpent (Cul Borson), Odin's forgotten brother and the true All-Father of Fear. He summoned seven hammers to Earth, empowering chosen individuals as his Worthy, spreading global terror.",
+    "source_issue": "Fear Itself #1 (2011)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Fear Itself", "Serpent", "Cul Borson", "Asgard", "events"]
+  },
+  {
+    "id": 233,
+    "question": "In Avengers vs. X-Men, who were the Phoenix Five?",
+    "answer": "In Avengers vs. X-Men #5 (2012), Iron Man's attempt to destroy the Phoenix Force split it among five X-Men: Cyclops, Emma Frost, Namor, Colossus, and Magik. They became the Phoenix Five and initially used their power to reshape the world for the better before being corrupted.",
+    "source_issue": "Avengers vs. X-Men #5 (2012)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Phoenix Five", "Avengers vs. X-Men", "Cyclops", "Phoenix Force", "events"]
+  },
+  {
+    "id": 234,
+    "question": "What secret did the Original Sin event reveal about Nick Fury?",
+    "answer": "Original Sin #5 (2014) by Jason Aaron revealed that Nick Fury had been secretly serving as 'the Man on the Wall' for decades, covertly protecting Earth from alien threats through assassination and espionage. The event began with the murder of the Watcher, Uatu.",
+    "source_issue": "Original Sin #5 (2014)",
+    "category": "events",
+    "difficulty": "hard",
+    "tags": ["Original Sin", "Nick Fury", "Uatu", "Watcher", "events"]
+  },
+  {
+    "id": 235,
+    "question": "What happened in Secret Wars (2015) when the multiverse died?",
+    "answer": "In Secret Wars #1 (2015) by Jonathan Hickman, Earth-616 and Earth-1610 (the Ultimate Universe) collided in the final incursion, destroying the multiverse. Doctor Doom, using the power of the Beyonders channeled through Molecule Man, salvaged fragments and created Battleworld.",
+    "source_issue": "Secret Wars #1 (2015)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Secret Wars 2015", "Hickman", "Doctor Doom", "multiverse", "incursions", "events"]
+  },
+  {
+    "id": 236,
+    "question": "Who was the victim whose death triggered Civil War II?",
+    "answer": "James Rhodes (War Machine) was killed by Thanos in Civil War II #1 (2016) by Brian Michael Bendis. The Inhumans' precognitive Inhuman Ulysses had predicted Thanos's arrival, and Carol Danvers (Captain Marvel) used this vision to mount a preemptive strike, but Rhodey died in the battle.",
+    "source_issue": "Civil War II #1 (2016)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["War Machine", "Civil War II", "Thanos", "Captain Marvel", "events"]
+  },
+  {
+    "id": 237,
+    "question": "What was War of the Realms about?",
+    "answer": "War of the Realms #1 (2019) by Jason Aaron and Russell Dauterman saw Malekith the Dark Elf launch a full invasion of Midgard (Earth) after conquering the other Nine Realms. It was the culmination of Jason Aaron's entire seven-year Thor run.",
+    "source_issue": "War of the Realms #1 (2019)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["War of the Realms", "Malekith", "Thor", "Jason Aaron", "events"]
+  },
+  {
+    "id": 238,
+    "question": "In King in Black, which symbiote god invaded Earth?",
+    "answer": "Knull, the god of symbiotes and the King in Black, invaded Earth with an army of symbiote dragons in King in Black #1 (2020) by Donny Cates and Ryan Stegman. He encased the Earth in a symbiote shell and defeated the Sentry by ripping him in half.",
+    "source_issue": "King in Black #1 (2020)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Knull", "King in Black", "symbiotes", "Venom", "Donny Cates", "events"]
+  },
+  {
+    "id": 239,
+    "question": "How was Knull ultimately defeated in King in Black?",
+    "answer": "Eddie Brock merged with the God of Light (the counterforce to Knull's darkness) and became the new King in Black in King in Black #5 (2021). He used the combined power of every symbiote on Earth to destroy Knull, then ascended to become a cosmic entity.",
+    "source_issue": "King in Black #5 (2021)",
+    "category": "events",
+    "difficulty": "hard",
+    "tags": ["Eddie Brock", "Knull", "King in Black", "Venom", "events"]
+  },
+  {
+    "id": 240,
+    "question": "What was AXIS, and what happened to the heroes and villains?",
+    "answer": "In Avengers & X-Men: AXIS #1 (2014) by Rick Remender, a Onslaught-powered Red Skull threatened the world. A spell cast to stop him went wrong in AXIS #3, inverting the moral alignments of heroes and villains. Heroic villains had to stop evil heroes.",
+    "source_issue": "Avengers & X-Men: AXIS #3 (2014)",
+    "category": "events",
+    "difficulty": "hard",
+    "tags": ["AXIS", "Red Skull", "inversion", "Rick Remender", "events"]
+  },
+  {
+    "id": 241,
+    "question": "What event saw Wolverine die, and how did he die?",
+    "answer": "In Death of Wolverine #4 (2014) by Charles Soule and Steve McNiven, Logan, who had lost his healing factor, was encased in molten adamantium while destroying the Weapon X facility. He died standing, covered in hardened adamantium, becoming a statue.",
+    "source_issue": "Death of Wolverine #4 (2014)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Wolverine", "Death of Wolverine", "adamantium", "events"]
+  },
+  {
+    "id": 242,
+    "question": "What was the Spider-Verse event about?",
+    "answer": "In Amazing Spider-Man #9 (2014) by Dan Slott, Morlun and his family the Inheritors hunted Spider-Totems across the multiverse. Spider-Men and Women from every reality banded together, including Spider-Gwen, Spider-Ham, and the Superior Spider-Man, to stop them.",
+    "source_issue": "Amazing Spider-Man #9 (2014)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Spider-Verse", "Morlun", "Inheritors", "Dan Slott", "events"]
+  },
+  {
+    "id": 243,
+    "question": "What were the incursions in Hickman's Avengers/New Avengers run?",
+    "answer": "Incursions were collisions between parallel Earths across the multiverse, each destroying one or both realities. First revealed in New Avengers #1 (2013) by Jonathan Hickman, the Illuminati were forced to confront the ethical dilemma of destroying other Earths to save their own.",
+    "source_issue": "New Avengers #1 (2013)",
+    "category": "events",
+    "difficulty": "hard",
+    "tags": ["incursions", "Illuminati", "Hickman", "New Avengers", "multiverse", "events"]
+  },
+  {
+    "id": 244,
+    "question": "What was Empyre about?",
+    "answer": "Empyre #1 (2020) by Al Ewing and Dan Slott revealed that the Kree and Skrull empires had united under Emperor Hulkling (Teddy Altman) to wage war on the Cotati, a plant-based race using Earth as a base. The Avengers and Fantastic Four were caught in the middle.",
+    "source_issue": "Empyre #1 (2020)",
+    "category": "events",
+    "difficulty": "hard",
+    "tags": ["Empyre", "Hulkling", "Kree", "Skrull", "Cotati", "events"]
+  },
+  {
+    "id": 245,
+    "question": "In the Infinity (2013) event, what happened when Black Bolt activated the Terrigen Bomb?",
+    "answer": "In Infinity #4 (2013), Black Bolt detonated a Terrigen Bomb over New York during Thanos's invasion. The Terrigen Mists spread globally, triggering Terrigenesis in latent Inhumans worldwide and creating a wave of new NuHumans. This event reshaped the Inhuman status quo for years.",
+    "source_issue": "Infinity #4 (2013)",
+    "category": "events",
+    "difficulty": "hard",
+    "tags": ["Black Bolt", "Terrigen Bomb", "Infinity", "Inhumans", "Thanos", "events"]
+  },
+  {
+    "id": 246,
+    "question": "What was the Dark Reign era, and who led it?",
+    "answer": "After killing the Skrull Queen in Secret Invasion #8 (2008), Norman Osborn was placed in charge of national security. He reformed SHIELD as HAMMER, created his own Dark Avengers using villains posing as heroes, and formed the Cabal with Doom, Loki, Emma Frost, Namor, and the Hood.",
+    "source_issue": "Dark Avengers #1 (2009)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Dark Reign", "Norman Osborn", "HAMMER", "Dark Avengers", "Cabal", "events"]
+  },
+  {
+    "id": 247,
+    "question": "How did the Siege of Asgard end the Dark Reign?",
+    "answer": "In Siege #4 (2010), the Sentry, fully consumed by the Void, destroyed Asgard. The combined forces of the Avengers, backed by Steve Rogers (returned from the dead), defeated Osborn and the Void. Thor killed the Sentry at Bob Reynolds's own request, ending the Dark Reign.",
+    "source_issue": "Siege #4 (2010)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Siege", "Sentry", "Void", "Norman Osborn", "Dark Reign", "events"]
+  },
+  {
+    "id": 248,
+    "question": "What happened at the end of Avengers vs. X-Men when Cyclops gained the full Phoenix Force?",
+    "answer": "In Avengers vs. X-Men #11 (2012), Cyclops absorbed Emma Frost's portion of the Phoenix Force and became Dark Phoenix. He killed Professor Xavier in a rage. In #12, Hope Summers and Scarlet Witch combined powers to disperse the Phoenix and reignite the mutant race.",
+    "source_issue": "Avengers vs. X-Men #11 (2012)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Cyclops", "Dark Phoenix", "Professor X", "Avengers vs. X-Men", "events"]
+  },
+  {
+    "id": 249,
+    "question": "What was Blood Hunt about, and who was the main villain?",
+    "answer": "Blood Hunt #1 (2024) by Jed MacKay revealed that Blade had been possessed and was leading a vampire army to plunge the world into eternal darkness. Doctor Strange was killed during the event, and Doom ultimately claimed the title of Sorcerer Supreme.",
+    "source_issue": "Blood Hunt #1 (2024)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Blood Hunt", "Blade", "vampires", "Doctor Strange", "Doom", "events"]
+  },
+  {
+    "id": 250,
+    "question": "In the Infinity War event, who was the main villain and what were the doppelgangers?",
+    "answer": "In Infinity War #1 (1992) by Jim Starlin, the Magus (Adam Warlock's evil aspect, expelled when Warlock gained the Infinity Gauntlet) created evil doppelgangers of Earth's heroes using Cosmic Cubes. The heroes had to fight their own twisted copies while stopping the Magus.",
+    "source_issue": "Infinity War #1 (1992)",
+    "category": "events",
+    "difficulty": "hard",
+    "tags": ["Infinity War", "Magus", "doppelgangers", "Jim Starlin", "events"]
+  },
+  {
+    "id": 251,
+    "question": "What major X-Men crossover saw the mutants' timeline rewritten into the Age of Apocalypse?",
+    "answer": "The Legion Quest storyline, concluding in X-Men #41 (1995), saw Legion travel back in time to kill Magneto but accidentally killed Professor X instead. This erased the X-Men from history and created the Age of Apocalypse reality that replaced all X-titles for four months.",
+    "source_issue": "X-Men #41 (1995)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Legion Quest", "Age of Apocalypse", "Legion", "Professor X", "events"]
+  },
+  {
+    "id": 252,
+    "question": "What event saw Wolverine kill all the X-Men while under an illusion?",
+    "answer": "In Wolverine #66 (2008), the 'Old Man Logan' storyline by Mark Millar and Steve McNiven revealed that the villains had coordinated an attack on all heroes simultaneously. Mysterio tricked Wolverine into believing the X-Men were enemies, and Logan slaughtered them all, then vowed never to pop his claws again.",
+    "source_issue": "Wolverine #66 (2008)",
+    "category": "events",
+    "difficulty": "hard",
+    "tags": ["Old Man Logan", "Wolverine", "Mysterio", "Mark Millar", "events"]
+  },
+  {
+    "id": 253,
+    "question": "What was the Inferno crossover about?",
+    "answer": "Inferno was a 1989 crossover across the X-books where demons from Limbo invaded New York City. In Uncanny X-Men #240 (1989), Madelyne Pryor was revealed as the Goblin Queen after discovering she was a clone of Jean Grey created by Mr. Sinister. The demons corrupted Manhattan's inanimate objects into monsters.",
+    "source_issue": "Uncanny X-Men #240 (1989)",
+    "category": "events",
+    "difficulty": "hard",
+    "tags": ["Inferno", "Madelyne Pryor", "Goblin Queen", "Mr. Sinister", "X-Men", "events"]
+  },
+  {
+    "id": 254,
+    "question": "In the Mutant Massacre crossover, what happened in the Morlock tunnels?",
+    "answer": "In Uncanny X-Men #211 (1986) by Chris Claremont, Mr. Sinister's Marauders slaughtered the Morlocks living in the tunnels beneath New York City. Angel's wings were critically injured (later amputated), and multiple X-Men were severely wounded in one of Marvel's darkest storylines.",
+    "source_issue": "Uncanny X-Men #211 (1986)",
+    "category": "events",
+    "difficulty": "hard",
+    "tags": ["Mutant Massacre", "Marauders", "Morlocks", "Mr. Sinister", "Angel", "events"]
+  },
+  {
+    "id": 255,
+    "question": "What crossover saw the X-Men seemingly die and relocate to the Australian Outback?",
+    "answer": "In The Fall of the Mutants (Uncanny X-Men #225-227, 1988), the X-Men sacrificed their lives to stop the Adversary in Dallas, Texas. Roma secretly resurrected them, but the world believed them dead. They relocated to an abandoned town in the Australian Outback, invisible to electronic detection.",
+    "source_issue": "Uncanny X-Men #227 (1988)",
+    "category": "events",
+    "difficulty": "hard",
+    "tags": ["Fall of the Mutants", "X-Men", "Adversary", "Roma", "events"]
+  },
+  {
+    "id": 256,
+    "question": "What happened during the X-Cutioner's Song crossover?",
+    "answer": "In X-Force #16 (1992), Stryfe (Cable's clone from the future) shot Professor X with a techno-organic virus and kidnapped Cyclops and Jean Grey. The crossover ran through Uncanny X-Men, X-Factor, X-Men, and X-Force, revealing complex Summers family connections.",
+    "source_issue": "X-Force #16 (1992)",
+    "category": "events",
+    "difficulty": "hard",
+    "tags": ["X-Cutioner's Song", "Stryfe", "Cable", "Professor X", "events"]
+  },
+  {
+    "id": 257,
+    "question": "What was the Infinity Crusade, and who was the antagonist?",
+    "answer": "In Infinity Crusade #1 (1993) by Jim Starlin, the Goddess (the good aspect of Adam Warlock expelled along with the Magus) used Cosmic Containment Units to brainwash religiously inclined heroes into her army to 'purify' the universe. She represented misguided righteousness.",
+    "source_issue": "Infinity Crusade #1 (1993)",
+    "category": "events",
+    "difficulty": "hard",
+    "tags": ["Infinity Crusade", "Goddess", "Adam Warlock", "Jim Starlin", "events"]
+  },
+  {
+    "id": 258,
+    "question": "What was the Secret Wars II, and how did the Beyonder interact with Earth?",
+    "answer": "In Secret Wars II #1 (1985), the Beyonder came to Earth in human form to understand desire and humanity. The nine-issue series by Jim Shooter crossed over with virtually every Marvel title as the Beyonder experimented with mortal life, eventually threatening all of reality.",
+    "source_issue": "Secret Wars II #1 (1985)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Secret Wars II", "Beyonder", "Jim Shooter", "events"]
+  },
+  {
+    "id": 259,
+    "question": "What event saw the Ultimate Universe's Miles Morales permanently join the main 616 universe?",
+    "answer": "In Secret Wars #9 (2015) by Jonathan Hickman, when Reed Richards rebuilt the multiverse using the power of the Beyonders and Molecule Man, Miles Morales and his family were integrated into the restored Earth-616 as a gift from Molecule Man for the hamburger Miles once gave him.",
+    "source_issue": "Secret Wars #9 (2015)",
+    "category": "events",
+    "difficulty": "hard",
+    "tags": ["Miles Morales", "Secret Wars 2015", "Ultimate Universe", "Molecule Man", "events"]
+  },
+  {
+    "id": 260,
+    "question": "What was the Clone Saga's most controversial revelation about Spider-Man?",
+    "answer": "In Spider-Man: The Clone Saga (Web of Spider-Man #117, 1994-1996), it was claimed that Ben Reilly was the original Peter Parker and the Peter we'd been following for 20 years was the clone. This was eventually reversed after massive fan backlash in Spider-Man #75 (1996) when Ben dissolved, proving he was the clone.",
+    "source_issue": "Spider-Man #75 (1996)",
+    "category": "events",
+    "difficulty": "medium",
+    "tags": ["Clone Saga", "Ben Reilly", "Spider-Man", "events"]
+  },
+  {
+    "id": 261,
+    "question": "Who co-created Spider-Man with Stan Lee?",
+    "answer": "Steve Ditko co-created Spider-Man with Stan Lee. Spider-Man first appeared in Amazing Fantasy #15 (1962). Ditko designed the iconic costume and drew the first 38 issues of Amazing Spider-Man before leaving Marvel due to creative differences with Lee.",
+    "source_issue": "Amazing Fantasy #15 (1962)",
+    "category": "creators",
+    "difficulty": "easy",
+    "tags": ["Steve Ditko", "Stan Lee", "Spider-Man", "origins", "creators"]
+  },
+  {
+    "id": 262,
+    "question": "Which artist left Marvel to co-found Image Comics in 1992?",
+    "answer": "Todd McFarlane was one of seven artists who left Marvel to co-found Image Comics in 1992, along with Jim Lee, Rob Liefeld, Marc Silvestri, Erik Larsen, Jim Valentino, and Whilce Portacio. McFarlane had been the superstar artist on Amazing Spider-Man and Spider-Man #1 (1990).",
+    "source_issue": "Spider-Man #1 (1990)",
+    "category": "creators",
+    "difficulty": "easy",
+    "tags": ["Todd McFarlane", "Image Comics", "Spider-Man", "1990s", "creators"]
+  },
+  {
+    "id": 263,
+    "question": "Who wrote the longest continuous run on any Marvel title?",
+    "answer": "Chris Claremont wrote Uncanny X-Men for 16 continuous years, from #94 (1975) through #279 (1991), totaling 186 issues. His run transformed the X-Men from a cancelled title into Marvel's best-selling franchise, beginning with Giant-Size X-Men #1 (1975).",
+    "source_issue": "Giant-Size X-Men #1 (1975)",
+    "category": "creators",
+    "difficulty": "easy",
+    "tags": ["Chris Claremont", "X-Men", "longest run", "creators"]
+  },
+  {
+    "id": 264,
+    "question": "Who created Thanos, and which character inspired his design?",
+    "answer": "Jim Starlin created Thanos, who first appeared in Iron Man #55 (1973). Starlin originally based Thanos on DC's Metron but was encouraged by editor Roy Thomas to make him more imposing, so he redesigned him after Darkseid. Starlin also created Drax the Destroyer in the same issue.",
+    "source_issue": "Iron Man #55 (1973)",
+    "category": "creators",
+    "difficulty": "medium",
+    "tags": ["Jim Starlin", "Thanos", "Darkseid", "Iron Man", "creators"]
+  },
+  {
+    "id": 265,
+    "question": "Who reinvented Daredevil as a gritty, noir-influenced title?",
+    "answer": "Frank Miller transformed Daredevil beginning with Daredevil #158 (1979) as artist, then taking over as writer-artist with #168. He introduced Elektra, the Hand, and elevated the Kingpin as Daredevil's arch-nemesis, pioneering the darker, street-level tone that influenced comics for decades.",
+    "source_issue": "Daredevil #168 (1981)",
+    "category": "creators",
+    "difficulty": "easy",
+    "tags": ["Frank Miller", "Daredevil", "Elektra", "Kingpin", "creators"]
+  },
+  {
+    "id": 266,
+    "question": "Who was the editor-in-chief who oversaw Marvel's rise from bankruptcy in the late 1990s?",
+    "answer": "Joe Quesada became Marvel's editor-in-chief in 2000, succeeding Bob Harras. He launched the Marvel Knights imprint (starting with Marvel Knights #1, 1998) and oversaw the creative renaissance that brought in Brian Michael Bendis, Mark Millar, and the Ultimate Universe.",
+    "source_issue": "Marvel Knights #1 (1998)",
+    "category": "creators",
+    "difficulty": "medium",
+    "tags": ["Joe Quesada", "Marvel Knights", "editor-in-chief", "creators"]
+  },
+  {
+    "id": 267,
+    "question": "Which writer-artist team created the landmark series 'Marvels' using painted artwork?",
+    "answer": "Kurt Busiek (writer) and Alex Ross (painter) created Marvels #1 (1994), a series that retold key Marvel Universe events from the perspective of ordinary humans, rendered in Alex Ross's photorealistic painted art. It was a critical and commercial milestone.",
+    "source_issue": "Marvels #1 (1994)",
+    "category": "creators",
+    "difficulty": "medium",
+    "tags": ["Kurt Busiek", "Alex Ross", "Marvels", "painted art", "creators"]
+  },
+  {
+    "id": 268,
+    "question": "Who created the New Mutants, introducing characters like Cannonball and Wolfsbane?",
+    "answer": "Chris Claremont (writer) and Bob McLeod (artist) created the New Mutants in Marvel Graphic Novel #4 (1982). The team included Cannonball, Wolfsbane, Sunspot, Psyche (Mirage), and Karma, forming Xavier's second class of students.",
+    "source_issue": "Marvel Graphic Novel #4 (1982)",
+    "category": "creators",
+    "difficulty": "medium",
+    "tags": ["Chris Claremont", "Bob McLeod", "New Mutants", "creators"]
+  },
+  {
+    "id": 269,
+    "question": "Who wrote the definitive Captain America run that 'killed' Steve Rogers and introduced Bucky as the Winter Soldier?",
+    "answer": "Ed Brubaker wrote Captain America starting with Captain America #1 (2005). He reintroduced Bucky Barnes as the brainwashed Winter Soldier in #1-6, then killed Steve Rogers in Captain America #25 (2007), and had Bucky take over as Captain America.",
+    "source_issue": "Captain America #1 (2005)",
+    "category": "creators",
+    "difficulty": "medium",
+    "tags": ["Ed Brubaker", "Captain America", "Winter Soldier", "Bucky", "creators"]
+  },
+  {
+    "id": 270,
+    "question": "Which artist drew Spider-Man #1 (1990), which became the best-selling single comic issue of all time?",
+    "answer": "Todd McFarlane both wrote and drew Spider-Man #1 (1990), which sold over 2.5 million copies with its multiple variant covers. McFarlane's dynamic, hyper-detailed art style with his signature spaghetti webbing had made him the biggest star in comics.",
+    "source_issue": "Spider-Man #1 (1990)",
+    "category": "creators",
+    "difficulty": "easy",
+    "tags": ["Todd McFarlane", "Spider-Man", "best-selling", "1990s", "creators"]
+  },
+  {
+    "id": 271,
+    "question": "Who wrote the Immortal Hulk, widely considered one of the best Hulk runs ever?",
+    "answer": "Al Ewing wrote Immortal Hulk #1 (2018), a horror-infused series that reframed the Hulk as an immortal creature connected to a cosmic force below. The series ran 50 issues and is considered a modern Marvel masterpiece, with art primarily by Joe Bennett.",
+    "source_issue": "Immortal Hulk #1 (2018)",
+    "category": "creators",
+    "difficulty": "medium",
+    "tags": ["Al Ewing", "Immortal Hulk", "Hulk", "horror", "creators"]
+  },
+  {
+    "id": 272,
+    "question": "Who created the Punisher?",
+    "answer": "The Punisher was created by writer Gerry Conway, with artist John Romita Sr. designing the character and Ross Andru drawing his first appearance. Frank Castle debuted in Amazing Spider-Man #129 (1974) as a vigilante hired to kill Spider-Man.",
+    "source_issue": "Amazing Spider-Man #129 (1974)",
+    "category": "creators",
+    "difficulty": "medium",
+    "tags": ["Punisher", "Gerry Conway", "John Romita Sr.", "creators"]
+  },
+  {
+    "id": 273,
+    "question": "Who was the Jeph Loeb and Tim Sale collaboration known for, specifically in the Marvel Universe?",
+    "answer": "Jeph Loeb (writer) and Tim Sale (artist) created the acclaimed 'color' series: Daredevil: Yellow #1 (2001), Spider-Man: Blue #1 (2002), and Hulk: Gray #1 (2003). Each explored a hero's emotional past through a specific color motif in Sale's distinctive painted art style.",
+    "source_issue": "Daredevil: Yellow #1 (2001)",
+    "category": "creators",
+    "difficulty": "medium",
+    "tags": ["Jeph Loeb", "Tim Sale", "Daredevil Yellow", "creators"]
+  },
+  {
+    "id": 274,
+    "question": "Who created the X-Men, and in which issue did they first appear?",
+    "answer": "Stan Lee (writer) and Jack Kirby (artist) created the X-Men, who first appeared in X-Men #1 (1963). The original team consisted of Cyclops, Marvel Girl (Jean Grey), Beast, Iceman, and Angel, led by Professor Charles Xavier.",
+    "source_issue": "X-Men #1 (1963)",
+    "category": "creators",
+    "difficulty": "easy",
+    "tags": ["Stan Lee", "Jack Kirby", "X-Men", "origins", "creators"]
+  },
+  {
+    "id": 275,
+    "question": "Who is credited with creating Wolverine?",
+    "answer": "Wolverine was created by writer Len Wein with character design by John Romita Sr. He first appeared in Incredible Hulk #181 (1974), though he had a brief cameo in #180. Herb Trimpe drew the first full appearance based on Romita's design.",
+    "source_issue": "Incredible Hulk #181 (1974)",
+    "category": "creators",
+    "difficulty": "easy",
+    "tags": ["Wolverine", "Len Wein", "John Romita Sr.", "Herb Trimpe", "creators"]
+  },
+  {
+    "id": 276,
+    "question": "Which writer launched the Ultimate Marvel Universe with Ultimate Spider-Man?",
+    "answer": "Brian Michael Bendis launched the Ultimate Marvel Universe with Ultimate Spider-Man #1 (2000), featuring art by Mark Bagley. Bendis retold Spider-Man's origin for a modern audience and went on to write 160 consecutive issues, making it one of the longest unbroken writer runs in Marvel history.",
+    "source_issue": "Ultimate Spider-Man #1 (2000)",
+    "category": "creators",
+    "difficulty": "easy",
+    "tags": ["Brian Michael Bendis", "Ultimate Spider-Man", "Ultimate Universe", "creators"]
+  },
+  {
+    "id": 277,
+    "question": "Who created Deadpool?",
+    "answer": "Deadpool was created by writer Fabian Nicieza and artist Rob Liefeld. He first appeared in New Mutants #98 (1991) as a villain. The character evolved from a Deathstroke parody into Marvel's most popular irreverent antihero.",
+    "source_issue": "New Mutants #98 (1991)",
+    "category": "creators",
+    "difficulty": "easy",
+    "tags": ["Deadpool", "Rob Liefeld", "Fabian Nicieza", "New Mutants", "creators"]
+  },
+  {
+    "id": 278,
+    "question": "What was Jack Kirby's famous departure from Marvel, and what did he create afterward?",
+    "answer": "Jack Kirby left Marvel for DC Comics in 1970 after feeling undervalued despite co-creating most of Marvel's major characters. His last Marvel work appeared in Fantastic Four #102 (1970). At DC, he created the Fourth World saga including New Gods, Mister Miracle, and the Forever People.",
+    "source_issue": "Fantastic Four #102 (1970)",
+    "category": "creators",
+    "difficulty": "medium",
+    "tags": ["Jack Kirby", "DC Comics", "Fantastic Four", "Fourth World", "creators"]
+  },
+  {
+    "id": 279,
+    "question": "Who was the first artist to draw John Byrne's redesigned Alpha Flight as a solo team?",
+    "answer": "John Byrne himself both wrote and drew Alpha Flight #1 (1983), launching Canada's premier superhero team into their own series. Byrne had created Alpha Flight as supporting characters in Uncanny X-Men #120-121 (1979) during his legendary run with Chris Claremont.",
+    "source_issue": "Alpha Flight #1 (1983)",
+    "category": "creators",
+    "difficulty": "medium",
+    "tags": ["John Byrne", "Alpha Flight", "X-Men", "creators"]
+  },
+  {
+    "id": 280,
+    "question": "Which writer transformed the Avengers into the New Avengers after Disassembled?",
+    "answer": "Brian Michael Bendis reformed the Avengers as the New Avengers in New Avengers #1 (2005), featuring an unexpected lineup of Spider-Man, Wolverine, Luke Cage, Spider-Woman, Iron Man, Captain America, and the Sentry. This was the first time Wolverine and Spider-Man were official Avengers members.",
+    "source_issue": "New Avengers #1 (2005)",
+    "category": "creators",
+    "difficulty": "medium",
+    "tags": ["Brian Michael Bendis", "New Avengers", "Avengers", "creators"]
+  },
+  {
+    "id": 281,
+    "question": "Which artist is known for defining the visual look of the X-Men in the early 1990s with bold lines and dynamic poses?",
+    "answer": "Jim Lee became the definitive X-Men artist of the early 1990s, culminating in X-Men #1 (1991) which sold over 8 million copies in multiple variant covers, making it the best-selling single comic issue ever. His designs for the team's costumes remain iconic.",
+    "source_issue": "X-Men #1 (1991)",
+    "category": "creators",
+    "difficulty": "easy",
+    "tags": ["Jim Lee", "X-Men", "1990s", "best-selling", "creators"]
+  },
+  {
+    "id": 282,
+    "question": "Who created Luke Cage, Marvel's first Black superhero to headline his own series?",
+    "answer": "Luke Cage was created by Archie Goodwin (writer), John Romita Sr. (character design), and George Tuska (interior artist). He first appeared in Luke Cage, Hero for Hire #1 (1972), making him the first Black superhero to star in his own Marvel comic series.",
+    "source_issue": "Luke Cage, Hero for Hire #1 (1972)",
+    "category": "creators",
+    "difficulty": "medium",
+    "tags": ["Luke Cage", "Archie Goodwin", "representation", "1970s", "creators"]
+  },
+  {
+    "id": 283,
+    "question": "Who wrote and drew the acclaimed 'Born Again' Daredevil storyline?",
+    "answer": "Frank Miller (writer) and David Mazzucchelli (artist) created the 'Born Again' storyline in Daredevil #227-233 (1986). The Kingpin destroys Matt Murdock's life after learning his secret identity, and Murdock must rebuild from nothing. It is widely considered one of the greatest Marvel stories ever told.",
+    "source_issue": "Daredevil #227 (1986)",
+    "category": "creators",
+    "difficulty": "medium",
+    "tags": ["Frank Miller", "David Mazzucchelli", "Daredevil", "Born Again", "creators"]
+  },
+  {
+    "id": 284,
+    "question": "Who created Kamala Khan (Ms. Marvel), and why was her debut significant?",
+    "answer": "Kamala Khan was created by Sana Amanat, G. Willow Wilson (writer), and Adrian Alphona (artist). She debuted in Ms. Marvel #1 (2014) as the first Muslim character to headline a Marvel comic. Wilson drew from her own experiences as a Muslim-American woman to create an authentic voice.",
+    "source_issue": "Ms. Marvel #1 (2014)",
+    "category": "creators",
+    "difficulty": "medium",
+    "tags": ["Kamala Khan", "Ms. Marvel", "G. Willow Wilson", "Sana Amanat", "diversity", "creators"]
+  },
+  {
+    "id": 285,
+    "question": "Who created the modern Guardians of the Galaxy lineup that inspired the MCU films?",
+    "answer": "Dan Abnett and Andy Lanning (collectively known as DnA) created the modern Guardians of the Galaxy lineup in Guardians of the Galaxy #1 (2008), assembling Star-Lord, Rocket Raccoon, Groot, Gamora, and Drax as a proactive cosmic defense team after the Annihilation wars.",
+    "source_issue": "Guardians of the Galaxy #1 (2008)",
+    "category": "creators",
+    "difficulty": "medium",
+    "tags": ["Dan Abnett", "Andy Lanning", "Guardians of the Galaxy", "cosmic", "creators"]
+  },
+  {
+    "id": 286,
+    "question": "Who took over writing the X-Men after Grant Morrison's New X-Men run ended?",
+    "answer": "Joss Whedon took over the X-Men with Astonishing X-Men #1 (2004), featuring art by John Cassaday. Whedon's run brought Colossus back from the dead, introduced the mutant cure storyline, and ran for 25 issues. It is considered one of the best post-Morrison X-Men runs.",
+    "source_issue": "Astonishing X-Men #1 (2004)",
+    "category": "creators",
+    "difficulty": "medium",
+    "tags": ["Joss Whedon", "John Cassaday", "Astonishing X-Men", "creators"]
+  },
+  {
+    "id": 287,
+    "question": "Which writer created Miles Morales as the Ultimate Spider-Man?",
+    "answer": "Brian Michael Bendis created Miles Morales with artist Sara Pichelli. Miles first appeared in Ultimate Fallout #4 (2011) following the death of Ultimate Peter Parker, and became the new Spider-Man of the Ultimate Universe. Bendis was inspired by actor Donald Glover and then-Senator Barack Obama.",
+    "source_issue": "Ultimate Fallout #4 (2011)",
+    "category": "creators",
+    "difficulty": "easy",
+    "tags": ["Brian Michael Bendis", "Sara Pichelli", "Miles Morales", "Ultimate Spider-Man", "creators"]
+  },
+  {
+    "id": 288,
+    "question": "Who illustrated the iconic 'Kraven's Last Hunt' storyline?",
+    "answer": "Mike Zeck illustrated 'Kraven's Last Hunt' (Amazing Spider-Man #293-294, Spectacular Spider-Man #131-132, Web of Spider-Man #31-32, 1987), written by J.M. DeMatteis. Zeck's dark, atmospheric art perfectly complemented the psychological horror of Kraven burying Spider-Man alive.",
+    "source_issue": "Amazing Spider-Man #293 (1987)",
+    "category": "creators",
+    "difficulty": "hard",
+    "tags": ["Mike Zeck", "J.M. DeMatteis", "Kraven's Last Hunt", "Spider-Man", "creators"]
+  },
+  {
+    "id": 289,
+    "question": "Which writer reinvented the Fantastic Four with the 'Imaginauts' approach emphasizing exploration and science?",
+    "answer": "Mark Waid reimagined the Fantastic Four as explorers and imaginauts in Fantastic Four #60 (2002), with artist Mike Wieringo. His run emphasized the family's role as adventurers and scientists, including the landmark 'Unthinkable' arc where Doctor Doom embraced magic over science.",
+    "source_issue": "Fantastic Four #60 (2002)",
+    "category": "creators",
+    "difficulty": "hard",
+    "tags": ["Mark Waid", "Mike Wieringo", "Fantastic Four", "creators"]
+  },
+  {
+    "id": 290,
+    "question": "Who created Venom as a character?",
+    "answer": "The Venom symbiote was introduced in the Secret Wars by Jim Shooter and Mike Zeck in Marvel Super Heroes Secret Wars #8 (1984) as Spider-Man's black costume. Eddie Brock as Venom was later created by David Michelinie and Todd McFarlane, first appearing in Amazing Spider-Man #300 (1988).",
+    "source_issue": "Amazing Spider-Man #300 (1988)",
+    "category": "creators",
+    "difficulty": "medium",
+    "tags": ["Venom", "David Michelinie", "Todd McFarlane", "Spider-Man", "creators"]
+  },
+  {
+    "id": 291,
+    "question": "Who wrote Grant Morrison's legendary New X-Men run, and what made it revolutionary?",
+    "answer": "Grant Morrison wrote New X-Men #114-154 (2001-2004), with artists including Frank Quitely, Phil Jimenez, and Marc Silvestri. Morrison introduced secondary mutations, Xorn, the concept of mutant culture, and killed 16 million mutants in Genosha, fundamentally reimagining the X-Men for the 21st century.",
+    "source_issue": "New X-Men #114 (2001)",
+    "category": "creators",
+    "difficulty": "medium",
+    "tags": ["Grant Morrison", "New X-Men", "Frank Quitely", "creators"]
+  },
+  {
+    "id": 292,
+    "question": "Which creators are responsible for the 'Demon in a Bottle' Iron Man storyline?",
+    "answer": "David Michelinie (writer), Bob Layton (artist/co-plotter), and John Romita Jr. (penciler) created 'Demon in a Bottle' in Iron Man #120-128 (1979), depicting Tony Stark's struggle with alcoholism. It was one of the first mainstream comics to seriously address addiction.",
+    "source_issue": "Iron Man #128 (1979)",
+    "category": "creators",
+    "difficulty": "hard",
+    "tags": ["David Michelinie", "Bob Layton", "Iron Man", "Demon in a Bottle", "creators"]
+  },
+  {
+    "id": 293,
+    "question": "Who created Jessica Jones for the MAX imprint?",
+    "answer": "Brian Michael Bendis created Jessica Jones with artist Michael Gaydos in Alias #1 (2001), published under Marvel's mature MAX imprint. The series starred a former superhero turned private investigator dealing with PTSD, and was revolutionary for its frank, adult treatment of a Marvel character.",
+    "source_issue": "Alias #1 (2001)",
+    "category": "creators",
+    "difficulty": "medium",
+    "tags": ["Brian Michael Bendis", "Michael Gaydos", "Jessica Jones", "Alias", "MAX", "creators"]
+  },
+  {
+    "id": 294,
+    "question": "Who created the Black Panther's nation of Wakanda?",
+    "answer": "Stan Lee and Jack Kirby created both the Black Panther (T'Challa) and the technologically advanced African nation of Wakanda in Fantastic Four #52 (1966). Black Panther was the first Black superhero in mainstream American comics, predating the Black Panther Party by several months.",
+    "source_issue": "Fantastic Four #52 (1966)",
+    "category": "creators",
+    "difficulty": "easy",
+    "tags": ["Stan Lee", "Jack Kirby", "Black Panther", "Wakanda", "creators"]
+  },
+  {
+    "id": 295,
+    "question": "Who created the Marvel MAX Punisher series that defined the character for a generation?",
+    "answer": "Garth Ennis wrote The Punisher (MAX) #1 (2004), with art by Lewis LaRosa and later Goran Parlov. Ennis's hyper-violent, darkly comedic take on Frank Castle ran for 60 issues and is considered the definitive Punisher run, featuring arcs like 'Born,' 'The Slavers,' and 'Valley Forge, Valley Forge.'",
+    "source_issue": "Punisher MAX #1 (2004)",
+    "category": "creators",
+    "difficulty": "hard",
+    "tags": ["Garth Ennis", "Punisher", "MAX", "creators"]
+  },
+  {
+    "id": 296,
+    "question": "What metal is Wolverine's skeleton bonded with?",
+    "answer": "Wolverine's skeleton is bonded with adamantium, an indestructible fictional metal alloy. The bonding was performed as part of the Weapon X program. The full story of this procedure was revealed in Marvel Comics Presents #72-84 (1991), the 'Weapon X' storyline by Barry Windsor-Smith.",
+    "source_issue": "Marvel Comics Presents #72 (1991)",
+    "category": "powers",
+    "difficulty": "easy",
+    "tags": ["Wolverine", "adamantium", "Weapon X", "powers"]
+  },
+  {
+    "id": 297,
+    "question": "What is the source of Spider-Man's powers?",
+    "answer": "Peter Parker gained his powers after being bitten by a radioactive spider during a science exhibit, as shown in Amazing Fantasy #15 (1962) by Stan Lee and Steve Ditko. The bite gave him proportional strength and speed of a spider, wall-crawling ability, and a precognitive spider-sense.",
+    "source_issue": "Amazing Fantasy #15 (1962)",
+    "category": "powers",
+    "difficulty": "easy",
+    "tags": ["Spider-Man", "radioactive spider", "origin", "powers"]
+  },
+  {
+    "id": 298,
+    "question": "What power does Franklin Richards possess, and why is it significant?",
+    "answer": "Franklin Richards, son of Reed and Sue Richards, possesses reality-warping powers of virtually unlimited scope, making him one of the most powerful beings in the Marvel Universe. His powers were first revealed in Fantastic Four Annual #6 (1968). He once created an entire pocket universe to save the heroes in Heroes Reborn.",
+    "source_issue": "Fantastic Four Annual #6 (1968)",
+    "category": "powers",
+    "difficulty": "medium",
+    "tags": ["Franklin Richards", "reality warping", "Fantastic Four", "powers"]
+  },
+  {
+    "id": 299,
+    "question": "How did Carol Danvers (Captain Marvel) originally gain her powers?",
+    "answer": "Carol Danvers gained her powers when a Kree device called the Psyche-Magnitron exploded, merging her DNA with that of the Kree hero Mar-Vell. She gained superhuman strength, flight, and energy projection. Her origin was revealed in Ms. Marvel #1 (1977) by Gerry Conway and John Buscema.",
+    "source_issue": "Ms. Marvel #1 (1977)",
+    "category": "powers",
+    "difficulty": "medium",
+    "tags": ["Carol Danvers", "Captain Marvel", "Ms. Marvel", "Kree", "powers"]
+  },
+  {
+    "id": 300,
+    "question": "In which issue did Thor first become unworthy and lose the ability to lift Mjolnir?",
+    "answer": "Thor became unworthy in Original Sin #7 (2014) when Nick Fury whispered an unrevealed secret to him that caused Thor to instantly become unable to lift Mjolnir. This led to Jane Foster taking up the hammer in Thor #1 (2014) by Jason Aaron and Russell Dauterman.",
+    "source_issue": "Original Sin #7 (2014)",
+    "category": "powers",
+    "difficulty": "medium",
+    "tags": ["Thor", "Mjolnir", "unworthy", "Nick Fury", "Jane Foster", "powers"]
+  },
+  {
+    "id": 301,
+    "question": "What are Magneto's powers, and what is their upper limit?",
+    "answer": "Magneto is an Omega-level mutant who controls magnetism and electromagnetic fields. His powers were first demonstrated in X-Men #1 (1963). At his peak, he has moved asteroids, manipulated the Earth's magnetic field, and created electromagnetic pulses. In Uncanny X-Men #150 (1981), he sank a Soviet submarine.",
+    "source_issue": "X-Men #1 (1963)",
+    "category": "powers",
+    "difficulty": "easy",
+    "tags": ["Magneto", "magnetism", "Omega-level", "X-Men", "powers"]
+  },
+  {
+    "id": 302,
+    "question": "What is the Hulk's power source, and how does his strength scale?",
+    "answer": "The Hulk's power comes from gamma radiation exposure, as shown in Incredible Hulk #1 (1962) by Stan Lee and Jack Kirby. His strength increases proportionally with his anger, with theoretically no upper limit. The angrier Hulk gets, the stronger he becomes, making him potentially the strongest physical being in the Marvel Universe.",
+    "source_issue": "Incredible Hulk #1 (1962)",
+    "category": "powers",
+    "difficulty": "easy",
+    "tags": ["Hulk", "gamma radiation", "strength", "powers"]
+  },
+  {
+    "id": 303,
+    "question": "What happened when Rogue permanently absorbed Ms. Marvel's powers?",
+    "answer": "In Avengers Annual #10 (1981) by Chris Claremont, Rogue held onto Ms. Marvel (Carol Danvers) too long during a fight, permanently absorbing her powers of flight, super strength, and invulnerability, as well as some of Carol's memories and personality. This left Carol in a coma.",
+    "source_issue": "Avengers Annual #10 (1981)",
+    "category": "powers",
+    "difficulty": "medium",
+    "tags": ["Rogue", "Ms. Marvel", "absorption", "X-Men", "powers"]
+  },
+  {
+    "id": 304,
+    "question": "What is the Scarlet Witch's actual power, as redefined in the modern era?",
+    "answer": "Scarlet Witch's power was redefined from simple 'hex bolts' to chaos magic and reality manipulation. In Avengers #503 (2004) by Brian Michael Bendis, Doctor Strange revealed that Wanda's power was rooted in actual chaos magic, not simply probability manipulation, making her one of the most powerful beings on Earth.",
+    "source_issue": "Avengers #503 (2004)",
+    "category": "powers",
+    "difficulty": "medium",
+    "tags": ["Scarlet Witch", "chaos magic", "reality warping", "powers"]
+  },
+  {
+    "id": 305,
+    "question": "How did Cyclops's optic blasts work, and could he control them without his visor?",
+    "answer": "Cyclops emits powerful optic blasts of concussive force (not heat) from his eyes that he cannot control due to brain damage sustained in a childhood accident. He requires ruby quartz lenses (visor or glasses) to contain them. This was established in X-Men #1 (1963) and elaborated in X-Men #42-43 (1968).",
+    "source_issue": "X-Men #42 (1968)",
+    "category": "powers",
+    "difficulty": "medium",
+    "tags": ["Cyclops", "optic blasts", "ruby quartz", "X-Men", "powers"]
+  },
+  {
+    "id": 306,
+    "question": "What is the extent of Professor X's telepathic abilities?",
+    "answer": "Professor Charles Xavier is considered the most powerful telepath on Earth, able to read and control minds, project psychic illusions, and engage in astral combat. In X-Men #1 (1963), he demonstrated mind reading, and his powers expanded over decades. Cerebro amplifies his range to detect every mind on the planet.",
+    "source_issue": "X-Men #1 (1963)",
+    "category": "powers",
+    "difficulty": "easy",
+    "tags": ["Professor X", "telepathy", "Cerebro", "X-Men", "powers"]
+  },
+  {
+    "id": 307,
+    "question": "What transformation did Ben Grimm undergo to become the Thing, and is it reversible?",
+    "answer": "Ben Grimm was transformed into the Thing by cosmic rays during the same space flight that gave the Fantastic Four their powers in Fantastic Four #1 (1961). Unlike the others, Ben's transformation was physical and seemingly permanent. He has occasionally reverted to human form, but the change always returns.",
+    "source_issue": "Fantastic Four #1 (1961)",
+    "category": "powers",
+    "difficulty": "easy",
+    "tags": ["Thing", "Ben Grimm", "cosmic rays", "Fantastic Four", "powers"]
+  },
+  {
+    "id": 308,
+    "question": "What are the powers of the Sentry, and what is the Void?",
+    "answer": "The Sentry (Bob Reynolds) possesses 'the power of a million exploding suns,' including superhuman strength, speed, flight, energy projection, and matter manipulation. The Void is his dark counterpart: for every good act the Sentry performs, the Void commits an equal act of destruction. He was introduced in Sentry #1 (2000) by Paul Jenkins.",
+    "source_issue": "Sentry #1 (2000)",
+    "category": "powers",
+    "difficulty": "hard",
+    "tags": ["Sentry", "Void", "powers", "Paul Jenkins"]
+  },
+  {
+    "id": 309,
+    "question": "How does Doctor Strange's magic work, and what are his main sources of power?",
+    "answer": "Doctor Strange channels mystical energy through invoking entities like the Vishanti (Agamotto, Oshtur, Hoggoth) and wielding artifacts like the Eye of Agamotto, the Cloak of Levitation, and the Book of the Vishanti. His origin and training under the Ancient One was told in Strange Tales #110-115 (1963-1964) by Stan Lee and Steve Ditko.",
+    "source_issue": "Strange Tales #110 (1963)",
+    "category": "powers",
+    "difficulty": "medium",
+    "tags": ["Doctor Strange", "magic", "Vishanti", "Eye of Agamotto", "powers"]
+  },
+  {
+    "id": 310,
+    "question": "What are Iron Man's armor capabilities, and how have they evolved?",
+    "answer": "Tony Stark's Iron Man armor began as a crude gray suit in Tales of Suspense #39 (1963). The Extremis upgrade in Iron Man #1 (2005) by Warren Ellis integrated the armor's undersheath directly into Stark's body, allowing him to control it mentally. The Bleeding Edge armor later stored itself inside his bones.",
+    "source_issue": "Iron Man #1 (2005)",
+    "category": "powers",
+    "difficulty": "medium",
+    "tags": ["Iron Man", "armor", "Extremis", "technology", "powers"]
+  },
+  {
+    "id": 311,
+    "question": "What makes Wolverine's healing factor unique among regenerating Marvel characters?",
+    "answer": "Wolverine's healing factor allows him to regenerate from virtually any injury, neutralize poisons, and dramatically slow his aging. In Wolverine #43 (1991), it was shown he could recover from having most of his flesh burned away. His healing factor also suppresses the adamantium poisoning that would otherwise kill him.",
+    "source_issue": "Wolverine #43 (1991)",
+    "category": "powers",
+    "difficulty": "medium",
+    "tags": ["Wolverine", "healing factor", "regeneration", "powers"]
+  },
+  {
+    "id": 312,
+    "question": "What is Jean Grey's power level as the Phoenix, and how does it compare to other cosmic entities?",
+    "answer": "As the Phoenix, Jean Grey wields the Phoenix Force, one of the most powerful cosmic entities in the Marvel Universe, capable of destroying and recreating star systems. In Uncanny X-Men #135 (1980), Dark Phoenix consumed an entire star, killing billions on a nearby inhabited planet, demonstrating power on a cosmic scale.",
+    "source_issue": "Uncanny X-Men #135 (1980)",
+    "category": "powers",
+    "difficulty": "medium",
+    "tags": ["Jean Grey", "Phoenix Force", "Dark Phoenix", "cosmic", "powers"]
+  },
+  {
+    "id": 313,
+    "question": "What powers does Black Bolt possess, and what is his most devastating ability?",
+    "answer": "Black Bolt's primary power is his quasi-sonic voice: even a whisper can level a city, and a full scream can destroy planets. He must remain perpetually silent. He also possesses superhuman strength, flight via electron manipulation, and energy projection. His powers were explored in Inhumans #1 (1975) by Doug Moench.",
+    "source_issue": "Inhumans #1 (1975)",
+    "category": "powers",
+    "difficulty": "medium",
+    "tags": ["Black Bolt", "Inhumans", "sonic voice", "powers"]
+  },
+  {
+    "id": 314,
+    "question": "How did Deadpool gain his healing factor, and what side effects did it cause?",
+    "answer": "Wade Wilson gained his healing factor through the Weapon X program (specifically Department K), which gave him a version of Wolverine's healing factor. However, because he already had cancer, the healing factor accelerated both his cancer and healing simultaneously, leaving him horrifically scarred. His origin was detailed in Deadpool #1 (1997) by Joe Kelly.",
+    "source_issue": "Deadpool #1 (1997)",
+    "category": "powers",
+    "difficulty": "medium",
+    "tags": ["Deadpool", "healing factor", "Weapon X", "cancer", "powers"]
+  },
+  {
+    "id": 315,
+    "question": "What unique ability does Kitty Pryde possess?",
+    "answer": "Kitty Pryde can phase through solid matter, rendering herself intangible. She can also extend this ability to objects and people she touches. She first demonstrated this power in Uncanny X-Men #129 (1980) by Chris Claremont and John Byrne, when she phased through the floor of her parents' house while running from the Hellfire Club.",
+    "source_issue": "Uncanny X-Men #129 (1980)",
+    "category": "powers",
+    "difficulty": "easy",
+    "tags": ["Kitty Pryde", "phasing", "X-Men", "powers"]
+  },
+  {
+    "id": 316,
+    "question": "What is Captain America's Super Soldier Serum, and can it be replicated?",
+    "answer": "The Super Soldier Serum, created by Dr. Abraham Erskine, transformed Steve Rogers into the peak of human perfection in Captain America Comics #1 (1941) by Joe Simon and Jack Kirby. Erskine was murdered immediately after, and the formula was lost. Every subsequent attempt to recreate it (including the Hulk) has been a failure or produced unstable results.",
+    "source_issue": "Captain America Comics #1 (1941)",
+    "category": "powers",
+    "difficulty": "easy",
+    "tags": ["Captain America", "Super Soldier Serum", "Abraham Erskine", "powers"]
+  },
+  {
+    "id": 317,
+    "question": "What are Storm's powers, and what is her connection to weather manipulation?",
+    "answer": "Ororo Munroe (Storm) is an Omega-level mutant who can manipulate weather patterns on a planetary scale, including controlling wind, rain, lightning, temperature, and atmospheric pressure. She first appeared in Giant-Size X-Men #1 (1975) by Len Wein and Dave Cockrum, and was worshipped as a goddess in Kenya.",
+    "source_issue": "Giant-Size X-Men #1 (1975)",
+    "category": "powers",
+    "difficulty": "easy",
+    "tags": ["Storm", "weather manipulation", "Omega-level", "X-Men", "powers"]
+  },
+  {
+    "id": 318,
+    "question": "What is Molecule Man's power, and why is he considered one of the most powerful beings in the Marvel Universe?",
+    "answer": "Owen Reece (Molecule Man) can manipulate all matter and energy at the molecular level, making him virtually omnipotent. Originally limited to inorganic matter when he debuted in Fantastic Four #20 (1963), his restrictions were gradually removed. In Secret Wars (2015), he was revealed as a multiversal lynchpin placed by the Beyonders.",
+    "source_issue": "Fantastic Four #20 (1963)",
+    "category": "powers",
+    "difficulty": "hard",
+    "tags": ["Molecule Man", "matter manipulation", "Beyonders", "powers"]
+  },
+  {
+    "id": 319,
+    "question": "How did the Vision's powers work, and what was he made of?",
+    "answer": "The Vision is a synthezoid (synthetic human) who can alter his density from intangible to diamond-hard. He can also fire solar energy beams from the gem on his forehead. He was created by Ultron using the body of the original Human Torch and the brain patterns of Wonder Man. He first appeared in Avengers #57 (1968) by Roy Thomas and John Buscema.",
+    "source_issue": "Avengers #57 (1968)",
+    "category": "powers",
+    "difficulty": "medium",
+    "tags": ["Vision", "synthezoid", "density manipulation", "Avengers", "powers"]
+  },
+  {
+    "id": 320,
+    "question": "What is Jamie Braddock's reality-warping power, and how does it relate to Captain Britain?",
+    "answer": "Jamie Braddock, brother of Brian Braddock (Captain Britain), perceives reality as quantum strings he can pull and reshape, effectively warping reality. He was revealed as an Omega-level mutant in Uncanny X-Men (2019) #1 by Matthew Rosenberg. During the Krakoa era, he served as one of the Omega-level mutants essential to mutant infrastructure.",
+    "source_issue": "Excalibur #55 (1992)",
+    "category": "powers",
+    "difficulty": "hard",
+    "tags": ["Jamie Braddock", "Captain Britain", "reality warping", "powers"]
+  },
+  {
+    "id": 321,
+    "question": "What happened when Hulk was separated into his various personas?",
+    "answer": "In Incredible Hulk #377 (1991) by Peter David, Doc Samson used hypnosis to merge Bruce Banner's multiple personalities -- the savage Hulk, the gray 'Joe Fixit' Hulk, and Banner himself -- into a single integrated persona known as the 'Professor Hulk,' who had Banner's intelligence with the Hulk's strength.",
+    "source_issue": "Incredible Hulk #377 (1991)",
+    "category": "powers",
+    "difficulty": "hard",
+    "tags": ["Hulk", "Professor Hulk", "Peter David", "Doc Samson", "powers"]
+  },
+  {
+    "id": 322,
+    "question": "What power does Hope Summers possess that makes her vital to mutantkind?",
+    "answer": "Hope Summers is a mutant power mimic who can copy, amplify, and stabilize the powers of nearby mutants. She was the first mutant born after M-Day (Decimation) and is considered the 'Mutant Messiah.' She first appeared as a baby in X-Men #205 (2007) by Mike Carey and Chris Bachalo.",
+    "source_issue": "X-Men #205 (2007)",
+    "category": "powers",
+    "difficulty": "hard",
+    "tags": ["Hope Summers", "power mimicry", "Mutant Messiah", "X-Men", "powers"]
+  },
+  {
+    "id": 323,
+    "question": "What powers does the Invisible Woman possess beyond invisibility?",
+    "answer": "Sue Storm can project powerful invisible force fields that she can shape into any form -- barriers, platforms, constructs, and weapons. Her force fields are strong enough to contain nuclear explosions. While she started with just invisibility in Fantastic Four #1 (1961), her force field powers evolved significantly, and by FF #280 (1985) she adopted the name Invisible Woman.",
+    "source_issue": "Fantastic Four #280 (1985)",
+    "category": "powers",
+    "difficulty": "medium",
+    "tags": ["Invisible Woman", "force fields", "Fantastic Four", "powers"]
+  },
+  {
+    "id": 324,
+    "question": "What is Nightcrawler's power, and what is its unique limitation?",
+    "answer": "Kurt Wagner (Nightcrawler) can teleport himself and others by briefly passing through a dimension he calls the 'Brimstone Dimension,' producing a distinctive 'BAMF' sound and sulfurous smoke. He must know where he is teleporting to or risk materializing inside solid matter. He first appeared in Giant-Size X-Men #1 (1975).",
+    "source_issue": "Giant-Size X-Men #1 (1975)",
+    "category": "powers",
+    "difficulty": "easy",
+    "tags": ["Nightcrawler", "teleportation", "X-Men", "powers"]
+  },
+  {
+    "id": 325,
+    "question": "What is the relationship between Quicksilver and Scarlet Witch?",
+    "answer": "Pietro (Quicksilver) and Wanda (Scarlet Witch) Maximoff are twin siblings. They were originally believed to be the children of Magneto, as revealed in Vision and the Scarlet Witch #4 (1983). This parentage was later retconned in Uncanny Avengers #4 (2015), where they were revealed to have been experimented on by the High Evolutionary.",
+    "source_issue": "Vision and the Scarlet Witch #4 (1983)",
+    "category": "relationships",
+    "difficulty": "easy",
+    "tags": ["Quicksilver", "Scarlet Witch", "Magneto", "twins", "relationships"]
+  },
+  {
+    "id": 326,
+    "question": "Who is Scott Summers' brother?",
+    "answer": "Alex Summers (Havok) is Scott Summers' (Cyclops') younger brother. Their sibling relationship was revealed in Uncanny X-Men #54 (1969) by Arnold Drake and Don Heck. They were separated as children after their parents' plane was attacked by the Shi'ar.",
+    "source_issue": "Uncanny X-Men #54 (1969)",
+    "category": "relationships",
+    "difficulty": "easy",
+    "tags": ["Cyclops", "Havok", "Scott Summers", "Alex Summers", "brothers", "relationships"]
+  },
+  {
+    "id": 327,
+    "question": "In which issue did Peter Parker and Mary Jane Watson get married?",
+    "answer": "Peter Parker and Mary Jane Watson were married in Amazing Spider-Man Annual #21 (1987), written by David Michelinie with art by Paul Ryan. The wedding was simultaneous with a real-life wedding event at Shea Stadium. The marriage was later erased from continuity by Mephisto in One More Day (2007).",
+    "source_issue": "Amazing Spider-Man Annual #21 (1987)",
+    "category": "relationships",
+    "difficulty": "easy",
+    "tags": ["Spider-Man", "Mary Jane Watson", "marriage", "relationships"]
+  },
+  {
+    "id": 328,
+    "question": "Who is Cable's mother?",
+    "answer": "Cable's mother is Madelyne Pryor, a clone of Jean Grey created by Mr. Sinister. Cable (Nathan Summers) is the son of Cyclops and Madelyne. He was infected with a techno-organic virus as an infant and sent to the future to save his life. This was revealed in Uncanny X-Men #238-243 (1989) during the Inferno crossover.",
+    "source_issue": "Uncanny X-Men #241 (1989)",
+    "category": "relationships",
+    "difficulty": "medium",
+    "tags": ["Cable", "Madelyne Pryor", "Cyclops", "Mr. Sinister", "relationships"]
+  },
+  {
+    "id": 329,
+    "question": "Who raised baby Hope Summers in the future?",
+    "answer": "Cable raised Hope Summers after taking the baby into the future to protect her from Bishop, who believed she would cause a dystopian future. Cable's role as Hope's adoptive father was central to Cable #1 (2008) by Duane Swierczynski, and their bond was explored throughout the Messiah War and Second Coming events.",
+    "source_issue": "Cable #1 (2008)",
+    "category": "relationships",
+    "difficulty": "medium",
+    "tags": ["Cable", "Hope Summers", "Bishop", "Messiah Complex", "relationships"]
+  },
+  {
+    "id": 330,
+    "question": "What is the romantic history between Storm and Black Panther?",
+    "answer": "Ororo Munroe and T'Challa first met as teenagers in Africa, as revealed in Marvel Team-Up #100 (1980). They married in Black Panther #18 (2006) by Reginald Hudlin in a ceremony attended by virtually every Marvel hero. Their marriage was later annulled in Avengers vs. X-Men #9 (2012) when they found themselves on opposing sides.",
+    "source_issue": "Black Panther #18 (2006)",
+    "category": "relationships",
+    "difficulty": "medium",
+    "tags": ["Storm", "Black Panther", "marriage", "X-Men", "Avengers", "relationships"]
+  },
+  {
+    "id": 331,
+    "question": "Who is Wolverine's son, and how did he become a villain?",
+    "answer": "Daken is Wolverine's son, born to Wolverine's wife Itsu in Japan. The baby survived Itsu's murder and was raised by Romulus to hate his father. Daken first appeared in Wolverine: Origins #10 (2007) by Daniel Way and Steve Dillon. He possesses a healing factor and retractable claws, plus pheromone manipulation.",
+    "source_issue": "Wolverine: Origins #10 (2007)",
+    "category": "relationships",
+    "difficulty": "medium",
+    "tags": ["Daken", "Wolverine", "father-son", "relationships"]
+  },
+  {
+    "id": 332,
+    "question": "What is the complicated family relationship between Cyclops, Havok, and Vulcan?",
+    "answer": "Cyclops (Scott), Havok (Alex), and Vulcan (Gabriel) are brothers, sons of Christopher and Katherine Summers (Corsair and his wife). Vulcan, the youngest, was revealed in X-Men: Deadly Genesis #1 (2006) by Ed Brubaker as a powerful mutant who was part of a secret team Xavier sent to rescue the original X-Men.",
+    "source_issue": "X-Men: Deadly Genesis #1 (2006)",
+    "category": "relationships",
+    "difficulty": "hard",
+    "tags": ["Cyclops", "Havok", "Vulcan", "Summers family", "relationships"]
+  },
+  {
+    "id": 333,
+    "question": "Who is the love of Matt Murdock's life who was killed and resurrected multiple times?",
+    "answer": "Elektra Natchios is Daredevil's most famous love interest. She was killed by Bullseye in Daredevil #181 (1982) by Frank Miller in one of comics' most iconic death scenes. She was later resurrected by the Hand and Stone, and their complicated relationship has defined Daredevil stories for decades.",
+    "source_issue": "Daredevil #181 (1982)",
+    "category": "relationships",
+    "difficulty": "easy",
+    "tags": ["Daredevil", "Elektra", "Bullseye", "Frank Miller", "relationships"]
+  },
+  {
+    "id": 334,
+    "question": "What is the relationship between Vision and Scarlet Witch?",
+    "answer": "The Vision and Scarlet Witch fell in love and married in Giant-Size Avengers #4 (1975) by Steve Englehart. They later had twin sons (Thomas and William) using Wanda's powers, but the children were revealed to be fragments of Mephisto's soul in Avengers West Coast #52 (1989), leading to Wanda's breakdown.",
+    "source_issue": "Giant-Size Avengers #4 (1975)",
+    "category": "relationships",
+    "difficulty": "medium",
+    "tags": ["Vision", "Scarlet Witch", "marriage", "Avengers", "relationships"]
+  },
+  {
+    "id": 335,
+    "question": "Who is Hulkling, and why is his parentage cosmically significant?",
+    "answer": "Hulkling (Teddy Altman) is the son of the Kree hero Mar-Vell (Captain Marvel) and the Skrull Princess Anelle, making him the heir to both empires. His parentage was revealed in Young Avengers #9-12 (2006) by Allan Heinberg and Jim Cheung. He later became Emperor of the Kree/Skrull Alliance in Empyre (2020).",
+    "source_issue": "Young Avengers #11 (2006)",
+    "category": "relationships",
+    "difficulty": "hard",
+    "tags": ["Hulkling", "Kree", "Skrull", "Mar-Vell", "Wiccan", "relationships"]
+  },
+  {
+    "id": 336,
+    "question": "What is the romantic relationship between Hulkling and Wiccan?",
+    "answer": "Hulkling (Teddy Altman) and Wiccan (Billy Kaplan) are one of Marvel's most prominent LGBTQ+ couples. Their relationship was established in Young Avengers #1 (2005) by Allan Heinberg and Jim Cheung. They married in Empyre #4 (2020) in a ceremony officiated by the Fantastic Four during the Kree-Skrull unification.",
+    "source_issue": "Young Avengers #1 (2005)",
+    "category": "relationships",
+    "difficulty": "medium",
+    "tags": ["Hulkling", "Wiccan", "Young Avengers", "LGBTQ+", "relationships"]
+  },
+  {
+    "id": 337,
+    "question": "Who is Cyclops's son from the future, and how was he sent there?",
+    "answer": "Nathan Summers (Cable) is Cyclops's son. As an infant, he was infected with a techno-organic virus by Apocalypse that was killing him. In X-Factor #68 (1991) by Louise Simonson, a woman from the future (later revealed to be Mother Askani/Rachel Summers) offered to take Nathan 2,000 years into the future where the virus could be treated.",
+    "source_issue": "X-Factor #68 (1991)",
+    "category": "relationships",
+    "difficulty": "medium",
+    "tags": ["Cable", "Cyclops", "techno-organic virus", "Apocalypse", "relationships"]
+  },
+  {
+    "id": 338,
+    "question": "What is the relationship between Captain America and the Winter Soldier?",
+    "answer": "Bucky Barnes is Captain America's former sidekick from World War II, believed dead for decades. In Captain America #1 (2005) by Ed Brubaker, Bucky was revealed to have survived and been brainwashed by the Soviets into the assassin Winter Soldier. Steve eventually helped restore Bucky's memories, and Bucky later became Captain America himself.",
+    "source_issue": "Captain America #1 (2005)",
+    "category": "relationships",
+    "difficulty": "easy",
+    "tags": ["Captain America", "Bucky Barnes", "Winter Soldier", "Ed Brubaker", "relationships"]
+  },
+  {
+    "id": 339,
+    "question": "Who is Reed Richards' father, and what role did he play in the cosmic Marvel Universe?",
+    "answer": "Nathaniel Richards is Reed's father, a time-traveling scientist who abandoned his family to travel through time and other dimensions. He first appeared in Fantastic Four #272 (1984) by John Byrne. Various versions of Nathaniel have appeared throughout time, and he may be connected to Kang the Conqueror's lineage.",
+    "source_issue": "Fantastic Four #272 (1984)",
+    "category": "relationships",
+    "difficulty": "hard",
+    "tags": ["Nathaniel Richards", "Reed Richards", "Kang", "Fantastic Four", "relationships"]
+  },
+  {
+    "id": 340,
+    "question": "What is the relationship between Wolverine and Sabretooth?",
+    "answer": "Wolverine and Sabretooth have been bitter enemies for decades, with Sabretooth making it a tradition to attack Wolverine every year on his birthday. Their rivalry was explored deeply in Wolverine #10 (1989) by Chris Claremont. They share similar powers (healing factor, enhanced senses, claws) and both went through the Weapon X program.",
+    "source_issue": "Wolverine #10 (1989)",
+    "category": "relationships",
+    "difficulty": "easy",
+    "tags": ["Wolverine", "Sabretooth", "rivalry", "Weapon X", "relationships"]
+  },
+  {
+    "id": 341,
+    "question": "Who is Mystique's biological son?",
+    "answer": "Nightcrawler (Kurt Wagner) is Mystique's biological son. His father is the demonic mutant Azazel. Mystique abandoned baby Kurt after his birth because of his demonic appearance. This parentage was confirmed in Uncanny X-Men #428 (2003) by Chuck Austen, though it had been heavily hinted at since Uncanny X-Men #142 (1981).",
+    "source_issue": "Uncanny X-Men #428 (2003)",
+    "category": "relationships",
+    "difficulty": "medium",
+    "tags": ["Mystique", "Nightcrawler", "Azazel", "mother-son", "relationships"]
+  },
+  {
+    "id": 342,
+    "question": "What is the complicated relationship between Jean Grey, Cyclops, and Wolverine?",
+    "answer": "The Jean Grey-Cyclops-Wolverine love triangle is one of Marvel's most enduring. Wolverine fell for Jean Grey immediately upon joining the X-Men in Giant-Size X-Men #1 (1975), creating tension with her boyfriend (later husband) Cyclops. This triangle drove X-Men stories for decades, with Jean torn between Scott's stability and Logan's passion.",
+    "source_issue": "Giant-Size X-Men #1 (1975)",
+    "category": "relationships",
+    "difficulty": "easy",
+    "tags": ["Jean Grey", "Cyclops", "Wolverine", "love triangle", "X-Men", "relationships"]
+  },
+  {
+    "id": 343,
+    "question": "Who is the daughter of Magneto that was retconned into existence during the Krakoa era?",
+    "answer": "Polaris (Lorna Dane) was confirmed as Magneto's daughter. While the connection was hinted at as early as Uncanny X-Men #49 (1968), it was confirmed and retconned multiple times. In X-Factor #243 (2012) by Peter David, her parentage was definitively established, and during the Krakoa era, she fully embraced her role as Magneto's daughter.",
+    "source_issue": "X-Factor #243 (2012)",
+    "category": "relationships",
+    "difficulty": "hard",
+    "tags": ["Polaris", "Magneto", "parentage", "X-Men", "relationships"]
+  },
+  {
+    "id": 344,
+    "question": "What is the Summers family tree, and why is it so complicated?",
+    "answer": "The Summers family tree includes Cyclops (Scott), Havok (Alex), Vulcan (Gabriel), Cable (Nathan, Scott's son from the future), Rachel Summers (Scott & Jean's daughter from an alternate future), Hope Summers (adopted granddaughter), Stryfe (Cable's clone), and connections to Sinister, Madelyne Pryor, and Corsair. X-Men #35 (1994) expanded the family connections.",
+    "source_issue": "X-Men #35 (1994)",
+    "category": "relationships",
+    "difficulty": "hard",
+    "tags": ["Summers family", "Cyclops", "Cable", "X-Men", "relationships"]
+  },
+  {
+    "id": 345,
+    "question": "What is the relationship between Wiccan, Speed, and the Scarlet Witch?",
+    "answer": "Wiccan (Billy Kaplan) and Speed (Tommy Shepherd) are the reincarnated souls of the Scarlet Witch's lost twin sons, Thomas and William. The twins were originally created by Wanda's powers but destroyed when revealed to be fragments of Mephisto. They were reborn as normal humans who later gained powers. This was confirmed in Young Avengers #11 (2006) by Allan Heinberg.",
+    "source_issue": "Young Avengers #11 (2006)",
+    "category": "relationships",
+    "difficulty": "hard",
+    "tags": ["Wiccan", "Speed", "Scarlet Witch", "Young Avengers", "reincarnation", "relationships"]
+  },
+  {
+    "id": 346,
+    "question": "What powers does Jessica Drew (Spider-Woman) possess, and how did she acquire them?",
+    "answer": "Jessica Drew gained her powers from a combination of her father's experiments with irradiated spider blood and Hydra's genetic manipulation. She possesses superhuman strength, wall-crawling, venom blasts (bioelectric energy), pheromone manipulation, and immunity to poisons and radiation. Her powers were detailed in Spider-Woman #1 (1978) by Marv Wolfman and Carmine Infantino.",
+    "source_issue": "Spider-Woman #1 (1978)",
+    "category": "powers",
+    "difficulty": "hard",
+    "tags": ["Spider-Woman", "Jessica Drew", "venom blasts", "powers"]
+  },
+  {
+    "id": 347,
+    "question": "What is the adoptive family relationship between Wolverine and several young mutants?",
+    "answer": "Wolverine has served as a surrogate father figure to multiple young mutants, most notably Kitty Pryde, Jubilee, Rogue, X-23 (Laura Kinney, his female clone/daughter), and Armor. His protective relationship with Kitty was established in Uncanny X-Men #129 (1980), and he became X-23's father figure in X-23 #1 (2010) by Marjorie Liu.",
+    "source_issue": "X-23 #1 (2010)",
+    "category": "relationships",
+    "difficulty": "medium",
+    "tags": ["Wolverine", "X-23", "Kitty Pryde", "Jubilee", "mentor", "relationships"]
+  },
+  {
+    "id": 348,
+    "question": "What is the relationship between Tony Stark and Pepper Potts?",
+    "answer": "Virginia 'Pepper' Potts began as Tony Stark's secretary and eventual love interest. Their complex relationship has been a constant in Iron Man comics since Tales of Suspense #45 (1963) by Stan Lee and Don Heck. She married Happy Hogan but later returned to Tony. She eventually became Rescue, wearing her own Iron Man-style armor in Invincible Iron Man #10 (2009).",
+    "source_issue": "Tales of Suspense #45 (1963)",
+    "category": "relationships",
+    "difficulty": "easy",
+    "tags": ["Tony Stark", "Pepper Potts", "Iron Man", "Rescue", "relationships"]
+  },
+  {
+    "id": 349,
+    "question": "What is the rivalry between Professor X and Magneto rooted in?",
+    "answer": "Charles Xavier and Erik Lehnsherr (Magneto) were once close friends who shared a vision of mutant-human coexistence but disagreed fundamentally on how to achieve it. Their friendship and philosophical split was first explored in Uncanny X-Men #161 (1982) by Chris Claremont, which showed them meeting in Israel while caring for Holocaust survivors.",
+    "source_issue": "Uncanny X-Men #161 (1982)",
+    "category": "relationships",
+    "difficulty": "easy",
+    "tags": ["Professor X", "Magneto", "rivalry", "friendship", "X-Men", "relationships"]
+  },
+  {
+    "id": 350,
+    "question": "What is the relationship between Miles Morales and Peter Parker in the 616 universe?",
+    "answer": "After Miles Morales was integrated into the 616 universe following Secret Wars (2015), Peter Parker became his mentor and the two developed a big-brother/little-brother dynamic. In Spider-Man #1 (2016) by Brian Michael Bendis, Miles operated as Spider-Man alongside Peter, with Peter's full blessing and support.",
+    "source_issue": "Spider-Man #1 (2016)",
+    "category": "relationships",
+    "difficulty": "medium",
+    "tags": ["Miles Morales", "Peter Parker", "Spider-Man", "mentor", "relationships"]
+  }
+]
