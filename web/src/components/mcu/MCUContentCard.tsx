@@ -1,14 +1,40 @@
+"use client";
+
+import { useState } from "react";
 import Link from "next/link";
 import type { MCUContent } from "@/lib/types";
 import FaithfulnessBreakdown from "./FaithfulnessBreakdown";
 
+function PosterPlaceholder({ contentType, phase, color }: { contentType: string; phase: number; color: string }) {
+  return (
+    <div className="text-center p-4">
+      <div
+        className="text-3xl font-bold mb-1"
+        style={{ fontFamily: "var(--font-bricolage), sans-serif", color }}
+      >
+        {contentType === "movie" ? "FILM" : contentType === "series" ? "SERIES" : "SPECIAL"}
+      </div>
+      <div
+        className="text-xs"
+        style={{ color: "var(--text-tertiary)", fontFamily: "var(--font-geist-mono), monospace" }}
+      >
+        Phase {phase}
+      </div>
+    </div>
+  );
+}
+
 export default function MCUContentCard({ content }: { content: MCUContent }) {
+  const [imgBroken, setImgBroken] = useState(false);
+
   const typeColor =
     content.content_type === "movie"
       ? "var(--accent-red)"
       : content.content_type === "series"
       ? "var(--accent-blue)"
       : "var(--accent-purple)";
+
+  const showPoster = content.poster_url && !imgBroken;
 
   return (
     <Link href={`/mcu/${content.slug}`} className="block group">
@@ -22,33 +48,21 @@ export default function MCUContentCard({ content }: { content: MCUContent }) {
         {/* Type strip */}
         <div className="h-1 w-full" style={{ background: typeColor }} />
 
-        {/* Poster placeholder */}
+        {/* Poster */}
         <div
-          className="w-full flex items-center justify-center"
-          style={{ aspectRatio: "2/3", maxHeight: 220, background: "var(--bg-tertiary)" }}
+          className="relative w-full overflow-hidden flex items-center justify-center"
+          style={{ aspectRatio: "2/3", background: "var(--bg-tertiary)" }}
         >
-          {content.poster_url ? (
+          {showPoster ? (
             <img
-              src={content.poster_url}
+              src={content.poster_url!}
               alt={content.title}
-              className="w-full h-full object-cover"
+              className="absolute inset-0 w-full h-full object-cover"
               loading="lazy"
+              onError={() => setImgBroken(true)}
             />
           ) : (
-            <div className="text-center p-4">
-              <div
-                className="text-3xl font-bold mb-1"
-                style={{ fontFamily: "var(--font-bricolage), sans-serif", color: typeColor }}
-              >
-                {content.content_type === "movie" ? "FILM" : content.content_type === "series" ? "SERIES" : "SPECIAL"}
-              </div>
-              <div
-                className="text-xs"
-                style={{ color: "var(--text-tertiary)", fontFamily: "var(--font-geist-mono), monospace" }}
-              >
-                Phase {content.phase}
-              </div>
-            </div>
+            <PosterPlaceholder contentType={content.content_type} phase={content.phase} color={typeColor} />
           )}
         </div>
 
