@@ -103,8 +103,16 @@ async function seedMCUMappings() {
   const mcuRows = await supabaseGet("mcu_content", "id,slug");
   const mcuMap = Object.fromEntries(mcuRows.map((r) => [r.slug, r.id]));
 
-  // Fetch edition IDs
-  const editionRows = await supabaseGet("collected_editions", "id,slug");
+  // Fetch edition IDs (paginate to get all — Supabase default limit is 1000)
+  let editionRows = [];
+  let offset = 0;
+  const pageSize = 1000;
+  while (true) {
+    const page = await supabaseGet("collected_editions", "id,slug", `&limit=${pageSize}&offset=${offset}`);
+    editionRows = editionRows.concat(page);
+    if (page.length < pageSize) break;
+    offset += pageSize;
+  }
   const editionMap = Object.fromEntries(editionRows.map((r) => [r.slug, r.id]));
 
   const mappings = [];
@@ -129,6 +137,16 @@ async function seedMCUMappings() {
   }
 
   if (mappings.length > 0) {
+    // Clear existing mappings first so corrected data replaces old wrong mappings
+    const delRes = await fetch(`${SUPABASE_URL}/rest/v1/mcu_comic_mappings?id=neq.00000000-0000-0000-0000-000000000000`, {
+      method: "DELETE",
+      headers,
+    });
+    if (!delRes.ok) {
+      console.log(`  ⚠ Could not clear old mappings: ${delRes.status}`);
+    } else {
+      console.log(`  ✓ Cleared old mappings`);
+    }
     await supabasePost("mcu_comic_mappings", mappings);
   }
   console.log(`  ✓ ${mappings.length} mappings inserted (${skipped} skipped)`);

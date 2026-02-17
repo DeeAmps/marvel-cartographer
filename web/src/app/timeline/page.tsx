@@ -95,11 +95,28 @@ function FilteredEditions({
       }
     }
 
+    // Count total editions across all chapters
+    const totalChapteredEditions = filtered.length;
+    const shouldPaginateChapters = !showAll && totalChapteredEditions > EDITIONS_PER_ERA;
+
+    // When paginating, show only the first N editions across chapters
+    let editionsRendered = 0;
+    const maxToShow = shouldPaginateChapters ? EDITIONS_PER_ERA : Infinity;
+
+    // Build "show all" URL preserving current filter params
+    const showAllChapterParams = new URLSearchParams(currentParams);
+    showAllChapterParams.set(`showAll_${eraSlug}`, "1");
+    const showAllChapterUrl = `/timeline?${showAllChapterParams.toString()}#${eraSlug}`;
+
     return (
       <div className="space-y-6">
         {chapters.map((ch) => {
+          if (editionsRendered >= maxToShow) return null;
           const chEditions = chapterGroups.get(ch.slug) || [];
           if (chEditions.length === 0) return null;
+          const remaining = maxToShow - editionsRendered;
+          const visibleEditions = shouldPaginateChapters ? chEditions.slice(0, remaining) : chEditions;
+          editionsRendered += visibleEditions.length;
           return (
             <div key={ch.slug} id={ch.slug} className="scroll-mt-24">
               <div className="flex items-center gap-2 mb-2">
@@ -140,20 +157,35 @@ function FilteredEditions({
                 </p>
               )}
               <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-3">
-                {chEditions.map((edition) => (
+                {visibleEditions.map((edition) => (
                   <EditionCard key={edition.slug} edition={edition} />
                 ))}
               </div>
             </div>
           );
         })}
-        {ungrouped.length > 0 && (
+        {!shouldPaginateChapters && ungrouped.length > 0 && (
           <div>
             <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-3">
               {ungrouped.map((edition) => (
                 <EditionCard key={edition.slug} edition={edition} />
               ))}
             </div>
+          </div>
+        )}
+        {shouldPaginateChapters && (
+          <div className="mt-4 text-center">
+            <Link
+              href={showAllChapterUrl}
+              className="inline-flex items-center gap-1 px-4 py-2 rounded-lg text-sm font-medium transition-all hover:shadow-md"
+              style={{
+                background: "var(--bg-tertiary)",
+                color: "var(--text-secondary)",
+                border: "1px solid var(--border-default)",
+              }}
+            >
+              Show all {totalChapteredEditions} editions
+            </Link>
           </div>
         )}
       </div>

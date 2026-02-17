@@ -422,16 +422,35 @@ export async function getStoryArcsByEdition(
   if (!edition) return [];
 
   const issuesText = edition.issues_collected.toLowerCase();
-  const synopsisText = edition.synopsis.toLowerCase();
+
+  // Parse individual series references from the arc's issues field
+  // e.g. "ASM (2014) #9-15, Spider-Verse #1-2" → ["asm (2014) #9", "spider-verse #1"]
+  function parseArcSeriesRefs(arcIssues: string): string[] {
+    // Split on commas/semicolons to get individual series references
+    return arcIssues
+      .toLowerCase()
+      .split(/[,;]/)
+      .map((s) => s.trim())
+      .filter(Boolean)
+      .map((ref) => {
+        // Extract series name + first issue: "ASM (2014) #9-15" → "asm (2014) #9"
+        const match = ref.match(/^(.+?#\d+)/);
+        return match ? match[1] : ref;
+      });
+  }
 
   return arcs.filter((arc) => {
-    const arcName = arc.name.toLowerCase();
     const arcIssues = arc.issues.toLowerCase();
-    return (
-      synopsisText.includes(arcName) ||
-      issuesText.includes(arcIssues) ||
-      synopsisText.includes(arcIssues)
-    );
+
+    // Strong match: the edition's issues field contains at least one
+    // series+issue reference from the arc (not just a series name mention)
+    const arcRefs = parseArcSeriesRefs(arcIssues);
+    const hasIssueOverlap = arcRefs.some((ref) => issuesText.includes(ref));
+
+    // Full arc issues string contained in edition issues (covers exact match)
+    const hasFullMatch = issuesText.includes(arcIssues);
+
+    return hasIssueOverlap || hasFullMatch;
   });
 }
 
@@ -1271,27 +1290,44 @@ export async function getUniverseBySlug(
   return universes.find((u) => u.slug === slug);
 }
 
-/** Map edition slugs to universe slugs based on title/content keywords */
+/** Explicit edition slug → universe mappings for slugs that don't match prefix/keyword rules */
 const UNIVERSE_EDITION_MAP: Record<string, string[]> = {
   "earth-1610": [
-    "ultimate-spider-man-bendis-v1",
-    "ultimates-millar-hitch-omnibus",
-    "ultimate-ff-omnibus-v1",
-    "ultimate-comics-doomsday",
-    "ultimates-camp-v1",
+    "miles-morales-ultimate-spider-man",
+    "miles-morales-ultimate-spider-man-hc-omnibus",
+    "thunderbolts-ultimate",
   ],
-  "earth-295": ["xmen-age-of-apocalypse"],
+  "earth-295": [
+    "xmen-age-of-apocalypse",
+    "xmen-age-of-apocalypse-companion",
+  ],
+  "earth-982": [
+    "mc2-universe-collection",
+  ],
 };
 
-/** Keywords in edition slug/title that map to a universe */
+/** Slug prefix → universe mappings (checked with startsWith) */
 const UNIVERSE_SLUG_PREFIXES: Record<string, string> = {
   "ultimate-": "earth-1610",
+  "ultimates-": "earth-1610",
+  "spider-gwen": "earth-65",
+  "ghost-spider": "earth-65",
+  "spider-girl": "earth-982",
+  "peter-porker": "earth-8311",
+  "squadron-supreme": "earth-712",
+  "spider-man-noir": "earth-noir",
+  "marvel-zombies": "earth-z",
+  "x-men-age-of-apocalypse": "earth-295",
+};
+
+/** Substring patterns → universe mappings (checked with includes) */
+const UNIVERSE_SLUG_KEYWORDS: Record<string, string> = {
+  "2099": "earth-2099",
 };
 
 function getUniverseForEdition(edition: CollectedEdition): string {
   // Use DB-assigned universe if available
   if (edition.universe_designation) {
-    // Map designation to slug format
     const universes_cache = sbCache.get("universes");
     if (universes_cache) {
       const universes = universes_cache.data as Universe[];
@@ -1309,6 +1345,10 @@ function getUniverseForEdition(edition: CollectedEdition): string {
   // Check slug prefixes
   for (const [prefix, universe] of Object.entries(UNIVERSE_SLUG_PREFIXES)) {
     if (edition.slug.startsWith(prefix)) return universe;
+  }
+  // Check slug keywords (contains)
+  for (const [keyword, universe] of Object.entries(UNIVERSE_SLUG_KEYWORDS)) {
+    if (edition.slug.includes(keyword)) return universe;
   }
   // Default: main continuity
   return "earth-616";

@@ -59,8 +59,15 @@
         "mcu_content_slug": "thor-ragnarok",
         "edition_slug": "thor-simonson-omnibus",
         "mapping_type": "loose_inspiration",
-        "faithfulness": 30,
-        "notes": "Ragnarok (Asgard's destruction) from mythology and Simonson. Planet Hulk mashed in. Hela is Simonson creation. Valkyrie from comics. Comedy tone is pure Taika, not comics."
+        "faithfulness": 25,
+        "notes": "Ragnarok (Asgard's destruction) from mythology and Simonson. Hela is a Simonson-era creation. Valkyrie from comics. Comedy tone is pure Taika, not comics."
+    },
+    {
+        "mcu_content_slug": "thor-ragnarok",
+        "edition_slug": "planet-hulk",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 35,
+        "notes": "Planet Hulk storyline (gladiator arena, Sakaar, Grandmaster) is mashed into the Ragnarok plot. Hulk on Sakaar, arena battle with Thor, and Korg are directly from Planet Hulk by Greg Pak. MCU replaces Hulk's solo journey with a Thor team-up."
     },
     {
         "mcu_content_slug": "spider-man-homecoming",
@@ -78,24 +85,136 @@
     },
     {
         "mcu_content_slug": "doctor-strange",
-        "edition_slug": "nxm-morrison-omnibus",
+        "edition_slug": "doctor-strange-lee-ditko",
         "mapping_type": "character_origin",
         "faithfulness": 45,
-        "notes": "Strange's origin (arrogant surgeon, car crash, mystic training) faithful to comics. Ancient One, Mordo, Wong, Dormammu all from source. Time Stone is MCU addition. Modern updates to classic origin."
+        "notes": "Strange's origin (arrogant surgeon, car crash, mystic training) faithful to Strange Tales #110-111 and #115 by Lee & Ditko. Ancient One, Mordo, Wong, Dormammu all from source material. Time Stone is MCU addition. Modern updates to classic origin."
     },
     {
         "mcu_content_slug": "doctor-strange-mom",
-        "edition_slug": "secret-wars-2015-omnibus",
+        "edition_slug": "doctor-strange-aaron-omnibus",
         "mapping_type": "loose_inspiration",
-        "faithfulness": 15,
-        "notes": "Multiverse travel loosely inspired by Secret Wars (2015) reality-hopping. America Chavez from comics. Wanda's villain turn and Darkhold corruption are MCU inventions. Illuminati cameos nod to comics."
+        "faithfulness": 20,
+        "notes": "Multiverse travel and magical threats echo Aaron's run. America Chavez from comics. Wanda's villain turn and Darkhold corruption draws on Scarlet Witch lore. Illuminati cameos nod to New Avengers: Illuminati comics."
     },
     {
         "mcu_content_slug": "iron-man",
-        "edition_slug": "avengers-omnibus-v1",
+        "edition_slug": "iron-man-extremis",
+        "mapping_type": "character_origin",
+        "faithfulness": 40,
+        "notes": "Tony Stark origin (captured, builds armor) from Tales of Suspense #39. Afghanistan replaces Vietnam. Obadiah Stane from Iron Man #163-200. Warren Ellis's Extremis modernized the origin for the 21st century, which the MCU closely follows. Arc reactor emphasis is MCU."
+    },
+    {
+        "mcu_content_slug": "iron-man-2",
+        "edition_slug": "iron-man-michelinie-omnibus",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 35,
+        "notes": "Justin Hammer from Iron Man #120-128 (Demon in a Bottle era) by Michelinie/Layton. Whiplash (Ivan Vanko) combines Whiplash and Crimson Dynamo from classic Iron Man comics. War Machine/Rhodey suit-up echoes Iron Man #169-170 when Rhodey first wore the armor. Senate hearing subplot reflects Tony's recurring battles with government oversight."
+    },
+    {
+        "mcu_content_slug": "iron-man-2",
+        "edition_slug": "black-widow-thompson",
+        "mapping_type": "character_origin",
+        "faithfulness": 20,
+        "notes": "Black Widow's MCU introduction. Natasha Romanoff first appeared in Tales of Suspense #52 (1964) as a Russian spy who defected. MCU uses her as a SHIELD agent from the start. Spy craft and dual-identity themes from comics. Thompson's run is the definitive modern Black Widow solo."
+    },
+    {
+        "mcu_content_slug": "iron-man-3",
+        "edition_slug": "iron-man-extremis",
+        "mapping_type": "direct_adaptation",
+        "faithfulness": 55,
+        "notes": "Direct adaptation of Warren Ellis's Extremis storyline (Iron Man Vol. 4 #1-6). Extremis virus, enhanced soldiers, Tony's tech evolution all from source. Mandarin twist (fake Mandarin/Aldrich Killian) is MCU invention—comics Mandarin is a real villain with ten alien rings. AIM from comics."
+    },
+    {
+        "mcu_content_slug": "iron-man-3",
+        "edition_slug": "iron-man-michelinie-omnibus",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 25,
+        "notes": "Tony's PTSD and isolation echo Demon in a Bottle's personal crisis themes. Armor obsession and multiple suits parallel the Armor Wars mentality. Iron Legion concept of many suits recalls various armor iterations from Michelinie/Layton era."
+    },
+    {
+        "mcu_content_slug": "thor-dark-world",
+        "edition_slug": "thor-simonson-omnibus",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 20,
+        "notes": "Malekith the Dark Elf is a Simonson creation from Thor #344-349. Simonson's Malekith was cunning and theatrical; MCU version is significantly more generic. Aether/Reality Stone is MCU invention. Svartalfheim and the Nine Realms mythology established by Simonson."
+    },
+    {
+        "mcu_content_slug": "thor-dark-world",
+        "edition_slug": "mighty-thor-aaron-omnibus",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 15,
+        "notes": "Dark Elf storylines recur in Aaron's Thor run. Malekith returns as a major villain in War of the Realms. Loki's shifting allegiance and Frigga's death add emotional weight drawn from broader Thor mythology across both runs."
+    },
+    {
+        "mcu_content_slug": "ant-man",
+        "edition_slug": "ant-man-giant-man-wasp-omnibus",
+        "mapping_type": "character_origin",
+        "faithfulness": 30,
+        "notes": "Hank Pym as original Ant-Man from Tales to Astonish #27 (1962). Pym Particles, size-changing technology, and the Wasp all from source. MCU makes Pym a retired mentor and Scott Lang the new Ant-Man (from Marvel Premiere #47-48). Yellowjacket as villain is an MCU twist on Pym's own alter ego."
+    },
+    {
+        "mcu_content_slug": "ant-man",
+        "edition_slug": "ant-man-spencer",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 25,
+        "notes": "Scott Lang's comedic, everyman characterization echoes Nick Spencer's Ant-Man run. Cassie Lang's importance to Scott is central to both. Small-scale heist tone and humor match Spencer's approach. MCU's 'one last job' framing is original."
+    },
+    {
+        "mcu_content_slug": "ant-man-and-the-wasp",
+        "edition_slug": "ant-man-giant-man-wasp-omnibus",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 20,
+        "notes": "Hope Van Dyne as Wasp is MCU creation (comics: Janet Van Dyne is Wasp). Quantum Realm replaces Microverse from comics. Ghost (Ava Starr) is gender-swapped from comics' Ghost (male Iron Man villain). Janet's survival in the Quantum Realm is MCU original."
+    },
+    {
+        "mcu_content_slug": "captain-marvel",
+        "edition_slug": "captain-marvel-ksd",
         "mapping_type": "character_origin",
         "faithfulness": 35,
-        "notes": "Tony Stark origin (captured, builds armor) from Tales of Suspense. Afghanistan replaces Vietnam. Obadiah Stane from comics. Arc reactor emphasis is MCU. Post-credits Fury/Avengers is MCU invention."
+        "notes": "Carol Danvers as Captain Marvel from Kelly Sue DeConnick's definitive 2012 run. Fighter pilot background, cosmic powers, and 'higher, further, faster' mantra all from DeConnick. MCU adds Skrull war, amnesia subplot, and Kree origin twist. Nick Fury's eye loss and young de-aged Fury are MCU inventions."
+    },
+    {
+        "mcu_content_slug": "captain-marvel",
+        "edition_slug": "avengers-kree-skrull-war",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 30,
+        "notes": "Kree-Skrull War from Avengers #89-97 by Roy Thomas. Conflict between the two alien empires is the backdrop for Carol's MCU origin. Mar-Vell (gender-swapped in MCU) is the original Captain Marvel from Marvel Super-Heroes #12. Supreme Intelligence from comics. MCU flips Skrulls to sympathetic refugees."
+    },
+    {
+        "mcu_content_slug": "spider-man-no-way-home",
+        "edition_slug": "asm-omnibus-v1",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 25,
+        "notes": "Multiverse villains (Doc Ock from ASM #3, Green Goblin from ASM #14, Electro from ASM #9, Sandman from ASM #4, Lizard from ASM #6) all from Lee/Ditko/Romita era. Identity crisis themes echo One More Day. Peter's sacrifice to make everyone forget him echoes Mephisto deal."
+    },
+    {
+        "mcu_content_slug": "spider-man-no-way-home",
+        "edition_slug": "spider-verse",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 30,
+        "notes": "Multiple Spider-Men meeting across universes echoes Spider-Verse event by Dan Slott. Three Peters working together parallels multiversal Spider-team-ups. Doctor Strange's spell breaking reality mirrors incursion-level consequences from comics."
+    },
+    {
+        "mcu_content_slug": "black-panther-wakanda-forever",
+        "edition_slug": "black-panther-coates",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 30,
+        "notes": "Wakanda's political struggles and succession crisis echo Ta-Nehisi Coates' run. Shuri taking the mantle has comics precedent. Vibranium as geopolitical resource is central to both."
+    },
+    {
+        "mcu_content_slug": "black-panther-wakanda-forever",
+        "edition_slug": "ff-omnibus-v1",
+        "mapping_type": "character_origin",
+        "faithfulness": 25,
+        "notes": "Namor the Sub-Mariner first appeared in Marvel Comics #1 (1939) and was a founding character of the Marvel Universe. Talokan replaces Atlantis in the MCU, but Namor's arrogance, power, and anti-hero stance are faithful. The Wakanda-Atlantis conflict echoes decades of Namor/T'Challa rivalry from Avengers and New Avengers comics."
+    },
+    {
+        "mcu_content_slug": "incredible-hulk",
+        "edition_slug": "planet-hulk",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 15,
+        "notes": "Bruce Banner on the run, military pursuit by General Ross, Abomination (Emil Blonsky) from Tales to Astonish #90. Betty Ross from Hulk #1. Leader teased in post-credits. MCU origin is mostly original but draws on decades of Hulk mythology."
     },
     {
         "mcu_content_slug": "avengers",
@@ -117,6 +236,13 @@
         "mapping_type": "character_origin",
         "faithfulness": 40,
         "notes": "T'Challa/Wakanda debut in FF #52-53. Vibranium, advanced tech, royal family from Lee/Kirby. Killmonger from Jungle Action comics. MCU expands Wakanda's culture and politics significantly."
+    },
+    {
+        "mcu_content_slug": "black-panther",
+        "edition_slug": "black-panther-priest-omnibus",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 35,
+        "notes": "Christopher Priest's definitive Black Panther run established T'Challa as a political figure, Wakanda as a technologically advanced nation, and the Dora Milaje. Everett K. Ross (Martin Freeman's character) is directly from Priest's run as the comedic audience-surrogate narrator."
     },
     {
         "mcu_content_slug": "fantastic-four-first-steps",
@@ -147,53 +273,60 @@
         "notes": "Echo (Maya Lopez) from Bendis/Maleev run. Kingpin dynamics. Netflix series drew heavily from Bendis era. MCU show continues those threads."
     },
     {
-        "mcu_content_slug": "immortal-hulk-omnibus",
-        "edition_slug": "immortal-hulk-omnibus",
-        "mapping_type": "character_origin",
-        "faithfulness": 30,
-        "notes": "No direct MCU adaptation yet, but Immortal Hulk's horror tone influences potential future Hulk stories. Red Hulk in Brave New World hints at this direction."
-    },
-    {
         "mcu_content_slug": "hawkeye",
-        "edition_slug": "avengers-omnibus-v1",
-        "mapping_type": "character_origin",
-        "faithfulness": 50,
-        "notes": "Clint Barton from Avengers comics. Kate Bishop from Young Avengers. Tracksuit Mafia, 'Bro' culture from Fraction/Aja run (2012). Christmas setting and mentor dynamic from Fraction."
+        "edition_slug": "hawkeye-fraction-omnibus",
+        "mapping_type": "direct_adaptation",
+        "faithfulness": 60,
+        "notes": "Most direct Disney+ adaptation. Matt Fraction and David Aja's Hawkeye run is THE source: Tracksuit Mafia ('Bro'), Kate Bishop partnership, Lucky the Pizza Dog, rooftop apartment lifestyle, and Christmas setting. Low-key street-level tone faithful to comics."
     },
     {
         "mcu_content_slug": "wandavision",
-        "edition_slug": "house-of-x-powers-of-x",
+        "edition_slug": "house-of-m",
         "mapping_type": "loose_inspiration",
-        "faithfulness": 20,
-        "notes": "Reality manipulation and Scarlet Witch's power echoes House of M (not in our editions list). Darkhold corruption loosely inspired by X-Men mysticism. Westview hex is MCU invention."
+        "faithfulness": 30,
+        "notes": "Wanda's reality-warping powers creating an alternate reality directly echoes House of M where Scarlet Witch rewrote reality. 'No More Mutants' parallel with Westview hex. Vision's resurrection through Wanda's grief echoes Avengers Disassembled. Agatha Harkness and the Darkhold are from classic Avengers/FF lore."
+    },
+    {
+        "mcu_content_slug": "wandavision",
+        "edition_slug": "vision-tom-king",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 35,
+        "notes": "Tom King's Vision series about Vision creating a suburban family with synthezoid wife and children is a major influence. The sitcom domesticity hiding dark undercurrents, the desperation to be 'normal,' and the tragedy of artificial family all echo King's celebrated run."
     },
     {
         "mcu_content_slug": "loki-s1",
-        "edition_slug": "ff-hickman-omnibus-v1",
+        "edition_slug": "loki-agent-of-asgard",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 25,
+        "notes": "Loki's journey from villain to antihero echoes Agent of Asgard by Al Ewing. Loki rewriting his own story, identity crisis, and redemption arc all from this run. TVA is MCU invention but Loki's self-examination is comics-inspired."
+    },
+    {
+        "mcu_content_slug": "loki-s1",
+        "edition_slug": "avengers-kang-dynasty-omnibus",
         "mapping_type": "loose_inspiration",
         "faithfulness": 20,
-        "notes": "Multiverse concepts and He Who Remains (Kang variant) echo Hickman's Council of Reeds and multiverse architecture. TVA is MCU invention with comics inspiration."
+        "notes": "He Who Remains as a Kang variant draws on Kang's long comics history. Kang Dynasty by Kurt Busiek established Kang as a multiversal-level threat. Council of Kangs concept from Avengers #267-269. TVA's bureaucratic multiverse management is MCU original."
     },
     {
         "mcu_content_slug": "loki-s2",
-        "edition_slug": "ff-hickman-omnibus-v2",
+        "edition_slug": "loki-agent-of-asgard",
         "mapping_type": "loose_inspiration",
-        "faithfulness": 20,
-        "notes": "Loki becoming keeper of multiverse tree (Yggdrasil) echoes Hickman's cosmic architect themes. Victor Timely is Kang variant from comics. Selfless sacrifice arc is MCU original."
+        "faithfulness": 25,
+        "notes": "Loki's selfless sacrifice to protect the multiverse tree (Yggdrasil) echoes Agent of Asgard's themes of Loki choosing heroism over villainy. Victor Timely is a Kang variant from comics. Loki becoming the god of stories parallels his comics evolution."
     },
     {
         "mcu_content_slug": "ant-man-quantumania",
-        "edition_slug": "avengers-hickman-omnibus-v1",
+        "edition_slug": "avengers-kang-dynasty-omnibus",
         "mapping_type": "loose_inspiration",
-        "faithfulness": 20,
-        "notes": "Kang the Conqueror from Avengers comics. Council of Kangs setup echoes Hickman's multiversal architect themes. Quantum Realm as battleground is MCU invention."
+        "faithfulness": 25,
+        "notes": "Kang the Conqueror from Avengers comics. Council of Kangs setup from Avengers #267-269. Kang as a multiversal tyrant is faithful. Quantum Realm as Kang's domain is MCU invention. MODOK appearance from comics."
     },
     {
         "mcu_content_slug": "secret-invasion",
-        "edition_slug": "avengers-omnibus-v1",
+        "edition_slug": "secret-invasion",
         "mapping_type": "loose_inspiration",
-        "faithfulness": 25,
-        "notes": "Skrulls from FF #2 in Avengers Omnibus era. Secret Invasion event (not in our editions) about Skrull infiltration. MCU version is street-level, not cosmic. Fury-focused."
+        "faithfulness": 20,
+        "notes": "Secret Invasion event by Brian Michael Bendis (New Avengers/Mighty Avengers). Skrull infiltration of Earth is the core concept. MCU version is radically different—street-level Nick Fury thriller vs. comics' massive superhero war. Skrull shapeshifting paranoia is faithful, but scale and execution diverge completely."
     },
     {
         "mcu_content_slug": "what-if-s1",
@@ -218,10 +351,10 @@
     },
     {
         "mcu_content_slug": "captain-america-tfa",
-        "edition_slug": "cap-brubaker-v1",
+        "edition_slug": "captain-america-omnibus-v1",
         "mapping_type": "character_origin",
-        "faithfulness": 50,
-        "notes": "Steve Rogers WWII origin faithful to Captain America Comics #1. Super-soldier serum, Red Skull, Bucky, Hydra all from source. MCU adds Tesseract/Space Stone. Most faithful Phase 1 origin."
+        "faithfulness": 55,
+        "notes": "Steve Rogers WWII origin from Captain America Comics #1 (1941) by Simon & Kirby. Super-soldier serum, Red Skull, Bucky Barnes, Hydra all directly from source. The skinny-to-super transformation, patriotic motivation, and frozen-in-ice ending are faithful. MCU adds Tesseract/Space Stone and Howling Commandos expansion."
     },
     {
         "mcu_content_slug": "falcon-and-winter-soldier",
@@ -232,52 +365,73 @@
     },
     {
         "mcu_content_slug": "thunderbolts-asterisk",
-        "edition_slug": "avengers-hickman-omnibus-v2",
+        "edition_slug": "thunderbolts-busiek-omnibus-v1",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 30,
+        "notes": "Thunderbolts concept (villains posing as heroes) created by Kurt Busiek in Thunderbolts #1 (1997). The original twist of Masters of Evil pretending to be heroes is the defining concept. MCU's team of antiheroes and reformed villains echoes this premise."
+    },
+    {
+        "mcu_content_slug": "thunderbolts-asterisk",
+        "edition_slug": "dark-avengers-osborns-reign",
         "mapping_type": "loose_inspiration",
         "faithfulness": 35,
-        "notes": "Thunderbolts concept (villains as heroes) from comics. Dark Avengers vibes. Sentry (Bob Reynolds) from comics. Valentina assembles team echoes Norman Osborn's Dark Reign (post-Hickman era)."
+        "notes": "Valentina assembling a government-backed team of antiheroes echoes Norman Osborn's Dark Avengers and Dark Reign era. Sentry (Bob Reynolds) from New Avengers/Dark Avengers comics. Government-controlled superhero team with questionable members is the core parallel."
     },
     {
         "mcu_content_slug": "moon-knight",
-        "edition_slug": "avengers-omnibus-v1",
-        "mapping_type": "character_origin",
-        "faithfulness": 40,
-        "notes": "Marc Spector/Moon Knight from Werewolf by Night comics. DID, Khonshu, Egyptian mythology faithful. Standalone tone and horror elements inspired by modern Moon Knight runs."
+        "edition_slug": "moon-knight-lemire",
+        "mapping_type": "direct_adaptation",
+        "faithfulness": 45,
+        "notes": "Jeff Lemire's Moon Knight run is the primary influence—mental hospital setting, questioning reality, DID as central theme, Egyptian mythology intertwined with psychological horror. Marc Spector, Steven Grant, and Jake Lockley identities all from comics. Khonshu's manipulation faithful to source."
+    },
+    {
+        "mcu_content_slug": "moon-knight",
+        "edition_slug": "moon-knight-ellis",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 35,
+        "notes": "Warren Ellis's Moon Knight established the tone of standalone, brutal street-level missions that influenced the show's action sequences. Mr. Knight persona (suit and tie) from Ellis's run. Short, sharp storytelling style echoed in episodic structure."
     },
     {
         "mcu_content_slug": "werewolf-by-night",
-        "edition_slug": "avengers-omnibus-v1",
+        "edition_slug": "werewolf-by-night-complete",
         "mapping_type": "character_origin",
-        "faithfulness": 50,
-        "notes": "Jack Russell (Werewolf by Night) from 1970s comics. Elsa Bloodstone from Nextwave/Bloodstone comics. Man-Thing cameo. Black-and-white homage to monster comics. Supernatural MCU expansion."
+        "faithfulness": 55,
+        "notes": "Jack Russell (Werewolf by Night) from Werewolf by Night #1 (1972). Elsa Bloodstone from Bloodstone comics and Nextwave. Man-Thing cameo faithful to comics. Black-and-white presentation homages 1970s Marvel horror comics. The monster-hunter gathering is MCU invention but supernatural Marvel tone is authentic."
+    },
+    {
+        "mcu_content_slug": "she-hulk",
+        "edition_slug": "she-hulk-slott",
+        "mapping_type": "character_origin",
+        "faithfulness": 40,
+        "notes": "Dan Slott's She-Hulk is the primary influence—legal comedy format, fourth-wall awareness, superhero cases in court, and balancing lawyer life with superhero duties. Jennifer Walters' characterization as confident and fun echoes Slott over Byrne."
     },
     {
         "mcu_content_slug": "she-hulk",
         "edition_slug": "ff-byrne-omnibus-v1",
-        "mapping_type": "character_origin",
-        "faithfulness": 35,
-        "notes": "Jennifer Walters/She-Hulk created by Stan Lee but popularized by Byrne's Sensational She-Hulk. Fourth-wall breaks from Byrne run. Legal comedy tone inspired by comics. Daredevil crossover."
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 30,
+        "notes": "Byrne's Sensational She-Hulk pioneered fourth-wall breaks that the MCU show adopts. She-Hulk as FF member from Byrne's run. The comedic, self-aware tone originates here. Byrne established She-Hulk as more than just a female Hulk."
     },
     {
         "mcu_content_slug": "shang-chi",
-        "edition_slug": "avengers-omnibus-v1",
+        "edition_slug": "shang-chi-omnibus-v1",
         "mapping_type": "character_origin",
         "faithfulness": 40,
-        "notes": "Shang-Chi from Master of Kung Fu comics (1970s Bronze Age). Ten Rings from Iron Man lore. MCU heavily reimagines family dynamics and mythology. Ta-Lo is MCU creation."
+        "notes": "Shang-Chi from Master of Kung Fu #15+ (1973). Son of a villain, martial arts mastery, and spy thriller tone from Doug Moench/Paul Gulacy's definitive run. MCU replaces Fu Manchu with Xu Wenwu and Ten Rings mythology. Fighting tournament and family drama are comics-inspired."
     },
     {
         "mcu_content_slug": "eternals",
-        "edition_slug": "ff-omnibus-v3",
+        "edition_slug": "eternals-by-kirby",
         "mapping_type": "character_origin",
-        "faithfulness": 35,
-        "notes": "Eternals created by Jack Kirby. Celestials, Deviants, immortal beings from Kirby's cosmic mythology. MCU changes origin (sent by Celestials, not evolved). Druig, Sersi, Ikaris from comics."
+        "faithfulness": 40,
+        "notes": "Eternals created by Jack Kirby in Eternals #1 (1976). Celestials, Deviants, Ikaris, Sersi, Thena, Makkari, Ajak all from Kirby's original series. Cosmic mythology, ancient aliens, and the Celestials' judgment are faithful. MCU changes origin (sent by Celestials vs. evolved on Earth) and adds the Emergence plot."
     },
     {
         "mcu_content_slug": "ms-marvel",
-        "edition_slug": "house-of-x-powers-of-x",
+        "edition_slug": "ms-marvel-wilson",
         "mapping_type": "character_origin",
-        "faithfulness": 30,
-        "notes": "Kamala Khan from Ms. Marvel comics (2014). MCU changes powers (Bangle instead of Inhuman polymorph). Family dynamics faithful. Mutant reveal in finale connects to X-Men."
+        "faithfulness": 40,
+        "notes": "Kamala Khan from Ms. Marvel #1 (2014) by G. Willow Wilson. Muslim-American teenager from Jersey City, family dynamics (Abu, Ammi, Aamir), Bruno Carrelli, Nakia Bahadir—all faithful. MCU changes powers from Inhuman polymorph to cosmic bangle energy constructs. Mutant reveal replaces Inhuman origin."
     },
     {
         "mcu_content_slug": "echo",
@@ -288,10 +442,10 @@
     },
     {
         "mcu_content_slug": "agatha-all-along",
-        "edition_slug": "ff-omnibus-v1",
-        "mapping_type": "character_origin",
+        "edition_slug": "scarlet-witch-robinson",
+        "mapping_type": "loose_inspiration",
         "faithfulness": 25,
-        "notes": "Agatha Harkness from FF #94 (not in Vol. 1 but introduced in FF run). Witch powers, Salem history. Billy Maximoff/Wiccan from Young Avengers. MCU heavily expands Agatha's role."
+        "notes": "Witchcraft, the Witches' Road, and magical mythology draw on James Robinson's Scarlet Witch series exploring witchcraft traditions. Agatha Harkness first appeared in FF #94 as Franklin Richards' nanny. Billy Maximoff/Wiccan from Young Avengers. MCU heavily expands Agatha into a lead character."
     },
     {
         "mcu_content_slug": "captain-america-brave-new-world",
@@ -301,18 +455,32 @@
         "notes": "Sam Wilson as Captain America from comics (post-Brubaker). Red Hulk (Thaddeus Ross) from Hulk comics. Serpent Society from Captain America comics. Political thriller tone echoes Brubaker."
     },
     {
+        "mcu_content_slug": "captain-america-brave-new-world",
+        "edition_slug": "immortal-hulk-omnibus",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 20,
+        "notes": "Red Hulk (Thaddeus Ross) from Jeph Loeb's Hulk run. The horror-tinged Hulk elements and Ross's transformation into a Hulk variant echo Immortal Hulk's exploration of Hulk mythology and gamma-powered beings."
+    },
+    {
         "mcu_content_slug": "thor-love-and-thunder",
-        "edition_slug": "thor-simonson-omnibus",
+        "edition_slug": "thor-aaron-god-of-thunder",
+        "mapping_type": "direct_adaptation",
+        "faithfulness": 55,
+        "notes": "Gorr the God Butcher from Jason Aaron's Thor: God of Thunder #1-11 is the film's primary source. God-killing crusade, Necrosword, and questioning faith are directly adapted. Aaron's Thor run is THE definitive modern Thor."
+    },
+    {
+        "mcu_content_slug": "thor-love-and-thunder",
+        "edition_slug": "mighty-thor-aaron-omnibus",
         "mapping_type": "direct_adaptation",
         "faithfulness": 50,
-        "notes": "Jane Foster as Mighty Thor from Jason Aaron run (not Simonson, but Thor mythology). Gorr the God Butcher from Aaron. Cancer subplot faithful. Simonson established modern Thor MCU builds on."
+        "notes": "Jane Foster as Mighty Thor from Aaron's run (Mighty Thor #1-706). Cancer subplot while wielding Mjolnir is faithfully adapted. Jane's sacrifice and worthiness arc are the emotional core of both comics and film. MCU condenses a multi-year arc into one film."
     },
     {
         "mcu_content_slug": "black-widow",
-        "edition_slug": "avengers-omnibus-v1",
+        "edition_slug": "black-widow-thompson",
         "mapping_type": "character_origin",
-        "faithfulness": 25,
-        "notes": "Natasha Romanoff from Avengers comics. Red Room from comics lore. Yelena Belova from comics. Taskmaster heavily changed (Tony Masters → Antonia). MCU origin is original story."
+        "faithfulness": 30,
+        "notes": "Kelly Thompson's Black Widow run explores Natasha's spy identity, Red Room trauma, and sisterhood themes that echo the MCU film. Yelena Belova from comics (Devin Grayson's Black Widow). Red Room and Widow program from decades of comics lore. Taskmaster heavily changed in MCU."
     },
     {
         "mcu_content_slug": "guardians-holiday-special",
@@ -323,10 +491,59 @@
     },
     {
         "mcu_content_slug": "deadpool-and-wolverine",
+        "edition_slug": "deadpool-posehn-duggan-omnibus",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 30,
+        "notes": "Deadpool's meta-humor, fourth-wall breaking, and irreverent tone from Posehn/Duggan's definitive run. Wolverine/Deadpool buddy dynamic from comics (Wolverine #88, Cable & Deadpool). MCU integration and Fox universe farewell are original."
+    },
+    {
+        "mcu_content_slug": "deadpool-and-wolverine",
         "edition_slug": "secret-wars-2015-omnibus",
         "mapping_type": "loose_inspiration",
-        "faithfulness": 40,
-        "notes": "Multiverse travel and Void echo Battleworld from Secret Wars. TVA involvement from Loki. Meta-humor and Fox Marvel integration original. Wolverine variant concept faithful to multiverse comics."
+        "faithfulness": 35,
+        "notes": "Multiverse travel and the Void echo Battleworld from Secret Wars. TVA involvement from Loki. Variants from destroyed timelines parallel Battleworld's patchwork of dead universes. Meta-commentary on Fox Marvel's 'death' mirrors incursion destruction."
+    },
+    {
+        "mcu_content_slug": "the-marvels",
+        "edition_slug": "captain-marvel-thompson",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 25,
+        "notes": "Kelly Thompson's Captain Marvel run features Carol leading and teaming with other Marvel heroines. Monica Rambeau/Photon powers from Avengers #227. Kamala Khan from Ms. Marvel. Carol's leadership and cosmic adventures are from Thompson's run. Power entanglement is MCU invention."
+    },
+    {
+        "mcu_content_slug": "the-marvels",
+        "edition_slug": "captain-marvel-monica-rambeau",
+        "mapping_type": "character_origin",
+        "faithfulness": 20,
+        "notes": "Monica Rambeau was the second Captain Marvel, leading the Avengers in the 1980s. Her light-based powers and codenames (Photon, Spectrum) are from comics. MCU's version draws on her Avengers leadership history and cosmic power set."
+    },
+    {
+        "mcu_content_slug": "ironheart",
+        "edition_slug": "infamous-iron-man",
+        "mapping_type": "character_origin",
+        "faithfulness": 35,
+        "notes": "Riri Williams/Ironheart from comics (post-Bendis). The Hood as villain from comics. Magic vs tech theme. Wakanda connection from Black Panther comics. MCU show expands on comics intro."
+    },
+    {
+        "mcu_content_slug": "eyes-of-wakanda",
+        "edition_slug": "black-panther-coates",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 25,
+        "notes": "Animated series exploring Wakanda's history across time periods. Ta-Nehisi Coates' run explored Wakanda's deep history, mythology, and the Originators. Vibranium's cosmic origins and Wakandan warriors through the ages draw on Coates and Priest's worldbuilding."
+    },
+    {
+        "mcu_content_slug": "wonder-man",
+        "edition_slug": "avengers-omnibus-v2",
+        "mapping_type": "character_origin",
+        "faithfulness": 25,
+        "notes": "Simon Williams/Wonder Man first appeared in Avengers #9 (1964). Ionic energy powers, Hollywood career, and complex relationship with the Avengers from comics. Vision was created using Wonder Man's brain patterns, connecting them. MCU show reportedly set in Hollywood, echoing comics' actor arc."
+    },
+    {
+        "mcu_content_slug": "marvel-zombies",
+        "edition_slug": "deadpool-kills-marvel-universe",
+        "mapping_type": "loose_inspiration",
+        "faithfulness": 30,
+        "notes": "Marvel Zombies comic series by Robert Kirkman (2005-2006) is the obvious primary source—zombified Marvel heroes in an alternate universe. What If...? Season 1 already introduced zombie Avengers. The animated show draws on the comics' horror-comedy tone of heroes-turned-monsters."
     },
     {
         "mcu_content_slug": "one-world-under-doom",
@@ -341,20 +558,6 @@
         "mapping_type": "direct_adaptation",
         "faithfulness": 75,
         "notes": "NOTE: This is a COMICS edition, not MCU content. Blade leads vampire army. Doctor Strange dies. Doom becomes Sorcerer Supreme. If MCU adapts, this is the source."
-    },
-    {
-        "mcu_content_slug": "ironheart",
-        "edition_slug": "infamous-iron-man",
-        "mapping_type": "character_origin",
-        "faithfulness": 35,
-        "notes": "Riri Williams/Ironheart from comics (post-Bendis). The Hood as villain from comics. Magic vs tech theme. Wakanda connection from Black Panther comics. MCU show expands on comics intro."
-    },
-    {
-        "mcu_content_slug": "the-marvels",
-        "edition_slug": "house-of-x-powers-of-x",
-        "mapping_type": "loose_inspiration",
-        "faithfulness": 25,
-        "notes": "Monica Rambeau/Photon powers from comics. Kamala Khan from Ms. Marvel. Carol Danvers team-ups. Power entanglement is MCU invention. X-Men universe post-credits hints at mutant integration."
     },
     {
         "mcu_content_slug": "venom-cates-omnibus",

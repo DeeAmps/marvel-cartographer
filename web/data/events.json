@@ -1335,5 +1335,348 @@
       "secrets",
       "murder-mystery"
     ]
+  },
+  {
+    "slug": "coming-of-galactus",
+    "name": "The Coming of Galactus",
+    "year": 1966,
+    "core_issues": "Fantastic Four #48-50",
+    "importance": "essential",
+    "synopsis": "Galactus, the Devourer of Worlds, arrives on Earth with his herald, the Silver Surfer. The Fantastic Four are hopelessly outmatched against a cosmic entity that consumes planets. The Silver Surfer, moved by Alicia Masters' compassion, turns against his master. Reed Richards uses the Ultimate Nullifier to force Galactus to spare Earth. Stan Lee and Jack Kirby elevate Marvel's scope from street-level to cosmic in three landmark issues.",
+    "impact": "Introduces Galactus and Silver Surfer — two of Marvel's most iconic characters. Establishes Marvel's cosmic mythology. The Ultimate Nullifier becomes the most powerful weapon in the universe.",
+    "prerequisites": "Fantastic Four #1-47 for character context, but the story stands on its own as a cosmic spectacle.",
+    "consequences": "Silver Surfer exiled to Earth, leading to his solo series. Galactus becomes a recurring cosmic presence. Sets the template for every 'cosmic threat to Earth' story that follows.",
+    "era_slug": "birth-of-marvel",
+    "tags": [
+      "fantastic-four",
+      "galactus",
+      "silver-surfer",
+      "cosmic",
+      "lee-kirby",
+      "ultimate-nullifier"
+    ]
+  },
+  {
+    "slug": "the-thanos-war",
+    "name": "The Thanos War",
+    "year": 1973,
+    "core_issues": "Iron Man #55, Captain Marvel #25-33, Marvel Feature #12, Daredevil #105-107, Avengers #125",
+    "importance": "essential",
+    "synopsis": "Thanos of Titan seeks the Cosmic Cube to reshape reality in his image and court the personification of Death. Jim Starlin introduces Thanos across multiple titles as Captain Marvel, the Avengers, and other heroes piece together the Mad Titan's plan. Thanos achieves godhood before Mar-Vell shatters the Cube. The first appearance of Marvel's greatest cosmic villain.",
+    "impact": "Introduces Thanos, Drax the Destroyer, and Starfox. Establishes the Thanos/Death dynamic that drives decades of cosmic stories. Starlin creates Marvel's cosmic mythology.",
+    "prerequisites": "Basic Captain Marvel and Avengers familiarity.",
+    "consequences": "Leads to Starlin's Warlock saga. Thanos becomes Marvel's ultimate cosmic villain. Directly seeds the Infinity Gauntlet decades later. Basis for the MCU's entire Infinity Saga.",
+    "era_slug": "bronze-age",
+    "tags": [
+      "thanos",
+      "cosmic",
+      "captain-marvel",
+      "cosmic-cube",
+      "starlin",
+      "death",
+      "drax"
+    ]
+  },
+  {
+    "slug": "the-korvac-saga",
+    "name": "The Korvac Saga",
+    "year": 1978,
+    "core_issues": "Avengers #167-168, #170-177",
+    "importance": "essential",
+    "synopsis": "Michael Korvac, a cyborg from the 31st century, absorbs the Power Cosmic from Galactus' worldship and becomes godlike. Disguised as a normal man, he plans to remake the universe into a utopia. The Guardians of the Galaxy travel back in time to warn the Avengers. When the Avengers confront Korvac, he kills nearly every one of them before his beloved Carina's doubt causes him to restore them and destroy himself. Jim Shooter crafts one of the most tragic and philosophically rich Avengers stories ever told.",
+    "impact": "Defines the cosmic scale of Avengers threats. One of the most acclaimed Avengers storylines. Establishes the Guardians of the Galaxy's connection to the modern Marvel Universe.",
+    "prerequisites": "Avengers #154-166 for the buildup. Guardians of the Galaxy (1969 team) familiarity helps.",
+    "consequences": "Korvac returns periodically. The Guardians maintain their 616 connection. The saga influences how Marvel handles god-level threats.",
+    "era_slug": "bronze-age",
+    "tags": [
+      "avengers",
+      "korvac",
+      "cosmic",
+      "guardians",
+      "jim-shooter",
+      "power-cosmic",
+      "tragedy"
+    ]
+  },
+  {
+    "slug": "the-avengers-defenders-war",
+    "name": "The Avengers-Defenders War",
+    "year": 1973,
+    "core_issues": "Avengers #115-118, Defenders #8-11",
+    "importance": "recommended",
+    "synopsis": "Loki and Dormammu manipulate the Avengers and Defenders into fighting each other over the Evil Eye, a weapon of immense power. Marvel's first true inter-title crossover, with chapters alternating between Avengers and Defenders issues. Hero fights hero as both teams race to collect fragments of the Evil Eye before reality is torn apart.",
+    "impact": "Marvel's first real crossover between two titles. Establishes the template for hero-vs-hero conflicts. Demonstrates the commercial potential of inter-book storytelling.",
+    "prerequisites": "Avengers and Defenders ongoing familiarity.",
+    "consequences": "Crossover storytelling becomes a Marvel staple. Sets the pattern that leads to Secret Wars a decade later.",
+    "era_slug": "bronze-age",
+    "tags": [
+      "avengers",
+      "defenders",
+      "loki",
+      "dormammu",
+      "crossover",
+      "heroes-vs-heroes"
+    ]
+  },
+  {
+    "slug": "the-secret-empire-1974",
+    "name": "The Secret Empire (1974)",
+    "year": 1974,
+    "core_issues": "Captain America #169-176",
+    "importance": "recommended",
+    "synopsis": "Captain America uncovers a conspiracy reaching the highest levels of the U.S. government. The Secret Empire, a subversive organization, has infiltrated American institutions. When Cap unmasks the leader — strongly implied to be the President of the United States (written during Watergate) — his faith in America is shattered. Steve Rogers abandons the Captain America identity and becomes Nomad.",
+    "impact": "Steve Rogers quits as Captain America. One of the most politically charged Marvel stories ever, directly paralleling Watergate. Engle and Buscema redefine Cap as a man who serves ideals, not governments.",
+    "prerequisites": "Captain America ongoing familiarity.",
+    "consequences": "Steve becomes Nomad briefly. Returns as Cap with a more nuanced view of patriotism. The 'Cap quits' template is reused in multiple later storylines.",
+    "era_slug": "bronze-age",
+    "tags": [
+      "captain-america",
+      "political",
+      "watergate",
+      "nomad",
+      "conspiracy",
+      "government"
+    ]
+  },
+  {
+    "slug": "heroes-reborn-event",
+    "name": "Heroes Reborn",
+    "year": 1996,
+    "core_issues": "Fantastic Four (1996) #1-13, Avengers (1996) #1-13, Iron Man (1996) #1-13, Captain America (1996) #1-13",
+    "importance": "recommended",
+    "synopsis": "After Onslaught, the Avengers, Fantastic Four, Iron Man, and Captain America are shunted into a pocket universe created by Franklin Richards. Jim Lee and Rob Liefeld reimagine these heroes from scratch in a parallel continuity. The experiment runs for one year before the heroes return to the main Marvel Universe. Commercially successful but critically divisive — the Image founders' Marvel work was polarizing.",
+    "impact": "A full-year reboot of Marvel's non-mutant flagship titles. Wildstorm and Extreme Studios produce Marvel books. Tests the waters for continuity reboots.",
+    "prerequisites": "Onslaught for why the heroes are gone.",
+    "consequences": "Heroes Return (1998) brings the characters back with new creative teams (Busiek/Pérez Avengers, Waid/Wieringo FF). The pocket universe concept is later revisited.",
+    "era_slug": "heroes-reborn-return",
+    "tags": [
+      "avengers",
+      "fantastic-four",
+      "iron-man",
+      "captain-america",
+      "franklin-richards",
+      "jim-lee",
+      "rob-liefeld",
+      "reboot"
+    ]
+  },
+  {
+    "slug": "heroes-return-event",
+    "name": "Heroes Return",
+    "year": 1998,
+    "core_issues": "Heroes Reborn: The Return #1-4",
+    "importance": "recommended",
+    "synopsis": "The Avengers, Fantastic Four, and other heroes trapped in Franklin Richards' pocket universe find a way back to the main Marvel Universe. Celestials threaten both realities. Franklin sacrifices the pocket universe to save both worlds. The heroes return to a Marvel Universe that moved on without them. The event launches what many consider a creative renaissance — Kurt Busiek and George Pérez on Avengers, Mark Waid on Captain America, and Christopher Priest on Black Panther.",
+    "impact": "Ends the Heroes Reborn experiment. Launches one of Marvel's strongest creative lineups. Busiek/Pérez Avengers becomes an all-time classic run.",
+    "prerequisites": "Heroes Reborn, Onslaught.",
+    "consequences": "Busiek/Pérez Avengers, Waid Captain America, Priest Black Panther — the Marvel Knights era begins. A creative high point.",
+    "era_slug": "heroes-reborn-return",
+    "tags": [
+      "avengers",
+      "fantastic-four",
+      "franklin-richards",
+      "busiek",
+      "perez",
+      "renaissance"
+    ]
+  },
+  {
+    "slug": "ultimatum-event",
+    "name": "Ultimatum",
+    "year": 2009,
+    "core_issues": "Ultimatum #1-5",
+    "importance": "supplemental",
+    "synopsis": "Magneto, grief-stricken over the Scarlet Witch's death, uses Thor's hammer and Mjolnir to reverse Earth's magnetic poles, causing global catastrophe. Tidal waves destroy New York. Dozens of Ultimate Universe heroes die: Wasp, Dazzler, Beast, Dr. Strange, Hank Pym, Wolverine, Cyclops, Professor X, and others. Written by Jeph Loeb, the event is widely considered one of Marvel's worst stories — gratuitously violent with mass character deaths that crippled the Ultimate line.",
+    "impact": "Decimates the Ultimate Universe roster. Widely reviled by critics and fans. Effectively kills the Ultimate Universe's momentum, leading to its eventual cancellation.",
+    "prerequisites": "Ultimate Spider-Man, Ultimates, Ultimate X-Men for character investment.",
+    "consequences": "Ultimate Comics relaunch with smaller scope. Miles Morales introduced shortly after. The Ultimate Universe never recovers its earlier prestige until Hickman's 2024 revival.",
+    "era_slug": "bendis-avengers",
+    "tags": [
+      "ultimate-universe",
+      "magneto",
+      "mass-death",
+      "controversial",
+      "jeph-loeb"
+    ]
+  },
+  {
+    "slug": "spider-geddon-event",
+    "name": "Spider-Geddon",
+    "year": 2018,
+    "core_issues": "Spider-Geddon #0-5",
+    "importance": "supplemental",
+    "synopsis": "The Inheritors escape their radioactive prison world and resume their hunt of Spider-totems across the multiverse. The Spider-Army reassembles — Spider-Man (PS4), Miles Morales, Spider-Gwen, Otto Octavius (Superior Spider-Man), and others — to stop them. Otto takes a leading role and must confront his own dark tendencies while saving the multiverse.",
+    "impact": "Sequel to Spider-Verse. Relaunches Superior Spider-Man. Features the PS4 Spider-Man in comics for the first time.",
+    "prerequisites": "Spider-Verse (2014).",
+    "consequences": "Superior Spider-Man ongoing by Gage. Spider-Verse concept continues to grow in prominence ahead of the animated films.",
+    "era_slug": "all-new-all-different",
+    "tags": [
+      "spider-man",
+      "multiverse",
+      "inheritors",
+      "superior-spider-man",
+      "spider-verse"
+    ]
+  },
+  {
+    "slug": "sins-of-sinister-event",
+    "name": "Sins of Sinister",
+    "year": 2023,
+    "core_issues": "Sins of Sinister #1, Storm & The Brotherhood of Mutants #1-3, Nightcrawlers #1-3, Immoral X-Men #1-3, Sins of Sinister: Dominion #1",
+    "importance": "recommended",
+    "synopsis": "Mr. Sinister corrupts the Krakoan resurrection protocols, creating chimera clones and seizing control of the Quiet Council. The story spans 1,000 years into the future as Sinister's corrupted timeline spirals out of control — mutants conquer Earth, then the galaxy, then face cosmic consequences. Kieron Gillen crafts an ambitious time-jump narrative showing the horrifying endgame of Sinister's obsession with genetic perfection.",
+    "impact": "Reveals the full scope of Sinister's ambitions. Establishes the Dominion concept (post-Celestial AI gods). Shows what happens when resurrection has no ethical guardrails.",
+    "prerequisites": "Immortal X-Men by Gillen, House of X/Powers of X.",
+    "consequences": "Sinister's manipulations exposed. Directly sets up Fall of X. Dominion concept becomes important for the Krakoa endgame.",
+    "era_slug": "dawn-of-krakoa",
+    "tags": [
+      "x-men",
+      "krakoa",
+      "sinister",
+      "gillen",
+      "resurrection",
+      "future-timeline",
+      "dominion"
+    ]
+  },
+  {
+    "slug": "fall-of-house-of-x-event",
+    "name": "Fall of the House of X / Rise of the Powers of X",
+    "year": 2024,
+    "core_issues": "Fall of the House of X #1-5, Rise of the Powers of X #1-5",
+    "importance": "essential",
+    "synopsis": "The twin finale miniseries of the Krakoa era. Fall of the House of X follows the X-Men's final battle against Orchis on Earth, while Rise of the Powers of X reveals the cosmic-scale war against the Dominion — a machine intelligence from the far future manipulating events through Moira's timelines. Xavier makes the ultimate sacrifice. Krakoa falls, but mutantkind endures. Gerry Duggan and Kieron Gillen close out five years of interconnected X-Men storytelling.",
+    "impact": "Ends the Krakoan era definitively. Xavier dies. Orchis defeated. The mutant nation experiment concludes. Closes the loop on Moira's timeline manipulations from House of X.",
+    "prerequisites": "House of X/Powers of X, Inferno (2021), Judgment Day, Fall of X, Sins of Sinister.",
+    "consequences": "X-Men: From the Ashes relaunch. Mutants return to a pre-Krakoa status quo. New creative teams take over all X-books.",
+    "era_slug": "dawn-of-krakoa",
+    "tags": [
+      "x-men",
+      "krakoa",
+      "orchis",
+      "dominion",
+      "moira",
+      "xavier",
+      "finale",
+      "gillen",
+      "duggan"
+    ]
+  },
+  {
+    "slug": "gang-war-event",
+    "name": "Gang War",
+    "year": 2024,
+    "core_issues": "Amazing Spider-Man: Gang War First Strike #1, Amazing Spider-Man #40-43, plus tie-ins",
+    "importance": "supplemental",
+    "synopsis": "With the Kingpin gone from New York, a power vacuum erupts into an all-out gang war. Tombstone, Madame Masque, Hammerhead, Hobgoblin, and other crime bosses battle for territory. Spider-Man, Daredevil, Luke Cage, and street-level heroes are caught in the crossfire. Mayor Luke Cage must balance heroism with governance.",
+    "impact": "Reshapes New York's criminal underworld. Tests Luke Cage as mayor. Multiple street-level heroes involved.",
+    "prerequisites": "Amazing Spider-Man by Zeb Wells, Daredevil by Saladin Ahmed.",
+    "consequences": "New power dynamics in Marvel's street-level corner. Tombstone emerges as a key figure.",
+    "era_slug": "blood-hunt-doom",
+    "tags": [
+      "spider-man",
+      "daredevil",
+      "luke-cage",
+      "street-level",
+      "crime",
+      "tombstone",
+      "kingpin"
+    ]
+  },
+  {
+    "slug": "from-the-ashes-event",
+    "name": "X-Men: From the Ashes",
+    "year": 2024,
+    "core_issues": "X-Men (2024) #1+, Uncanny X-Men (2024) #1+, Exceptional X-Men #1+",
+    "importance": "recommended",
+    "synopsis": "The post-Krakoa relaunch of the X-Men line. With the mutant nation dissolved, the X-Men return to a more traditional status quo — protecting a world that hates and fears them. Jed MacKay writes the flagship X-Men, Gail Simone launches Uncanny X-Men, and Eve Ewing debuts Exceptional X-Men. Scott Summers rebuilds from the ashes of Krakoa.",
+    "impact": "Full X-line relaunch with new creative teams. Return to classic X-Men themes of prejudice and perseverance after the Krakoan nation-building experiment.",
+    "prerequisites": "Fall of the House of X / Rise of the Powers of X for why Krakoa ended.",
+    "consequences": "Ongoing. Defines the current era of X-Men storytelling.",
+    "era_slug": "blood-hunt-doom",
+    "tags": [
+      "x-men",
+      "relaunch",
+      "cyclops",
+      "jed-mackay",
+      "gail-simone",
+      "post-krakoa"
+    ]
+  },
+  {
+    "slug": "death-of-doctor-strange-event",
+    "name": "Death of Doctor Strange",
+    "year": 2021,
+    "core_issues": "Death of Doctor Strange #1-5",
+    "importance": "supplemental",
+    "synopsis": "Stephen Strange is murdered, and without the Sorcerer Supreme to protect Earth, mystical threats pour in from every dimension. A younger temporal copy of Strange from his early days must investigate his own murder and defend Earth. The Three Mothers lead an invasion. Strange's death reshapes Marvel's mystical hierarchy.",
+    "impact": "Doctor Strange dies. Clea takes over as Sorcerer Supreme. The mystical corner of Marvel is destabilized.",
+    "prerequisites": "General Doctor Strange familiarity.",
+    "consequences": "Strange (2022) series with Clea as Sorcerer Supreme by Jed MacKay. Strange eventually returns. Sets up the chain of events leading to Doom claiming the Sorcerer Supreme title.",
+    "era_slug": "dawn-of-krakoa",
+    "tags": [
+      "doctor-strange",
+      "clea",
+      "sorcerer-supreme",
+      "mystical",
+      "murder-mystery"
+    ]
+  },
+  {
+    "slug": "monsters-unleashed-event",
+    "name": "Monsters Unleashed",
+    "year": 2017,
+    "core_issues": "Monsters Unleashed #1-5",
+    "importance": "supplemental",
+    "synopsis": "Giant Leviathon monsters fall from space and attack cities worldwide. Every Marvel hero mobilizes. Kei Kawade, a young Inhuman boy, has the power to summon monsters by drawing them — and he's been inadvertently attracting the invasion. The heroes must protect Kei while he learns to control his abilities and turn the monsters against the Leviathon Mother.",
+    "impact": "Introduces Kid Kaiju (Kei Kawade). Fun all-ages crossover that puts a lighter tone on the event format.",
+    "prerequisites": "None required — accessible standalone event.",
+    "consequences": "Kid Kaiju gets a brief ongoing. Minor lasting impact on continuity.",
+    "era_slug": "all-new-all-different",
+    "tags": [
+      "monsters",
+      "kid-kaiju",
+      "inhuman",
+      "all-ages",
+      "cullen-bunn"
+    ]
+  },
+  {
+    "slug": "venomverse-event",
+    "name": "Venomverse",
+    "year": 2017,
+    "core_issues": "Venomverse #1-5",
+    "importance": "supplemental",
+    "synopsis": "Eddie Brock is pulled across the multiverse to join an army of Venoms from alternate realities against the Poisons — a species that permanently bonds with and consumes symbiote hosts. Venom variants include Venomized versions of Captain America, Wolverine, Rocket Raccoon, and others. A multiverse-hopping symbiote war.",
+    "impact": "Expands the Venom mythology across the multiverse. Introduces the Poisons as a symbiote-specific threat.",
+    "prerequisites": "Basic Venom familiarity.",
+    "consequences": "Venomized follow-up event. Feeds into the broader symbiote mythology that Donny Cates expands in his Venom run.",
+    "era_slug": "all-new-all-different",
+    "tags": [
+      "venom",
+      "symbiote",
+      "multiverse",
+      "poisons",
+      "eddie-brock"
+    ]
+  },
+  {
+    "slug": "reckoning-war-event",
+    "name": "Reckoning War",
+    "year": 2022,
+    "core_issues": "Fantastic Four: Reckoning War Alpha #1, Fantastic Four #40-46",
+    "importance": "supplemental",
+    "synopsis": "Dan Slott's long-gestating Fantastic Four storyline reaches its climax. The Reckoning, an ancient alien race that predates the Watchers, declares war on the universe. The Watchers broke their oath of non-interference to stop the Reckoning eons ago, and now they've returned. The FF must unite cosmic forces to stop a threat older than the Watchers themselves.",
+    "impact": "Expands Watcher mythology. Reveals why the Watchers became observers. Wraps up Dan Slott's FF run.",
+    "prerequisites": "Fantastic Four by Dan Slott.",
+    "consequences": "Ryan North takes over Fantastic Four. Slott's cosmic threads largely resolved.",
+    "era_slug": "dawn-of-krakoa",
+    "tags": [
+      "fantastic-four",
+      "watchers",
+      "cosmic",
+      "dan-slott",
+      "reckoning"
+    ]
   }
 ]

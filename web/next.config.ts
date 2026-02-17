@@ -42,6 +42,14 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "m.media-amazon.com",
       },
+      {
+        protocol: "https",
+        hostname: "dryofg8nmyqjw.cloudfront.net",
+      },
+      {
+        protocol: "https",
+        hostname: "archive.org",
+      },
     ],
     formats: ["image/avif", "image/webp"],
     deviceSizes: [640, 750, 828, 1080, 1200, 1920],

@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import Link from "next/link";
 import { Eye, Star, AlertCircle, Check, X, LogIn, Loader2, Zap } from "lucide-react";
 import { useAuth } from "@/hooks/useAuth";
@@ -33,46 +33,41 @@ export default function WatcherVerdict({ editionSlug, editionTitle, coverPrice, 
   const [verdict, setVerdict] = useState<VerdictData | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
-  const [fetched, setFetched] = useState(false);
+  const [requested, setRequested] = useState(false);
 
-  useEffect(() => {
-    if (!session || fetched) return;
+  const fetchVerdict = async () => {
+    if (!session) return;
+    setLoading(true);
+    setError(null);
+    setRequested(true);
+    try {
+      const response = await fetch("/api/watcher/verdict", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${session.access_token}`,
+        },
+        body: JSON.stringify({ editionSlug }),
+      });
 
-    const fetchVerdict = async () => {
-      setLoading(true);
-      setError(null);
-      try {
-        const response = await fetch("/api/watcher/verdict", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-            Authorization: `Bearer ${session.access_token}`,
-          },
-          body: JSON.stringify({ editionSlug }),
-        });
-
-        if (!response.ok) {
-          const data = await response.json();
-          if (response.status === 429) {
-            setError("Rate limit reached. Verdict will be available later.");
-          } else {
-            setError(data.error || "Failed to load verdict");
-          }
-          return;
-        }
-
+      if (!response.ok) {
         const data = await response.json();
-        setVerdict(data.verdict);
-      } catch {
-        setError("Failed to connect");
-      } finally {
-        setLoading(false);
-        setFetched(true);
+        if (response.status === 429) {
+          setError("Rate limit reached. Verdict will be available later.");
+        } else {
+          setError(data.error || "Failed to load verdict");
+        }
+        return;
       }
-    };
 
-    fetchVerdict();
-  }, [session, editionSlug, fetched]);
+      const data = await response.json();
+      setVerdict(data.verdict);
+    } catch {
+      setError("Failed to connect");
+    } finally {
+      setLoading(false);
+    }
+  };
 
   // Owned edition slugs for prerequisite checking
   const ownedSlugs = new Set(items.map((i) => i.edition_slug));
@@ -107,6 +102,40 @@ export default function WatcherVerdict({ editionSlug, editionTitle, coverPrice, 
           <LogIn size={14} />
           Sign in for personalized verdicts
         </Link>
+      </section>
+    );
+  }
+
+  // Not yet requested — show CTA button
+  if (!requested) {
+    return (
+      <section
+        className="rounded-lg border p-6 mt-4"
+        style={{
+          background: "var(--bg-secondary)",
+          borderColor: "var(--border-default)",
+        }}
+      >
+        <div className="flex items-center gap-2 mb-3">
+          <Eye size={18} style={{ color: "var(--accent-purple)" }} />
+          <h2
+            className="text-lg font-bold tracking-tight"
+            style={{ fontFamily: "var(--font-bricolage), sans-serif" }}
+          >
+            The Watcher&apos;s Verdict
+          </h2>
+        </div>
+        <p className="text-sm mb-3" style={{ color: "var(--text-tertiary)" }}>
+          Get an AI-powered review with continuity analysis, value breakdown, and personalized prerequisite tracking.
+        </p>
+        <button
+          onClick={fetchVerdict}
+          className="inline-flex items-center gap-2 px-4 py-2 rounded-lg text-xs font-bold transition-all hover:brightness-110 cursor-pointer"
+          style={{ background: "var(--accent-purple)", color: "#fff" }}
+        >
+          <Eye size={14} />
+          Request The Watcher&apos;s Verdict
+        </button>
       </section>
     );
   }
@@ -160,12 +189,20 @@ export default function WatcherVerdict({ editionSlug, editionTitle, coverPrice, 
             The Watcher&apos;s Verdict
           </h2>
         </div>
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 mb-3">
           <AlertCircle size={14} style={{ color: "var(--text-tertiary)" }} />
           <p className="text-sm" style={{ color: "var(--text-tertiary)" }}>
             {error}
           </p>
         </div>
+        <button
+          onClick={fetchVerdict}
+          className="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg text-xs font-medium transition-all hover:brightness-110 cursor-pointer"
+          style={{ background: "var(--bg-tertiary)", color: "var(--text-secondary)", border: "1px solid var(--border-default)" }}
+        >
+          <Eye size={12} />
+          Try again
+        </button>
       </section>
     );
   }
