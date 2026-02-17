@@ -1,0 +1,23 @@
+{
+  "archive_total": 2023,
+  "existing_total": 987,
+  "variant_merges": 45,
+  "after_variant_merge": 1978,
+  "star_wars_excluded": 101,
+  "conan_excluded": 36,
+  "marvel_entries": 1841,
+  "isbn_duplicates_removed": 49,
+  "isbn_backfill_updates": 178,
+  "fuzzy_matches": 1,
+  "fuzzy_removed": 1,
+  "final_new_entries": 1791,
+  "fuzzy_match_details": [
+    {
+      "existing_slug": "conan-barbarian-omnibus-v1",
+      "existing_title": "Conan the Barbarian: The Original Marvel Years Omnibus Vol. 1",
+      "archive_title": "Conan The Barbarian: The Original Marvel Years Omnibus Vol. 7 HC",
+      "archive_isbn": "9781302934323",
+      "match_ratio": 0.9836
+    }
+  ]
+}

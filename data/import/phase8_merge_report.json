@@ -1,0 +1,16 @@
+{
+  "existing_editions": 987,
+  "new_editions": 1791,
+  "merged_editions": 2778,
+  "existing_connections": 1777,
+  "new_connections": 3939,
+  "merged_connections": 5716,
+  "existing_issues": 19098,
+  "new_issues": 31323,
+  "merged_issues": 50421,
+  "isbn_backfills_applied": 176,
+  "edition_validation_errors": 35,
+  "slug_collision_errors": 0,
+  "connection_validation_errors": 0,
+  "status": "SUCCESS"
+}

@@ -1,0 +1,247 @@
+{
+  "total_characters": 255,
+  "total_handbook": 539,
+  "chars_without_handbook": 120,
+  "tier1_count": 39,
+  "tier2_count": 8,
+  "tier3_count": 73,
+  "tier1": [
+    {
+      "slug": "peter-parker",
+      "name": "Peter Parker",
+      "editions": 20
+    },
+    {
+      "slug": "steve-rogers",
+      "name": "Steve Rogers",
+      "editions": 20
+    },
+    {
+      "slug": "tony-stark",
+      "name": "Tony Stark",
+      "editions": 20
+    },
+    {
+      "slug": "thor-odinson",
+      "name": "Thor Odinson",
+      "editions": 20
+    },
+    {
+      "slug": "bruce-banner",
+      "name": "Bruce Banner",
+      "editions": 20
+    },
+    {
+      "slug": "clint-barton",
+      "name": "Clint Barton",
+      "editions": 20
+    },
+    {
+      "slug": "t-challa",
+      "name": "T'Challa",
+      "editions": 20
+    },
+    {
+      "slug": "matt-murdock",
+      "name": "Matt Murdock",
+      "editions": 20
+    },
+    {
+      "slug": "marc-spector",
+      "name": "Marc Spector",
+      "editions": 20
+    },
+    {
+      "slug": "stephen-strange",
+      "name": "Stephen Strange",
+      "editions": 20
+    },
+    {
+      "slug": "ghost-rider-ketch",
+      "name": "Danny Ketch",
+      "editions": 20
+    },
+    {
+      "slug": "venom-brock",
+      "name": "Eddie Brock",
+      "editions": 20
+    },
+    {
+      "slug": "laura-kinney",
+      "name": "Laura Kinney",
+      "editions": 20
+    },
+    {
+      "slug": "spectrum",
+      "name": "Monica Rambeau",
+      "editions": 20
+    },
+    {
+      "slug": "carol-danvers",
+      "name": "Carol Danvers",
+      "editions": 20
+    },
+    {
+      "slug": "bucky-barnes",
+      "name": "James Buchanan Barnes",
+      "editions": 20
+    },
+    {
+      "slug": "sam-wilson",
+      "name": "Sam Wilson",
+      "editions": 20
+    },
+    {
+      "slug": "conan",
+      "name": "Conan the Barbarian",
+      "editions": 20
+    },
+    {
+      "slug": "ghost-spider",
+      "name": "Ghost-Spider",
+      "editions": 20
+    },
+    {
+      "slug": "devil-dinosaur",
+      "name": "Devil Dinosaur",
+      "editions": 20
+    },
+    {
+      "slug": "guardian-hudson",
+      "name": "James MacDonald Hudson",
+      "editions": 19
+    },
+    {
+      "slug": "beyonder",
+      "name": "The Beyonder",
+      "editions": 16
+    },
+    {
+      "slug": "baron-zemo-helmut",
+      "name": "Helmut Zemo",
+      "editions": 13
+    },
+    {
+      "slug": "yelena-belova",
+      "name": "Yelena Belova",
+      "editions": 13
+    },
+    {
+      "slug": "kid-omega",
+      "name": "Kid Omega",
+      "editions": 13
+    },
+    {
+      "slug": "natasha-romanoff",
+      "name": "Natasha Romanoff",
+      "editions": 12
+    },
+    {
+      "slug": "wanda-maximoff",
+      "name": "Wanda Maximoff",
+      "editions": 11
+    },
+    {
+      "slug": "darth-vader",
+      "name": "Darth Vader",
+      "editions": 11
+    },
+    {
+      "slug": "nova-rider",
+      "name": "Richard Rider",
+      "editions": 10
+    },
+    {
+      "slug": "nova-alexander",
+      "name": "Sam Alexander",
+      "editions": 10
+    },
+    {
+      "slug": "ororo-munroe",
+      "name": "Ororo Munroe",
+      "editions": 8
+    },
+    {
+      "slug": "charles-xavier",
+      "name": "Charles Xavier",
+      "editions": 8
+    },
+    {
+      "slug": "doctor-aphra",
+      "name": "Doctor Aphra",
+      "editions": 7
+    },
+    {
+      "slug": "kull",
+      "name": "Kull the Conqueror",
+      "editions": 7
+    },
+    {
+      "slug": "kang",
+      "name": "Nathaniel Richards",
+      "editions": 6
+    },
+    {
+      "slug": "white-wolf",
+      "name": "Hunter",
+      "editions": 6
+    },
+    {
+      "slug": "ben-grimm",
+      "name": "Ben Grimm",
+      "editions": 5
+    },
+    {
+      "slug": "captain-britain",
+      "name": "Brian Braddock",
+      "editions": 5
+    },
+    {
+      "slug": "black-cat",
+      "name": "Felicia Hardy",
+      "editions": 5
+    }
+  ],
+  "tier2": [
+    {
+      "slug": "silk",
+      "name": "Cindy Moon",
+      "editions": 4
+    },
+    {
+      "slug": "kwannon",
+      "name": "Kwannon",
+      "editions": 3
+    },
+    {
+      "slug": "knull",
+      "name": "Knull",
+      "editions": 3
+    },
+    {
+      "slug": "quasar-vaughn",
+      "name": "Wendell Vaughn",
+      "editions": 3
+    },
+    {
+      "slug": "johnny-storm",
+      "name": "Johnny Storm",
+      "editions": 2
+    },
+    {
+      "slug": "dani-moonstar",
+      "name": "Danielle Moonstar",
+      "editions": 2
+    },
+    {
+      "slug": "wasp-nadia",
+      "name": "Nadia Van Dyne",
+      "editions": 2
+    },
+    {
+      "slug": "darth-maul",
+      "name": "Darth Maul",
+      "editions": 2
+    }
+  ]
+}

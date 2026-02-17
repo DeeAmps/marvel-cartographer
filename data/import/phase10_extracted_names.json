@@ -1,0 +1,205 @@
+{
+  "total_extracted": 56,
+  "already_exist": 23,
+  "missing": 33,
+  "missing_characters": [
+    {
+      "name": "Conan the Barbarian",
+      "universe": "Hyborian Age",
+      "mentions": 66,
+      "edition_count": 45
+    },
+    {
+      "name": "Doctor Aphra",
+      "universe": "Star Wars",
+      "mentions": 36,
+      "edition_count": 18
+    },
+    {
+      "name": "Ghost-Spider (Gwen Stacy)",
+      "universe": "Earth-616",
+      "mentions": 34,
+      "edition_count": 22
+    },
+    {
+      "name": "Darth Vader",
+      "universe": "Star Wars",
+      "mentions": 25,
+      "edition_count": 25
+    },
+    {
+      "name": "Boba Fett",
+      "universe": "Star Wars",
+      "mentions": 11,
+      "edition_count": 11
+    },
+    {
+      "name": "Devil Dinosaur",
+      "universe": "Earth-616",
+      "mentions": 8,
+      "edition_count": 8
+    },
+    {
+      "name": "Gwenpool",
+      "universe": "Earth-616",
+      "mentions": 7,
+      "edition_count": 7
+    },
+    {
+      "name": "Emperor Palpatine",
+      "universe": "Star Wars",
+      "mentions": 7,
+      "edition_count": 5
+    },
+    {
+      "name": "Kull the Conqueror",
+      "universe": "Hyborian Age",
+      "mentions": 6,
+      "edition_count": 6
+    },
+    {
+      "name": "Kid Loki",
+      "universe": "Earth-616",
+      "mentions": 5,
+      "edition_count": 5
+    },
+    {
+      "name": "Darth Maul",
+      "universe": "Star Wars",
+      "mentions": 5,
+      "edition_count": 5
+    },
+    {
+      "name": "Yelena Belova",
+      "universe": "Earth-616",
+      "mentions": 4,
+      "edition_count": 4
+    },
+    {
+      "name": "Red Sonja",
+      "universe": "Hyborian Age",
+      "mentions": 4,
+      "edition_count": 4
+    },
+    {
+      "name": "Han Solo",
+      "universe": "Star Wars",
+      "mentions": 4,
+      "edition_count": 4
+    },
+    {
+      "name": "Obi-Wan Kenobi",
+      "universe": "Star Wars",
+      "mentions": 4,
+      "edition_count": 4
+    },
+    {
+      "name": "Qi'ra",
+      "universe": "Star Wars",
+      "mentions": 4,
+      "edition_count": 4
+    },
+    {
+      "name": "Grand Admiral Thrawn",
+      "universe": "Star Wars",
+      "mentions": 4,
+      "edition_count": 4
+    },
+    {
+      "name": "Red Guardian",
+      "universe": "Earth-616",
+      "mentions": 3,
+      "edition_count": 3
+    },
+    {
+      "name": "Kid Omega (Quentin Quire)",
+      "universe": "Earth-616",
+      "mentions": 3,
+      "edition_count": 3
+    },
+    {
+      "name": "Jabba the Hutt",
+      "universe": "Star Wars",
+      "mentions": 3,
+      "edition_count": 3
+    },
+    {
+      "name": "Anakin Skywalker",
+      "universe": "Star Wars",
+      "mentions": 2,
+      "edition_count": 2
+    },
+    {
+      "name": "Kylo Ren",
+      "universe": "Star Wars",
+      "mentions": 2,
+      "edition_count": 2
+    },
+    {
+      "name": "Luke Skywalker",
+      "universe": "Star Wars",
+      "mentions": 2,
+      "edition_count": 2
+    },
+    {
+      "name": "Ahsoka Tano",
+      "universe": "Star Wars",
+      "mentions": 2,
+      "edition_count": 1
+    },
+    {
+      "name": "Honey Badger (Gabby Kinney)",
+      "universe": "Earth-616",
+      "mentions": 1,
+      "edition_count": 1
+    },
+    {
+      "name": "Jimmy Woo",
+      "universe": "Earth-616",
+      "mentions": 1,
+      "edition_count": 1
+    },
+    {
+      "name": "Aero (Lei Ling)",
+      "universe": "Earth-616",
+      "mentions": 1,
+      "edition_count": 1
+    },
+    {
+      "name": "Sword Master (Lin Lie)",
+      "universe": "Earth-616",
+      "mentions": 1,
+      "edition_count": 1
+    },
+    {
+      "name": "Solomon Kane",
+      "universe": "Hyborian Age",
+      "mentions": 1,
+      "edition_count": 1
+    },
+    {
+      "name": "Poe Dameron",
+      "universe": "Star Wars",
+      "mentions": 1,
+      "edition_count": 1
+    },
+    {
+      "name": "Captain Phasma",
+      "universe": "Star Wars",
+      "mentions": 1,
+      "edition_count": 1
+    },
+    {
+      "name": "Chewbacca",
+      "universe": "Star Wars",
+      "mentions": 1,
+      "edition_count": 1
+    },
+    {
+      "name": "Yoda",
+      "universe": "Star Wars",
+      "mentions": 1,
+      "edition_count": 1
+    }
+  ]
+}

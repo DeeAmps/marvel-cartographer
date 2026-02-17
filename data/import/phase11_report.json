@@ -1,0 +1,14 @@
+{
+  "handbook_entries": 539,
+  "entries_updated": 479,
+  "entries_unchanged": 60,
+  "new_edition_links": 5847,
+  "new_event_links": 1113,
+  "invalid_slugs_removed": 82,
+  "edition_coverage_pct": 62.5,
+  "event_coverage_pct": 98.8,
+  "editions_referenced": 1736,
+  "editions_total": 2778,
+  "events_referenced": 84,
+  "events_total": 85
+}

@@ -1,0 +1,299 @@
+[
+  {
+    "slug": "conan",
+    "name": "Conan the Barbarian",
+    "aliases": ["Conan of Cimmeria", "Conan the Cimmerian", "Amra the Lion"],
+    "first_appearance_issue": "Conan the Barbarian #1 (1970)",
+    "universe": "Hyborian Age",
+    "teams": [],
+    "description": "A Cimmerian warrior who roams the Hyborian Age, an era predating recorded history. Created by Robert E. Howard in 1932, Conan was adapted into Marvel Comics by Roy Thomas and Barry Windsor-Smith starting with Conan the Barbarian #1 (1970). He rose from thief and mercenary to King of Aquilonia, wielding unmatched combat skill and savage cunning across one of Marvel's longest-running series."
+  },
+  {
+    "slug": "doctor-aphra",
+    "name": "Doctor Aphra",
+    "aliases": ["Chelli Lona Aphra"],
+    "first_appearance_issue": "Darth Vader #3 (2015)",
+    "universe": "Star Wars",
+    "teams": [],
+    "description": "A rogue archaeologist and one of the few original characters created for Marvel's Star Wars comics. Introduced in Kieron Gillen's Darth Vader series, Aphra is a morally grey treasure hunter who works with — and against — both the Empire and the Rebellion. She is accompanied by the homicidal droid pair BT-1 and 0-0-0, and starred in her own solo series running over 50 issues."
+  },
+  {
+    "slug": "ghost-spider",
+    "name": "Ghost-Spider",
+    "aliases": ["Spider-Woman", "Spider-Gwen", "Gwen Stacy"],
+    "first_appearance_issue": "Edge of Spider-Verse #2 (2014)",
+    "universe": "Earth-65",
+    "teams": ["Spider-Army", "Web Warriors"],
+    "description": "An alternate-universe Gwen Stacy who was bitten by the radioactive spider instead of Peter Parker. Originally known as Spider-Woman of Earth-65, she became a breakout star of the Spider-Verse event and was given her own ongoing series. She later adopted the Ghost-Spider identity and enrolled at ESU in the main Marvel universe (Earth-616)."
+  },
+  {
+    "slug": "darth-vader",
+    "name": "Darth Vader",
+    "aliases": ["Anakin Skywalker", "The Chosen One", "Lord Vader"],
+    "first_appearance_issue": "Star Wars #1 (1977)",
+    "universe": "Star Wars",
+    "teams": ["Galactic Empire", "Sith"],
+    "description": "The Dark Lord of the Sith and enforcer of the Galactic Empire. Marvel's Star Wars comics have explored Vader extensively across multiple solo series by Kieron Gillen, Charles Soule, and Greg Pak, covering periods between the original trilogy films. These series reveal his early days building his Sith identity, his discovery of Luke Skywalker's existence, and his complex relationship with the Emperor."
+  },
+  {
+    "slug": "boba-fett",
+    "name": "Boba Fett",
+    "aliases": [],
+    "first_appearance_issue": "Star Wars #42 (1980)",
+    "universe": "Star Wars",
+    "teams": ["Bounty Hunters Guild"],
+    "description": "The galaxy's most feared bounty hunter, a clone of Jango Fett raised as his son on Kamino. In Marvel's Star Wars comics, Boba Fett appears across multiple series as a recurring antagonist, hunting Han Solo and taking jobs from Darth Vader and Jabba the Hutt. He featured prominently in the War of the Bounty Hunters crossover event."
+  },
+  {
+    "slug": "devil-dinosaur",
+    "name": "Devil Dinosaur",
+    "aliases": ["Devil", "Big Red"],
+    "first_appearance_issue": "Devil Dinosaur #1 (1978)",
+    "universe": "Earth-616",
+    "teams": ["Future Foundation"],
+    "description": "A massive, intelligent red Tyrannosaurus rex created by Jack Kirby. Originally from a prehistoric alternate Earth (Dinosaur World), Devil Dinosaur was bonded to Moon-Boy before being transported to the modern Marvel Universe. He later became the partner of Lunella Lafayette (Moon Girl), sharing a consciousness-swapping bond with the young Inhuman super-genius."
+  },
+  {
+    "slug": "gwenpool",
+    "name": "Gwenpool",
+    "aliases": ["Gwen Poole"],
+    "first_appearance_issue": "Howard the Duck #1 (2015, backup story)",
+    "universe": "Earth-616",
+    "teams": ["West Coast Avengers", "MODOK's Mercenaries"],
+    "description": "Gwen Poole is a girl from 'our' world who was transported into the Marvel Universe. With knowledge of comics storylines and the awareness that she exists in a comic book, she uses her meta-knowledge to survive despite having no actual superpowers. Created initially as a variant cover gag combining Gwen Stacy and Deadpool aesthetics, she became a genuine character with her own ongoing series, The Unbelievable Gwenpool."
+  },
+  {
+    "slug": "emperor-palpatine",
+    "name": "Emperor Palpatine",
+    "aliases": ["Darth Sidious", "The Emperor", "Sheev Palpatine"],
+    "first_appearance_issue": "Star Wars #1 (1977, mentioned); The Empire Strikes Back adaptation (1980, first appearance)",
+    "universe": "Star Wars",
+    "teams": ["Galactic Empire", "Sith"],
+    "description": "The Dark Lord of the Sith who orchestrated the fall of the Galactic Republic and the rise of the Empire. In Marvel's Star Wars comics, Palpatine appears as the shadowy puppet master behind Darth Vader, manipulating events from the Imperial throne. Various series explore his machinations between the films, including his schemes on Exegol and his obsession with controlling the Force."
+  },
+  {
+    "slug": "kull",
+    "name": "Kull the Conqueror",
+    "aliases": ["Kull of Atlantis", "King Kull"],
+    "first_appearance_issue": "Creatures on the Loose #10 (1971)",
+    "universe": "Hyborian Age",
+    "teams": [],
+    "description": "A barbarian from Atlantis who conquered the throne of Valusia in the pre-Cataclysmic Age, set thousands of years before Conan's Hyborian Age. Created by Robert E. Howard in 1929, Kull was adapted by Marvel in the early 1970s. His stories involve battles against serpent-men infiltrators and sorcerous threats to his kingdom, exploring themes of civilization versus barbarism."
+  },
+  {
+    "slug": "kid-loki",
+    "name": "Kid Loki",
+    "aliases": ["Loki Laufeyson", "Ikol"],
+    "first_appearance_issue": "Thor #617 (2010)",
+    "universe": "Earth-616",
+    "teams": ["Young Avengers"],
+    "description": "A reincarnated younger version of Loki who appeared after the original Loki's death during the Siege of Asgard. Written primarily by Kieron Gillen in Journey into Mystery and later by Al Ewing, Kid Loki struggled to escape his predecessor's villainous legacy. His arc — a trickster god trying to be good while the universe expects him to be evil — is one of Marvel's most celebrated modern character studies."
+  },
+  {
+    "slug": "darth-maul",
+    "name": "Darth Maul",
+    "aliases": ["Maul"],
+    "first_appearance_issue": "Star Wars: Darth Maul #1 (2000)",
+    "universe": "Star Wars",
+    "teams": ["Sith", "Crimson Dawn"],
+    "description": "The Zabrak Sith apprentice of Darth Sidious, trained as a weapon from childhood. In Marvel's Star Wars comics, Maul has starred in multiple miniseries exploring his time before The Phantom Menace and his survival after being bisected. He later became the shadowy leader of the Crimson Dawn crime syndicate, a role explored extensively in the Crimson Reign crossover."
+  },
+  {
+    "slug": "yelena-belova",
+    "name": "Yelena Belova",
+    "aliases": ["Black Widow", "White Widow"],
+    "first_appearance_issue": "Inhumans #5 (1999)",
+    "universe": "Earth-616",
+    "teams": ["Red Room", "Thunderbolts", "S.H.I.E.L.D."],
+    "description": "The second woman to bear the Black Widow title, trained in the Red Room as Natasha Romanoff's successor. Yelena has served as both villain and anti-hero, working with the Thunderbolts and various intelligence agencies. She gained wider recognition through the MCU's Black Widow film and has recently adopted the White Widow identity in Marvel Comics."
+  },
+  {
+    "slug": "red-sonja",
+    "name": "Red Sonja",
+    "aliases": ["She-Devil with a Sword", "Sonja of Hyrkania"],
+    "first_appearance_issue": "Conan the Barbarian #23 (1973)",
+    "universe": "Hyborian Age",
+    "teams": [],
+    "description": "A fierce warrior woman of Hyrkania, known as the She-Devil with a Sword. Created by Roy Thomas and Barry Windsor-Smith for Marvel Comics, inspired by Robert E. Howard's Red Sonya of Rogatino. She first appeared alongside Conan and eventually starred in her own Marvel feature. Red Sonja became one of the most iconic female sword-and-sorcery characters in comics history."
+  },
+  {
+    "slug": "han-solo",
+    "name": "Han Solo",
+    "aliases": ["Captain Solo"],
+    "first_appearance_issue": "Star Wars #1 (1977)",
+    "universe": "Star Wars",
+    "teams": ["Rebel Alliance", "Smugglers"],
+    "description": "The Corellian smuggler and captain of the Millennium Falcon who became a key leader of the Rebel Alliance. In Marvel's Star Wars comics, Han's adventures between the original trilogy films have been extensively explored, including his solo miniseries, his rivalry with other smugglers, and his relationships with Chewbacca and Leia Organa."
+  },
+  {
+    "slug": "obi-wan-kenobi",
+    "name": "Obi-Wan Kenobi",
+    "aliases": ["Ben Kenobi", "Old Ben"],
+    "first_appearance_issue": "Star Wars #1 (1977)",
+    "universe": "Star Wars",
+    "teams": ["Jedi Order", "Rebel Alliance"],
+    "description": "A legendary Jedi Master who trained both Anakin and Luke Skywalker. In Marvel's Star Wars comics, Obi-Wan's exile years on Tatooine have been explored through journal entries read by Luke, revealing his struggles to protect the young Skywalker from a distance while hiding from the Empire. These stories appear as backup features across the main Star Wars series."
+  },
+  {
+    "slug": "qira",
+    "name": "Qi'ra",
+    "aliases": [],
+    "first_appearance_issue": "Star Wars: Age of Republic Special #1 (2019)",
+    "universe": "Star Wars",
+    "teams": ["Crimson Dawn"],
+    "description": "The leader of the Crimson Dawn crime syndicate and Han Solo's former love interest. In Marvel's Star Wars comics, Qi'ra is the central figure of the War of the Bounty Hunters and Crimson Reign crossover events, orchestrating a galaxy-spanning scheme against both the Empire and the Rebellion. She wields a Sith artifact and commands forces that threaten every major faction."
+  },
+  {
+    "slug": "thrawn",
+    "name": "Grand Admiral Thrawn",
+    "aliases": ["Mitth'raw'nuruodo"],
+    "first_appearance_issue": "Star Wars: Thrawn #1 (2018)",
+    "universe": "Star Wars",
+    "teams": ["Galactic Empire", "Chiss Ascendancy"],
+    "description": "A Chiss military genius who rose to the rank of Grand Admiral in the Galactic Empire through sheer tactical brilliance. Originally created by Timothy Zahn for the Heir to the Empire novel, Thrawn was adapted into Marvel comics through a miniseries adapting his canonical backstory. He is known for studying a species' art to predict their military strategies."
+  },
+  {
+    "slug": "red-guardian",
+    "name": "Red Guardian",
+    "aliases": ["Alexei Shostakov", "Alexi Shostakov"],
+    "first_appearance_issue": "Avengers #43 (1967)",
+    "universe": "Earth-616",
+    "teams": ["Winter Guard", "KGB"],
+    "description": "The Soviet Union's answer to Captain America, a super-soldier who served as a Cold War counterpart to the Avengers. The original Red Guardian, Alexei Shostakov, was Natasha Romanoff's husband before his apparent death. Multiple individuals have held the mantle, with the character gaining wider recognition through the MCU's Black Widow film."
+  },
+  {
+    "slug": "kid-omega",
+    "name": "Kid Omega",
+    "aliases": ["Quentin Quire", "Phoenix"],
+    "first_appearance_issue": "New X-Men #134 (2003)",
+    "universe": "Earth-616",
+    "teams": ["X-Men", "X-Force", "West Coast Avengers"],
+    "description": "An Omega-level telepath and one of the most powerful mutants alive, introduced by Grant Morrison as a rebellious student at Xavier's School. Quentin Quire led a violent riot against the school in the 'Riot at Xavier's' arc (New X-Men #134-138). He later matured into an X-Men member during the Krakoan era, even briefly hosting the Phoenix Force."
+  },
+  {
+    "slug": "jabba-the-hutt",
+    "name": "Jabba the Hutt",
+    "aliases": ["Jabba Desilijic Tiure"],
+    "first_appearance_issue": "Star Wars #2 (1977)",
+    "universe": "Star Wars",
+    "teams": ["Hutt Cartel"],
+    "description": "The notorious Hutt crime lord who controls a vast criminal empire from his palace on Tatooine. In Marvel's Star Wars comics, Jabba serves as a recurring antagonist, employing bounty hunters and clashing with Han Solo over unpaid debts. His criminal network features prominently in the War of the Bounty Hunters storyline."
+  },
+  {
+    "slug": "anakin-skywalker",
+    "name": "Anakin Skywalker",
+    "aliases": ["The Chosen One", "Ani"],
+    "first_appearance_issue": "Star Wars: Episode I — The Phantom Menace adaptation (1999)",
+    "universe": "Star Wars",
+    "teams": ["Jedi Order", "Galactic Republic"],
+    "description": "The prophesied Chosen One of the Force who was trained as a Jedi but fell to the dark side, becoming Darth Vader. In Marvel's Star Wars comics, Anakin's time as a Jedi Knight during the Clone Wars has been explored in the Age of Republic series and various crossover events, depicting his relationship with Padmé Amidala and Obi-Wan Kenobi."
+  },
+  {
+    "slug": "kylo-ren",
+    "name": "Kylo Ren",
+    "aliases": ["Ben Solo", "Master of the Knights of Ren"],
+    "first_appearance_issue": "Star Wars: The Force Awakens adaptation #1 (2016)",
+    "universe": "Star Wars",
+    "teams": ["First Order", "Knights of Ren"],
+    "description": "The son of Han Solo and Leia Organa who turned to the dark side under Snoke's influence, becoming the master of the Knights of Ren. In Marvel's Star Wars comics, his origin story was explored in Charles Soule's The Rise of Kylo Ren miniseries, depicting his fall from Ben Solo to dark side warrior and the destruction of Luke's Jedi temple."
+  },
+  {
+    "slug": "luke-skywalker",
+    "name": "Luke Skywalker",
+    "aliases": ["Commander Skywalker", "Red Five"],
+    "first_appearance_issue": "Star Wars #1 (1977)",
+    "universe": "Star Wars",
+    "teams": ["Rebel Alliance", "Jedi Order"],
+    "description": "The farm boy from Tatooine who became the galaxy's last Jedi and a leader of the Rebel Alliance. Marvel's Star Wars comics extensively explore Luke's journey between the original trilogy films — his early struggles to learn the Force without a teacher, his discovery of his father's identity, and his growth from impulsive pilot to disciplined warrior."
+  },
+  {
+    "slug": "ahsoka-tano",
+    "name": "Ahsoka Tano",
+    "aliases": ["Snips", "Fulcrum", "Ashla"],
+    "first_appearance_issue": "Star Wars: The Clone Wars #1 (2008, Dark Horse); Marvel debut in various Star Wars crossovers",
+    "universe": "Star Wars",
+    "teams": ["Jedi Order", "Rebel Alliance"],
+    "description": "A Togruta former Jedi Padawan of Anakin Skywalker who left the Jedi Order and later became a key figure in the early Rebel Alliance under the codename Fulcrum. While primarily developed in animation, Ahsoka has appeared in Marvel's Star Wars comics and gained her own dedicated stories, bridging the gap between the prequel and original trilogy eras."
+  },
+  {
+    "slug": "honey-badger",
+    "name": "Honey Badger",
+    "aliases": ["Gabby Kinney", "Scout"],
+    "first_appearance_issue": "All-New Wolverine #2 (2016)",
+    "universe": "Earth-616",
+    "teams": ["X-Men"],
+    "description": "A clone-sister of X-23 (Laura Kinney), created by Alchemax Genetics as one of several Laura clones. Gabrielle is younger and more cheerful than Laura, providing a contrasting personality. She has a single retractable bone claw in each hand. Gabby was a central character in Tom Taylor's acclaimed All-New Wolverine run and later adopted the codename Scout."
+  },
+  {
+    "slug": "jimmy-woo",
+    "name": "Jimmy Woo",
+    "aliases": ["James Woo"],
+    "first_appearance_issue": "Yellow Claw #1 (1956)",
+    "universe": "Earth-616",
+    "teams": ["Agents of Atlas", "S.H.I.E.L.D.", "FBI"],
+    "description": "A veteran FBI and S.H.I.E.L.D. agent who became the leader of the Agents of Atlas, a team of heroes from the 1950s. One of Marvel's earliest Asian-American characters, Jimmy Woo predates the Marvel Universe itself. He was reinvented by Jeff Parker as the head of Atlas, a secret organization, and gained wider recognition through the MCU's WandaVision and Ant-Man films."
+  },
+  {
+    "slug": "aero",
+    "name": "Aero",
+    "aliases": ["Lei Ling"],
+    "first_appearance_issue": "Aero #1 (2019, Marvel; originally War of Realms: New Agents of Atlas #1)",
+    "universe": "Earth-616",
+    "teams": ["Agents of Atlas"],
+    "description": "A Chinese architect from Shanghai who can manipulate wind and air currents. Lei Ling was created as part of Marvel's New Agents of Atlas initiative, representing the publisher's expansion into Asian markets. She debuted during the War of the Realms event and joined the pan-Asian Agents of Atlas team led by Brawn (Amadeus Cho)."
+  },
+  {
+    "slug": "sword-master",
+    "name": "Sword Master",
+    "aliases": ["Lin Lie"],
+    "first_appearance_issue": "Sword Master #1 (2019)",
+    "universe": "Earth-616",
+    "teams": ["Agents of Atlas"],
+    "description": "A young Chinese swordsman who wields the Sword of Fu Xi, an ancient mystical weapon tied to Chinese mythology. Lin Lie was searching for his missing father when he discovered his destiny as the Sword Master. He joined the Agents of Atlas and his stories blend Marvel superheroics with Chinese mythological elements."
+  },
+  {
+    "slug": "solomon-kane",
+    "name": "Solomon Kane",
+    "aliases": [],
+    "first_appearance_issue": "Savage Sword of Conan #13 (1975, Marvel magazine)",
+    "universe": "Hyborian Age",
+    "teams": [],
+    "description": "A 16th-century English Puritan adventurer and swordsman created by Robert E. Howard. Solomon Kane roams the world fighting evil with his rapier, dirk, and flintlock pistols, driven by an unrelenting moral conviction. Marvel adapted Kane's prose stories in their black-and-white magazine line, with the character appearing in Savage Sword of Conan and later receiving his own miniseries."
+  },
+  {
+    "slug": "poe-dameron",
+    "name": "Poe Dameron",
+    "aliases": ["Black Leader"],
+    "first_appearance_issue": "Star Wars: Poe Dameron #1 (2016)",
+    "universe": "Star Wars",
+    "teams": ["Resistance", "Black Squadron"],
+    "description": "The best pilot in the Resistance and leader of Black Squadron. In Marvel's Star Wars comics, Poe starred in his own 31-issue series by Charles Soule, set before The Force Awakens, following his missions to find Lor San Tekka and the map to Luke Skywalker. The series established his supporting cast and his rivalry with First Order Agent Terex."
+  },
+  {
+    "slug": "captain-phasma",
+    "name": "Captain Phasma",
+    "aliases": [],
+    "first_appearance_issue": "Star Wars: Captain Phasma #1 (2017)",
+    "universe": "Star Wars",
+    "teams": ["First Order"],
+    "description": "The chrome-armored commander of the First Order's stormtrooper legions. In Marvel's Star Wars comics, Phasma received a four-issue miniseries by Kelly Thompson set between The Force Awakens and The Last Jedi, depicting her ruthless efforts to cover up her role in the destruction of Starkiller Base and eliminate anyone who knew of her betrayal."
+  },
+  {
+    "slug": "chewbacca",
+    "name": "Chewbacca",
+    "aliases": ["Chewie"],
+    "first_appearance_issue": "Star Wars #1 (1977)",
+    "universe": "Star Wars",
+    "teams": ["Rebel Alliance", "Smugglers"],
+    "description": "A Wookiee warrior from Kashyyyk and co-pilot of the Millennium Falcon alongside his life-partner Han Solo. In Marvel's Star Wars comics, Chewbacca starred in his own miniseries by Gerry Duggan and Phil Noto, and appears extensively throughout the main Star Wars series. His loyalty, strength, and centuries of combat experience make him one of the Rebellion's most formidable fighters."
+  },
+  {
+    "slug": "yoda",
+    "name": "Yoda",
+    "aliases": ["Master Yoda"],
+    "first_appearance_issue": "The Empire Strikes Back adaptation (1980)",
+    "universe": "Star Wars",
+    "teams": ["Jedi Order", "Jedi High Council"],
+    "description": "The legendary Jedi Grand Master who trained Jedi for over 800 years before going into exile on Dagobah after the fall of the Republic. In Marvel's Star Wars comics, Yoda appears in flashback stories within the main Star Wars series, with tales of his missions during the High Republic and Clone Wars eras providing wisdom that guides Luke Skywalker's journey."
+  }
+]

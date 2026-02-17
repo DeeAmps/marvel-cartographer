@@ -1,0 +1,2643 @@
+{
+  "timestamp": "2026-02-17T05:48:41.722Z",
+  "totalEditions": 3084,
+  "duplicateGroups": 122,
+  "isbnMismatches": 11,
+  "googleIssues": 0,
+  "deadUrls": 0,
+  "placeholders": 0,
+  "details": {
+    "duplicates": [
+      {
+        "url": "https://covers.openlibrary.org/b/id/8460021-L.jpg",
+        "editions": [
+          {
+            "title": "A-Force Complete Collection",
+            "isbn": null,
+            "slug": "a-force-complete"
+          },
+          {
+            "title": "Force Works: The Complete Collection",
+            "isbn": null,
+            "slug": "force-works-complete"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/14314858-L.jpg",
+        "editions": [
+          {
+            "title": "Age of X Complete",
+            "isbn": "9781975664404",
+            "slug": "age-of-x-complete"
+          },
+          {
+            "title": "Marvel Horror Compendium",
+            "isbn": null,
+            "slug": "marvel-horror-compendium"
+          },
+          {
+            "title": "Marvel Spotlight Omnibus",
+            "isbn": null,
+            "slug": "marvel-spotlight-omnibus"
+          }
+        ]
+      },
+      {
+        "url": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
+        "editions": [
+          {
+            "title": "Agent Venom Omnibus Mike Deodato Jr. Cover",
+            "isbn": "9781302966287",
+            "slug": "agent-venom-mike-deodato-jr-cover-omnibus"
+          },
+          {
+            "title": "Amazing Spider-Man: Beyond Omnibus HC Arthur Adams Kraven Cover",
+            "isbn": "9781302949631",
+            "slug": "asm-beyond-hc-arthur-adams-kraven-cover-omnibus"
+          },
+          {
+            "title": "Annihilation: Conquest Omnibus Clint Langley Cover",
+            "isbn": "9781302966331",
+            "slug": "annihilation-conquest-clint-langley-cover-omnibus"
+          },
+          {
+            "title": "Avengers By Busiek & Perez Omnibus Vol. 2 George Perez Time-Lost Cover",
+            "isbn": "9781302959029",
+            "slug": "avengers-by-busiek-perez-george-perez-time-lost-cover-omnibus-v2"
+          },
+          {
+            "title": "Avengers By Johns & Coipel Omnibus Jim Cheung Cover",
+            "isbn": "9781302966447",
+            "slug": "avengers-by-johns-coipel-jim-cheung-cover-omnibus"
+          },
+          {
+            "title": "Avengers By Jonathan Hickman Omnibus Vol. 1 HC Arthur Adams Cover",
+            "isbn": "9781302945480",
+            "slug": "avengers-by-jonathan-hickman-hc-arthur-adams-cover-omnibus-v1"
+          },
+          {
+            "title": "Fall Of The House Of X / Rise Of The Powers Of X Omnibus David Nakayama Cover",
+            "isbn": "9781302956820",
+            "slug": "fall-of-the-house-of-x-rise-of-the-powers-of-x-david-nakayama-cover-omnibus"
+          },
+          {
+            "title": "Fall Of The House Of X / Rise Of The Powers Of X Omnibus Pepe Larraz Cover",
+            "isbn": "9781302965228",
+            "slug": "fall-of-the-house-of-x-rise-of-the-powers-of-x-pepe-larraz-cover-omnibus"
+          },
+          {
+            "title": "Fantastic Four By Millar & Hitch Omnibus HC Silvestri Cover",
+            "isbn": "9781302949723",
+            "slug": "ff-by-millar-hitch-hc-silvestri-cover-omnibus"
+          },
+          {
+            "title": "Ghost Rider: Danny Ketch Omnibus Vol. 2 Jim Lee Cover",
+            "isbn": "9781302965457",
+            "slug": "ghost-rider-danny-ketch-jim-lee-cover-omnibus-v2"
+          },
+          {
+            "title": "Giant-Size Marvel Omnibus Gil Kane Super-Villains Team-Up Cover",
+            "isbn": "9781302964580",
+            "slug": "giant-size-marvel-gil-kane-super-villains-team-up-cover-omnibus"
+          },
+          {
+            "title": "Godzilla: The Original Marvel Years Omnibus Herb Trimpe First Issue Cover",
+            "isbn": "9781302958763",
+            "slug": "godzilla-the-original-marvel-years-herb-trimpe-first-issue-cover-omnibus"
+          },
+          {
+            "title": "Hulk: Planet Hulk Omnibus HC Ladronn Arena Cover",
+            "isbn": "9781302949693",
+            "slug": "hulk-planet-hulk-hc-ladronn-arena-cover-omnibus"
+          },
+          {
+            "title": "Marvel Masterworks: Dazzler Vol. 4 HC Variant",
+            "isbn": "9781302949242",
+            "slug": "marvel-dazzler-hc-variant-v4"
+          },
+          {
+            "title": "Marvel Masterworks: Ka-Zar Vol. 3 HC Variant",
+            "isbn": "9781302949174",
+            "slug": "marvel-ka-zar-hc-variant-v3"
+          },
+          {
+            "title": "Marvel Masterworks: Ka-Zar Vol. 4",
+            "isbn": "9781302955618",
+            "slug": "marvel-ka-zar-mmw-v4-2"
+          },
+          {
+            "title": "Marvel Masterworks: Marvel Two-In-One Vol. 8",
+            "isbn": "9781302962463",
+            "slug": "marvel-marvel-two-in-one-mmw-v8-2"
+          },
+          {
+            "title": "Marvel Masterworks: The Amazing Spider-Man Vol. 4",
+            "isbn": "9781302956073",
+            "slug": "marvel-the-amazing-spider-man-mmw-v4"
+          },
+          {
+            "title": "Marvel Masterworks: The Spectacular Spider-Man Vol. 8",
+            "isbn": "9781302962241",
+            "slug": "marvel-the-spectacular-spider-man-mmw-v8-2"
+          },
+          {
+            "title": "Marvel Masterworks: The Uncanny X-Men Vol. 15 HC Variant",
+            "isbn": "9781302949211",
+            "slug": "marvel-the-uncanny-x-men-hc-variant-v15"
+          },
+          {
+            "title": "Mighty Marvel Masterworks: The Incredible Hulk Vol. 4 - Let There Be Battle Marie Severin Original Cover",
+            "isbn": "9781302954376",
+            "slug": "mighty-marvel-the-incredible-hulk-let-there-be-battle-marie-severin-original-cover-mmw-v4"
+          },
+          {
+            "title": "Namor The Sub-Mariner Omnibus Vol. 1 Gene Colan Cover",
+            "isbn": "9781302962449",
+            "slug": "namor-the-sub-mariner-gene-colan-cover-omnibus-v1"
+          },
+          {
+            "title": "New X-Men Omnibus HC Quitely Promo Cover",
+            "isbn": "9781302949853",
+            "slug": "new-x-men-hc-quitely-promo-cover-omnibus"
+          },
+          {
+            "title": "Official Handbook Of The Marvel Universe: Master Edition Omnibus Vol. 2 X-Men Cover",
+            "isbn": "9781302963538",
+            "slug": "official-handbook-of-the-marvel-universe-master-edition-x-men-cover-omnibus-v2"
+          },
+          {
+            "title": "Return Of Wolverine Omnibus Nick Bradshaw Cover",
+            "isbn": "9781302965884",
+            "slug": "return-of-wolverine-nick-bradshaw-cover-omnibus"
+          },
+          {
+            "title": "Return Of Wolverine Omnibus R.B. Silva Cover",
+            "isbn": "9781302967383",
+            "slug": "return-of-wolverine-rb-silva-cover-omnibus"
+          },
+          {
+            "title": "Spider-Gwen: Ghost-Spider Omnibus Robinson Cover",
+            "isbn": "9781302946807",
+            "slug": "spider-gwen-ghost-spider-robinson-cover-omnibus"
+          },
+          {
+            "title": "Spider-Man By Michelinie & Bagley Omnibus Vol. 2 Mark Bagley Enemies Cover",
+            "isbn": "9781302964245",
+            "slug": "spider-man-by-michelinie-bagley-mark-bagley-enemies-cover-omnibus-v2"
+          },
+          {
+            "title": "Spider-Man Vs. Venom Omnibus HC Bagley Cover",
+            "isbn": "9781302949792",
+            "slug": "spider-man-vs-venom-hc-bagley-cover-omnibus"
+          },
+          {
+            "title": "Spider-Man: Gang War Omnibus Ryan Stegman Cover",
+            "isbn": "9781302961992",
+            "slug": "spider-man-gang-war-ryan-stegman-cover-omnibus"
+          },
+          {
+            "title": "Spider-Man: The Complete Black Costume Saga Omnibus Charles Vess Cover",
+            "isbn": "9781302959937",
+            "slug": "spider-man-the-complete-black-costume-saga-charles-vess-cover-omnibus"
+          },
+          {
+            "title": "Star Wars Legends: The Empire Omnibus Vol. 3 Chris Scalf Cover",
+            "isbn": "9781302959807",
+            "slug": "star-wars-legends-the-empire-chris-scalf-cover-omnibus-v3"
+          },
+          {
+            "title": "Strange Academy Omnibus Skottie Young Cover",
+            "isbn": "9781302961350",
+            "slug": "strange-academy-skottie-young-cover-omnibus"
+          },
+          {
+            "title": "Symbiote Spider-Man By Peter David Omnibus Nick Bradshaw Cover",
+            "isbn": "9781302961954",
+            "slug": "symbiote-spider-man-by-peter-david-nick-bradshaw-cover-omnibus"
+          },
+          {
+            "title": "The Mighty Thor Omnibus Vol. 5 John Buscema Cover",
+            "isbn": "9781302962487",
+            "slug": "the-mighty-thor-john-buscema-cover-omnibus-v5"
+          },
+          {
+            "title": "Ultimate Comics Spider-Man: Death Of Spider-Man Omnibus HC Bagley Cover",
+            "isbn": "9781302957568",
+            "slug": "ultimate-comics-spider-man-death-of-spider-man-hc-bagley-cover-omnibus"
+          },
+          {
+            "title": "What If?: The Original Marvel Series Omnibus Vol. 1 HC Kirby Cover",
+            "isbn": "9781302930561",
+            "slug": "what-if-the-original-marvel-series-hc-kirby-cover-omnibus-v1"
+          },
+          {
+            "title": "X-Force Omnibus Vol. 1 Rob Liefeld Pin-Up Cover",
+            "isbn": "9781302959135",
+            "slug": "x-force-rob-liefeld-pin-up-cover-omnibus-v1"
+          },
+          {
+            "title": "X-Men By Gerry Duggan Omnibus Joshua Cassara Cover",
+            "isbn": "9781302961442",
+            "slug": "x-men-by-gerry-duggan-joshua-cassara-cover-omnibus"
+          },
+          {
+            "title": "X-Men: Onslaught Aftermath Omnibus Joe Madureira Cover",
+            "isbn": "9781302964207",
+            "slug": "x-men-onslaught-aftermath-joe-madureira-cover-omnibus"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/7083790-L.jpg",
+        "editions": [
+          {
+            "title": "All-New X-Men by Bendis Vol. 2: Here to Stay",
+            "isbn": null,
+            "slug": "all-new-xmen-bendis-v2"
+          },
+          {
+            "title": "Ant-Man by Nick Spencer Complete Collection",
+            "isbn": null,
+            "slug": "ant-man-spencer"
+          },
+          {
+            "title": "Ant-Man by Zeb Wells",
+            "isbn": null,
+            "slug": "ant-man-zeb-wells"
+          },
+          {
+            "title": "Avengers: The Crossing",
+            "isbn": null,
+            "slug": "avengers-crossing"
+          },
+          {
+            "title": "Bishop: War College",
+            "isbn": null,
+            "slug": "bishop-war-college"
+          },
+          {
+            "title": "Champions (2020) by Eve L. Ewing",
+            "isbn": null,
+            "slug": "champions-ewing-2020"
+          },
+          {
+            "title": "Champions by Waid Vol. 2: The Freelancer Lifestyle",
+            "isbn": null,
+            "slug": "champions-waid-v2"
+          },
+          {
+            "title": "Dead X-Men by Steve Foxe",
+            "isbn": null,
+            "slug": "dead-x-men-foxe"
+          },
+          {
+            "title": "Forge (2024)",
+            "isbn": null,
+            "slug": "forge-2024"
+          },
+          {
+            "title": "Machine Man by Jack Kirby & Steve Ditko Complete Collection",
+            "isbn": null,
+            "slug": "machine-man-kirby-complete"
+          },
+          {
+            "title": "Marvel Graphic Novel Collection: The Essentials",
+            "isbn": null,
+            "slug": "marvel-graphic-novels-collection"
+          },
+          {
+            "title": "Marvel Premiere Classic Collection",
+            "isbn": null,
+            "slug": "marvel-premiere-classic"
+          },
+          {
+            "title": "Ms. Marvel by G. Willow Wilson Vol. 2: Generation Why",
+            "isbn": null,
+            "slug": "ms-marvel-wilson-v2"
+          },
+          {
+            "title": "Ms. Marvel by G. Willow Wilson Vol. 3: Crushed",
+            "isbn": null,
+            "slug": "ms-marvel-wilson-v3"
+          },
+          {
+            "title": "New Avengers (2015) by Ewing: A.I.M.",
+            "isbn": null,
+            "slug": "new-avengers-2015"
+          },
+          {
+            "title": "Nova (2015) by Sean Ryan",
+            "isbn": null,
+            "slug": "nova-sam-alexander-v2"
+          },
+          {
+            "title": "Nova by Loeb & McGuinness: The Complete Collection",
+            "isbn": null,
+            "slug": "nova-sam-alexander-complete-v1"
+          },
+          {
+            "title": "Nova by Loveness (2024)",
+            "isbn": null,
+            "slug": "nova-loveness-2024"
+          },
+          {
+            "title": "Royals",
+            "isbn": null,
+            "slug": "royals-inhumans"
+          },
+          {
+            "title": "Storm by Greg Pak",
+            "isbn": null,
+            "slug": "storm-solo-pak"
+          },
+          {
+            "title": "Storm by Murewa Ayodele",
+            "isbn": null,
+            "slug": "storm-solo-2024"
+          },
+          {
+            "title": "The Order by Matt Fraction",
+            "isbn": null,
+            "slug": "the-order-fraction"
+          },
+          {
+            "title": "The Twelve",
+            "isbn": null,
+            "slug": "the-twelve-jms"
+          },
+          {
+            "title": "Ultimate Universe by Hickman Omnibus Vol. 2",
+            "isbn": null,
+            "slug": "ultimate-universe-omnibus-v2"
+          },
+          {
+            "title": "Ultimate X-Men Vol. 1",
+            "isbn": null,
+            "slug": "ultimate-x-men-2024"
+          }
+        ]
+      },
+      {
+        "url": "https://m.media-amazon.com/images/P/1302923137.01.LZZZZZZZ.jpg",
+        "editions": [
+          {
+            "title": "Amazing Spider-Man by J. Michael Straczynski Omnibus Vol. 2",
+            "isbn": "9781302951474",
+            "slug": "asm-jms-omnibus-v2"
+          },
+          {
+            "title": "Amazing Spider-Man Straczynski Omnibus HC Vol. 02",
+            "isbn": "9781302923136",
+            "slug": "asm-straczynski-hc-omnibus-v02"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/535429-L.jpg",
+        "editions": [
+          {
+            "title": "Amazing Spider-Man by JMS Omnibus Vol. 3",
+            "isbn": null,
+            "slug": "asm-jms-omnibus-v3"
+          },
+          {
+            "title": "Amazing Spider-Man by Michelinie & Bagley Omnibus",
+            "isbn": null,
+            "slug": "asm-michelinie-bagley-omnibus"
+          }
+        ]
+      },
+      {
+        "url": "https://m.media-amazon.com/images/P/1302928651.01.LZZZZZZZ.jpg",
+        "editions": [
+          {
+            "title": "Amazing Spider-Man by Michelinie & Larsen Omnibus",
+            "isbn": null,
+            "slug": "asm-michelinie-larsen-omnibus"
+          },
+          {
+            "title": "Amazing Spider-Man By Michelinie & Mcfarlane Omnibus HC Mcfarlane Classic Costume Cover",
+            "isbn": "9781302928650",
+            "slug": "asm-by-michelinie-mcfarlane-hc-mcfarlane-classic-costume-cover-omnibus"
+          },
+          {
+            "title": "Amazing Spider-Man by Michelinie & McFarlane Omnibus Vol. 2",
+            "isbn": null,
+            "slug": "asm-michelinie-omnibus-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/5092134-L.jpg",
+        "editions": [
+          {
+            "title": "Amazing Spider-Man Compendium Vol. 1",
+            "isbn": null,
+            "slug": "asm-compendium-v1"
+          },
+          {
+            "title": "Amazing Spider-Man Omnibus Vol. 3 (Conway/Kane)",
+            "isbn": null,
+            "slug": "amazing-spider-man-omnibus-v3-conway"
+          }
+        ]
+      },
+      {
+        "url": "http://books.google.com/books/content?id=EzckDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "editions": [
+          {
+            "title": "Amazing Spider-Man Epic Collection: Return of the Sinister Six",
+            "isbn": null,
+            "slug": "asm-epic-v21-sinister-six"
+          },
+          {
+            "title": "Captain America Epic Collection: The Man Who Sold the United States",
+            "isbn": null,
+            "slug": "cap-epic-v6-man-who-sold-us"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/10413147-L.jpg",
+        "editions": [
+          {
+            "title": "Amazing Spider-Man Masterworks Vol. 3",
+            "isbn": null,
+            "slug": "spider-man-masterworks-v3"
+          },
+          {
+            "title": "America by Gabby Rivera",
+            "isbn": null,
+            "slug": "america-chavez"
+          },
+          {
+            "title": "Avengers Masterworks Vol. 2",
+            "isbn": null,
+            "slug": "avengers-masterworks-v2"
+          },
+          {
+            "title": "Daredevil Masterworks Vol. 2",
+            "isbn": null,
+            "slug": "marvel-masterworks-daredevil-v2"
+          },
+          {
+            "title": "Hulk (2025) Vol. 1",
+            "isbn": null,
+            "slug": "hulk-2025"
+          },
+          {
+            "title": "Incredible Hulk Masterworks Vol. 2",
+            "isbn": null,
+            "slug": "marvel-masterworks-hulk-v2"
+          },
+          {
+            "title": "Iron Man (2025) Vol. 1",
+            "isbn": null,
+            "slug": "iron-man-2025"
+          },
+          {
+            "title": "Marvel Masterworks: Amazing Spider-Man Vol. 4",
+            "isbn": null,
+            "slug": "marvel-masterworks-spider-man-v4"
+          },
+          {
+            "title": "Marvel Masterworks: Captain America Vol. 1",
+            "isbn": null,
+            "slug": "marvel-masterworks-captain-america-v1"
+          },
+          {
+            "title": "Marvel Masterworks: Captain America Vol. 1",
+            "isbn": "9781302956035",
+            "slug": "marvel-captain-america-mmw-v1"
+          },
+          {
+            "title": "Marvel Masterworks: Daredevil Vol. 1",
+            "isbn": null,
+            "slug": "marvel-masterworks-daredevil-v1"
+          },
+          {
+            "title": "Marvel Masterworks: Iron Man Vol. 1",
+            "isbn": null,
+            "slug": "marvel-masterworks-iron-man-v1"
+          },
+          {
+            "title": "Marvel Masterworks: Sub-Mariner Vol. 1",
+            "isbn": null,
+            "slug": "marvel-masterworks-sub-mariner-v1"
+          },
+          {
+            "title": "Marvel Masterworks: The Avengers Vol. 3",
+            "isbn": null,
+            "slug": "marvel-masterworks-avengers-v3"
+          },
+          {
+            "title": "Marvel Masterworks: The Avengers Vol. 4",
+            "isbn": null,
+            "slug": "marvel-masterworks-avengers-v4"
+          },
+          {
+            "title": "Marvel Masterworks: The Incredible Hulk Vol. 1",
+            "isbn": null,
+            "slug": "marvel-masterworks-hulk-v1"
+          },
+          {
+            "title": "Marvel Masterworks: The Mighty Thor Vol. 1",
+            "isbn": null,
+            "slug": "marvel-masterworks-thor-v1"
+          },
+          {
+            "title": "Marvel Masterworks: The Mighty Thor Vol. 2",
+            "isbn": null,
+            "slug": "marvel-masterworks-thor-v2"
+          },
+          {
+            "title": "Marvel Masterworks: The Mighty Thor Vol. 2",
+            "isbn": "9781302962647",
+            "slug": "marvel-the-mighty-thor-mmw-v2"
+          },
+          {
+            "title": "Marvel Masterworks: The X-Men Vol. 1",
+            "isbn": null,
+            "slug": "marvel-masterworks-x-men-v1"
+          },
+          {
+            "title": "Marvel Masterworks: The X-Men Vol. 2",
+            "isbn": null,
+            "slug": "marvel-masterworks-x-men-v2"
+          },
+          {
+            "title": "Mighty Avengers by Al Ewing: No Single Hero",
+            "isbn": null,
+            "slug": "mighty-avengers-ewing"
+          },
+          {
+            "title": "Thor (2025) Vol. 1",
+            "isbn": null,
+            "slug": "thor-2025"
+          },
+          {
+            "title": "X-Men by Lobdell: Zero Tolerance",
+            "isbn": null,
+            "slug": "xmen-lobdell-post-onslaught"
+          },
+          {
+            "title": "X-Men Masterworks Vol. 3",
+            "isbn": null,
+            "slug": "marvel-masterworks-x-men-v3"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/12366237-L.jpg",
+        "editions": [
+          {
+            "title": "Amazing Spider-Man: Gang War",
+            "isbn": null,
+            "slug": "gang-war"
+          },
+          {
+            "title": "Planet-Size X-Men",
+            "isbn": null,
+            "slug": "planet-size-x-men"
+          },
+          {
+            "title": "X-Men: Before the Fall",
+            "isbn": null,
+            "slug": "x-men-before-the-fall"
+          }
+        ]
+      },
+      {
+        "url": "http://books.google.com/books/content?id=UcjRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "editions": [
+          {
+            "title": "Armageddon Prelude: Road to Armageddon",
+            "isbn": null,
+            "slug": "armageddon-prelude"
+          },
+          {
+            "title": "Avengers Epic Collection: This Beachhead Earth",
+            "isbn": null,
+            "slug": "avengers-epic-v5-beachhead-earth"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/14082965-L.jpg",
+        "editions": [
+          {
+            "title": "Avengers Academy Complete Collection Vol. 1",
+            "isbn": null,
+            "slug": "avengers-academy-complete-v1"
+          },
+          {
+            "title": "Avengers Academy Complete Collection Vol. 2",
+            "isbn": null,
+            "slug": "avengers-academy-complete-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://books.google.com/books/content?id=2ZqKzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "editions": [
+          {
+            "title": "Avengers by Jason Aaron Omnibus Vol. 1",
+            "isbn": null,
+            "slug": "avengers-aaron-omnibus-v1"
+          },
+          {
+            "title": "Mighty Thor by Jason Aaron Omnibus",
+            "isbn": null,
+            "slug": "mighty-thor-aaron-omnibus"
+          },
+          {
+            "title": "Thor by Jason Aaron Omnibus Vol. 1",
+            "isbn": null,
+            "slug": "thor-aaron-omnibus-v1"
+          }
+        ]
+      },
+      {
+        "url": "https://books.google.com/books/content?id=FF1GzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "editions": [
+          {
+            "title": "Avengers by Jonathan Hickman Omnibus Vol. 2",
+            "isbn": "9781302945497",
+            "slug": "avengers-hickman-omnibus-v2"
+          },
+          {
+            "title": "Avengers By Jonathan Hickman Omnibus Vol. 2 HC Keown Cover",
+            "isbn": "9781302945503",
+            "slug": "avengers-by-jonathan-hickman-hc-keown-cover-omnibus-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/7797532-L.jpg",
+        "editions": [
+          {
+            "title": "Avengers Compendium Vol. 1",
+            "isbn": null,
+            "slug": "avengers-compendium-v1"
+          },
+          {
+            "title": "Avengers Omnibus Vol. 6 (Michelinie/Byrne)",
+            "isbn": null,
+            "slug": "avengers-omnibus-v6-michelinie"
+          }
+        ]
+      },
+      {
+        "url": "https://m.media-amazon.com/images/P/0785195394.01.LZZZZZZZ.jpg",
+        "editions": [
+          {
+            "title": "Avengers Epic Collection: Behold... the Vision",
+            "isbn": null,
+            "slug": "avengers-expansion-era-epic"
+          },
+          {
+            "title": "Avengers Epic Collection: Under Siege (Extended)",
+            "isbn": null,
+            "slug": "avengers-undersiege-epic"
+          }
+        ]
+      },
+      {
+        "url": "http://books.google.com/books/content?id=uVgYEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "editions": [
+          {
+            "title": "Avengers Epic Collection: Kang War",
+            "isbn": null,
+            "slug": "avengers-epic-v8-kang-war"
+          },
+          {
+            "title": "Captain America Epic Collection: Twilight's Last Gleaming",
+            "isbn": null,
+            "slug": "cap-epic-v21-twilights-last-gleaming"
+          },
+          {
+            "title": "Fantastic Four Epic Collection: Nobody Gets Out Alive",
+            "isbn": null,
+            "slug": "ff-epic-v23-nobody-gets-out-alive"
+          },
+          {
+            "title": "Iron Man Epic Collection: Age of Innocence",
+            "isbn": null,
+            "slug": "iron-man-epic-v22-age-of-innocence"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/535987-L.jpg",
+        "editions": [
+          {
+            "title": "Avengers Omnibus Vol. 3 (Thomas)",
+            "isbn": null,
+            "slug": "avengers-omnibus-v3-thomas"
+          },
+          {
+            "title": "Generation X Omnibus Vol. 1",
+            "isbn": null,
+            "slug": "generation-x-classic-omnibus"
+          },
+          {
+            "title": "X-Men (1991) Omnibus Vol. 1",
+            "isbn": null,
+            "slug": "xmen-1991-omnibus-v1"
+          },
+          {
+            "title": "X-Men (1991) Omnibus Vol. 2",
+            "isbn": null,
+            "slug": "xmen-1991-omnibus-v2"
+          },
+          {
+            "title": "X-Men Omnibus Vol. 1 (Original)",
+            "isbn": null,
+            "slug": "x-men-omnibus-v1"
+          },
+          {
+            "title": "X-Men Omnibus Vol. 2 (Original)",
+            "isbn": null,
+            "slug": "x-men-omnibus-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/7323473-L.jpg",
+        "editions": [
+          {
+            "title": "Avengers Omnibus Vol. 4 (Crossing Line / Gatherers)",
+            "isbn": null,
+            "slug": "avengers-omnibus-v4"
+          },
+          {
+            "title": "Avengers Omnibus Vol. 4 (Englehart)",
+            "isbn": null,
+            "slug": "avengers-omnibus-v4-englehart"
+          },
+          {
+            "title": "Avengers Omnibus Vol. 5 (Shooter/Perez)",
+            "isbn": null,
+            "slug": "avengers-omnibus-v5-shooter"
+          },
+          {
+            "title": "Uncanny X-Men Omnibus Vol. 5 (Claremont)",
+            "isbn": null,
+            "slug": "uxm-claremont-omnibus-v5"
+          }
+        ]
+      },
+      {
+        "url": "http://books.google.com/books/content?id=LvgsEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "editions": [
+          {
+            "title": "Avengers West Coast Epic Collection: How the West Was Won",
+            "isbn": null,
+            "slug": "awc-epic-v1-west-was-won"
+          },
+          {
+            "title": "Carnage Epic Collection: Born in Blood",
+            "isbn": null,
+            "slug": "carnage-epic-v1-born-in-blood"
+          },
+          {
+            "title": "Defenders Epic Collection: Ashes, Ashes",
+            "isbn": null,
+            "slug": "defenders-epic-v7-ashes-ashes"
+          },
+          {
+            "title": "Marvel Two-in-One Epic Collection: Remembrance of Things Past",
+            "isbn": null,
+            "slug": "mtio-epic-v3-remembrance"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/14787169-L.jpg",
+        "editions": [
+          {
+            "title": "Avengers West Coast Omnibus Vol. 3",
+            "isbn": null,
+            "slug": "avengers-west-coast-omnibus-v3"
+          },
+          {
+            "title": "West Coast Avengers Omnibus Vol. 1",
+            "isbn": null,
+            "slug": "west-coast-avengers-omnibus-v1"
+          },
+          {
+            "title": "West Coast Avengers Omnibus Vol. 2",
+            "isbn": null,
+            "slug": "west-coast-avengers-omnibus-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/8812653-L.jpg",
+        "editions": [
+          {
+            "title": "Avengers: No Road Home",
+            "isbn": null,
+            "slug": "avengers-no-road-home"
+          },
+          {
+            "title": "Avengers: No Surrender",
+            "isbn": null,
+            "slug": "avengers-no-surrender"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/13859660-L.jpg",
+        "editions": [
+          {
+            "title": "Bishop: The Complete Collection",
+            "isbn": null,
+            "slug": "bishop-complete"
+          },
+          {
+            "title": "MC2 Universe Collection",
+            "isbn": null,
+            "slug": "mc2-universe-collection"
+          },
+          {
+            "title": "New X-Men: Academy X Complete Vol. 2",
+            "isbn": null,
+            "slug": "new-x-men-academy-x-complete-v2"
+          },
+          {
+            "title": "Timeless by Jed MacKay",
+            "isbn": null,
+            "slug": "timeless-mackay"
+          },
+          {
+            "title": "X-Man Complete Collection Vol. 2",
+            "isbn": null,
+            "slug": "x-man-nate-grey-complete-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/535752-L.jpg",
+        "editions": [
+          {
+            "title": "Captain America (2025) Vol. 1",
+            "isbn": "9780785111016",
+            "slug": "captain-america-2025"
+          },
+          {
+            "title": "Captain America by J.M. DeMatteis Epic Collection: Sturm Und Drang",
+            "isbn": null,
+            "slug": "captain-america-dematteis"
+          },
+          {
+            "title": "Captain America by Mark Waid (2017) Complete",
+            "isbn": null,
+            "slug": "captain-america-waid-2nd-run"
+          }
+        ]
+      },
+      {
+        "url": "https://books.google.com/books/content?vid=isbn:9780786453405&printsec=frontcover&img=1&zoom=0",
+        "editions": [
+          {
+            "title": "Captain America by Ed Brubaker Omnibus Vol. 2",
+            "isbn": null,
+            "slug": "cap-brubaker-v2"
+          },
+          {
+            "title": "Captain America by Ed Brubaker Omnibus Vol. 3",
+            "isbn": null,
+            "slug": "cap-brubaker-v3"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/8897403-L.jpg",
+        "editions": [
+          {
+            "title": "Captain America Epic Collection: The Coming of the Falcon",
+            "isbn": null,
+            "slug": "cap-epic-coming-of-falcon"
+          },
+          {
+            "title": "Captain Marvel Epic Collection: The Coming of Captain Marvel",
+            "isbn": null,
+            "slug": "captain-marvel-epic-coming-of"
+          }
+        ]
+      },
+      {
+        "url": "http://books.google.com/books/content?id=UOdqEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "editions": [
+          {
+            "title": "Captain America Modern Era Epic Collection: Death of the Dream",
+            "isbn": null,
+            "slug": "cap-modern-epic-death-dream"
+          },
+          {
+            "title": "Captain America Modern Era Epic Collection: The Winter Soldier",
+            "isbn": null,
+            "slug": "cap-modern-epic-winter-soldier"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/552443-L.jpg",
+        "editions": [
+          {
+            "title": "Chaos War Complete",
+            "isbn": null,
+            "slug": "chaos-war-omnibus"
+          },
+          {
+            "title": "Wonder Man Classic Complete Collection",
+            "isbn": null,
+            "slug": "wonder-man-classic-collection"
+          }
+        ]
+      },
+      {
+        "url": "https://books.google.com/books/content?id=8gqw0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "editions": [
+          {
+            "title": "Daredevil by Chip Zdarsky Omnibus Vol. 2",
+            "isbn": "9781302956264",
+            "slug": "dd-zdarsky-omnibus-v2"
+          },
+          {
+            "title": "Daredevil By Chip Zdarsky Omnibus Vol. 2 Marco Checchetto Cover",
+            "isbn": "9781302956271",
+            "slug": "dd-by-chip-zdarsky-marco-checchetto-cover-omnibus-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/7591097-L.jpg",
+        "editions": [
+          {
+            "title": "Daredevil by Mark Waid Vol. 3: The Devil's Hand",
+            "isbn": null,
+            "slug": "daredevil-waid-v3"
+          },
+          {
+            "title": "Daredevil: Born Again",
+            "isbn": "9788411016568",
+            "slug": "daredevil-miller-companion"
+          }
+        ]
+      },
+      {
+        "url": "http://books.google.com/books/content?id=dfcsEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "editions": [
+          {
+            "title": "Daredevil Modern Era Epic Collection: King of Hell's Kitchen",
+            "isbn": null,
+            "slug": "dd-modern-epic-king-hells-kitchen"
+          },
+          {
+            "title": "Daredevil Modern Era Epic Collection: Out",
+            "isbn": null,
+            "slug": "dd-modern-epic-out"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/535780-L.jpg",
+        "editions": [
+          {
+            "title": "Dark X-Men by Steve Foxe (2023)",
+            "isbn": null,
+            "slug": "dark-x-men-foxe-2023"
+          },
+          {
+            "title": "Dark X-Men by Steve Foxe (2024 - From the Ashes)",
+            "isbn": null,
+            "slug": "dark-x-men-foxe-2024"
+          },
+          {
+            "title": "X-Men: From the Ashes Vol. 2",
+            "isbn": null,
+            "slug": "x-men-from-ashes-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/7654541-L.jpg",
+        "editions": [
+          {
+            "title": "Darkhawk Classic Complete Collection",
+            "isbn": null,
+            "slug": "darkhawk-classic-complete"
+          },
+          {
+            "title": "Darkhawk Classic Vol. 1",
+            "isbn": "9780785159872",
+            "slug": "darkhawk-classic-v1"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/536095-L.jpg",
+        "editions": [
+          {
+            "title": "Defenders by Al Ewing (2021)",
+            "isbn": null,
+            "slug": "defenders-ewing-2021"
+          },
+          {
+            "title": "Defenders Omnibus Vol. 3",
+            "isbn": null,
+            "slug": "defenders-omnibus-v3"
+          }
+        ]
+      },
+      {
+        "url": "http://books.google.com/books/content?id=hDlq-VzdvXoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "editions": [
+          {
+            "title": "Defenders Epic Collection: The End of All Songs",
+            "isbn": null,
+            "slug": "defenders-epic-v9-end-of-all-songs"
+          },
+          {
+            "title": "Incredible Hulk by Bruce Jones Vol. 2: Transfer of Power",
+            "isbn": null,
+            "slug": "incredible-hulk-bruce-jones-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://m.media-amazon.com/images/P/1302947249.01.LZZZZZZZ.jpg",
+        "editions": [
+          {
+            "title": "Devil's Reign Omnibus",
+            "isbn": null,
+            "slug": "devils-reign-omnibus"
+          },
+          {
+            "title": "She-Hulk By Dan Slott Omnibus HC Mayhew Cover",
+            "isbn": "9781302947248",
+            "slug": "she-hulk-by-dan-slott-hc-mayhew-cover-omnibus"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/662232-L.jpg",
+        "editions": [
+          {
+            "title": "District X: The Complete Collection",
+            "isbn": null,
+            "slug": "district-x"
+          },
+          {
+            "title": "Essential Man-Thing Vol. 2",
+            "isbn": null,
+            "slug": "essential-man-thing-v2"
+          },
+          {
+            "title": "War of Kings Companion",
+            "isbn": null,
+            "slug": "war-of-kings-companion-complete"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/12815864-L.jpg",
+        "editions": [
+          {
+            "title": "Doctor Strange by Aaron Vol. 2: The Last Days of Magic",
+            "isbn": null,
+            "slug": "doctor-strange-aaron-v2"
+          },
+          {
+            "title": "Doctor Strange Omnibus Vol. 2 (Englehart & Colan)",
+            "isbn": null,
+            "slug": "doctor-strange-omnibus-v2-englehart"
+          }
+        ]
+      },
+      {
+        "url": "https://m.media-amazon.com/images/P/1302964755.01.LZZZZZZZ.jpg",
+        "editions": [
+          {
+            "title": "Doctor Strange by Jed MacKay (2023)",
+            "isbn": null,
+            "slug": "doctor-strange-mackay-2023"
+          },
+          {
+            "title": "Doctor Strange By Jed Mackay Omnibus",
+            "isbn": "9781302964757",
+            "slug": "dr-strange-by-jed-mackay-omnibus"
+          },
+          {
+            "title": "Strange by Jed MacKay (2022)",
+            "isbn": null,
+            "slug": "strange-mackay-2022"
+          }
+        ]
+      },
+      {
+        "url": "https://m.media-amazon.com/images/P/130293287X.01.LZZZZZZZ.jpg",
+        "editions": [
+          {
+            "title": "Doctor Strange Omnibus Vol. 1",
+            "isbn": null,
+            "slug": "doctor-strange-omnibus-v1"
+          },
+          {
+            "title": "Doctor Strange Omnibus Vol. 1 HC Alex Ross Standard Cover",
+            "isbn": "9781302932879",
+            "slug": "dr-strange-hc-alex-ross-standard-cover-omnibus-v1"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/10174731-L.jpg",
+        "editions": [
+          {
+            "title": "Doctor Strange: Master of the Mystic Arts Omnibus Vol. 1",
+            "isbn": "9781302946067",
+            "slug": "doctor-strange-englehart-brunner"
+          },
+          {
+            "title": "Doctor Strange: Master Of The Mystic Arts Omnibus Vol. 1 Frank Brunner Cover",
+            "isbn": "9781302962180",
+            "slug": "dr-strange-master-of-the-mystic-arts-frank-brunner-cover-omnibus-v1"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/36314-L.jpg",
+        "editions": [
+          {
+            "title": "Earth X",
+            "isbn": null,
+            "slug": "earth-x-trilogy"
+          },
+          {
+            "title": "Fall of the House of X",
+            "isbn": null,
+            "slug": "fall-of-house-x"
+          },
+          {
+            "title": "Nova Classic Complete Collection",
+            "isbn": null,
+            "slug": "nova-classic-complete"
+          },
+          {
+            "title": "Phoenix by Stephanie Phillips",
+            "isbn": null,
+            "slug": "phoenix-2024"
+          },
+          {
+            "title": "Phoenix: The Death & Rebirth Of Jean Grey Omnibus Jim Lee Cover",
+            "isbn": "9781302965518",
+            "slug": "phoenix-the-death-rebirth-of-jean-grey-jim-lee-cover-omnibus"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/5788251-L.jpg",
+        "editions": [
+          {
+            "title": "Exiles Omnibus Vol. 1",
+            "isbn": null,
+            "slug": "exiles-omnibus-v1"
+          },
+          {
+            "title": "Exiles Omnibus Vol. 2",
+            "isbn": null,
+            "slug": "exiles-omnibus-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/12864624-L.jpg",
+        "editions": [
+          {
+            "title": "Fantastic Four by Claremont & Larroca",
+            "isbn": null,
+            "slug": "ff-claremont-larroca"
+          },
+          {
+            "title": "Fantastic Four by Waid & Wieringo Omnibus Vol. 2: Unthinkable & Hereafter",
+            "isbn": null,
+            "slug": "ff-waid-additional"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/isbn/9781302945558-L.jpg",
+        "editions": [
+          {
+            "title": "Fantastic Four by John Byrne Omnibus Vol. 2",
+            "isbn": null,
+            "slug": "ff-byrne-omnibus-v2"
+          },
+          {
+            "title": "Incredible Hulk by Peter David Omnibus Vol. 1",
+            "isbn": null,
+            "slug": "hulk-peter-david-omnibus-v1"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/isbn/9781302933845-L.jpg",
+        "editions": [
+          {
+            "title": "Fantastic Four by Jonathan Hickman Omnibus Vol. 2",
+            "isbn": null,
+            "slug": "ff-hickman-omnibus-v2"
+          },
+          {
+            "title": "Moon Knight Epic Collection: Shadows of the Moon",
+            "isbn": null,
+            "slug": "moon-knight-moench-epic"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/13646261-L.jpg",
+        "editions": [
+          {
+            "title": "Fantastic Four Epic Collection: The Coming of Galactus",
+            "isbn": null,
+            "slug": "ff-epic-coming-of-galactus"
+          },
+          {
+            "title": "Fantastic Four Epic Collection: World's Greatest Comic Magazine",
+            "isbn": null,
+            "slug": "ff-epic-worlds-greatest"
+          }
+        ]
+      },
+      {
+        "url": "https://books.google.com/books/content?id=QoHc0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "editions": [
+          {
+            "title": "Fantastic Four Omnibus Vol. 1",
+            "isbn": "9781302963682",
+            "slug": "ff-omnibus-v1"
+          },
+          {
+            "title": "The Fantastic Four Omnibus Vol. 1 Jack Kirby Cover",
+            "isbn": "9781302963699",
+            "slug": "the-fantastic-four-jack-kirby-cover-omnibus-v1"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/9165528-L.jpg",
+        "editions": [
+          {
+            "title": "Fear Itself Companion",
+            "isbn": null,
+            "slug": "fear-itself-companion-complete"
+          },
+          {
+            "title": "Midnight Sons Omnibus",
+            "isbn": null,
+            "slug": "midnight-sons-omnibus"
+          },
+          {
+            "title": "Tales to Astonish Omnibus Vol. 2",
+            "isbn": null,
+            "slug": "tales-to-astonish-omnibus-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/535942-L.jpg",
+        "editions": [
+          {
+            "title": "Gambit by Chris Claremont (2022)",
+            "isbn": null,
+            "slug": "gambit-claremont-2022"
+          },
+          {
+            "title": "Gambit by James Asmus",
+            "isbn": null,
+            "slug": "gambit-asmus"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/13783395-L.jpg",
+        "editions": [
+          {
+            "title": "Gambit Classic Complete Collection Vol. 1",
+            "isbn": null,
+            "slug": "gambit-complete-v1"
+          },
+          {
+            "title": "Gambit Classic Omnibus",
+            "isbn": null,
+            "slug": "gambit-omnibus"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/12648656-L.jpg",
+        "editions": [
+          {
+            "title": "Generation X (2017)",
+            "isbn": null,
+            "slug": "generation-x-2017"
+          },
+          {
+            "title": "Marvel Boy",
+            "isbn": null,
+            "slug": "marvel-boy-morrison"
+          },
+          {
+            "title": "Marvel Graphic Novel Collection Vol. 2",
+            "isbn": null,
+            "slug": "marvel-graphic-novel-collection-v2"
+          },
+          {
+            "title": "Marvel: The End",
+            "isbn": null,
+            "slug": "marvel-the-end"
+          },
+          {
+            "title": "Marvels Annotated",
+            "isbn": null,
+            "slug": "marvels-annotated"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/14788276-L.jpg",
+        "editions": [
+          {
+            "title": "Ghost-Spider by Seanan McGuire",
+            "isbn": null,
+            "slug": "ghost-spider-mcguire"
+          },
+          {
+            "title": "Marvel Masterworks: Ghost Rider Vol. 6",
+            "isbn": "9781302955434",
+            "slug": "marvel-ghost-rider-mmw-v6-2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/12501284-L.jpg",
+        "editions": [
+          {
+            "title": "Great Lakes Avengers Complete Collection",
+            "isbn": null,
+            "slug": "great-lakes-avengers-complete"
+          },
+          {
+            "title": "Union Jack Complete",
+            "isbn": null,
+            "slug": "union-jack-complete"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/12908560-L.jpg",
+        "editions": [
+          {
+            "title": "Hellcat by Nicieza & DeMatteis Complete",
+            "isbn": null,
+            "slug": "hellcat-nicieza-miniseries"
+          },
+          {
+            "title": "Patsy Walker: Hellcat Omnibus",
+            "isbn": null,
+            "slug": "patsy-walker-hellcat-omnibus"
+          }
+        ]
+      },
+      {
+        "url": "https://m.media-amazon.com/images/P/1302949586.01.LZZZZZZZ.jpg",
+        "editions": [
+          {
+            "title": "Heroes Reborn Omnibus",
+            "isbn": null,
+            "slug": "heroes-reborn-1996-omnibus"
+          },
+          {
+            "title": "Incredible Hulk by Peter David Omnibus Vol. 2",
+            "isbn": null,
+            "slug": "hulk-peter-david-omnibus-v2"
+          }
+        ]
+      },
+      {
+        "url": "http://books.google.com/books/content?id=4I1wCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "editions": [
+          {
+            "title": "Heroes Reborn: Avengers Complete",
+            "isbn": null,
+            "slug": "heroes-reborn-avengers-complete"
+          },
+          {
+            "title": "Heroes Reborn: Captain America Complete",
+            "isbn": null,
+            "slug": "heroes-reborn-captain-america-complete"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/8231834-L.jpg",
+        "editions": [
+          {
+            "title": "Heroic Age: Complete Collection",
+            "isbn": null,
+            "slug": "heroic-age-complete"
+          },
+          {
+            "title": "Knights of Pendragon Complete Collection",
+            "isbn": null,
+            "slug": "knights-of-pendragon"
+          },
+          {
+            "title": "What If? Classic Complete Collection Vol. 1",
+            "isbn": null,
+            "slug": "what-if-classic-complete-v1"
+          },
+          {
+            "title": "What If? Classic Vol. 1",
+            "isbn": null,
+            "slug": "what-if-classic-v1"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/535412-L.jpg",
+        "editions": [
+          {
+            "title": "Hulk: Future Imperfect",
+            "isbn": "9780785100294",
+            "slug": "incredible-hulk-jones-future-imperfect"
+          },
+          {
+            "title": "Incredible Hulk Epic Collection: Future Imperfect",
+            "isbn": null,
+            "slug": "hulk-epic-v20-future-imperfect"
+          }
+        ]
+      },
+      {
+        "url": "https://m.media-amazon.com/images/P/1302954067.01.LZZZZZZZ.jpg",
+        "editions": [
+          {
+            "title": "Incredible Hulk By Byrne & Casey Omnibus HC",
+            "isbn": "9781302954062",
+            "slug": "hulk-by-byrne-casey-hc-omnibus"
+          },
+          {
+            "title": "Incredible Hulk by John Byrne & Peter David Omnibus",
+            "isbn": null,
+            "slug": "incredible-hulk-byrne-omnibus"
+          }
+        ]
+      },
+      {
+        "url": "https://m.media-amazon.com/images/P/1302932918.01.LZZZZZZZ.jpg",
+        "editions": [
+          {
+            "title": "Incredible Hulk by Peter David Omnibus Vol. 4",
+            "isbn": null,
+            "slug": "hulk-peter-david-omnibus-v4"
+          },
+          {
+            "title": "Incredible Hulk By Peter David Omnibus Vol. 4 HC Deodato Jr. Cover",
+            "isbn": "9781302932916",
+            "slug": "hulk-by-peter-david-hc-deodato-jr-cover-omnibus-v4"
+          },
+          {
+            "title": "Incredible Hulk Omnibus Vol. 4",
+            "isbn": null,
+            "slug": "incredible-hulk-omnibus-v4"
+          }
+        ]
+      },
+      {
+        "url": "http://books.google.com/books/content?id=TBQ3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "editions": [
+          {
+            "title": "Incredible Hulk Epic Collection: And Now the Wolverine",
+            "isbn": null,
+            "slug": "hulk-epic-v7-and-now-the-wolverine"
+          },
+          {
+            "title": "Wolverine Epic Collection: To the Bone",
+            "isbn": null,
+            "slug": "wolverine-epic-v7-to-the-bone"
+          }
+        ]
+      },
+      {
+        "url": "http://books.google.com/books/content?id=npIsZV7grboC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "editions": [
+          {
+            "title": "Inhumans Prime / Inhumans vs. X-Men",
+            "isbn": null,
+            "slug": "inhumans-prime-soule"
+          },
+          {
+            "title": "Ultimate X-Men Epic Collection: The Tomorrow Children",
+            "isbn": null,
+            "slug": "ult-xm-epic-v1"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/8459606-L.jpg",
+        "editions": [
+          {
+            "title": "Iron Man Omnibus Vol. 2",
+            "isbn": null,
+            "slug": "tales-of-suspense-omnibus-v2"
+          },
+          {
+            "title": "Iron Man Omnibus Vol. 2",
+            "isbn": null,
+            "slug": "iron-man-omnibus-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/12393037-L.jpg",
+        "editions": [
+          {
+            "title": "Jack of Hearts Complete Collection",
+            "isbn": null,
+            "slug": "jack-of-hearts-complete"
+          },
+          {
+            "title": "The Pulse: The Complete Collection",
+            "isbn": null,
+            "slug": "pulse-bendis"
+          }
+        ]
+      },
+      {
+        "url": "https://m.media-amazon.com/images/P/1302908774.01.LZZZZZZZ.jpg",
+        "editions": [
+          {
+            "title": "Jean Grey by Dennis Hopeless",
+            "isbn": null,
+            "slug": "jean-grey-solo"
+          },
+          {
+            "title": "Jean Grey by Schultz (2023)",
+            "isbn": null,
+            "slug": "jean-grey-schultz-2023"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/8860477-L.jpg",
+        "editions": [
+          {
+            "title": "Ka-Zar by Mark Waid Complete Vol. 2",
+            "isbn": null,
+            "slug": "ka-zar-waid-complete-v2"
+          },
+          {
+            "title": "Ka-Zar by Mark Waid: The Complete Collection",
+            "isbn": null,
+            "slug": "ka-zar-waid"
+          }
+        ]
+      },
+      {
+        "url": "http://books.google.com/books/content?id=L5RFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "editions": [
+          {
+            "title": "Killraven Epic Collection: Warrior of the Worlds",
+            "isbn": null,
+            "slug": "killraven-epic-v1-warrior-worlds"
+          },
+          {
+            "title": "Killraven: Amazing Adventures Complete Collection",
+            "isbn": "9780248720236",
+            "slug": "killraven-amazing-adventures"
+          }
+        ]
+      },
+      {
+        "url": "https://books.google.com/books/content?id=AkUc0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "editions": [
+          {
+            "title": "Marvel Archive Edition: Marvel Super Heroes Secret Wars Gallery Edition Mike Zeck Hidden Gem Cover",
+            "isbn": "9781302965334",
+            "slug": "marvel-archive-edition-marvel-super-heroes-secret-wars-gallery-edition-mike-zeck-hidden-gem-cover-hc"
+          },
+          {
+            "title": "Marvel Archive Edition: Marvel Super Heroes Secret Wars Gallery Edition Mike Zeck Original Collection Cover",
+            "isbn": "9781302965341",
+            "slug": "marvel-archive-edition-marvel-super-heroes-secret-wars-gallery-edition-mike-zeck-original-collection-cover-hc"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/8831289-L.jpg",
+        "editions": [
+          {
+            "title": "Marvel Masterworks: Daredevil Vol. 19",
+            "isbn": "9781302962302",
+            "slug": "marvel-daredevil-mmw-v19-2"
+          },
+          {
+            "title": "Marvel Masterworks: The Incredible Hulk Vol. 19",
+            "isbn": "9781302962401",
+            "slug": "marvel-the-incredible-hulk-mmw-v19-2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/535502-L.jpg",
+        "editions": [
+          {
+            "title": "Marvel Masterworks: Fantastic Four Vol. 4",
+            "isbn": null,
+            "slug": "marvel-masterworks-ff-v4"
+          },
+          {
+            "title": "Marvel Masterworks: Silver Surfer Vol. 1",
+            "isbn": null,
+            "slug": "marvel-masterworks-silver-surfer-v1"
+          },
+          {
+            "title": "Marvel Masterworks: The Fantastic Four Vol. 27",
+            "isbn": "9781302962364",
+            "slug": "marvel-the-fantastic-four-mmw-v27-2"
+          },
+          {
+            "title": "Marvel Masterworks: The Fantastic Four Vol. 3",
+            "isbn": "9781302956011",
+            "slug": "marvel-the-fantastic-four-mmw-v3"
+          },
+          {
+            "title": "Marvel Masterworks: The Silver Surfer Vol. 1",
+            "isbn": "9781302956059",
+            "slug": "marvel-the-silver-surfer-mmw-v1"
+          },
+          {
+            "title": "Uncanny Spider-Man by Si Spurrier",
+            "isbn": null,
+            "slug": "uncanny-spider-man"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/13887230-L.jpg",
+        "editions": [
+          {
+            "title": "Marvel Masterworks: Man-Thing Vol. 1",
+            "isbn": "9781302955489",
+            "slug": "marvel-man-thing-mmw-v1-2"
+          },
+          {
+            "title": "Marvel Masterworks: The Man-Thing Vol. 2",
+            "isbn": "9781302962524",
+            "slug": "marvel-the-man-thing-mmw-v2-2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/14746527-L.jpg",
+        "editions": [
+          {
+            "title": "Marvel Masterworks: Marvel Team-Up Vol. 8",
+            "isbn": "9781302955588",
+            "slug": "marvel-marvel-team-up-mmw-v8-2"
+          },
+          {
+            "title": "Marvel Masterworks: The Uncanny X-Men Vol. 17",
+            "isbn": "9781302962500",
+            "slug": "marvel-the-uncanny-x-men-mmw-v17-2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/509234-L.jpg",
+        "editions": [
+          {
+            "title": "Marvel Super-Heroes Classic Collection",
+            "isbn": null,
+            "slug": "marvel-super-heroes-classic"
+          },
+          {
+            "title": "War Machine: Iron Heart",
+            "isbn": null,
+            "slug": "war-machine-pak"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/6062894-L.jpg",
+        "editions": [
+          {
+            "title": "Marvel Two-In-One Omnibus Vol. 1",
+            "isbn": null,
+            "slug": "marvel-two-in-one-omnibus-v1"
+          },
+          {
+            "title": "Marvel Two-in-One Omnibus Vol. 2",
+            "isbn": null,
+            "slug": "marvel-two-in-one-omnibus-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://m.media-amazon.com/images/P/1302956760.01.LZZZZZZZ.jpg",
+        "editions": [
+          {
+            "title": "Micronauts: The Original Marvel Years Omnibus Vol. 1",
+            "isbn": "9781302956790",
+            "slug": "micronauts-omnibus-v1"
+          },
+          {
+            "title": "Micronauts: The Original Marvel Years Omnibus Vol. 1 HC",
+            "isbn": "9781302956769",
+            "slug": "micronauts-the-original-marvel-years-hc-omnibus-v1"
+          }
+        ]
+      },
+      {
+        "url": "https://books.google.com/books/content?id=feWa0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "editions": [
+          {
+            "title": "Micronauts: The Original Marvel Years Omnibus Vol. 2 Ed Hannigan Cover",
+            "isbn": "9781302959531",
+            "slug": "micronauts-the-original-marvel-years-ed-hannigan-cover-omnibus-v2"
+          },
+          {
+            "title": "Micronauts: The Original Marvel Years Omnibus Vol. 2 Gil Kane Cover",
+            "isbn": "9781302959524",
+            "slug": "micronauts-the-original-marvel-years-gil-kane-cover-omnibus-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://books.google.com/books/content?id=OU-z0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "editions": [
+          {
+            "title": "Micronauts: The Original Marvel Years Omnibus Vol. 3 Arthur Adams Cover",
+            "isbn": "9781302956806",
+            "slug": "micronauts-the-original-marvel-years-arthur-adams-cover-omnibus-v3"
+          },
+          {
+            "title": "Micronauts: The Original Marvel Years Omnibus Vol. 3 Kelley Jones Cover",
+            "isbn": "9781302959548",
+            "slug": "micronauts-the-original-marvel-years-kelley-jones-cover-omnibus-v3"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/8796901-L.jpg",
+        "editions": [
+          {
+            "title": "Mighty Avengers by Dan Slott Complete",
+            "isbn": null,
+            "slug": "mighty-avengers-slott"
+          },
+          {
+            "title": "Mighty Avengers by Slott Complete Collection",
+            "isbn": null,
+            "slug": "mighty-avengers-complete-v1"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/13876942-L.jpg",
+        "editions": [
+          {
+            "title": "Moon Knight by Doug Moench Omnibus Vol. 1",
+            "isbn": null,
+            "slug": "moon-knight-moench-omnibus-v1"
+          },
+          {
+            "title": "Moon Knight by Ellis & Shalvey Vol. 2: Dead Will Rise",
+            "isbn": null,
+            "slug": "moon-knight-ellis-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/6657951-L.jpg",
+        "editions": [
+          {
+            "title": "Mr. & Mrs. X by Kelly Thompson",
+            "isbn": null,
+            "slug": "mr-mrs-x-thompson"
+          },
+          {
+            "title": "Sub-Mariner Omnibus Vol. 2",
+            "isbn": null,
+            "slug": "sub-mariner-omnibus-v2"
+          },
+          {
+            "title": "X-Force Omnibus Vol. 2",
+            "isbn": null,
+            "slug": "x-force-cable-90s-omnibus-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/14607269-L.jpg",
+        "editions": [
+          {
+            "title": "Ms. Marvel: The New Mutant",
+            "isbn": "9781302954901",
+            "slug": "ms-marvel-new-mutant"
+          },
+          {
+            "title": "Ms. Marvel: The New Mutant by Iman Vellani",
+            "isbn": null,
+            "slug": "ms-marvel-iman-vellani"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/10545025-L.jpg",
+        "editions": [
+          {
+            "title": "Mystique by Brian K. Vaughan: The Complete Collection",
+            "isbn": null,
+            "slug": "mystique-complete"
+          },
+          {
+            "title": "Mystique by Declan Shalvey",
+            "isbn": null,
+            "slug": "mystique-2025"
+          }
+        ]
+      },
+      {
+        "url": "https://m.media-amazon.com/images/P/1302919660.01.LZZZZZZZ.jpg",
+        "editions": [
+          {
+            "title": "Namor the Sub-Mariner by John Byrne Omnibus",
+            "isbn": null,
+            "slug": "namor-byrne-omnibus"
+          },
+          {
+            "title": "Sub-Mariner Omnibus",
+            "isbn": null,
+            "slug": "sub-mariner-omnibus"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/8812958-L.jpg",
+        "editions": [
+          {
+            "title": "New Warriors (2014) Complete",
+            "isbn": null,
+            "slug": "new-warriors-2014"
+          },
+          {
+            "title": "New Warriors Epic Collection: Forces of Darkness, Forces of Light",
+            "isbn": null,
+            "slug": "new-warriors-epic-forces-of-darkness"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/6647594-L.jpg",
+        "editions": [
+          {
+            "title": "New Warriors (2019) Outlawed",
+            "isbn": null,
+            "slug": "new-warriors-2019"
+          },
+          {
+            "title": "One World Under Doom: Spider-Man",
+            "isbn": null,
+            "slug": "owud-spider-man-tie-in"
+          },
+          {
+            "title": "Shogun Warriors Complete Collection",
+            "isbn": null,
+            "slug": "shogun-warriors-complete"
+          },
+          {
+            "title": "Spider-Man Unlimited Epic Collection: Maximum Clonage",
+            "isbn": null,
+            "slug": "spider-man-unlimited-epic"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/11916721-L.jpg",
+        "editions": [
+          {
+            "title": "Power Man and Iron Fist by David Walker",
+            "isbn": null,
+            "slug": "power-man-iron-fist-2016"
+          },
+          {
+            "title": "Power Man and Iron Fist by David Walker Complete",
+            "isbn": null,
+            "slug": "power-man-iron-fist-walker-complete"
+          },
+          {
+            "title": "Power Man and Iron Fist Omnibus Vol. 1",
+            "isbn": null,
+            "slug": "power-man-iron-fist-omnibus-v1"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/11987553-L.jpg",
+        "editions": [
+          {
+            "title": "Rocket by Al Ewing",
+            "isbn": null,
+            "slug": "rocket-ewing"
+          },
+          {
+            "title": "Rocket Raccoon by Skottie Young",
+            "isbn": null,
+            "slug": "rocket-raccoon-skottie-young"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/8805223-L.jpg",
+        "editions": [
+          {
+            "title": "S.H.I.E.L.D. by Jonathan Hickman Vol. 1",
+            "isbn": null,
+            "slug": "shield-hickman-v1"
+          },
+          {
+            "title": "S.H.I.E.L.D. by Jonathan Hickman Vol. 2",
+            "isbn": null,
+            "slug": "shield-hickman-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://m.media-amazon.com/images/P/0785163115.01.LZZZZZZZ.jpg",
+        "editions": [
+          {
+            "title": "Scarlet Spider (2012) by Yost Vol. 2",
+            "isbn": null,
+            "slug": "scarlet-spider-yost-v2"
+          },
+          {
+            "title": "Scarlet Spider by Yost: The Complete Collection",
+            "isbn": null,
+            "slug": "scarlet-spider-yost"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/13842601-L.jpg",
+        "editions": [
+          {
+            "title": "Secret Avengers by Ales Kot",
+            "isbn": null,
+            "slug": "secret-avengers-ales-kot"
+          },
+          {
+            "title": "Secret Avengers by Nick Spencer Complete Collection",
+            "isbn": null,
+            "slug": "secret-avengers-spencer"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/14516290-L.jpg",
+        "editions": [
+          {
+            "title": "Secret Warriors (2017) by Matthew Rosenberg",
+            "isbn": null,
+            "slug": "secret-warriors-rosenberg"
+          },
+          {
+            "title": "Secret Warriors by Jonathan Hickman Complete Vol. 2",
+            "isbn": null,
+            "slug": "secret-warriors-hickman-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://books.google.com/books/content?id=Kne6rQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "editions": [
+          {
+            "title": "Secret Wars By Jonathan Hickman Omnibus Alex Ross Issue Zero Cover",
+            "isbn": "9781302960261",
+            "slug": "secret-wars-by-jonathan-hickman-alex-ross-issue-zero-cover-omnibus"
+          },
+          {
+            "title": "Secret Wars By Jonathan Hickman Omnibus Jim Cheung Cover",
+            "isbn": "9781302959784",
+            "slug": "secret-wars-by-jonathan-hickman-jim-cheung-cover-omnibus"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/10943974-L.jpg",
+        "editions": [
+          {
+            "title": "Shang-Chi by Gene Luen Yang",
+            "isbn": null,
+            "slug": "shang-chi-yang"
+          },
+          {
+            "title": "Shang-Chi by Gene Luen Yang (2021)",
+            "isbn": null,
+            "slug": "shang-chi-yang-2021"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/8860778-L.jpg",
+        "editions": [
+          {
+            "title": "Shang-Chi, Master of Kung Fu Omnibus Vol. 1",
+            "isbn": null,
+            "slug": "shang-chi-omnibus-v1"
+          },
+          {
+            "title": "Shang-Chi, Master of Kung Fu Omnibus Vol. 2",
+            "isbn": null,
+            "slug": "shang-chi-omnibus-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/12402080-L.jpg",
+        "editions": [
+          {
+            "title": "Silk (2022) by Pak Complete",
+            "isbn": null,
+            "slug": "silk-pak-2022-complete"
+          },
+          {
+            "title": "Silk by Robbie Thompson: The Complete Collection",
+            "isbn": null,
+            "slug": "silk-thompson"
+          },
+          {
+            "title": "Silk Vol. 2 by Pak & Kim",
+            "isbn": null,
+            "slug": "silk-vol2-pak-kim"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/258516-L.jpg",
+        "editions": [
+          {
+            "title": "Silver Surfer by Slott & Allred Vol. 2: Worlds Apart",
+            "isbn": null,
+            "slug": "silver-surfer-slott-allred-v2"
+          },
+          {
+            "title": "Silver Surfer by Steve Englehart Omnibus Vol. 2",
+            "isbn": null,
+            "slug": "silver-surfer-englehart-omnibus-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://books.google.com/books/content?id=pXCCygEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "editions": [
+          {
+            "title": "Silver Surfer Omnibus Vol. 1",
+            "isbn": "9781302922696",
+            "slug": "silver-surfer-omnibus-v1"
+          },
+          {
+            "title": "Silver Surfer Omnibus Vol. 1 John Buscema Thor Cover",
+            "isbn": "9781302963590",
+            "slug": "silver-surfer-john-buscema-thor-cover-omnibus-v1"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/2626084-L.jpg",
+        "editions": [
+          {
+            "title": "Spider-Girl (May Parker) Complete Collection Vol. 1",
+            "isbn": null,
+            "slug": "spider-girl-may-parker-v1"
+          },
+          {
+            "title": "Spider-Girl (May Parker) Complete Collection Vol. 2",
+            "isbn": null,
+            "slug": "spider-girl-may-parker-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/535702-L.jpg",
+        "editions": [
+          {
+            "title": "Spider-Man: Clone Saga Omnibus Vol. 1",
+            "isbn": null,
+            "slug": "spider-man-clone-saga-omnibus-v1"
+          },
+          {
+            "title": "Spider-Man: Clone Saga Omnibus Vol. 2",
+            "isbn": null,
+            "slug": "spider-man-clone-saga-omnibus-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/1464904-L.jpg",
+        "editions": [
+          {
+            "title": "Spider-Man: Reign",
+            "isbn": null,
+            "slug": "spider-man-reign"
+          },
+          {
+            "title": "Spider-Man: Reign 2",
+            "isbn": null,
+            "slug": "spider-man-reign-2"
+          }
+        ]
+      },
+      {
+        "url": "https://m.media-amazon.com/images/P/1302947427.01.LZZZZZZZ.jpg",
+        "editions": [
+          {
+            "title": "Spider-Verse/Spider-Geddon Omnibus",
+            "isbn": "9781302924263",
+            "slug": "spider-verse-spider-geddon-omnibus"
+          },
+          {
+            "title": "Spider-Verse/spider-Geddon Omnibus HC Coipel Cover",
+            "isbn": "9781302947422",
+            "slug": "spider-versespider-geddon-hc-coipel-cover-omnibus"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/1464918-L.jpg",
+        "editions": [
+          {
+            "title": "Spider-Woman by Dennis Hopeless & Javier Rodriguez",
+            "isbn": null,
+            "slug": "spider-woman-pacheco"
+          },
+          {
+            "title": "Spider-Woman Epic Collection: A Tangled Web",
+            "isbn": null,
+            "slug": "spider-woman-epic-tangled-web"
+          },
+          {
+            "title": "Spider-Woman Omnibus",
+            "isbn": null,
+            "slug": "spider-woman-omnibus"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/10651385-L.jpg",
+        "editions": [
+          {
+            "title": "The Mighty Thor by Aaron Vol. 2: Lords of Midgard",
+            "isbn": null,
+            "slug": "mighty-thor-aaron-v2"
+          },
+          {
+            "title": "The Mighty Thor Omnibus Vol. 2 (Lee/Kirby)",
+            "isbn": null,
+            "slug": "thor-lee-kirby-omnibus-v2"
+          },
+          {
+            "title": "The Mighty Thor Omnibus Vol. 3 (Lee/Kirby)",
+            "isbn": null,
+            "slug": "thor-lee-kirby-omnibus-v3"
+          },
+          {
+            "title": "The Mighty Thor Omnibus Vol. 4",
+            "isbn": null,
+            "slug": "thor-omnibus-v4"
+          },
+          {
+            "title": "The Mighty Thor Omnibus Vol. 5",
+            "isbn": null,
+            "slug": "thor-omnibus-v5-wein-simonson-precursor"
+          },
+          {
+            "title": "The Mighty Thor Omnibus Vol. 6",
+            "isbn": null,
+            "slug": "thor-omnibus-v6"
+          }
+        ]
+      },
+      {
+        "url": "https://m.media-amazon.com/images/P/130295301X.01.LZZZZZZZ.jpg",
+        "editions": [
+          {
+            "title": "Thor by J. Michael Straczynski Omnibus",
+            "isbn": "9781302951863",
+            "slug": "thor-straczynski-omnibus"
+          },
+          {
+            "title": "Thor By Straczynski & Gillen Omnibus HC",
+            "isbn": "9781302953010",
+            "slug": "thor-by-straczynski-gillen-hc-omnibus"
+          }
+        ]
+      },
+      {
+        "url": "http://books.google.com/books/content?id=-Lf2EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "editions": [
+          {
+            "title": "Thor Epic Collection: Even an Immortal Can Die",
+            "isbn": null,
+            "slug": "thor-epic-v9-even-an-immortal-can-die"
+          },
+          {
+            "title": "Thor Epic Collection: War of the Gods",
+            "isbn": null,
+            "slug": "thor-epic-v8-war-of-the-gods"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/8460016-L.jpg",
+        "editions": [
+          {
+            "title": "Thor Epic Collection: The Thor War",
+            "isbn": null,
+            "slug": "thor-epic-v19-the-thor-war"
+          },
+          {
+            "title": "Thor Epic Collection: War of the Pantheons",
+            "isbn": null,
+            "slug": "thor-epic-v16-war-of-the-pantheons"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/535489-L.jpg",
+        "editions": [
+          {
+            "title": "Thunderbolts (2022) by Jackson Lanzing & Collin Kelly",
+            "isbn": null,
+            "slug": "thunderbolts-2022"
+          },
+          {
+            "title": "Thunderbolts by Andy Diggle: Burning Down the House",
+            "isbn": null,
+            "slug": "thunderbolts-diggle"
+          },
+          {
+            "title": "Thunderbolts by Busiek & Bagley Omnibus Vol. 1",
+            "isbn": null,
+            "slug": "thunderbolts-busiek-omnibus-v1"
+          },
+          {
+            "title": "Thunderbolts by Busiek & Bagley Omnibus Vol. 2",
+            "isbn": null,
+            "slug": "thunderbolts-busiek-omnibus-v2"
+          },
+          {
+            "title": "Thunderbolts by Busiek Complete Collection Vol. 3",
+            "isbn": null,
+            "slug": "thunderbolts-busiek-complete-v3"
+          },
+          {
+            "title": "Thunderbolts by Daniel Way & Charles Soule",
+            "isbn": null,
+            "slug": "thunderbolts-soule-red-hulk"
+          },
+          {
+            "title": "Thunderbolts by Jeff Parker Complete Collection",
+            "isbn": null,
+            "slug": "thunderbolts-parker-complete"
+          },
+          {
+            "title": "Thunderbolts by Jim Zub",
+            "isbn": null,
+            "slug": "thunderbolts-zub"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/2501011-L.jpg",
+        "editions": [
+          {
+            "title": "Trials of X Vol. 1",
+            "isbn": null,
+            "slug": "trials-of-x-omnibus-v1"
+          },
+          {
+            "title": "X-Factor by Mark Russell (2024)",
+            "isbn": null,
+            "slug": "x-factor-russell-2024"
+          }
+        ]
+      },
+      {
+        "url": "https://m.media-amazon.com/images/P/078515423X.01.LZZZZZZZ.jpg",
+        "editions": [
+          {
+            "title": "Uncanny Avengers by Gerry Duggan Omnibus",
+            "isbn": null,
+            "slug": "uncanny-avengers-duggan"
+          },
+          {
+            "title": "Uncanny Avengers by Jim Zub",
+            "isbn": null,
+            "slug": "uncanny-avengers-zub"
+          }
+        ]
+      },
+      {
+        "url": "https://m.media-amazon.com/images/P/1302959301.01.LZZZZZZZ.jpg",
+        "editions": [
+          {
+            "title": "Uncanny X-Men by Gail Simone (2024)",
+            "isbn": null,
+            "slug": "uncanny-x-men-simone-2024"
+          },
+          {
+            "title": "Uncanny X-Men by Gail Simone Vol. 2",
+            "isbn": null,
+            "slug": "uncanny-x-men-simone-v2"
+          },
+          {
+            "title": "Uncanny X-Men By Gail Simone Vol. 2: The Dark Atery",
+            "isbn": "9781302959302",
+            "slug": "ux-by-gail-simone-the-dark-atery-tp-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/isbn/9780785121022-L.jpg",
+        "editions": [
+          {
+            "title": "Uncanny X-Men Omnibus Vol. 1 (Claremont)",
+            "isbn": null,
+            "slug": "uxm-claremont-omnibus-v1"
+          },
+          {
+            "title": "Uncanny X-Men Omnibus Vol. 1 (Original)",
+            "isbn": null,
+            "slug": "uxm-original-omnibus-v1"
+          }
+        ]
+      },
+      {
+        "url": "https://m.media-amazon.com/images/P/1302952625.01.LZZZZZZZ.jpg",
+        "editions": [
+          {
+            "title": "Venom Modern Era Compendium Vol. 1",
+            "isbn": "9781302952679",
+            "slug": "venom-modern-era-compendium-v1"
+          },
+          {
+            "title": "Venom Modern Era Epic Collection: Agent Venom TPB",
+            "isbn": "9781302952624",
+            "slug": "venom-modern-era-agent-venom-tpb"
+          }
+        ]
+      },
+      {
+        "url": "https://books.google.com/books/content?id=1IfX0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "editions": [
+          {
+            "title": "Web Of Spider-Man Omnibus Vol. 1 Greg Larocque Cover",
+            "isbn": "9781302964535",
+            "slug": "web-of-spider-man-greg-larocque-cover-omnibus-v1"
+          },
+          {
+            "title": "Web Of Spider-Man Omnibus Vol. 1 Mike Zeck Cover",
+            "isbn": "9781302963873",
+            "slug": "web-of-spider-man-mike-zeck-cover-omnibus-v1"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/9044790-L.jpg",
+        "editions": [
+          {
+            "title": "Wolverine by Larry Hama Omnibus Vol. 1",
+            "isbn": null,
+            "slug": "wolverine-hama-omnibus-v1"
+          },
+          {
+            "title": "Wolverine by Larry Hama Omnibus Vol. 2",
+            "isbn": null,
+            "slug": "wolverine-hama-omnibus-v2"
+          }
+        ]
+      },
+      {
+        "url": "https://covers.openlibrary.org/b/id/7751241-L.jpg",
+        "editions": [
+          {
+            "title": "Wolverine Compendium Vol. 1",
+            "isbn": null,
+            "slug": "wolverine-compendium-v1"
+          },
+          {
+            "title": "Wolverine: Origin",
+            "isbn": "9780785136293",
+            "slug": "wolverine-origin-jenkins"
+          }
+        ]
+      },
+      {
+        "url": "https://books.google.com/books/content?id=HqsszgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "editions": [
+          {
+            "title": "X-Factor by Peter David Omnibus Vol. 1",
+            "isbn": "9781302930653",
+            "slug": "x-factor-peter-david-omnibus-v1"
+          },
+          {
+            "title": "X-Factor By Peter David Omnibus Vol. 1 Joe Quesada Cover",
+            "isbn": "9781302963712",
+            "slug": "x-factor-by-peter-david-joe-quesada-cover-omnibus-v1"
+          }
+        ]
+      },
+      {
+        "url": "https://m.media-amazon.com/images/P/0785154396.01.LZZZZZZZ.jpg",
+        "editions": [
+          {
+            "title": "X-Factor by Peter David: The Complete Collection Vol. 2",
+            "isbn": null,
+            "slug": "x-factor-peter-david-v2"
+          },
+          {
+            "title": "X-Factor by Peter David: The Complete Collection Vol. 3",
+            "isbn": null,
+            "slug": "x-factor-peter-david-v3"
+          }
+        ]
+      },
+      {
+        "url": "http://books.google.com/books/content?id=D1iVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "editions": [
+          {
+            "title": "X-Force Epic Collection: X-Cutioners Song",
+            "isbn": null,
+            "slug": "x-force-epic-v2-x-cutioners-song"
+          },
+          {
+            "title": "X-Men Epic Collection: The X-Cutioners Song",
+            "isbn": null,
+            "slug": "xm-epic-v21-the-x-cutioners-song"
+          }
+        ]
+      },
+      {
+        "url": "https://books.google.com/books/content?id=nVsb0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "editions": [
+          {
+            "title": "X-Men: Age Of Krakoa - Dawn Of X Omnibus Vol. 1 Russell Dauterman Cover",
+            "isbn": "9781302966379",
+            "slug": "x-men-age-of-krakoa-dawn-of-x-russell-dauterman-cover-omnibus-v1"
+          },
+          {
+            "title": "X-Men: Dawn of X Omnibus Vol. 1",
+            "isbn": "9781302966362",
+            "slug": "xmen-dawn-of-x-v1"
+          }
+        ]
+      },
+      {
+        "url": "https://books.google.com/books/content?id=m34qAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "editions": [
+          {
+            "title": "X-Men: Fatal Attractions Omnibus Bob Larkin Cover",
+            "isbn": "9781302963774",
+            "slug": "x-men-fatal-attractions-bob-larkin-cover-omnibus"
+          },
+          {
+            "title": "X-Men: Fatal Attractions Omnibus Greg Capullo Cover",
+            "isbn": "9781302963514",
+            "slug": "x-men-fatal-attractions-greg-capullo-cover-omnibus"
+          }
+        ]
+      }
+    ],
+    "isbnMismatches": [
+      {
+        "title": "Amazing Spider-Man by J. Michael Straczynski Omnibus Vol. 2",
+        "slug": "asm-jms-omnibus-v2",
+        "isbn": "9781302951474",
+        "coverUrl": "https://m.media-amazon.com/images/P/1302923137.01.LZZZZZZZ.jpg",
+        "issue": {
+          "type": "isbn_mismatch",
+          "detail": "URL has ISBN-10 1302923137, edition expects 1302951475"
+        }
+      },
+      {
+        "title": "Avengers: Endless Wartime",
+        "slug": "avengers-endless-wartime",
+        "isbn": "9781302368890",
+        "coverUrl": "https://m.media-amazon.com/images/P/0785184686.01.LZZZZZZZ.jpg",
+        "issue": {
+          "type": "isbn_mismatch",
+          "detail": "URL has ISBN-10 0785184686, edition expects 1302368893"
+        }
+      },
+      {
+        "title": "Micronauts: The Original Marvel Years Omnibus Vol. 1",
+        "slug": "micronauts-omnibus-v1",
+        "isbn": "9781302956790",
+        "coverUrl": "https://m.media-amazon.com/images/P/1302956760.01.LZZZZZZZ.jpg",
+        "issue": {
+          "type": "isbn_mismatch",
+          "detail": "URL has ISBN-10 1302956760, edition expects 1302956795"
+        }
+      },
+      {
+        "title": "Spider-Man Epic Collection: Great Responsibility",
+        "slug": "asm-epic-great-responsibility",
+        "isbn": "9781302904074",
+        "coverUrl": "https://m.media-amazon.com/images/P/0785195815.01.LZZZZZZZ.jpg",
+        "issue": {
+          "type": "isbn_mismatch",
+          "detail": "URL has ISBN-10 0785195815, edition expects 1302904078"
+        }
+      },
+      {
+        "title": "Spider-Verse/Spider-Geddon Omnibus",
+        "slug": "spider-verse-spider-geddon-omnibus",
+        "isbn": "9781302924263",
+        "coverUrl": "https://m.media-amazon.com/images/P/1302947427.01.LZZZZZZZ.jpg",
+        "issue": {
+          "type": "isbn_mismatch",
+          "detail": "URL has ISBN-10 1302947427, edition expects 1302924265"
+        }
+      },
+      {
+        "title": "Spine-Tingling Spider-Man",
+        "slug": "spine-tingling-spider-man",
+        "isbn": "9781302954208",
+        "coverUrl": "https://m.media-amazon.com/images/P/1804911801.01.LZZZZZZZ.jpg",
+        "issue": {
+          "type": "isbn_mismatch",
+          "detail": "URL has ISBN-10 1804911801, edition expects 1302954202"
+        }
+      },
+      {
+        "title": "Thor by J. Michael Straczynski Omnibus",
+        "slug": "thor-straczynski-omnibus",
+        "isbn": "9781302951863",
+        "coverUrl": "https://m.media-amazon.com/images/P/130295301X.01.LZZZZZZZ.jpg",
+        "issue": {
+          "type": "isbn_mismatch",
+          "detail": "URL has ISBN-10 130295301X, edition expects 1302951866"
+        }
+      },
+      {
+        "title": "Ultimate Universe By Jonathan Hickman Omnibus",
+        "slug": "ultimate-marvel-hickman-omnibus",
+        "isbn": "9781302968175",
+        "coverUrl": "https://m.media-amazon.com/images/P/1302922661.01.LZZZZZZZ.jpg",
+        "issue": {
+          "type": "isbn_mismatch",
+          "detail": "URL has ISBN-10 1302922661, edition expects 1302968173"
+        }
+      },
+      {
+        "title": "Venom Modern Era Compendium Vol. 1",
+        "slug": "venom-modern-era-compendium-v1",
+        "isbn": "9781302952679",
+        "coverUrl": "https://m.media-amazon.com/images/P/1302952625.01.LZZZZZZZ.jpg",
+        "issue": {
+          "type": "isbn_mismatch",
+          "detail": "URL has ISBN-10 1302952625, edition expects 1302952676"
+        }
+      },
+      {
+        "title": "Wolverine: Madripoor Knights",
+        "slug": "wolverine-madripoor-knights",
+        "isbn": "9781302952242",
+        "coverUrl": "https://m.media-amazon.com/images/P/1804912646.01.LZZZZZZZ.jpg",
+        "issue": {
+          "type": "isbn_mismatch",
+          "detail": "URL has ISBN-10 1804912646, edition expects 1302952242"
+        }
+      },
+      {
+        "title": "X-Force by Benjamin Percy Vol. 1",
+        "slug": "x-force-percy-omnibus-v1",
+        "isbn": "9781302945077",
+        "coverUrl": "https://m.media-amazon.com/images/P/1302919881.01.LZZZZZZZ.jpg",
+        "issue": {
+          "type": "isbn_mismatch",
+          "detail": "URL has ISBN-10 1302919881, edition expects 1302945076"
+        }
+      }
+    ],
+    "googleIssues": [],
+    "deadUrls": [],
+    "placeholders": []
+  }
+}

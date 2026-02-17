@@ -1,0 +1,586 @@
+[
+  {
+    "slug": "star-wars-canon-main-series",
+    "name": "Star Wars: Marvel Canon Main Series",
+    "category": "franchise",
+    "path_type": "curated",
+    "difficulty": "intermediate",
+    "description": "The main Star Wars comic series published by Marvel from 2015 onward, set between Episodes IV and V (and later V and VI). Follow the core storyline through Jason Aaron's run, then Gillen & Pak's continuation.",
+    "estimated_issues": 50,
+    "entries": [
+      {
+        "position": 1,
+        "edition_slug": "star-wars-by-jason-aaron-hc-cassaday-cover-omnibus",
+        "is_optional": false,
+        "note": "Jason Aaron's run \u2014 Skywalker Strikes through Rebel Jail"
+      },
+      {
+        "position": 2,
+        "edition_slug": "star-wars-by-gillen-pak-hc-omnibus",
+        "is_optional": false,
+        "note": "Gillen & Pak continue the main series"
+      }
+    ]
+  },
+  {
+    "slug": "star-wars-darth-vader-complete",
+    "name": "Star Wars: Darth Vader Complete",
+    "category": "character",
+    "path_type": "curated",
+    "difficulty": "intermediate",
+    "description": "Every major Darth Vader-focused comic series from Marvel. Three distinct runs by three writers, each exploring different periods of Vader's story.",
+    "estimated_issues": 125,
+    "entries": [
+      {
+        "position": 1,
+        "edition_slug": "star-wars-darth-vader-by-gillen-larroca-hc-andrews-cover-omnibus",
+        "is_optional": false,
+        "note": "Gillen/Larroca \u2014 set between Episodes IV-V"
+      },
+      {
+        "position": 2,
+        "edition_slug": "star-wars-darth-vader-dark-lord-sith-hc-v02",
+        "is_optional": true,
+        "note": "Charles Soule \u2014 Vader's early days after Ep. III"
+      },
+      {
+        "position": 3,
+        "edition_slug": "star-wars-darth-vader-by-charles-soule-hc-deodato-cover-omnibus",
+        "is_optional": false,
+        "note": "Charles Soule \u2014 Dark Lord of the Sith complete"
+      },
+      {
+        "position": 4,
+        "edition_slug": "star-wars-darth-vader-pak",
+        "is_optional": false,
+        "note": "Greg Pak \u2014 set between Episodes V-VI"
+      },
+      {
+        "position": 5,
+        "edition_slug": "star-wars-darth-vader-black-white-red-tp",
+        "is_optional": true,
+        "note": "Anthology \u2014 short stories by various creators"
+      }
+    ]
+  },
+  {
+    "slug": "star-wars-doctor-aphra-complete",
+    "name": "Star Wars: Doctor Aphra Complete",
+    "category": "character",
+    "path_type": "curated",
+    "difficulty": "intermediate",
+    "description": "Doctor Aphra \u2014 Marvel's breakout original Star Wars character. An amoral archaeologist who debuted in Darth Vader, then got her own series. Two complete runs.",
+    "estimated_issues": 100,
+    "entries": [
+      {
+        "position": 1,
+        "edition_slug": "star-wars-darth-vader-by-gillen-larroca-hc-andrews-cover-omnibus",
+        "is_optional": false,
+        "note": "Aphra's debut in Vader by Gillen"
+      },
+      {
+        "position": 2,
+        "edition_slug": "star-wars-doctor-aphra-hc-omnibus-v01",
+        "is_optional": false,
+        "note": "Aphra's solo series Vol. 1"
+      },
+      {
+        "position": 3,
+        "edition_slug": "star-wars-doctor-aphra-hc-omnibus-v2",
+        "is_optional": false,
+        "note": "Aphra's solo series Vol. 2"
+      },
+      {
+        "position": 4,
+        "edition_slug": "star-wars-doctor-aphra-friends-and-enemies-omnibus",
+        "is_optional": false,
+        "note": "Aphra Vol. 2 series \u2014 Friends and Enemies"
+      }
+    ]
+  },
+  {
+    "slug": "star-wars-canon-crossovers",
+    "name": "Star Wars: Marvel Canon Crossover Events",
+    "category": "franchise",
+    "path_type": "curated",
+    "difficulty": "advanced",
+    "description": "The major Marvel Star Wars crossover events that span multiple series. War of the Bounty Hunters and Crimson Reign connect the main series, Vader, Aphra, and Bounty Hunters.",
+    "estimated_issues": 50,
+    "entries": [
+      {
+        "position": 1,
+        "edition_slug": "star-wars-war-of-the-bounty-hunters-hc-yu-cover-omnibus",
+        "is_optional": false,
+        "note": "War of the Bounty Hunters \u2014 the hunt for Han Solo"
+      },
+      {
+        "position": 2,
+        "edition_slug": "star-wars-crimson-reign-omnibus",
+        "is_optional": false,
+        "note": "Crimson Reign \u2014 Qi'ra's shadow war"
+      }
+    ]
+  },
+  {
+    "slug": "star-wars-high-republic",
+    "name": "Star Wars: The High Republic",
+    "category": "franchise",
+    "path_type": "curated",
+    "difficulty": "intermediate",
+    "description": "The High Republic era (hundreds of years before the films). A new era of Star Wars storytelling with original characters and threats. Three phases.",
+    "estimated_issues": 100,
+    "entries": [
+      {
+        "position": 1,
+        "edition_slug": "star-wars-the-high-republic-phase-i-hc-omnibus",
+        "is_optional": false,
+        "note": "Phase I \u2014 Light of the Jedi era"
+      },
+      {
+        "position": 2,
+        "edition_slug": "star-wars-the-high-republic-phase-ii-quest-of-the-jedi-omnibus",
+        "is_optional": false,
+        "note": "Phase II \u2014 Quest of the Jedi"
+      },
+      {
+        "position": 3,
+        "edition_slug": "star-wars-the-high-republic-phase-iii-the-hunted-tp-v2",
+        "is_optional": true,
+        "note": "Phase III \u2014 The Hunted"
+      },
+      {
+        "position": 4,
+        "edition_slug": "star-wars-the-high-republic-fear-of-the-jedi-tp",
+        "is_optional": true,
+        "note": "Fear of the Jedi"
+      }
+    ]
+  },
+  {
+    "slug": "star-wars-legends-tales-of-the-jedi",
+    "name": "Star Wars Legends: Tales of the Jedi",
+    "category": "franchise",
+    "path_type": "curated",
+    "difficulty": "intermediate",
+    "description": "The earliest era of Star Wars Legends comics \u2014 set thousands of years before the films. Ancient Sith, early Jedi, and the Great Hyperspace War.",
+    "estimated_issues": 75,
+    "entries": [
+      {
+        "position": 1,
+        "edition_slug": "star-wars-legends-tales-of-the-jedi-hc-omnibus",
+        "is_optional": false,
+        "note": "Tales of the Jedi Omnibus \u2014 the complete collection"
+      },
+      {
+        "position": 2,
+        "edition_slug": "star-wars-legends-tales-of-the-jedi-tpb-v2",
+        "is_optional": false,
+        "note": "Epic Collection Vol. 2 \u2014 continuation"
+      },
+      {
+        "position": 3,
+        "edition_slug": "star-wars-legends-tales-of-the-jedi-tpb-v3",
+        "is_optional": false,
+        "note": "Epic Collection Vol. 3 \u2014 conclusion"
+      }
+    ]
+  },
+  {
+    "slug": "star-wars-legends-old-republic",
+    "name": "Star Wars Legends: The Old Republic",
+    "category": "franchise",
+    "path_type": "curated",
+    "difficulty": "intermediate",
+    "description": "The Old Republic era \u2014 set during the events of the Knights of the Old Republic games. Zayne Carrick's adventure from fugitive Padawan to galactic hero.",
+    "estimated_issues": 50,
+    "entries": [
+      {
+        "position": 1,
+        "edition_slug": "star-wars-legends-the-old-republic-omnibus-v1",
+        "is_optional": false,
+        "note": "Old Republic Omnibus Vol. 1"
+      },
+      {
+        "position": 2,
+        "edition_slug": "star-wars-legends-the-old-republic-omnibus-v2",
+        "is_optional": false,
+        "note": "Old Republic Omnibus Vol. 2"
+      }
+    ]
+  },
+  {
+    "slug": "star-wars-legends-prequel-era",
+    "name": "Star Wars Legends: Prequel Era",
+    "category": "franchise",
+    "path_type": "curated",
+    "difficulty": "advanced",
+    "description": "Star Wars Legends comics set during the prequel film era \u2014 Rise of the Sith, The Menace Revealed, and The Clone Wars. Fills in gaps around Episodes I-III.",
+    "estimated_issues": 125,
+    "entries": [
+      {
+        "position": 1,
+        "edition_slug": "star-wars-legends-rise-of-the-sith-hc-bachs-cover-omnibus",
+        "is_optional": false,
+        "note": "Rise of the Sith Omnibus"
+      },
+      {
+        "position": 2,
+        "edition_slug": "star-wars-legends-the-menace-revealed-tpb-v3",
+        "is_optional": false,
+        "note": "The Menace Revealed Vol. 3"
+      },
+      {
+        "position": 3,
+        "edition_slug": "star-wars-legends-the-menace-revealed-tpb-v4",
+        "is_optional": false,
+        "note": "The Menace Revealed Vol. 4"
+      },
+      {
+        "position": 4,
+        "edition_slug": "star-wars-legends-the-clone-wars-tpb-v4",
+        "is_optional": false,
+        "note": "The Clone Wars Vol. 4"
+      },
+      {
+        "position": 5,
+        "edition_slug": "star-wars-jedi-knights-guardians-of-the-republic-tp-v1",
+        "is_optional": true,
+        "note": "Jedi Knights \u2014 Republic era"
+      }
+    ]
+  },
+  {
+    "slug": "star-wars-legends-empire-rebellion",
+    "name": "Star Wars Legends: Empire & Rebellion",
+    "category": "franchise",
+    "path_type": "curated",
+    "difficulty": "advanced",
+    "description": "Star Wars Legends comics set during the original trilogy era. The Empire and Rebellion Epic Collections cover stories set between and around Episodes IV-VI.",
+    "estimated_issues": 150,
+    "entries": [
+      {
+        "position": 1,
+        "edition_slug": "star-wars-legends-the-empire-hc-sanda-cover-omnibus-v1",
+        "is_optional": false,
+        "note": "The Empire Omnibus Vol. 1"
+      },
+      {
+        "position": 2,
+        "edition_slug": "star-wars-legends-the-empire-omnibus-v2",
+        "is_optional": false,
+        "note": "The Empire Omnibus Vol. 2"
+      },
+      {
+        "position": 3,
+        "edition_slug": "star-wars-legends-the-empire-omnibus-v3",
+        "is_optional": false,
+        "note": "The Empire Omnibus Vol. 3"
+      },
+      {
+        "position": 4,
+        "edition_slug": "star-wars-legends-the-rebellion-hc-fleming-cover-omnibus-v1",
+        "is_optional": false,
+        "note": "The Rebellion Omnibus Vol. 1"
+      },
+      {
+        "position": 5,
+        "edition_slug": "star-wars-legends-the-rebellion-hc-omnibus-v2",
+        "is_optional": false,
+        "note": "The Rebellion Omnibus Vol. 2"
+      },
+      {
+        "position": 6,
+        "edition_slug": "star-wars-legends-the-rebellion-omnibus-v3",
+        "is_optional": false,
+        "note": "The Rebellion Omnibus Vol. 3"
+      }
+    ]
+  },
+  {
+    "slug": "star-wars-legends-new-republic",
+    "name": "Star Wars Legends: The New Republic",
+    "category": "franchise",
+    "path_type": "curated",
+    "difficulty": "advanced",
+    "description": "Star Wars Legends comics set after Return of the Jedi. The New Republic, Thrawn's campaign, the New Jedi Order era. Includes the beloved Thrawn Trilogy adaptation.",
+    "estimated_issues": 75,
+    "entries": [
+      {
+        "position": 1,
+        "edition_slug": "star-wars-legends-the-new-republic-hc-lauffray-cover-omnibus-v1",
+        "is_optional": false,
+        "note": "The New Republic Omnibus Vol. 1"
+      },
+      {
+        "position": 2,
+        "edition_slug": "star-wars-legends-the-new-republic-hc-omnibus-v2",
+        "is_optional": false,
+        "note": "The New Republic Omnibus Vol. 2"
+      },
+      {
+        "position": 3,
+        "edition_slug": "star-wars-legends-the-thrawn-trilogy-tpb",
+        "is_optional": false,
+        "note": "The Thrawn Trilogy adaptation"
+      }
+    ]
+  },
+  {
+    "slug": "star-wars-legends-original-marvel",
+    "name": "Star Wars Legends: The Original Marvel Years",
+    "category": "franchise",
+    "path_type": "curated",
+    "difficulty": "intermediate",
+    "description": "Marvel's original Star Wars comics (1977-1986) \u2014 the very first Star Wars comics, published alongside the original trilogy. A fascinating time capsule.",
+    "estimated_issues": 75,
+    "entries": [
+      {
+        "position": 1,
+        "edition_slug": "star-wars-legends-the-original-marvel-years-tp-epic-v5",
+        "is_optional": false,
+        "note": "Original Marvel Years Epic Vol. 5"
+      },
+      {
+        "position": 2,
+        "edition_slug": "star-wars-legends-the-original-marvel-years-tpb-v6",
+        "is_optional": false,
+        "note": "Original Marvel Years Epic Vol. 6"
+      },
+      {
+        "position": 3,
+        "edition_slug": "star-wars-legends-the-original-marvel-years-droids-ewoks-epic",
+        "is_optional": true,
+        "note": "Droids & Ewoks \u2014 spinoff series"
+      }
+    ]
+  },
+  {
+    "slug": "conan-barbarian-original-marvel",
+    "name": "Conan the Barbarian: Original Marvel Years",
+    "category": "franchise",
+    "path_type": "curated",
+    "difficulty": "completionist",
+    "description": "Marvel's original Conan the Barbarian series (1970-1993) collected in massive omnibuses. Roy Thomas and Barry Windsor-Smith's legendary run that brought Robert E. Howard's creation to comics.",
+    "estimated_issues": 125,
+    "entries": [
+      {
+        "position": 1,
+        "edition_slug": "conan-barbarian-omnibus-v1",
+        "is_optional": false,
+        "note": "Vol. 1 \u2014 Roy Thomas & Barry Windsor-Smith define Conan in comics"
+      },
+      {
+        "position": 2,
+        "edition_slug": "conan-barbarian-omnibus-v2",
+        "is_optional": false,
+        "note": "Vol. 2 \u2014 The saga continues"
+      },
+      {
+        "position": 3,
+        "edition_slug": "conan-barbarian-orig-marvel-yrs-hc-omnibus-v04",
+        "is_optional": false,
+        "note": "Vol. 4 \u2014 Later issues"
+      },
+      {
+        "position": 4,
+        "edition_slug": "conan-the-barbarian-the-original-marvel-years-hc-buscema-cover-omnibus-v6",
+        "is_optional": false,
+        "note": "Vol. 6 \u2014 John Buscema era"
+      },
+      {
+        "position": 5,
+        "edition_slug": "conan-the-barbarian-the-original-marvel-years-hc-isherwood-cover-omnibus-v8",
+        "is_optional": false,
+        "note": "Vol. 8 \u2014 Late run"
+      }
+    ]
+  },
+  {
+    "slug": "savage-sword-conan-complete",
+    "name": "Savage Sword of Conan: Complete",
+    "category": "franchise",
+    "path_type": "curated",
+    "difficulty": "completionist",
+    "description": "Marvel's black-and-white Savage Sword of Conan magazine (1974-1995) \u2014 more mature, unbound by Comics Code restrictions. Grittier, bloodier Conan stories.",
+    "estimated_issues": 125,
+    "entries": [
+      {
+        "position": 1,
+        "edition_slug": "savage-sword-conan-orig-marvel-yrs-hc-omnibus-v04",
+        "is_optional": false,
+        "note": "Vol. 4"
+      },
+      {
+        "position": 2,
+        "edition_slug": "savage-sword-of-conan-the-original-marvel-years-hc-asrar-cover-omnibus-v5",
+        "is_optional": false,
+        "note": "Vol. 5"
+      },
+      {
+        "position": 3,
+        "edition_slug": "savage-sword-of-conan-the-original-marvel-years-hc-jusko-cover-omnibus-v6",
+        "is_optional": false,
+        "note": "Vol. 6"
+      },
+      {
+        "position": 4,
+        "edition_slug": "savage-sword-of-conan-the-original-marvel-years-hc-larkin-cover-omnibus-v7",
+        "is_optional": false,
+        "note": "Vol. 7"
+      },
+      {
+        "position": 5,
+        "edition_slug": "savage-sword-of-conan-the-original-marvel-years-hc-klein-cover-omnibus-v8",
+        "is_optional": false,
+        "note": "Vol. 8"
+      }
+    ]
+  },
+  {
+    "slug": "conan-complete-reading-order",
+    "name": "Conan: Complete Marvel Reading Order",
+    "category": "franchise",
+    "path_type": "curated",
+    "difficulty": "advanced",
+    "description": "All Marvel Conan comics in a suggested reading order \u2014 from the original 1970s Marvel years through the 2019 revival. Combines the main Barbarian series, Savage Sword magazine, King Conan, and modern runs.",
+    "estimated_issues": 300,
+    "entries": [
+      {
+        "position": 1,
+        "edition_slug": "conan-barbarian-omnibus-v1",
+        "is_optional": false,
+        "note": "Original Marvel Years \u2014 the beginning"
+      },
+      {
+        "position": 2,
+        "edition_slug": "conan-barbarian-omnibus-v2",
+        "is_optional": false,
+        "note": "Original Marvel Years Vol. 2"
+      },
+      {
+        "position": 3,
+        "edition_slug": "conan-the-barbarian-the-original-marvel-years-epic-2-hawks-from-the-sea-hc",
+        "is_optional": true,
+        "note": "Epic: Hawks from the Sea"
+      },
+      {
+        "position": 4,
+        "edition_slug": "conan-the-barbarian-the-curse-of-the-golden-skull-epic",
+        "is_optional": true,
+        "note": "Epic: Curse of the Golden Skull"
+      },
+      {
+        "position": 5,
+        "edition_slug": "conan-the-barbarian-the-original-marvel-years-queen-of-the-black-coast-tpb",
+        "is_optional": true,
+        "note": "Epic: Queen of the Black Coast"
+      },
+      {
+        "position": 6,
+        "edition_slug": "conan-chronicles-the-song-of-belit-tpb-epic",
+        "is_optional": false,
+        "note": "Chronicles: Song of Belit"
+      },
+      {
+        "position": 7,
+        "edition_slug": "conan-shadows-over-kush-tp",
+        "is_optional": false,
+        "note": "Epic: Shadows Over Kush"
+      },
+      {
+        "position": 8,
+        "edition_slug": "conan-the-king-the-original-marvel-years-hc-andrews-cover-omnibus-v1",
+        "is_optional": false,
+        "note": "King Conan Omnibus Vol. 1"
+      },
+      {
+        "position": 9,
+        "edition_slug": "king-conan-chronicles-phantoms-and-phoenixes-tpb",
+        "is_optional": false,
+        "note": "King Conan Chronicles"
+      },
+      {
+        "position": 10,
+        "edition_slug": "conan-the-barbarian-by-kurt-busiek-hc-omnibus",
+        "is_optional": false,
+        "note": "Busiek's Dark Horse-era revival at Marvel"
+      },
+      {
+        "position": 11,
+        "edition_slug": "conan-the-barbarian-by-aaron-asrar-hc",
+        "is_optional": false,
+        "note": "Aaron & Asrar \u2014 2019 Marvel revival"
+      },
+      {
+        "position": 12,
+        "edition_slug": "conan-chronicles-blood-in-his-wake-tpb",
+        "is_optional": false,
+        "note": "Chronicles: Blood in His Wake"
+      }
+    ]
+  },
+  {
+    "slug": "star-wars-modern-era-epics",
+    "name": "Star Wars: Modern Era Epic Collections",
+    "category": "franchise",
+    "path_type": "curated",
+    "difficulty": "intermediate",
+    "description": "Budget-friendly way to read Marvel's canon Star Wars comics through Epic Collections \u2014 more affordable than the omnibuses.",
+    "estimated_issues": 125,
+    "entries": [
+      {
+        "position": 1,
+        "edition_slug": "star-wars-modern-era-star-wars-tpb-v1",
+        "is_optional": false,
+        "note": "Modern Era: Star Wars Vol. 1"
+      },
+      {
+        "position": 2,
+        "edition_slug": "star-wars-modern-era-yodas-secret-war-epic",
+        "is_optional": false,
+        "note": "Yoda's Secret War"
+      },
+      {
+        "position": 3,
+        "edition_slug": "star-wars-darth-vader-modern-era-vader-down-epic",
+        "is_optional": true,
+        "note": "Vader Down crossover era"
+      },
+      {
+        "position": 4,
+        "edition_slug": "star-wars-darth-vader-modern-era-shadows-and-secrets-epic",
+        "is_optional": true,
+        "note": "Vader: Shadows and Secrets"
+      },
+      {
+        "position": 5,
+        "edition_slug": "star-wars-kanan-modern-era-the-last-padawan-epic",
+        "is_optional": true,
+        "note": "Kanan: The Last Padawan"
+      }
+    ]
+  },
+  {
+    "slug": "star-wars-ages-anthology",
+    "name": "Star Wars: Ages Anthology Series",
+    "category": "franchise",
+    "path_type": "curated",
+    "difficulty": "beginner",
+    "description": "Three anthology hardcovers covering the three eras of the Skywalker saga. Short character-focused stories \u2014 a great intro to Star Wars comics.",
+    "estimated_issues": 50,
+    "entries": [
+      {
+        "position": 1,
+        "edition_slug": "star-wars-age-of-rebellion-hc",
+        "is_optional": false,
+        "note": "Age of Rebellion \u2014 original trilogy era characters"
+      },
+      {
+        "position": 2,
+        "edition_slug": "star-wars-age-of-resistance-hc",
+        "is_optional": false,
+        "note": "Age of Resistance \u2014 sequel trilogy era characters"
+      }
+    ]
+  }
+]

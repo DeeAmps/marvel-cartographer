@@ -1,0 +1,775 @@
+[
+  {
+    "slug": "axm-whedon-omnibus",
+    "diamond_code": "OCT191092"
+  },
+  {
+    "slug": "sensational-she-hulk-byrne-omnibus",
+    "diamond_code": "OCT191099"
+  },
+  {
+    "slug": "silver-surfer-omnibus-v1",
+    "diamond_code": "OCT191090"
+  },
+  {
+    "slug": "heroes-reborn-1996-omnibus",
+    "cover_price": 125.0,
+    "diamond_code": "JAN201036"
+  },
+  {
+    "slug": "absolute-carnage-omnibus",
+    "diamond_code": "FEB201046"
+  },
+  {
+    "slug": "hulk-peter-david-omnibus-v1",
+    "cover_price": 125.0,
+    "diamond_code": "APR201078"
+  },
+  {
+    "slug": "uxm-claremont-omnibus-v2",
+    "diamond_code": "MAR201080"
+  },
+  {
+    "slug": "excalibur-claremont-davis-omnibus",
+    "diamond_code": "APR201068"
+  },
+  {
+    "slug": "incredible-hulk-byrne-to-david",
+    "cover_price": 39.99,
+    "diamond_code": "SEP200743"
+  },
+  {
+    "slug": "infinity-crusade-omnibus",
+    "cover_price": 125.0,
+    "diamond_code": "APR201081"
+  },
+  {
+    "slug": "uxm-claremont-omnibus-v3",
+    "diamond_code": "APR201063"
+  },
+  {
+    "slug": "asm-jms-omnibus-v3",
+    "cover_price": 125.0,
+    "diamond_code": "AUG200727"
+  },
+  {
+    "slug": "uxm-claremont-omnibus-v4",
+    "diamond_code": "AUG200731"
+  },
+  {
+    "slug": "new-warriors-classic-omnibus-v1",
+    "cover_price": 125.0,
+    "diamond_code": "AUG200733"
+  },
+  {
+    "slug": "avengers-aaron-omnibus-v1",
+    "diamond_code": "SEP200730"
+  },
+  {
+    "slug": "ultimate-spider-man-bendis-v2",
+    "diamond_code": "SEP200716"
+  },
+  {
+    "slug": "avengers-academy-complete-v1",
+    "cover_price": 44.99,
+    "diamond_code": "DEC200666"
+  },
+  {
+    "slug": "defenders-omnibus-v1",
+    "cover_price": 100.0,
+    "diamond_code": "OCT200685"
+  },
+  {
+    "slug": "incredible-hercules-complete-v2",
+    "cover_price": 44.99,
+    "diamond_code": "DEC200667"
+  },
+  {
+    "slug": "marvel-masterworks-thor-v2",
+    "cover_price": 75.0,
+    "diamond_code": "OCT200692"
+  },
+  {
+    "slug": "annihilation-conquest-omnibus",
+    "diamond_code": "NOV200609"
+  },
+  {
+    "slug": "hulk-peter-david-omnibus-v3",
+    "diamond_code": "NOV200613"
+  },
+  {
+    "slug": "marvels-snapshots",
+    "diamond_code": "NOV200622"
+  },
+  {
+    "slug": "marvel-masterworks-daredevil-v1",
+    "cover_price": 75.0,
+    "diamond_code": "DEC200639"
+  },
+  {
+    "slug": "power-pack-simonson-v2",
+    "diamond_code": "DEC200645"
+  },
+  {
+    "slug": "ultimates-ewing-omnibus",
+    "diamond_code": "APR211005"
+  },
+  {
+    "slug": "doctor-strange-epic-master-mystic-arts",
+    "diamond_code": "APR210998"
+  },
+  {
+    "slug": "marvel-masterworks-captain-america-v1",
+    "cover_price": 75.0,
+    "diamond_code": "JAN210736"
+  },
+  {
+    "slug": "ff-omnibus-v2",
+    "diamond_code": "JAN210731"
+  },
+  {
+    "slug": "excalibur-howard-v1",
+    "cover_price": 34.99,
+    "diamond_code": "FEB210675"
+  },
+  {
+    "slug": "x-factor-peter-david-omnibus-v1",
+    "diamond_code": "FEB210677"
+  },
+  {
+    "slug": "ff-epic-worlds-greatest",
+    "cover_price": 39.99,
+    "diamond_code": "JUN210800"
+  },
+  {
+    "slug": "marauders-duggan-v1",
+    "cover_price": 34.99,
+    "diamond_code": "FEB210676"
+  },
+  {
+    "slug": "ff-omnibus-v3",
+    "diamond_code": "FEB210669"
+  },
+  {
+    "slug": "ff-omnibus-v4",
+    "diamond_code": "MAR210674"
+  },
+  {
+    "slug": "miles-morales-ultimate-spider-man",
+    "diamond_code": "APR210974"
+  },
+  {
+    "slug": "thor-lee-kirby-omnibus-v1",
+    "diamond_code": "JUN210819"
+  },
+  {
+    "slug": "cloak-and-dagger-omnibus",
+    "diamond_code": "FEB210660"
+  },
+  {
+    "slug": "young-avengers-gillen",
+    "diamond_code": "APR210977"
+  },
+  {
+    "slug": "asm-omnibus-v3",
+    "diamond_code": "MAR210683"
+  },
+  {
+    "slug": "eternals-gillen",
+    "diamond_code": "AUG211304"
+  },
+  {
+    "slug": "moon-knight-moench-epic",
+    "cover_price": 44.99,
+    "diamond_code": "SEP211073"
+  },
+  {
+    "slug": "xmen-mutant-massacre",
+    "diamond_code": "JUN210761"
+  },
+  {
+    "slug": "doctor-strange-omnibus-v2-englehart",
+    "cover_price": 100.0,
+    "diamond_code": "JUN210818"
+  },
+  {
+    "slug": "all-new-xmen-bendis-omnibus",
+    "diamond_code": "OCT211006"
+  },
+  {
+    "slug": "ff-hickman-omnibus-v1",
+    "diamond_code": "JUN210762"
+  },
+  {
+    "slug": "dd-zdarsky-one-more-day",
+    "diamond_code": "JUN210814"
+  },
+  {
+    "slug": "guardians-bendis-omnibus-v1",
+    "diamond_code": "AUG211283"
+  },
+  {
+    "slug": "cable-duggan",
+    "diamond_code": "SEP211041"
+  },
+  {
+    "slug": "ff-hickman-omnibus-v2",
+    "diamond_code": "AUG211287"
+  },
+  {
+    "slug": "war-of-the-realms",
+    "diamond_code": "SEP211047"
+  },
+  {
+    "slug": "inferno-hickman-complete",
+    "diamond_code": "NOV210983"
+  },
+  {
+    "slug": "marvel-masterworks-thor-v1",
+    "cover_price": 75.0,
+    "diamond_code": "SEP211051"
+  },
+  {
+    "slug": "ghost-rider-epic-hell-on-wheels",
+    "diamond_code": "JAN221061"
+  },
+  {
+    "slug": "moon-knight-huston",
+    "diamond_code": "SEP211034"
+  },
+  {
+    "slug": "x-force-percy-omnibus-v1",
+    "diamond_code": "NOV210985"
+  },
+  {
+    "slug": "contest-of-champions",
+    "diamond_code": "DEC211089"
+  },
+  {
+    "slug": "wolverine-epic-back-to-basics",
+    "diamond_code": "JUN221103"
+  },
+  {
+    "slug": "miracleman-omnibus",
+    "diamond_code": "MAR221116"
+  },
+  {
+    "slug": "marvel-masterworks-ff-v4",
+    "cover_price": 75.0,
+    "diamond_code": "MAR221136"
+  },
+  {
+    "slug": "iron-fist-epic-fury-of-iron-fist",
+    "diamond_code": "AUG220997"
+  },
+  {
+    "slug": "new-warriors-nicieza-v2",
+    "diamond_code": "JUN210833"
+  },
+  {
+    "slug": "xmen-xfactor-peter-david-v2",
+    "diamond_code": "JAN221025"
+  },
+  {
+    "slug": "black-panther-priest-omnibus",
+    "diamond_code": "FEB221042"
+  },
+  {
+    "slug": "marvel-masterworks-spider-man-v4",
+    "cover_price": 75.0,
+    "diamond_code": "JUN221087"
+  },
+  {
+    "slug": "venom-cates-omnibus",
+    "diamond_code": "JAN221036"
+  },
+  {
+    "slug": "defenders-epic-day-of-defenders",
+    "diamond_code": "SEP221147"
+  },
+  {
+    "slug": "marvel-masterworks-iron-man-v1",
+    "cover_price": 75.0,
+    "diamond_code": "JUN221085"
+  },
+  {
+    "slug": "asm-nick-spencer-omnibus-v1",
+    "diamond_code": "APR221048"
+  },
+  {
+    "slug": "dd-shadowland-omnibus",
+    "diamond_code": "JUN221072"
+  },
+  {
+    "slug": "asm-jms-omnibus-v1",
+    "diamond_code": "JUN221078"
+  },
+  {
+    "slug": "heroes-reborn-return-omnibus",
+    "diamond_code": "JUL220961"
+  },
+  {
+    "slug": "immortal-iron-fist-omnibus",
+    "cover_price": 125.0,
+    "diamond_code": "FEB221044"
+  },
+  {
+    "slug": "avengers-korvac-saga",
+    "diamond_code": "APR221042"
+  },
+  {
+    "slug": "savage-avengers-duggan-omnibus",
+    "diamond_code": "APR221046"
+  },
+  {
+    "slug": "unbeatable-squirrel-girl-omnibus",
+    "diamond_code": "JUL220951"
+  },
+  {
+    "slug": "wolverine-percy-v2",
+    "cover_price": 44.99,
+    "diamond_code": "SEP221122"
+  },
+  {
+    "slug": "marc-spector-moon-knight-omnibus",
+    "diamond_code": "AUG220969"
+  },
+  {
+    "slug": "ff-epic-coming-of-galactus",
+    "cover_price": 39.99,
+    "diamond_code": "DEC220840"
+  },
+  {
+    "slug": "guardians-galaxy-ewing",
+    "diamond_code": "JAN231034"
+  },
+  {
+    "slug": "ff-millar-hitch-omnibus",
+    "diamond_code": "AUG220962"
+  },
+  {
+    "slug": "avengers-hickman-omnibus-v2",
+    "diamond_code": "AUG220975"
+  },
+  {
+    "slug": "hulk-peter-david-omnibus-v2",
+    "cover_price": 100.0,
+    "diamond_code": "AUG220972"
+  },
+  {
+    "slug": "thor-omnibus-v4",
+    "cover_price": 100.0,
+    "diamond_code": "NOV220843"
+  },
+  {
+    "slug": "marvel-masterworks-avengers-v3",
+    "cover_price": 75.0,
+    "diamond_code": "NOV220861"
+  },
+  {
+    "slug": "daredevil-omnibus-v1",
+    "cover_price": 100.0,
+    "diamond_code": "NOV220845"
+  },
+  {
+    "slug": "avengers-kree-skrull-war",
+    "diamond_code": "MAR230987"
+  },
+  {
+    "slug": "nxm-morrison-omnibus",
+    "diamond_code": "SEP221112"
+  },
+  {
+    "slug": "superior-spider-man-omnibus",
+    "diamond_code": "OCT221003"
+  },
+  {
+    "slug": "defenders-omnibus-v2",
+    "diamond_code": "DEC220918"
+  },
+  {
+    "slug": "black-cat-mackay",
+    "diamond_code": "NOV221068"
+  },
+  {
+    "slug": "avengers-omnibus-v1",
+    "diamond_code": "FEB230914"
+  },
+  {
+    "slug": "cap-coates",
+    "diamond_code": "JAN230992"
+  },
+  {
+    "slug": "marvel-masterworks-x-men-v1",
+    "cover_price": 75.0,
+    "diamond_code": "DEC220925"
+  },
+  {
+    "slug": "avengers-omnibus-v2",
+    "diamond_code": "FEB230915"
+  },
+  {
+    "slug": "spectacular-spider-man-omnibus-v1",
+    "diamond_code": "APR230949"
+  },
+  {
+    "slug": "immortal-hulk-omnibus",
+    "diamond_code": "DEC220817"
+  },
+  {
+    "slug": "avengers-90s-epic-gatherers",
+    "cover_price": 49.99,
+    "diamond_code": "MAY231003"
+  },
+  {
+    "slug": "avengers-omnibus-v3",
+    "diamond_code": "MAR230939"
+  },
+  {
+    "slug": "she-hulk-tamaki",
+    "diamond_code": "MAY231010"
+  },
+  {
+    "slug": "sins-of-sinister-omnibus",
+    "diamond_code": "9.7813E+12"
+  },
+  {
+    "slug": "gwenpool-omnibus",
+    "diamond_code": "MAR230947"
+  },
+  {
+    "slug": "doctor-strange-aaron-omnibus",
+    "diamond_code": "JUL230851"
+  },
+  {
+    "slug": "dd-waid-omnibus",
+    "diamond_code": "APR230911"
+  },
+  {
+    "slug": "incredible-hulk-omnibus-v2",
+    "cover_price": 100.0,
+    "diamond_code": "MAY230982"
+  },
+  {
+    "slug": "venom-modern-era-compendium-v1",
+    "diamond_code": "SEP230933"
+  },
+  {
+    "slug": "new-mutants-omnibus-v2",
+    "cover_price": 125.0,
+    "diamond_code": "JUN231095"
+  },
+  {
+    "slug": "devils-reign-omnibus",
+    "cover_price": 100.0,
+    "diamond_code": "JUN231082"
+  },
+  {
+    "slug": "marvel-masterworks-x-men-v2",
+    "cover_price": 75.0,
+    "diamond_code": "APR230923"
+  },
+  {
+    "slug": "axe-judgment-day-companion",
+    "cover_price": 125.0,
+    "diamond_code": "JUN231080"
+  },
+  {
+    "slug": "luke-cage-epic-retribution",
+    "diamond_code": "OCT230930"
+  },
+  {
+    "slug": "spider-woman-karla-pacheco",
+    "diamond_code": "OCT230935"
+  },
+  {
+    "slug": "black-panther-priest-omnibus-v2",
+    "cover_price": 125.0,
+    "diamond_code": "APR230915"
+  },
+  {
+    "slug": "xmen-mutant-massacre-prelude",
+    "diamond_code": "DEC220816"
+  },
+  {
+    "slug": "captain-america-omnibus-v1",
+    "cover_price": 100.0,
+    "diamond_code": "SEP230897"
+  },
+  {
+    "slug": "spider-man-2099-omnibus-v1",
+    "cover_price": 125.0,
+    "diamond_code": "APR230921"
+  },
+  {
+    "slug": "daredevil-omnibus-v2",
+    "cover_price": 125.0,
+    "diamond_code": "SEP230901"
+  },
+  {
+    "slug": "marvel-masterworks-hulk-v1",
+    "cover_price": 75.0
+  },
+  {
+    "slug": "rise-of-powers-of-x",
+    "diamond_code": "OCT230891"
+  },
+  {
+    "slug": "punisher-max-omnibus-v1",
+    "diamond_code": "NOV230689"
+  },
+  {
+    "slug": "wolverine-percy-v3",
+    "cover_price": 49.99,
+    "diamond_code": "OCT230910"
+  },
+  {
+    "slug": "marvel-masterworks-avengers-v4",
+    "cover_price": 75.0,
+    "diamond_code": "DEC230758"
+  },
+  {
+    "slug": "captain-america-gruenwald-omnibus-v1",
+    "diamond_code": "NOV230679"
+  },
+  {
+    "slug": "shang-chi-yang",
+    "cover_price": 49.99,
+    "diamond_code": "APR240873"
+  },
+  {
+    "slug": "dd-zdarsky-omnibus-v1",
+    "diamond_code": "DEC230750"
+  },
+  {
+    "slug": "punisher-remender-omnibus",
+    "diamond_code": "APR230917"
+  },
+  {
+    "slug": "dd-bendis-maleev-v1",
+    "diamond_code": "JAN240839"
+  },
+  {
+    "slug": "spider-man-bnd-omnibus-v1",
+    "diamond_code": "JAN240837"
+  },
+  {
+    "slug": "avengers-busiek-perez-v2",
+    "diamond_code": "MAR240894"
+  },
+  {
+    "slug": "micronauts-omnibus-v1",
+    "diamond_code": "MAR240851"
+  },
+  {
+    "slug": "dazzler-omnibus",
+    "diamond_code": "APR240855"
+  },
+  {
+    "slug": "thor-cates-omnibus",
+    "diamond_code": "MAR240858"
+  },
+  {
+    "slug": "punisher-aaron-2022",
+    "diamond_code": "APR240851"
+  },
+  {
+    "slug": "asm-zeb-wells-v4",
+    "diamond_code": "AUG240953"
+  },
+  {
+    "slug": "ff-omnibus-v5",
+    "diamond_code": "MAY240838"
+  },
+  {
+    "slug": "dd-zdarsky-omnibus-v2",
+    "diamond_code": "JUN240908"
+  },
+  {
+    "slug": "spider-man-shadow-green-goblin",
+    "diamond_code": "SEP240949"
+  },
+  {
+    "slug": "new-avengers-omnibus-v1",
+    "diamond_code": "JUN240904"
+  },
+  {
+    "slug": "wolverine-madripoor-knights",
+    "diamond_code": "SEP240954"
+  },
+  {
+    "slug": "x-men-road-to-onslaught-omnibus",
+    "cover_price": 125.0,
+    "diamond_code": "MAY240840"
+  },
+  {
+    "slug": "dd-bendis-maleev-v2",
+    "diamond_code": "JUL240881"
+  },
+  {
+    "slug": "fall-of-x-vol-1",
+    "diamond_code": "NOV240757"
+  },
+  {
+    "slug": "asm-omnibus-v6",
+    "diamond_code": "AUG240916"
+  },
+  {
+    "slug": "spider-man-reign-2",
+    "cover_price": 17.99,
+    "diamond_code": "NOV240758"
+  },
+  {
+    "slug": "daredevil-nocenti-omnibus",
+    "diamond_code": "AUG240929"
+  },
+  {
+    "slug": "x-men-mackay-2024",
+    "diamond_code": "NOV240754"
+  },
+  {
+    "slug": "kang-saga-once-future",
+    "diamond_code": "SEP240948"
+  },
+  {
+    "slug": "ultimate-ff-omnibus-v2",
+    "cover_price": 100.0,
+    "diamond_code": "AUG240925"
+  },
+  {
+    "slug": "web-of-spider-man-classic-omnibus",
+    "diamond_code": "SEP240932"
+  },
+  {
+    "slug": "venom-war",
+    "cover_price": 17.99,
+    "diamond_code": "DEC240867"
+  },
+  {
+    "slug": "avengers-forever-omnibus",
+    "diamond_code": "AUG240933"
+  },
+  {
+    "slug": "uncanny-x-men-simone-v2",
+    "cover_price": 19.99,
+    "diamond_code": "DEC240863"
+  },
+  {
+    "slug": "avengers-mackay-v2",
+    "cover_price": 24.99,
+    "diamond_code": "JAN250974"
+  },
+  {
+    "slug": "deadpool-modern-era-compendium",
+    "diamond_code": "JAN250993"
+  },
+  {
+    "slug": "phases-of-moon-knight",
+    "diamond_code": "JAN250978"
+  },
+  {
+    "slug": "silver-surfer-omnibus-v2",
+    "diamond_code": "NOV240735"
+  },
+  {
+    "slug": "silver-surfer-return-omnibus",
+    "diamond_code": "OCT240776"
+  },
+  {
+    "slug": "giant-size-marvel-omnibus",
+    "cover_price": 150.0,
+    "diamond_code": "OCT240782"
+  },
+  {
+    "slug": "wolverine-saladin-ahmed",
+    "diamond_code": "FEB250940"
+  },
+  {
+    "slug": "ff-omnibus-v6",
+    "diamond_code": "NOV240733"
+  },
+  {
+    "slug": "spider-man-blue",
+    "diamond_code": "FEB250952"
+  },
+  {
+    "slug": "marvel-two-in-one-omnibus-v1",
+    "cover_price": 100.0,
+    "diamond_code": "DEC240854"
+  },
+  {
+    "slug": "immortal-thor-ewing",
+    "diamond_code": "MAR250623"
+  },
+  {
+    "slug": "ff-omnibus-v1",
+    "diamond_code": "NOV240731"
+  },
+  {
+    "slug": "x-men-hellfire-gala-2022",
+    "cover_price": 50.0,
+    "diamond_code": "APR250692"
+  },
+  {
+    "slug": "symbiote-spider-man-peter-david",
+    "cover_price": 100.0,
+    "diamond_code": "FEB250913"
+  },
+  {
+    "slug": "x-force-thorne-2024",
+    "diamond_code": "MAY250635"
+  },
+  {
+    "slug": "thor-omnibus-v5-wein-simonson-precursor",
+    "cover_price": 125.0,
+    "diamond_code": "FEB250921"
+  },
+  {
+    "slug": "tomb-of-dracula-omnibus-v2",
+    "diamond_code": "MAR250610"
+  },
+  {
+    "slug": "xmen-dawn-of-x-v1",
+    "diamond_code": "MAR250617"
+  },
+  {
+    "slug": "new-avengers-omnibus-v2",
+    "diamond_code": "APR250680"
+  },
+  {
+    "slug": "incredible-hulk-omnibus-v3-trimpe",
+    "diamond_code": "MAY250612"
+  },
+  {
+    "slug": "marvel-team-up-omnibus-v1",
+    "diamond_code": "MAY250610"
+  },
+  {
+    "slug": "west-coast-avengers-omnibus-v2",
+    "cover_price": 15.99
+  },
+  {
+    "slug": "spider-man-brand-new-day-omnibus-v2",
+    "cover_price": 125.0,
+    "diamond_code": "JUN250621"
+  },
+  {
+    "slug": "ghost-rider-danny-ketch-omnibus",
+    "cover_price": 44.99,
+    "diamond_code": "JAN240872"
+  },
+  {
+    "slug": "conan-barbarian-omnibus-v2",
+    "cover_price": 125.0,
+    "diamond_code": "APR201072"
+  },
+  {
+    "slug": "dd-nocenti-epic",
+    "cover_price": 125.0,
+    "diamond_code": "JUL210762"
+  },
+  {
+    "slug": "conan-barbarian-omnibus-v1",
+    "isbn": "9781302934323"
+  }
+]
