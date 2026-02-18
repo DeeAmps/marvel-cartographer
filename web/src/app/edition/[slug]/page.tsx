@@ -3,6 +3,7 @@ import Link from "next/link";
 import CoverImage from "@/components/ui/CoverImage";
 import {
   getEditionBySlug,
+  getEditions,
   getConnectionsForEdition,
   getMultiHopConnections,
   getCharacters,
