@@ -91,27 +91,21 @@
   },
   {
     "event_slug": "age-of-apocalypse",
-    "edition_slug": "x-men-age-of-apocalypse-hc-billy-tan-cover-omnibus",
+    "edition_slug": "x-men-age-of-apocalypse-alpha-cc-v1",
     "is_core": true,
     "reading_order": 1
   },
   {
     "event_slug": "age-of-apocalypse",
-    "edition_slug": "x-men-age-of-apocalypse-alpha-cc-v1",
+    "edition_slug": "x-men-age-of-apocalypse-reign-cc-v2",
     "is_core": true,
     "reading_order": 2
   },
   {
     "event_slug": "age-of-apocalypse",
-    "edition_slug": "x-men-age-of-apocalypse-reign-cc-v2",
-    "is_core": true,
-    "reading_order": 3
-  },
-  {
-    "event_slug": "age-of-apocalypse",
     "edition_slug": "x-men-age-of-apocalypse-omega-cc-v3",
     "is_core": true,
-    "reading_order": 4
+    "reading_order": 3
   },
   {
     "event_slug": "infinity-hickman",
@@ -127,15 +121,9 @@
   },
   {
     "event_slug": "war-of-the-realms",
-    "edition_slug": "war-of-the-realms-hc-arthur-adams-cover-omnibus",
-    "is_core": true,
-    "reading_order": 1
-  },
-  {
-    "event_slug": "war-of-the-realms",
     "edition_slug": "war-of-realms-companion",
     "is_core": false,
-    "reading_order": 2
+    "reading_order": 1
   },
   {
     "event_slug": "armageddon-2026",
@@ -157,69 +145,45 @@
   },
   {
     "event_slug": "mutant-massacre",
-    "edition_slug": "x-men-mutant-massacre-hc-romita-jr-cover-omnibus",
-    "is_core": true,
-    "reading_order": 1
-  },
-  {
-    "event_slug": "mutant-massacre",
     "edition_slug": "xmen-mutant-massacre",
     "is_core": true,
-    "reading_order": 2
+    "reading_order": 1
   },
   {
     "event_slug": "mutant-massacre",
     "edition_slug": "x-men-mutant-massacre-prelude-omnibus",
     "is_core": false,
-    "reading_order": 3
-  },
-  {
-    "event_slug": "mutant-massacre",
-    "edition_slug": "x-men-mutant-massacre-prelude-bob-layton-cover-omnibus",
-    "is_core": false,
-    "reading_order": 4
+    "reading_order": 2
   },
   {
     "event_slug": "mutant-massacre",
     "edition_slug": "xmen-mutant-massacre-prelude",
     "is_core": false,
-    "reading_order": 5
-  },
-  {
-    "event_slug": "inferno",
-    "edition_slug": "inferno-mark-brooks-cover-ohc",
-    "is_core": true,
-    "reading_order": 1
+    "reading_order": 3
   },
   {
     "event_slug": "inferno",
     "edition_slug": "inferno-hickman-complete",
     "is_core": true,
-    "reading_order": 2
+    "reading_order": 1
   },
   {
     "event_slug": "inferno",
     "edition_slug": "x-men-inferno-hc-omnibus",
     "is_core": true,
-    "reading_order": 3
-  },
-  {
-    "event_slug": "inferno",
-    "edition_slug": "x-men-inferno-prologue-hc-arthur-adams-cover-omnibus",
-    "is_core": true,
-    "reading_order": 4
+    "reading_order": 2
   },
   {
     "event_slug": "dark-reign",
     "edition_slug": "dark-reign-hawkeye",
     "is_core": false,
-    "reading_order": 2
+    "reading_order": 1
   },
   {
     "event_slug": "dark-reign",
     "edition_slug": "thunderbolts-dark-reign-tpb",
     "is_core": false,
-    "reading_order": 3
+    "reading_order": 2
   },
   {
     "event_slug": "fear-itself",
@@ -283,15 +247,9 @@
   },
   {
     "event_slug": "world-war-hulk",
-    "edition_slug": "hulk-world-war-hulk-hc-turner-cover-omnibus",
-    "is_core": true,
-    "reading_order": 2
-  },
-  {
-    "event_slug": "world-war-hulk",
     "edition_slug": "heroes-for-hire-2006",
     "is_core": true,
-    "reading_order": 3
+    "reading_order": 2
   },
   {
     "event_slug": "contest-of-champions-event",
@@ -379,21 +337,9 @@
   },
   {
     "event_slug": "fatal-attractions-event",
-    "edition_slug": "x-men-fatal-attractions-bob-larkin-cover-omnibus",
-    "is_core": true,
-    "reading_order": 2
-  },
-  {
-    "event_slug": "fatal-attractions-event",
-    "edition_slug": "x-men-fatal-attractions-greg-capullo-cover-omnibus",
-    "is_core": true,
-    "reading_order": 3
-  },
-  {
-    "event_slug": "fatal-attractions-event",
     "edition_slug": "xmen-fatal-attractions",
     "is_core": true,
-    "reading_order": 4
+    "reading_order": 2
   },
   {
     "event_slug": "infinity-crusade-event",
@@ -454,12 +400,6 @@
     "edition_slug": "planet-hulk",
     "is_core": true,
     "reading_order": 1
-  },
-  {
-    "event_slug": "planet-hulk-event",
-    "edition_slug": "hulk-planet-hulk-hc-ladronn-arena-cover-omnibus",
-    "is_core": true,
-    "reading_order": 2
   },
   {
     "event_slug": "messiah-complex-event",
@@ -523,27 +463,15 @@
   },
   {
     "event_slug": "inferno-2021-event",
-    "edition_slug": "inferno-mark-brooks-cover-ohc",
+    "edition_slug": "inferno-hickman-complete",
     "is_core": true,
     "reading_order": 1
   },
   {
     "event_slug": "inferno-2021-event",
-    "edition_slug": "inferno-hickman-complete",
-    "is_core": true,
-    "reading_order": 2
-  },
-  {
-    "event_slug": "inferno-2021-event",
     "edition_slug": "x-men-inferno-hc-omnibus",
     "is_core": true,
-    "reading_order": 3
-  },
-  {
-    "event_slug": "inferno-2021-event",
-    "edition_slug": "x-men-inferno-prologue-hc-arthur-adams-cover-omnibus",
-    "is_core": true,
-    "reading_order": 4
+    "reading_order": 2
   },
   {
     "event_slug": "devils-reign-event",
@@ -559,15 +487,9 @@
   },
   {
     "event_slug": "dark-web-event",
-    "edition_slug": "dark-web-ryan-stegman-cover-omnibus",
-    "is_core": true,
-    "reading_order": 2
-  },
-  {
-    "event_slug": "dark-web-event",
     "edition_slug": "dark-web-zeb-wells",
     "is_core": true,
-    "reading_order": 3
+    "reading_order": 2
   },
   {
     "event_slug": "avengers-disassembled",
@@ -577,15 +499,9 @@
   },
   {
     "event_slug": "fall-of-the-mutants",
-    "edition_slug": "x-men-fall-of-the-mutants-hc-blevins-cover-omnibus",
-    "is_core": true,
-    "reading_order": 1
-  },
-  {
-    "event_slug": "fall-of-the-mutants",
     "edition_slug": "x-factor-the-original-x-men-walt-simonson-fall-of-the-mutants-cover-omnibus-v1",
     "is_core": true,
-    "reading_order": 2
+    "reading_order": 1
   },
   {
     "event_slug": "x-tinction-agenda",
@@ -595,15 +511,9 @@
   },
   {
     "event_slug": "x-tinction-agenda",
-    "edition_slug": "x-men-x-tinction-agenda-jim-lee-wanted-cover-omnibus",
-    "is_core": true,
-    "reading_order": 2
-  },
-  {
-    "event_slug": "x-tinction-agenda",
     "edition_slug": "xmen-xtinction-agenda",
     "is_core": true,
-    "reading_order": 3
+    "reading_order": 2
   },
   {
     "event_slug": "judgment-day",
@@ -619,15 +529,9 @@
   },
   {
     "event_slug": "judgment-day",
-    "edition_slug": "axe-judgment-day-patrick-gleason-cover-omnibus",
-    "is_core": true,
-    "reading_order": 3
-  },
-  {
-    "event_slug": "judgment-day",
     "edition_slug": "axe-judgment-day-companion",
     "is_core": false,
-    "reading_order": 4
+    "reading_order": 3
   },
   {
     "event_slug": "empyre",
@@ -643,21 +547,15 @@
   },
   {
     "event_slug": "hellfire-gala-2022",
-    "edition_slug": "x-men-hellfire-gala-the-red-carpet-collection-russell-dauterman-cover-ohc",
+    "edition_slug": "x-men-hellfire-gala-2022",
     "is_core": true,
     "reading_order": 2
   },
   {
     "event_slug": "hellfire-gala-2022",
-    "edition_slug": "x-men-hellfire-gala-2022",
-    "is_core": true,
-    "reading_order": 3
-  },
-  {
-    "event_slug": "hellfire-gala-2022",
     "edition_slug": "x-men-hellfire-gala-2023",
     "is_core": true,
-    "reading_order": 4
+    "reading_order": 3
   },
   {
     "event_slug": "hellfire-gala-2023",
@@ -667,63 +565,33 @@
   },
   {
     "event_slug": "hellfire-gala-2023",
-    "edition_slug": "x-men-hellfire-gala-the-red-carpet-collection-russell-dauterman-cover-ohc",
-    "is_core": true,
-    "reading_order": 2
-  },
-  {
-    "event_slug": "hellfire-gala-2023",
     "edition_slug": "x-men-hellfire-gala-2022",
     "is_core": true,
-    "reading_order": 3
+    "reading_order": 2
   },
   {
     "event_slug": "hellfire-gala-2023",
     "edition_slug": "x-men-hellfire-gala-2023",
     "is_core": true,
-    "reading_order": 4
-  },
-  {
-    "event_slug": "annihilation",
-    "edition_slug": "annihilation-conquest-hc-langley-cover-omnibus",
-    "is_core": true,
-    "reading_order": 1
-  },
-  {
-    "event_slug": "annihilation",
-    "edition_slug": "annihilation-hc-dellotto-cover-omnibus",
-    "is_core": true,
-    "reading_order": 2
+    "reading_order": 3
   },
   {
     "event_slug": "annihilation",
     "edition_slug": "annihilation-2099-tp",
     "is_core": true,
-    "reading_order": 3
-  },
-  {
-    "event_slug": "annihilation",
-    "edition_slug": "annihilation-andrea-di-vito-cover-omnibus",
-    "is_core": true,
-    "reading_order": 4
+    "reading_order": 1
   },
   {
     "event_slug": "annihilation",
     "edition_slug": "nova-annihilation-era",
     "is_core": false,
-    "reading_order": 5
+    "reading_order": 2
   },
   {
     "event_slug": "annihilation-conquest",
     "edition_slug": "annihilation-conquest-hc-langley-cover-omnibus",
     "is_core": true,
     "reading_order": 1
-  },
-  {
-    "event_slug": "annihilation-conquest",
-    "edition_slug": "annihilation-conquest-clint-langley-cover-omnibus",
-    "is_core": true,
-    "reading_order": 2
   },
   {
     "event_slug": "war-of-kings",
@@ -745,15 +613,9 @@
   },
   {
     "event_slug": "x-of-swords-event",
-    "edition_slug": "x-of-swords-mark-brooks-cover-ohc",
-    "is_core": true,
-    "reading_order": 2
-  },
-  {
-    "event_slug": "x-of-swords-event",
     "edition_slug": "xmen-x-of-swords",
     "is_core": true,
-    "reading_order": 3
+    "reading_order": 2
   },
   {
     "event_slug": "civil-war-ii",
@@ -799,15 +661,9 @@
   },
   {
     "event_slug": "spider-geddon-event",
-    "edition_slug": "spider-versespider-geddon-hc-camuncoli-cover-omnibus",
-    "is_core": true,
-    "reading_order": 1
-  },
-  {
-    "event_slug": "spider-geddon-event",
     "edition_slug": "spider-verse-spider-geddon-omnibus",
     "is_core": true,
-    "reading_order": 2
+    "reading_order": 1
   },
   {
     "event_slug": "sins-of-sinister-event",
@@ -828,18 +684,6 @@
     "reading_order": 2
   },
   {
-    "event_slug": "fall-of-house-of-x-event",
-    "edition_slug": "fall-of-the-house-of-x-rise-of-the-powers-of-x-david-nakayama-cover-omnibus",
-    "is_core": true,
-    "reading_order": 3
-  },
-  {
-    "event_slug": "fall-of-house-of-x-event",
-    "edition_slug": "fall-of-the-house-of-x-rise-of-the-powers-of-x-pepe-larraz-cover-omnibus",
-    "is_core": true,
-    "reading_order": 4
-  },
-  {
     "event_slug": "gang-war-event",
     "edition_slug": "gang-war",
     "is_core": true,
@@ -853,21 +697,15 @@
   },
   {
     "event_slug": "gang-war-event",
-    "edition_slug": "spider-man-gang-war-ryan-stegman-cover-omnibus",
-    "is_core": true,
-    "reading_order": 3
-  },
-  {
-    "event_slug": "gang-war-event",
     "edition_slug": "daredevil-gang-war",
     "is_core": true,
-    "reading_order": 4
+    "reading_order": 3
   },
   {
     "event_slug": "from-the-ashes-event",
     "edition_slug": "x-men-from-ashes-v2",
     "is_core": true,
-    "reading_order": 2
+    "reading_order": 1
   },
   {
     "event_slug": "death-of-doctor-strange-event",
