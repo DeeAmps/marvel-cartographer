@@ -8,13 +8,7 @@ import PathCollectionStatus from "@/components/paths/PathCollectionStatus";
 import PathEntryOwned from "@/components/paths/PathEntryOwned";
 import { ArrowLeft, ChevronRight, DollarSign } from "lucide-react";
 
-// Revalidate reading path pages every hour (ISR)
-export const revalidate = 3600;
-
-export async function generateStaticParams() {
-  const paths = await getReadingPaths();
-  return paths.map((p) => ({ slug: p.slug }));
-}
+export const dynamic = "force-dynamic";
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;

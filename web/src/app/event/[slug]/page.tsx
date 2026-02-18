@@ -16,12 +16,7 @@ import { ArrowLeft, ChevronRight } from "lucide-react";
 import type { Event } from "@/lib/types";
 import React from "react";
 
-export const revalidate = 3600;
-
-export async function generateStaticParams() {
-  const events = await getEvents();
-  return events.map((e) => ({ slug: e.slug }));
-}
+export const dynamic = "force-dynamic";
 
 export async function generateMetadata({
   params,

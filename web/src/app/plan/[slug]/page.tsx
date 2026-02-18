@@ -4,12 +4,7 @@ import { getReadingPathBySlug, getReadingPaths, getPurchasePlan } from "@/lib/da
 import PurchasePlanner from "@/components/purchase/PurchasePlanner";
 import { ArrowLeft, BookOpen } from "lucide-react";
 
-export const revalidate = 3600;
-
-export async function generateStaticParams() {
-  const paths = await getReadingPaths();
-  return paths.map((p) => ({ slug: p.slug }));
-}
+export const dynamic = "force-dynamic";
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;

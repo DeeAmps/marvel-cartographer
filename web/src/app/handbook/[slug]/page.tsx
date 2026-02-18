@@ -3,7 +3,7 @@ import Link from "next/link";
 import { BookMarked, Clock, ArrowRight, BookOpen, Zap, AlertTriangle, Quote } from "lucide-react";
 import { getHandbookEntryBySlug, getHandbookEntries, getEras, getEditions, getEvents, getConflicts } from "@/lib/data";
 
-export const revalidate = 3600;
+export const dynamic = "force-dynamic";
 import HandbookTypeBadge from "@/components/handbook/HandbookTypeBadge";
 import ConfidenceScore from "@/components/ui/ConfidenceScore";
 import PowerGridRadar from "@/components/handbook/PowerGridRadar";
@@ -20,11 +20,6 @@ import type {
   SpeciesHandbookData,
   EditorialConceptData,
 } from "@/lib/types";
-
-export async function generateStaticParams() {
-  const entries = await getHandbookEntries();
-  return entries.map((e) => ({ slug: e.slug }));
-}
 
 export async function generateMetadata({
   params,

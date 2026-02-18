@@ -3,7 +3,6 @@ import Link from "next/link";
 import CoverImage from "@/components/ui/CoverImage";
 import {
   getEditionBySlug,
-  getEditions,
   getConnectionsForEdition,
   getMultiHopConnections,
   getCharacters,
@@ -29,12 +28,7 @@ import PrerequisiteCollectionStatus from "@/components/context/PrerequisiteColle
 import WatcherVerdict from "@/components/watcher/WatcherVerdict";
 import { ArrowLeft, Users, Layers, ShoppingCart, Sparkles, Lightbulb, Film } from "lucide-react";
 
-export const revalidate = 3600;
-
-export async function generateStaticParams() {
-  const editions = await getEditions();
-  return editions.map((e) => ({ slug: e.slug }));
-}
+export const dynamic = "force-dynamic";
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;

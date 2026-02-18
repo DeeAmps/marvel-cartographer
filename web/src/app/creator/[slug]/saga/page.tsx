@@ -11,12 +11,7 @@ import StatusBadge from "@/components/ui/StatusBadge";
 import ImportanceBadge from "@/components/ui/ImportanceBadge";
 import { ArrowLeft, GitBranch, ArrowRight } from "lucide-react";
 
-export const revalidate = 3600;
-
-export async function generateStaticParams() {
-  const creators = await getCreators();
-  return creators.map((c) => ({ slug: c.slug }));
-}
+export const dynamic = "force-dynamic";
 
 export async function generateMetadata({
   params,

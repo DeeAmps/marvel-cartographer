@@ -16,12 +16,7 @@ import ConfidenceScore from "@/components/ui/ConfidenceScore";
 import { ArrowLeft, Users, BookOpen, BookMarked } from "lucide-react";
 import type { CollectedEdition, CharacterHandbookData } from "@/lib/types";
 
-export const revalidate = 3600;
-
-export async function generateStaticParams() {
-  const characters = await getCharacters();
-  return characters.map((c) => ({ slug: c.slug }));
-}
+export const dynamic = "force-dynamic";
 
 export async function generateMetadata({
   params,

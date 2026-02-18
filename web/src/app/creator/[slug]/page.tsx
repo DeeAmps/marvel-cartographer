@@ -13,12 +13,7 @@ import CreatorDNAPanel from "@/components/creators/CreatorDNA";
 import { computeCreatorDNA } from "@/lib/creator-analytics";
 import { ArrowLeft, Star, GitBranch } from "lucide-react";
 
-export const revalidate = 3600;
-
-export async function generateStaticParams() {
-  const creators = await getCreators();
-  return creators.map((c) => ({ slug: c.slug }));
-}
+export const dynamic = "force-dynamic";
 
 export async function generateMetadata({
   params,
