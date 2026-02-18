@@ -1,4 +1,4 @@
-import { Suspense } from "react";
+import React, { Suspense } from "react";
 import { getErasWithChapters, getEditionsByEra, getEraChapters } from "@/lib/data";
 import EraCard from "@/components/timeline/EraCard";
 import EditionCard from "@/components/editions/EditionCard";
@@ -7,7 +7,7 @@ import GuideStatusBadge from "@/components/ui/GuideStatusBadge";
 import TimelineFilters from "@/components/timeline/TimelineFilters";
 import TimelineView from "@/components/timeline/TimelineView";
 import HashScroller from "@/components/timeline/HashScroller";
-import Link from "next/link";
+import ShowAllButton from "@/components/timeline/ShowAllButton";
 import type { CollectedEdition, EraChapter } from "@/lib/types";
 
 const EDITIONS_PER_ERA = 12;
@@ -39,8 +39,6 @@ function FilteredEditions({
   chapters,
   rawChapters,
   showAll,
-  eraSlug,
-  currentParams,
 }: {
   editions: CollectedEdition[];
   importance: string;
@@ -50,8 +48,6 @@ function FilteredEditions({
   chapters?: EraChapter[];
   rawChapters?: RawChapter[];
   showAll: boolean;
-  eraSlug: string;
-  currentParams: Record<string, string>;
 }) {
   const filtered = editions.filter((e) => {
     if (importance !== "all" && e.importance !== importance) return false;
@@ -95,76 +91,115 @@ function FilteredEditions({
       }
     }
 
-    // Count total editions across all chapters
     const totalChapteredEditions = filtered.length;
-    const shouldPaginateChapters = !showAll && totalChapteredEditions > EDITIONS_PER_ERA;
+    const shouldPaginate = !showAll && totalChapteredEditions > EDITIONS_PER_ERA;
 
-    // When paginating, show only the first N editions across chapters
-    let editionsRendered = 0;
-    const maxToShow = shouldPaginateChapters ? EDITIONS_PER_ERA : Infinity;
+    // Render a chapter block
+    const renderChapter = (ch: EraChapter, chEditions: CollectedEdition[]) => (
+      <div key={ch.slug} id={ch.slug} className="scroll-mt-24">
+        <div className="flex items-center gap-2 mb-2">
+          <span
+            className="text-xs font-bold px-2 py-0.5 rounded"
+            style={{
+              background: "var(--bg-tertiary)",
+              color: "var(--text-tertiary)",
+              fontFamily: "var(--font-geist-mono), monospace",
+              fontSize: "0.75rem",
+            }}
+          >
+            PART {ch.number}
+          </span>
+          <h3
+            className="text-sm font-bold tracking-tight"
+            style={{ fontFamily: "var(--font-bricolage), sans-serif" }}
+          >
+            {ch.name}
+          </h3>
+          <span
+            className="text-xs"
+            style={{
+              color: "var(--text-tertiary)",
+              fontFamily: "var(--font-geist-mono), monospace",
+              fontSize: "0.75rem",
+            }}
+          >
+            {ch.year_start}–{ch.year_end}
+          </span>
+        </div>
+        {ch.description && (
+          <p
+            className="text-xs mb-3 max-w-2xl"
+            style={{ color: "var(--text-secondary)" }}
+          >
+            {ch.description}
+          </p>
+        )}
+        <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-3">
+          {chEditions.map((edition) => (
+            <EditionCard key={edition.slug} edition={edition} />
+          ))}
+        </div>
+      </div>
+    );
 
-    // Build "show all" URL preserving current filter params
-    const showAllChapterParams = new URLSearchParams(currentParams);
-    showAllChapterParams.set(`showAll_${eraSlug}`, "1");
-    const showAllChapterUrl = `/timeline?${showAllChapterParams.toString()}#${eraSlug}`;
+    if (shouldPaginate) {
+      // Show first N editions inline, rest behind "Show all" button
+      let editionsRendered = 0;
+      const initialChapters: React.ReactNode[] = [];
+      const overflowChapters: React.ReactNode[] = [];
+
+      for (const ch of chapters) {
+        const chEditions = chapterGroups.get(ch.slug) || [];
+        if (chEditions.length === 0) continue;
+
+        if (editionsRendered < EDITIONS_PER_ERA) {
+          const remaining = EDITIONS_PER_ERA - editionsRendered;
+          if (chEditions.length <= remaining) {
+            initialChapters.push(renderChapter(ch, chEditions));
+            editionsRendered += chEditions.length;
+          } else {
+            initialChapters.push(renderChapter(ch, chEditions.slice(0, remaining)));
+            overflowChapters.push(renderChapter(ch, chEditions));
+            editionsRendered += remaining;
+          }
+        } else {
+          overflowChapters.push(renderChapter(ch, chEditions));
+        }
+      }
+
+      return (
+        <div className="space-y-6">
+          {initialChapters}
+          <ShowAllButton count={totalChapteredEditions}>
+            <div className="space-y-6">
+              {chapters.map((ch) => {
+                const chEditions = chapterGroups.get(ch.slug) || [];
+                if (chEditions.length === 0) return null;
+                return renderChapter(ch, chEditions);
+              })}
+              {ungrouped.length > 0 && (
+                <div>
+                  <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-3">
+                    {ungrouped.map((edition) => (
+                      <EditionCard key={edition.slug} edition={edition} />
+                    ))}
+                  </div>
+                </div>
+              )}
+            </div>
+          </ShowAllButton>
+        </div>
+      );
+    }
 
     return (
       <div className="space-y-6">
         {chapters.map((ch) => {
-          if (editionsRendered >= maxToShow) return null;
           const chEditions = chapterGroups.get(ch.slug) || [];
           if (chEditions.length === 0) return null;
-          const remaining = maxToShow - editionsRendered;
-          const visibleEditions = shouldPaginateChapters ? chEditions.slice(0, remaining) : chEditions;
-          editionsRendered += visibleEditions.length;
-          return (
-            <div key={ch.slug} id={ch.slug} className="scroll-mt-24">
-              <div className="flex items-center gap-2 mb-2">
-                <span
-                  className="text-xs font-bold px-2 py-0.5 rounded"
-                  style={{
-                    background: "var(--bg-tertiary)",
-                    color: "var(--text-tertiary)",
-                    fontFamily: "var(--font-geist-mono), monospace",
-                    fontSize: "0.75rem",
-                  }}
-                >
-                  PART {ch.number}
-                </span>
-                <h3
-                  className="text-sm font-bold tracking-tight"
-                  style={{ fontFamily: "var(--font-bricolage), sans-serif" }}
-                >
-                  {ch.name}
-                </h3>
-                <span
-                  className="text-xs"
-                  style={{
-                    color: "var(--text-tertiary)",
-                    fontFamily: "var(--font-geist-mono), monospace",
-                    fontSize: "0.75rem",
-                  }}
-                >
-                  {ch.year_start}–{ch.year_end}
-                </span>
-              </div>
-              {ch.description && (
-                <p
-                  className="text-xs mb-3 max-w-2xl"
-                  style={{ color: "var(--text-secondary)" }}
-                >
-                  {ch.description}
-                </p>
-              )}
-              <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-3">
-                {visibleEditions.map((edition) => (
-                  <EditionCard key={edition.slug} edition={edition} />
-                ))}
-              </div>
-            </div>
-          );
+          return renderChapter(ch, chEditions);
         })}
-        {!shouldPaginateChapters && ungrouped.length > 0 && (
+        {ungrouped.length > 0 && (
           <div>
             <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-3">
               {ungrouped.map((edition) => (
@@ -173,34 +208,14 @@ function FilteredEditions({
             </div>
           </div>
         )}
-        {shouldPaginateChapters && (
-          <div className="mt-4 text-center">
-            <Link
-              href={showAllChapterUrl}
-              className="inline-flex items-center gap-1 px-4 py-2 rounded-lg text-sm font-medium transition-all hover:shadow-md"
-              style={{
-                background: "var(--bg-tertiary)",
-                color: "var(--text-secondary)",
-                border: "1px solid var(--border-default)",
-              }}
-            >
-              Show all {totalChapteredEditions} editions
-            </Link>
-          </div>
-        )}
       </div>
     );
   }
 
   // Apply pagination: show limited editions unless showAll is set
   const totalFiltered = filtered.length;
-  const shouldPaginate = !showAll && totalFiltered > EDITIONS_PER_ERA;
-  const displayed = shouldPaginate ? filtered.slice(0, EDITIONS_PER_ERA) : filtered;
-
-  // Build "show all" URL preserving current filter params
-  const showAllParams = new URLSearchParams(currentParams);
-  showAllParams.set(`showAll_${eraSlug}`, "1");
-  const showAllUrl = `/timeline?${showAllParams.toString()}#${eraSlug}`;
+  const needsPagination = !showAll && totalFiltered > EDITIONS_PER_ERA;
+  const displayed = needsPagination ? filtered.slice(0, EDITIONS_PER_ERA) : filtered;
 
   return (
     <div>
@@ -209,20 +224,14 @@ function FilteredEditions({
           <EditionCard key={edition.slug} edition={edition} />
         ))}
       </div>
-      {shouldPaginate && (
-        <div className="mt-4 text-center">
-          <Link
-            href={showAllUrl}
-            className="inline-flex items-center gap-1 px-4 py-2 rounded-lg text-sm font-medium transition-all hover:shadow-md"
-            style={{
-              background: "var(--bg-tertiary)",
-              color: "var(--text-secondary)",
-              border: "1px solid var(--border-default)",
-            }}
-          >
-            Show all {totalFiltered} editions
-          </Link>
-        </div>
+      {needsPagination && (
+        <ShowAllButton count={totalFiltered}>
+          <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-3">
+            {filtered.map((edition) => (
+              <EditionCard key={edition.slug} edition={edition} />
+            ))}
+          </div>
+        </ShowAllButton>
       )}
     </div>
   );
@@ -239,16 +248,6 @@ export default async function TimelinePage({
   const format = params.format || "all";
   const creator = params.creator || "";
 
-  // Build a clean params record for "show all" links to preserve filters
-  const currentParams: Record<string, string> = {};
-  if (params.importance) currentParams.importance = params.importance;
-  if (params.status) currentParams.status = params.status;
-  if (params.format) currentParams.format = params.format;
-  if (params.creator) currentParams.creator = params.creator;
-  // Preserve existing showAll flags
-  for (const [key, val] of Object.entries(params)) {
-    if (key.startsWith("showAll_") && val) currentParams[key] = val;
-  }
   const [eras, editionsByEra, allRawChapters] = await Promise.all([
     getErasWithChapters(),
     getEditionsByEra(),
@@ -346,8 +345,6 @@ export default async function TimelinePage({
                     chapters={chapters}
                     rawChapters={eraRawChapters}
                     showAll={params[`showAll_${era.slug}`] === "1"}
-                    eraSlug={era.slug}
-                    currentParams={currentParams}
                   />
                 </>
               </EraCard>
