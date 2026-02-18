@@ -1,17 +1,962 @@
 [
-    {"event_slug": "secret-wars-1984", "edition_slug": "secret-wars-1984-omnibus", "is_core": true, "reading_order": 1},
-    {"event_slug": "infinity-gauntlet", "edition_slug": "warlock-by-starlin", "is_core": false, "reading_order": 1},
-    {"event_slug": "infinity-gauntlet", "edition_slug": "infinity-gauntlet-omnibus", "is_core": true, "reading_order": 2},
-    {"event_slug": "onslaught", "edition_slug": "onslaught-omnibus", "is_core": true, "reading_order": 1},
-    {"event_slug": "house-of-m", "edition_slug": "house-of-m", "is_core": true, "reading_order": 1},
-    {"event_slug": "civil-war", "edition_slug": "civil-war", "is_core": true, "reading_order": 1},
-    {"event_slug": "civil-war", "edition_slug": "cap-brubaker-v1", "is_core": false, "reading_order": 2},
-    {"event_slug": "secret-invasion", "edition_slug": "secret-invasion", "is_core": true, "reading_order": 1},
-    {"event_slug": "secret-wars-2015", "edition_slug": "avengers-hickman-omnibus-v2", "is_core": false, "reading_order": 1},
-    {"event_slug": "secret-wars-2015", "edition_slug": "secret-wars-2015-omnibus", "is_core": true, "reading_order": 2},
-    {"event_slug": "blood-hunt", "edition_slug": "blood-hunt", "is_core": true, "reading_order": 1},
-    {"event_slug": "one-world-under-doom", "edition_slug": "doctor-doom-2024", "is_core": false, "reading_order": 1},
-    {"event_slug": "one-world-under-doom", "edition_slug": "one-world-under-doom", "is_core": true, "reading_order": 2},
-    {"event_slug": "siege", "edition_slug": "siege", "is_core": true, "reading_order": 1},
-    {"event_slug": "avengers-vs-x-men", "edition_slug": "avengers-vs-xmen", "is_core": true, "reading_order": 1}
+  {
+    "event_slug": "secret-wars-1984",
+    "edition_slug": "secret-wars-1984-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "infinity-gauntlet",
+    "edition_slug": "warlock-by-starlin",
+    "is_core": false,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "infinity-gauntlet",
+    "edition_slug": "infinity-gauntlet-omnibus",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "onslaught",
+    "edition_slug": "x-men-onslaught",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "house-of-m",
+    "edition_slug": "house-of-m",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "civil-war",
+    "edition_slug": "civil-war",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "civil-war",
+    "edition_slug": "cap-brubaker-v1",
+    "is_core": false,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "secret-invasion",
+    "edition_slug": "secret-invasion",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "secret-wars-2015",
+    "edition_slug": "avengers-hickman-omnibus-v2",
+    "is_core": false,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "secret-wars-2015",
+    "edition_slug": "secret-wars-2015-omnibus",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "blood-hunt",
+    "edition_slug": "blood-hunt",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "one-world-under-doom",
+    "edition_slug": "doctor-doom-2024",
+    "is_core": false,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "one-world-under-doom",
+    "edition_slug": "one-world-under-doom",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "siege",
+    "edition_slug": "siege",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "avengers-vs-x-men",
+    "edition_slug": "avengers-vs-x-men",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "age-of-apocalypse",
+    "edition_slug": "x-men-age-of-apocalypse-hc-billy-tan-cover-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "age-of-apocalypse",
+    "edition_slug": "x-men-age-of-apocalypse-alpha-cc-v1",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "age-of-apocalypse",
+    "edition_slug": "x-men-age-of-apocalypse-reign-cc-v2",
+    "is_core": true,
+    "reading_order": 3
+  },
+  {
+    "event_slug": "age-of-apocalypse",
+    "edition_slug": "x-men-age-of-apocalypse-omega-cc-v3",
+    "is_core": true,
+    "reading_order": 4
+  },
+  {
+    "event_slug": "infinity-hickman",
+    "edition_slug": "avengers-hickman-omnibus-v1",
+    "is_core": false,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "infinity-hickman",
+    "edition_slug": "infinity-hickman",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "war-of-the-realms",
+    "edition_slug": "war-of-the-realms-hc-arthur-adams-cover-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "war-of-the-realms",
+    "edition_slug": "war-of-realms-companion",
+    "is_core": false,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "armageddon-2026",
+    "edition_slug": "armageddon-2026",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "armageddon-2026",
+    "edition_slug": "x-force-armageddon-now-tpb",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "armageddon-2026",
+    "edition_slug": "armageddon-prelude",
+    "is_core": false,
+    "reading_order": 3
+  },
+  {
+    "event_slug": "mutant-massacre",
+    "edition_slug": "x-men-mutant-massacre-hc-romita-jr-cover-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "mutant-massacre",
+    "edition_slug": "xmen-mutant-massacre",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "mutant-massacre",
+    "edition_slug": "x-men-mutant-massacre-prelude-omnibus",
+    "is_core": false,
+    "reading_order": 3
+  },
+  {
+    "event_slug": "mutant-massacre",
+    "edition_slug": "x-men-mutant-massacre-prelude-bob-layton-cover-omnibus",
+    "is_core": false,
+    "reading_order": 4
+  },
+  {
+    "event_slug": "mutant-massacre",
+    "edition_slug": "xmen-mutant-massacre-prelude",
+    "is_core": false,
+    "reading_order": 5
+  },
+  {
+    "event_slug": "inferno",
+    "edition_slug": "inferno-mark-brooks-cover-ohc",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "inferno",
+    "edition_slug": "inferno-hickman-complete",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "inferno",
+    "edition_slug": "x-men-inferno-hc-omnibus",
+    "is_core": true,
+    "reading_order": 3
+  },
+  {
+    "event_slug": "inferno",
+    "edition_slug": "x-men-inferno-prologue-hc-arthur-adams-cover-omnibus",
+    "is_core": true,
+    "reading_order": 4
+  },
+  {
+    "event_slug": "dark-reign",
+    "edition_slug": "dark-reign-hawkeye",
+    "is_core": false,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "dark-reign",
+    "edition_slug": "thunderbolts-dark-reign-tpb",
+    "is_core": false,
+    "reading_order": 3
+  },
+  {
+    "event_slug": "fear-itself",
+    "edition_slug": "fear-itself-tp",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "fear-itself",
+    "edition_slug": "fear-itself-the-fearless",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "inhumans-vs-x-men",
+    "edition_slug": "inhumans-vs-x-men",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "inhumans-vs-x-men",
+    "edition_slug": "inhumans-prime-soule",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "secret-empire-spencer",
+    "edition_slug": "secret-empire",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "king-in-black",
+    "edition_slug": "king-in-black-hc-stegman-dawn-cover-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "kree-skrull-war",
+    "edition_slug": "avengers-kree-skrull-war",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "maximum-carnage",
+    "edition_slug": "asm-maximum-carnage-tpb",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "maximum-carnage",
+    "edition_slug": "spider-man-maximum-carnage",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "world-war-hulk",
+    "edition_slug": "world-war-hulk",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "world-war-hulk",
+    "edition_slug": "hulk-world-war-hulk-hc-turner-cover-omnibus",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "world-war-hulk",
+    "edition_slug": "heroes-for-hire-2006",
+    "is_core": true,
+    "reading_order": 3
+  },
+  {
+    "event_slug": "contest-of-champions-event",
+    "edition_slug": "contest-of-champions",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "contest-of-champions-event",
+    "edition_slug": "contest-of-champions-2015",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "secret-wars-ii-event",
+    "edition_slug": "secret-wars-ii-tpb",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "evolutionary-war-event",
+    "edition_slug": "evolutionary-war-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "atlantis-attacks-event",
+    "edition_slug": "atlantis-attacks-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "acts-of-vengeance-event",
+    "edition_slug": "acts-of-vengeance-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "acts-of-vengeance-event",
+    "edition_slug": "avengers-acts-of-vengeance-tpb",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "x-cutioners-song-event",
+    "edition_slug": "x-men-the-x-cutioners-song-tpb",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "x-cutioners-song-event",
+    "edition_slug": "xmen-xcutioners-song",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "infinity-war-event",
+    "edition_slug": "infinity-war-crusade",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "infinity-war-event",
+    "edition_slug": "infinity-war-omnibus",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "infinity-war-event",
+    "edition_slug": "dr-strange-infinity-war-tpb",
+    "is_core": true,
+    "reading_order": 3
+  },
+  {
+    "event_slug": "infinity-war-event",
+    "edition_slug": "infinity-wars-duggan",
+    "is_core": false,
+    "reading_order": 4
+  },
+  {
+    "event_slug": "fatal-attractions-event",
+    "edition_slug": "x-men-fatal-attractions-tpb",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "fatal-attractions-event",
+    "edition_slug": "x-men-fatal-attractions-bob-larkin-cover-omnibus",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "fatal-attractions-event",
+    "edition_slug": "x-men-fatal-attractions-greg-capullo-cover-omnibus",
+    "is_core": true,
+    "reading_order": 3
+  },
+  {
+    "event_slug": "fatal-attractions-event",
+    "edition_slug": "xmen-fatal-attractions",
+    "is_core": true,
+    "reading_order": 4
+  },
+  {
+    "event_slug": "infinity-crusade-event",
+    "edition_slug": "infinity-crusade-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "phalanx-covenant-event",
+    "edition_slug": "xmen-phalanx-covenant",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "clone-saga-event",
+    "edition_slug": "clone-saga-omnibus-v3",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "clone-saga-event",
+    "edition_slug": "asm-the-clone-saga-tpb",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "clone-saga-event",
+    "edition_slug": "spider-man-clone-saga-hc-lim-cover-omnibus-v1",
+    "is_core": true,
+    "reading_order": 3
+  },
+  {
+    "event_slug": "clone-saga-event",
+    "edition_slug": "spider-man-clone-saga-compendium",
+    "is_core": true,
+    "reading_order": 4
+  },
+  {
+    "event_slug": "operation-galactic-storm-event",
+    "edition_slug": "operation-galactic-storm",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "operation-galactic-storm-event",
+    "edition_slug": "avengers-operation-galactic-storm-tpb",
+    "is_core": false,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "zero-tolerance-event",
+    "edition_slug": "x-force-zero-tolerance-epic",
+    "is_core": false,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "planet-hulk-event",
+    "edition_slug": "planet-hulk",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "planet-hulk-event",
+    "edition_slug": "hulk-planet-hulk-hc-ladronn-arena-cover-omnibus",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "messiah-complex-event",
+    "edition_slug": "x-men-messiah-complex",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "messiah-war-event",
+    "edition_slug": "x-men-messiah-war",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "second-coming-event",
+    "edition_slug": "x-men-second-coming",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "schism-event",
+    "edition_slug": "x-men-schism",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "spider-island-event",
+    "edition_slug": "spider-island-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "shadowland-event",
+    "edition_slug": "dd-shadowland-hc-tan-cover-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "chaos-war-event",
+    "edition_slug": "chaos-war-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "axis-event",
+    "edition_slug": "axis-event",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "axis-event",
+    "edition_slug": "axis-companion",
+    "is_core": false,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "absolute-carnage-event",
+    "edition_slug": "absolute-carnage-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "inferno-2021-event",
+    "edition_slug": "inferno-mark-brooks-cover-ohc",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "inferno-2021-event",
+    "edition_slug": "inferno-hickman-complete",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "inferno-2021-event",
+    "edition_slug": "x-men-inferno-hc-omnibus",
+    "is_core": true,
+    "reading_order": 3
+  },
+  {
+    "event_slug": "inferno-2021-event",
+    "edition_slug": "x-men-inferno-prologue-hc-arthur-adams-cover-omnibus",
+    "is_core": true,
+    "reading_order": 4
+  },
+  {
+    "event_slug": "devils-reign-event",
+    "edition_slug": "devils-reign-hc-lee-cover-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "dark-web-event",
+    "edition_slug": "dark-web-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "dark-web-event",
+    "edition_slug": "dark-web-ryan-stegman-cover-omnibus",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "dark-web-event",
+    "edition_slug": "dark-web-zeb-wells",
+    "is_core": true,
+    "reading_order": 3
+  },
+  {
+    "event_slug": "avengers-disassembled",
+    "edition_slug": "avengers-disassembled",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "fall-of-the-mutants",
+    "edition_slug": "x-men-fall-of-the-mutants-hc-blevins-cover-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "fall-of-the-mutants",
+    "edition_slug": "x-factor-the-original-x-men-walt-simonson-fall-of-the-mutants-cover-omnibus-v1",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "x-tinction-agenda",
+    "edition_slug": "x-men-x-tinction-agenda-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "x-tinction-agenda",
+    "edition_slug": "x-men-x-tinction-agenda-jim-lee-wanted-cover-omnibus",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "x-tinction-agenda",
+    "edition_slug": "xmen-xtinction-agenda",
+    "is_core": true,
+    "reading_order": 3
+  },
+  {
+    "event_slug": "judgment-day",
+    "edition_slug": "judgment-day",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "judgment-day",
+    "edition_slug": "avengers-judgment-day-tpb",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "judgment-day",
+    "edition_slug": "axe-judgment-day-patrick-gleason-cover-omnibus",
+    "is_core": true,
+    "reading_order": 3
+  },
+  {
+    "event_slug": "judgment-day",
+    "edition_slug": "axe-judgment-day-companion",
+    "is_core": false,
+    "reading_order": 4
+  },
+  {
+    "event_slug": "empyre",
+    "edition_slug": "empyre-hc-cheung-avengersfantastic-four-cover-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "hellfire-gala-2022",
+    "edition_slug": "x-men-hellfire-gala-the-red-carpet-collection-ohc",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "hellfire-gala-2022",
+    "edition_slug": "x-men-hellfire-gala-the-red-carpet-collection-russell-dauterman-cover-ohc",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "hellfire-gala-2022",
+    "edition_slug": "x-men-hellfire-gala-2022",
+    "is_core": true,
+    "reading_order": 3
+  },
+  {
+    "event_slug": "hellfire-gala-2022",
+    "edition_slug": "x-men-hellfire-gala-2023",
+    "is_core": true,
+    "reading_order": 4
+  },
+  {
+    "event_slug": "hellfire-gala-2023",
+    "edition_slug": "x-men-hellfire-gala-the-red-carpet-collection-ohc",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "hellfire-gala-2023",
+    "edition_slug": "x-men-hellfire-gala-the-red-carpet-collection-russell-dauterman-cover-ohc",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "hellfire-gala-2023",
+    "edition_slug": "x-men-hellfire-gala-2022",
+    "is_core": true,
+    "reading_order": 3
+  },
+  {
+    "event_slug": "hellfire-gala-2023",
+    "edition_slug": "x-men-hellfire-gala-2023",
+    "is_core": true,
+    "reading_order": 4
+  },
+  {
+    "event_slug": "annihilation",
+    "edition_slug": "annihilation-conquest-hc-langley-cover-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "annihilation",
+    "edition_slug": "annihilation-hc-dellotto-cover-omnibus",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "annihilation",
+    "edition_slug": "annihilation-2099-tp",
+    "is_core": true,
+    "reading_order": 3
+  },
+  {
+    "event_slug": "annihilation",
+    "edition_slug": "annihilation-andrea-di-vito-cover-omnibus",
+    "is_core": true,
+    "reading_order": 4
+  },
+  {
+    "event_slug": "annihilation",
+    "edition_slug": "nova-annihilation-era",
+    "is_core": false,
+    "reading_order": 5
+  },
+  {
+    "event_slug": "annihilation-conquest",
+    "edition_slug": "annihilation-conquest-hc-langley-cover-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "annihilation-conquest",
+    "edition_slug": "annihilation-conquest-clint-langley-cover-omnibus",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "war-of-kings",
+    "edition_slug": "war-of-kings-hc-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "war-of-kings",
+    "edition_slug": "guardians-of-the-galaxy-modern-era-war-of-kings-epic",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "x-of-swords-event",
+    "edition_slug": "x-of-swords-larraz-cover-hc",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "x-of-swords-event",
+    "edition_slug": "x-of-swords-mark-brooks-cover-ohc",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "x-of-swords-event",
+    "edition_slug": "xmen-x-of-swords",
+    "is_core": true,
+    "reading_order": 3
+  },
+  {
+    "event_slug": "civil-war-ii",
+    "edition_slug": "civil-war-ii",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "civil-war-ii",
+    "edition_slug": "all-new-wolverine-v2",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "original-sin",
+    "edition_slug": "original-sin-tp",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "coming-of-galactus",
+    "edition_slug": "ff-omnibus-v1",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "the-thanos-war",
+    "edition_slug": "warlock-by-starlin",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "the-korvac-saga",
+    "edition_slug": "avengers-korvac-saga",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "ultimatum-event",
+    "edition_slug": "ultimatum",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "spider-geddon-event",
+    "edition_slug": "spider-versespider-geddon-hc-camuncoli-cover-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "spider-geddon-event",
+    "edition_slug": "spider-verse-spider-geddon-omnibus",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "sins-of-sinister-event",
+    "edition_slug": "sins-of-sinister-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "fall-of-house-of-x-event",
+    "edition_slug": "fall-of-the-house-of-x-rise-of-the-powers-of-x-cc",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "fall-of-house-of-x-event",
+    "edition_slug": "fall-of-the-house-of-x-rise-of-the-powers-of-x-omnibus",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "fall-of-house-of-x-event",
+    "edition_slug": "fall-of-the-house-of-x-rise-of-the-powers-of-x-david-nakayama-cover-omnibus",
+    "is_core": true,
+    "reading_order": 3
+  },
+  {
+    "event_slug": "fall-of-house-of-x-event",
+    "edition_slug": "fall-of-the-house-of-x-rise-of-the-powers-of-x-pepe-larraz-cover-omnibus",
+    "is_core": true,
+    "reading_order": 4
+  },
+  {
+    "event_slug": "gang-war-event",
+    "edition_slug": "gang-war",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "gang-war-event",
+    "edition_slug": "spider-man-gang-war-omnibus",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "gang-war-event",
+    "edition_slug": "spider-man-gang-war-ryan-stegman-cover-omnibus",
+    "is_core": true,
+    "reading_order": 3
+  },
+  {
+    "event_slug": "gang-war-event",
+    "edition_slug": "daredevil-gang-war",
+    "is_core": true,
+    "reading_order": 4
+  },
+  {
+    "event_slug": "from-the-ashes-event",
+    "edition_slug": "x-men-from-ashes-v2",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "death-of-doctor-strange-event",
+    "edition_slug": "death-of-doctor-strange",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "monsters-unleashed-event",
+    "edition_slug": "monsters-unleashed-event",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "venomverse-event",
+    "edition_slug": "venomverse",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "venomverse-event",
+    "edition_slug": "spider-verse-vs-venomverse-tp",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "reckoning-war-event",
+    "edition_slug": "ff-reckoning-war-ohc",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "maximum-security-event",
+    "edition_slug": "avengers-epic-earths-mightiest",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "spider-verse-event",
+    "edition_slug": "spider-verse",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "death-of-x-event",
+    "edition_slug": "inhumans-vs-x-men",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "fall-of-x-event",
+    "edition_slug": "xmen-fall-of-x",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "fall-of-x-event",
+    "edition_slug": "fall-of-x-vol-1",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "the-avengers-defenders-war",
+    "edition_slug": "avengers-defenders-war",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "the-secret-empire-1974",
+    "edition_slug": "cap-epic-coming-of-falcon",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "heroes-reborn-event",
+    "edition_slug": "heroes-reborn-1996-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "heroes-return-event",
+    "edition_slug": "iron-man-heroes-return-busiek",
+    "is_core": false,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "heroes-return-event",
+    "edition_slug": "cap-heroes-return-tp-cc-v01",
+    "is_core": false,
+    "reading_order": 2
+  }
 ]
