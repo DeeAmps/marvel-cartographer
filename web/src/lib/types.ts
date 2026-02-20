@@ -823,3 +823,23 @@ export interface JourneyFrame {
   y: number;
 }
 
+// ============================================================
+// Watcher Conversation Persistence
+// ============================================================
+
+export interface WatcherConversation {
+  id: string;
+  user_id: string;
+  title: string;
+  created_at: string;
+  updated_at: string;
+}
+
+export interface WatcherMessageRecord {
+  id: string;
+  conversation_id: string;
+  role: 'user' | 'watcher';
+  content: string;
+  created_at: string;
+}
+

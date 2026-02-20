@@ -76787,5 +76787,161 @@
       ],
       "identity_changes": []
     }
+  },
+  {
+    "slug": "rick-jones",
+    "entry_type": "character",
+    "name": "Rick Jones",
+    "core_concept": "The eternal sidekick \u2014 the ordinary human at the center of Marvel's biggest origins and cosmic events.",
+    "canon_confidence": 95,
+    "description": "Rick Jones is the thread that connects Marvel's greatest heroes. A teenage orphan sneaking onto a gamma bomb test site, Rick's presence forced Bruce Banner to push him to safety \u2014 and absorb the blast that created the Hulk (Incredible Hulk #1, 1962). Wracked with guilt, Rick became Banner's closest companion and protector.\n\nRick's journey through the Marvel Universe is unparalleled. He founded the Teen Brigade that summoned the Avengers into existence (Avengers #1, 1963). He briefly served as Captain America's partner under the Bucky identity (Captain America #110-116). He was molecularly bonded to the Kree warrior Captain Marvel via the Nega-Bands, swapping places between Earth and the Negative Zone (Captain Marvel #17, 1969). During the Kree-Skrull War, Rick's latent psychic potential \u2014 the \"Destiny Force\" \u2014 proved powerful enough to end the conflict (Avengers #97).\n\nIn later years, Rick partnered with Rom the Spaceknight, married Marlo Chandler, and served as an underground hacker called the Whisperer. Most dramatically, he was transformed by gamma radiation into A-Bomb, a blue-skinned powerhouse, during the Fall of the Hulks storyline. His death in Secret Empire (2017) and resurrection in Immortal Hulk added further layers to his saga.",
+    "tags": [
+      "hulk",
+      "captain-america",
+      "captain-marvel",
+      "avengers",
+      "sidekick",
+      "gamma",
+      "nega-bands",
+      "a-bomb",
+      "teen-brigade",
+      "destiny-force"
+    ],
+    "source_citations": [
+      "Incredible Hulk #1 (1962)",
+      "Avengers #1 (1963)",
+      "Captain America #110-116 (1969)",
+      "Captain Marvel #17 (1969)",
+      "Avengers #97 (1972)",
+      "Incredible Hulk #393 (1992)",
+      "Avengers Forever #1-12 (1999)"
+    ],
+    "related_edition_slugs": [
+      "incredible-hulk-omnibus",
+      "incredible-hulk-omnibus-v2",
+      "hulk-epic-man-or-monster",
+      "captain-america-omnibus-v1",
+      "captain-marvel-omnibus-v1",
+      "captain-marvel-starlin",
+      "avengers-kree-skrull-war",
+      "immortal-hulk-omnibus",
+      "avengers-forever-omnibus",
+      "incredible-hulk-byrne-to-david",
+      "marvel-masterworks-hulk-v1"
+    ],
+    "related_event_slugs": [
+      "coming-of-galactus",
+      "the-kree-skrull-war",
+      "secret-wars-1984",
+      "world-war-hulk",
+      "secret-invasion"
+    ],
+    "related_conflict_slugs": [],
+    "related_handbook_slugs": [
+      "hulk",
+      "captain-america",
+      "captain-marvel-mar-vell",
+      "avengers-team"
+    ],
+    "status_by_era": [
+      {
+        "era_slug": "birth-of-marvel",
+        "status": "Present at the gamma bomb detonation that created the Hulk. Founded the Teen Brigade. Became an honorary Avenger.",
+        "note": "Rick Jones is the catalyst for both the Hulk and the Avengers.",
+        "citation": "Incredible Hulk #1, Avengers #1 (1962-1963)"
+      },
+      {
+        "era_slug": "the-expansion",
+        "status": "Briefly served as Captain America's partner (Bucky). Bonded to Captain Marvel via the Nega-Bands.",
+        "note": "The Kree-Skrull War revealed Rick's latent Destiny Force.",
+        "citation": "Captain America #110, Captain Marvel #17, Avengers #89-97"
+      },
+      {
+        "era_slug": "bronze-age",
+        "status": "Continued partnership with Captain Marvel. Adventured alongside Rom the Spaceknight.",
+        "note": "Rick and Mar-Vell's bond became one of Marvel's defining partnerships.",
+        "citation": "Captain Marvel #17-62"
+      },
+      {
+        "era_slug": "marvel-knights-ultimate",
+        "status": "Starred in Avengers Forever, where Rick's Destiny Force assembled Avengers across time to battle Immortus.",
+        "note": "Avengers Forever positioned Rick as cosmically significant to the timestream.",
+        "citation": "Avengers Forever #1-12 (1999)"
+      },
+      {
+        "era_slug": "bendis-avengers",
+        "status": "Transformed into A-Bomb during Fall of the Hulks. Joined the gamma-powered cast of Incredible Hulks.",
+        "note": "A-Bomb gave Rick his own superhero identity for the first time.",
+        "citation": "Incredible Hulk #600-611"
+      },
+      {
+        "era_slug": "dawn-of-krakoa",
+        "status": "Resurrected in Immortal Hulk as a gamma mutate connected to the Green Door and the Below-Place.",
+        "note": "Al Ewing recontextualized Rick's gamma connection as something cosmic and horrific.",
+        "citation": "Immortal Hulk #17-50"
+      }
+    ],
+    "retcon_history": [],
+    "data": {
+      "power_grid": {
+        "intelligence": 3,
+        "strength": 2,
+        "speed": 2,
+        "durability": 2,
+        "energy_projection": 3,
+        "fighting_skills": 3
+      },
+      "abilities": [
+        "Destiny Force (latent psychic potential capable of reshaping reality)",
+        "Former Nega-Band wearer (atomic restructuring, dimension swapping)",
+        "Former A-Bomb transformation (gamma-powered superhuman strength)",
+        "Skilled hacker and information broker (as the Whisperer)",
+        "Expert musician and harmonica player"
+      ],
+      "affiliations": [
+        {
+          "team_slug": "teen-brigade",
+          "era_slugs": [
+            "birth-of-marvel"
+          ]
+        },
+        {
+          "team_slug": "avengers-team",
+          "era_slugs": [
+            "birth-of-marvel",
+            "the-expansion",
+            "bronze-age"
+          ]
+        },
+        {
+          "team_slug": "gamma-flight",
+          "era_slugs": [
+            "bendis-avengers"
+          ]
+        }
+      ],
+      "identity_changes": [
+        {
+          "era_slug": "the-expansion",
+          "identity": "Bucky (Captain America's partner)",
+          "citation": "Captain America #110 (1969)"
+        },
+        {
+          "era_slug": "the-expansion",
+          "identity": "Bonded to Captain Marvel (Nega-Bands)",
+          "citation": "Captain Marvel #17 (1969)"
+        },
+        {
+          "era_slug": "bendis-avengers",
+          "identity": "A-Bomb (gamma transformation)",
+          "citation": "Incredible Hulk #600 (2009)"
+        },
+        {
+          "era_slug": "all-new-all-different",
+          "identity": "Whisperer (hacker identity)",
+          "citation": "Avengers Standoff (2016)"
+        }
+      ]
+    }
   }
 ]

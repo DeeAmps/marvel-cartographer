@@ -1,0 +1,62 @@
+[
+  {
+    "event_slug": "maximum-security-event",
+    "edition_slug": "avengers-epic-earths-mightiest",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "spider-verse-event",
+    "edition_slug": "spider-verse",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "death-of-x-event",
+    "edition_slug": "inhumans-vs-x-men",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "fall-of-x-event",
+    "edition_slug": "xmen-fall-of-x",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "fall-of-x-event",
+    "edition_slug": "fall-of-x-vol-1",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "the-avengers-defenders-war",
+    "edition_slug": "avengers-defenders-war",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "the-secret-empire-1974",
+    "edition_slug": "cap-epic-coming-of-falcon",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "heroes-reborn-event",
+    "edition_slug": "heroes-reborn-1996-omnibus",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "heroes-return-event",
+    "edition_slug": "iron-man-heroes-return-busiek",
+    "is_core": false,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "heroes-return-event",
+    "edition_slug": "cap-heroes-return-tp-cc-v01",
+    "is_core": false,
+    "reading_order": 2
+  }
+]

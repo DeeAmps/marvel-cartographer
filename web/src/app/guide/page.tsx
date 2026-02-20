@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
-import { BookOpen, Search, Sparkles } from "lucide-react";
+import { BookOpen, Loader2, Search, Sparkles } from "lucide-react";
 
 const SUGGESTIONS = [
   { label: "Thanos", description: "The Mad Titan's full arc" },
@@ -19,18 +19,24 @@ const SUGGESTIONS = [
 
 export default function GuideIndexPage() {
   const [query, setQuery] = useState("");
+  const [loading, setLoading] = useState(false);
   const router = useRouter();
+
+  function navigate(path: string) {
+    setLoading(true);
+    router.push(path);
+  }
 
   function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     const trimmed = query.trim();
     if (trimmed) {
-      router.push(`/guide/${encodeURIComponent(trimmed)}`);
+      navigate(`/guide/${encodeURIComponent(trimmed)}`);
     }
   }
 
   function handleSuggestion(label: string) {
-    router.push(`/guide/${encodeURIComponent(label)}`);
+    navigate(`/guide/${encodeURIComponent(label)}`);
   }
 
   return (
@@ -76,15 +82,19 @@ export default function GuideIndexPage() {
           />
           <button
             type="submit"
-            disabled={!query.trim()}
+            disabled={!query.trim() || loading}
             className="px-4 py-1.5 rounded-lg text-sm font-bold transition-opacity disabled:opacity-30"
             style={{
               background: "var(--accent-gold)",
               color: "#000",
             }}
           >
-            <Sparkles size={14} className="inline mr-1" />
-            Generate
+            {loading ? (
+              <Loader2 size={14} className="inline mr-1 animate-spin" />
+            ) : (
+              <Sparkles size={14} className="inline mr-1" />
+            )}
+            {loading ? "Generating..." : "Generate"}
           </button>
         </div>
       </form>
@@ -102,7 +112,8 @@ export default function GuideIndexPage() {
             <button
               key={s.label}
               onClick={() => handleSuggestion(s.label)}
-              className="text-left px-3 py-3 rounded-lg border transition-colors"
+              disabled={loading}
+              className="text-left px-3 py-3 rounded-lg border transition-colors disabled:opacity-50"
               style={{
                 background: "var(--bg-secondary)",
                 borderColor: "var(--border-default)",

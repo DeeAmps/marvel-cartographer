@@ -4,8 +4,8 @@ import EventsClient from "./EventsClient";
 export const revalidate = 3600;
 
 export const metadata = {
-  title: "Crossover Events",
-  description: "Browse every major Marvel crossover event from Secret Wars (1984) to Armageddon (2026).",
+  title: "Events & Sagas",
+  description: "Browse every major Marvel event, crossover, and saga-defining run from the Coming of Galactus to the present.",
 };
 
 export default async function EventsPage() {

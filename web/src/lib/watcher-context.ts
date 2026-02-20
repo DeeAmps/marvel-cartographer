@@ -284,6 +284,92 @@ export function getSuggestedQuestionsForPage(pageCtx: WatcherPageContext): strin
   }
 }
 
+// ============================================================
+// Collection context builder
+// ============================================================
+
+export interface CollectionContextItem {
+  title: string;
+  slug: string;
+  status: string;
+  importance: string;
+  print_status: string;
+  release_date: string | null;
+  issues_collected: string;
+  connection_notes: string | null;
+  read_order: number | null;
+}
+
+export function buildCollectionContextString(items: CollectionContextItem[]): string {
+  if (items.length === 0) return "";
+
+  const parts: string[] = [];
+  parts.push("=== USER'S PERSONAL COLLECTION ===\n");
+
+  const owned = items.filter((i) => i.status === "owned");
+  const reading = items.filter((i) => i.status === "reading");
+  const completed = items.filter((i) => i.status === "completed");
+  const wishlist = items.filter((i) => i.status === "wishlist");
+
+  parts.push(`Total: ${items.length} editions`);
+  parts.push(`Owned: ${owned.length} | Reading: ${reading.length} | Completed: ${completed.length} | Wishlist: ${wishlist.length}\n`);
+
+  // Sort by release date for chronological ordering
+  const sortedItems = [...items]
+    .filter((i) => i.status !== "wishlist")
+    .sort((a, b) => {
+      if (a.release_date && b.release_date) return a.release_date.localeCompare(b.release_date);
+      if (a.release_date) return -1;
+      return 1;
+    });
+
+  if (reading.length > 0) {
+    parts.push("--- CURRENTLY READING ---");
+    for (const item of reading) {
+      parts.push(`• ${item.title} [${item.importance}] — ${item.issues_collected}`);
+      if (item.connection_notes) parts.push(`  Connections: ${item.connection_notes}`);
+    }
+    parts.push("");
+  }
+
+  if (completed.length > 0) {
+    parts.push("--- COMPLETED ---");
+    for (const item of completed) {
+      parts.push(`• ${item.title} [${item.importance}]`);
+    }
+    parts.push("");
+  }
+
+  // Show all owned editions with details (cap at 50 to avoid token explosion)
+  const ownedSorted = sortedItems.filter((i) => i.status === "owned");
+  if (ownedSorted.length > 0) {
+    parts.push("--- OWNED (by release date) ---");
+    const shown = ownedSorted.slice(0, 50);
+    for (const item of shown) {
+      parts.push(`• ${item.title} [${item.importance}] — ${item.issues_collected}`);
+      if (item.connection_notes) parts.push(`  Connections: ${item.connection_notes}`);
+    }
+    if (ownedSorted.length > 50) {
+      parts.push(`  ...and ${ownedSorted.length - 50} more owned editions`);
+    }
+    parts.push("");
+  }
+
+  if (wishlist.length > 0) {
+    parts.push("--- WISHLIST ---");
+    for (const item of wishlist.slice(0, 20)) {
+      parts.push(`• ${item.title} [${item.importance}]`);
+    }
+    if (wishlist.length > 20) {
+      parts.push(`  ...and ${wishlist.length - 20} more on wishlist`);
+    }
+    parts.push("");
+  }
+
+  parts.push("=== END COLLECTION ===");
+  return parts.join("\n");
+}
+
 export const WATCHER_SYSTEM_PROMPT = `You are The Watcher — Uatu's successor — an all-knowing observer of the Marvel Universe.
 You help readers navigate Marvel's complex continuity and find their ideal reading order.
 
@@ -295,4 +381,10 @@ RULES:
 - Speak with gravitas but remain approachable. You observe. You do not interfere... except when asked.
 - Keep responses focused and practical. Readers want actionable recommendations.
 - Always reference the importance level (essential/recommended/supplemental) when discussing editions.
-- Mention print status when relevant (in print vs out of print).`;
+- Mention print status when relevant (in print vs out of print).
+- When the user's personal collection is provided, USE IT. You can see what they own, what they're reading, and what they've completed.
+  - Tailor recommendations to what they actually have on their shelves.
+  - When asked about reading order, build it from their owned editions.
+  - When suggesting "what's next", prioritize editions they already own but haven't read.
+  - Note gaps in their collection that would improve continuity flow.
+  - Reference their collection status (owned/reading/completed) when relevant.`;

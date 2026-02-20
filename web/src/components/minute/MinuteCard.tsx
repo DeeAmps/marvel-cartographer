@@ -29,7 +29,7 @@ export default function MinuteCard({
       >
         {/* Front */}
         <div
-          className="absolute inset-0 rounded-2xl border p-6 flex flex-col justify-between"
+          className="absolute inset-0 rounded-2xl border p-6 flex flex-col"
           style={{
             background: "var(--bg-secondary)",
             borderColor: `color-mix(in srgb, ${card.color} 30%, var(--border-default))`,
@@ -37,32 +37,32 @@ export default function MinuteCard({
             boxShadow: `0 4px 24px color-mix(in srgb, ${card.color} 10%, transparent)`,
           }}
         >
-          <div>
-            <div className="flex items-center justify-between mb-4">
-              <span
-                className="text-xs font-bold px-2.5 py-1 rounded-full inline-block"
-                style={{
-                  color: card.color,
-                  border: `1px solid ${card.color}`,
-                  fontFamily: "var(--font-geist-mono), monospace",
-                  fontSize: "0.6rem",
-                  textTransform: "uppercase",
-                }}
-              >
-                {card.category}
-              </span>
-              <span
-                className="text-xs"
-                style={{ color: "var(--text-tertiary)", fontFamily: "var(--font-geist-mono), monospace", fontSize: "0.6rem" }}
-              >
-                {index + 1}/{total}
-              </span>
-            </div>
-            <p className="text-base font-semibold leading-snug line-clamp-5" style={{ color: "var(--text-primary)" }}>
+          <div className="flex items-center justify-between mb-4 shrink-0">
+            <span
+              className="text-xs font-bold px-2.5 py-1 rounded-full inline-block"
+              style={{
+                color: card.color,
+                border: `1px solid ${card.color}`,
+                fontFamily: "var(--font-geist-mono), monospace",
+                fontSize: "0.6rem",
+                textTransform: "uppercase",
+              }}
+            >
+              {card.category}
+            </span>
+            <span
+              className="text-xs"
+              style={{ color: "var(--text-tertiary)", fontFamily: "var(--font-geist-mono), monospace", fontSize: "0.6rem" }}
+            >
+              {index + 1}/{total}
+            </span>
+          </div>
+          <div className="flex-1 min-h-0 overflow-y-auto overscroll-contain" onClick={(e) => e.stopPropagation()}>
+            <p className="text-base font-semibold leading-snug" style={{ color: "var(--text-primary)" }}>
               {card.front}
             </p>
           </div>
-          <div className="flex items-center justify-between">
+          <div className="flex items-center justify-between mt-3 shrink-0">
             <p className="text-xs" style={{ color: "var(--text-tertiary)" }}>
               Tap to reveal answer
             </p>
@@ -77,7 +77,7 @@ export default function MinuteCard({
 
         {/* Back */}
         <div
-          className="absolute inset-0 rounded-2xl border p-6 flex flex-col justify-between"
+          className="absolute inset-0 rounded-2xl border p-6 flex flex-col"
           style={{
             background: "var(--bg-tertiary)",
             borderColor: `color-mix(in srgb, ${card.color} 40%, var(--border-default))`,
@@ -86,25 +86,25 @@ export default function MinuteCard({
             boxShadow: `0 4px 24px color-mix(in srgb, ${card.color} 15%, transparent)`,
           }}
         >
-          <div>
-            <span
-              className="text-xs font-bold px-2.5 py-1 rounded-full inline-block mb-4"
-              style={{
-                color: "#fff",
-                background: card.color,
-                fontSize: "0.6rem",
-                textTransform: "uppercase",
-              }}
-            >
-              Answer
-            </span>
-            <p className="text-base leading-snug line-clamp-5 whitespace-pre-line" style={{ color: "var(--text-primary)" }}>
+          <span
+            className="text-xs font-bold px-2.5 py-1 rounded-full inline-block mb-4 shrink-0"
+            style={{
+              color: "#fff",
+              background: card.color,
+              fontSize: "0.6rem",
+              textTransform: "uppercase",
+            }}
+          >
+            Answer
+          </span>
+          <div className="flex-1 min-h-0 overflow-y-auto overscroll-contain" onClick={(e) => e.stopPropagation()}>
+            <p className="text-base leading-snug whitespace-pre-line" style={{ color: "var(--text-primary)" }}>
               {card.back}
             </p>
           </div>
           {card.source && (
             <p
-              className="text-xs"
+              className="text-xs mt-3 shrink-0"
               style={{ color: "var(--text-tertiary)", fontFamily: "var(--font-geist-mono), monospace", fontSize: "0.6rem" }}
             >
               {card.source}

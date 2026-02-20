@@ -3843,5 +3843,21 @@
       "Jedi High Council"
     ],
     "description": "The legendary Jedi Grand Master who trained Jedi for over 800 years before going into exile on Dagobah after the fall of the Republic. In Marvel's Star Wars comics, Yoda appears in flashback stories within the main Star Wars series, with tales of his missions during the High Republic and Clone Wars eras providing wisdom that guides Luke Skywalker's journey."
+  },
+  {
+    "slug": "rick-jones",
+    "name": "Rick Jones",
+    "aliases": [
+      "A-Bomb",
+      "Bucky",
+      "Whisperer"
+    ],
+    "first_appearance_issue": "Incredible Hulk #1 (1962)",
+    "universe": "Earth-616",
+    "teams": [
+      "Avengers (honorary)",
+      "Teen Brigade"
+    ],
+    "description": "The teenager whose presence at the gamma bomb test site led Bruce Banner to become the Hulk. Rick Jones has been a sidekick and partner to nearly every major Marvel hero \u2014 the Hulk, Captain America (as the new Bucky), Captain Marvel (bonded via Nega-Bands), and Rom. Later transformed into the gamma-powered A-Bomb. One of the most connected civilians in Marvel history."
   }
 ]

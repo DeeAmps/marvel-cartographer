@@ -37,13 +37,23 @@ export interface BfsOptions {
   maxResults?: number;
 }
 
-// Connection types used for graph traversal
-const TRAVERSAL_TYPES = new Set([
+// Strong connection types — these define actual reading order
+const STRONG_TRAVERSAL_TYPES = new Set([
   "leads_to",
   "recommended_after",
   "spin_off",
-  "ties_into",
   "prerequisite",
+]);
+
+// Weak connection types — these link across franchises (crossover tie-ins)
+const WEAK_TRAVERSAL_TYPES = new Set([
+  "ties_into",
+]);
+
+// All traversable types (strong + weak)
+const TRAVERSAL_TYPES = new Set([
+  ...STRONG_TRAVERSAL_TYPES,
+  ...WEAK_TRAVERSAL_TYPES,
 ]);
 
 // ============================================================
@@ -95,8 +105,14 @@ export function bfsPath(
   }
 
   // Sort by score descending
-  const scoreEntry = (e: QueueEntry) =>
-    e.conn.strength * 10 + e.conn.confidence - e.depth * 20;
+  // Heavily penalize weak traversal types (ties_into, parallel) to keep paths focused
+  const scoreEntry = (e: QueueEntry) => {
+    let score = e.conn.strength * 10 + e.conn.confidence - e.depth * 20;
+    if (WEAK_TRAVERSAL_TYPES.has(e.conn.connection_type)) {
+      score -= 80; // Strong penalty for franchise-jumping connections
+    }
+    return score;
+  };
   queue.sort((a, b) => scoreEntry(b) - scoreEntry(a));
 
   while (queue.length > 0 && results.length < maxResults) {

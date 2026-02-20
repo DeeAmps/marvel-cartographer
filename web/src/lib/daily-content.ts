@@ -122,7 +122,7 @@ export function getMarvelMinuteCards(
       type: "edition",
       category: "Essential Read",
       front: ed.title,
-      back: ed.synopsis.slice(0, 200) + (ed.synopsis.length > 200 ? "..." : ""),
+      back: ed.synopsis,
       source: ed.issues_collected,
       color: "var(--accent-gold)",
     });

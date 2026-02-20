@@ -274,7 +274,7 @@ export default async function Home() {
           {[
             { href: "/characters", icon: Users, label: "Characters", desc: `${characters.length} heroes & villains`, accent: "var(--accent-blue)" },
             { href: "/creators", icon: Pencil, label: "Creators", desc: `${creators.length} writers & artists`, accent: "var(--accent-gold)" },
-            { href: "/events", icon: Zap, label: "Events", desc: `${events.length} crossover events`, accent: "var(--accent-red)" },
+            { href: "/events", icon: Zap, label: "Events", desc: `${events.length} events & sagas`, accent: "var(--accent-red)" },
             { href: "/conflicts", icon: AlertTriangle, label: "Conflicts", desc: "Canon disputes & retcons", accent: "var(--accent-purple)" },
             { href: "/handbook", icon: BookMarked, label: "Handbook", desc: "Characters, teams & lore", accent: "var(--accent-purple)" },
             { href: "/path/absolute-essentials", icon: BookOpen, label: "Essentials", desc: `${essentialsBookCount} books. The whole universe.`, accent: "var(--accent-green)" },

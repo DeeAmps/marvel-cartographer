@@ -4,6 +4,7 @@ import { getWatcherSearchContext, getWatcherPageContextData } from "@/lib/data";
 import {
   buildContextString,
   buildPageContextString,
+  buildCollectionContextString,
   WATCHER_SYSTEM_PROMPT,
   type WatcherPageContext,
 } from "@/lib/watcher-context";
@@ -92,6 +93,56 @@ export async function POST(request: NextRequest) {
     );
   }
 
+  // Fetch user's collection from Supabase
+  const { data: collectionRows } = await supabase
+    .from("user_collections")
+    .select("edition_id, status, completed_at, read_order")
+    .eq("user_id", user.id);
+
+  let collectionContext = "";
+  if (collectionRows && collectionRows.length > 0) {
+    // Resolve edition IDs to slugs and titles
+    const editionIds = collectionRows.map((r) => r.edition_id);
+    const { data: editionData } = await supabase
+      .from("collected_editions")
+      .select("id, slug, title, importance, print_status, era_id, release_date, issues_collected, connection_notes")
+      .in("id", editionIds);
+
+    const editionMap = new Map(
+      (editionData ?? []).map((e) => [e.id, e])
+    );
+
+    const collectionItems = collectionRows
+      .map((r) => {
+        const edition = editionMap.get(r.edition_id);
+        if (!edition) return null;
+        return {
+          title: edition.title,
+          slug: edition.slug,
+          status: r.status as string,
+          importance: edition.importance,
+          print_status: edition.print_status,
+          release_date: edition.release_date,
+          issues_collected: edition.issues_collected,
+          connection_notes: edition.connection_notes,
+          read_order: r.read_order,
+        };
+      })
+      .filter(Boolean) as {
+        title: string;
+        slug: string;
+        status: string;
+        importance: string;
+        print_status: string;
+        release_date: string | null;
+        issues_collected: string;
+        connection_notes: string | null;
+        read_order: number | null;
+      }[];
+
+    collectionContext = buildCollectionContextString(collectionItems);
+  }
+
   // Build context — page-aware if pageContext provided, else keyword search
   let contextString: string;
   if (pageContext && pageContext.pageType !== "general") {
@@ -100,6 +151,11 @@ export async function POST(request: NextRequest) {
   } else {
     const searchContext = await getWatcherSearchContext(question.trim());
     contextString = buildContextString(searchContext, question.trim());
+  }
+
+  // Append collection context if user has a collection
+  if (collectionContext) {
+    contextString += "\n\n" + collectionContext;
   }
 
   // Log query

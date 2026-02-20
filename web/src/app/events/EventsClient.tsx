@@ -62,11 +62,11 @@ export default function EventsClient({
         className="text-3xl font-bold tracking-tight mb-2"
         style={{ fontFamily: "var(--font-bricolage), sans-serif" }}
       >
-        Crossover Events
+        Events & Sagas
       </h1>
       <p className="mb-6" style={{ color: "var(--text-secondary)" }}>
-        {events.length} major Marvel crossover events, from Secret Wars to the
-        present.
+        {events.length} major Marvel events, crossovers, and saga-defining runs,
+        from the Coming of Galactus to the present.
       </p>
 
       {/* Visual Timeline */}

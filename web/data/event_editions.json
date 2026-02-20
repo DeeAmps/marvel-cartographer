@@ -217,7 +217,7 @@
   },
   {
     "event_slug": "king-in-black",
-    "edition_slug": "king-in-black-hc-stegman-dawn-cover-omnibus",
+    "edition_slug": "king-in-black",
     "is_core": true,
     "reading_order": 1
   },
@@ -367,12 +367,6 @@
   },
   {
     "event_slug": "clone-saga-event",
-    "edition_slug": "spider-man-clone-saga-hc-lim-cover-omnibus-v1",
-    "is_core": true,
-    "reading_order": 3
-  },
-  {
-    "event_slug": "clone-saga-event",
     "edition_slug": "spider-man-clone-saga-compendium",
     "is_core": true,
     "reading_order": 4
@@ -433,7 +427,7 @@
   },
   {
     "event_slug": "shadowland-event",
-    "edition_slug": "dd-shadowland-hc-tan-cover-omnibus",
+    "edition_slug": "dd-shadowland-omnibus",
     "is_core": true,
     "reading_order": 1
   },
@@ -475,7 +469,7 @@
   },
   {
     "event_slug": "devils-reign-event",
-    "edition_slug": "devils-reign-hc-lee-cover-omnibus",
+    "edition_slug": "devils-reign-omnibus",
     "is_core": true,
     "reading_order": 1
   },
@@ -499,7 +493,7 @@
   },
   {
     "event_slug": "fall-of-the-mutants",
-    "edition_slug": "x-factor-the-original-x-men-walt-simonson-fall-of-the-mutants-cover-omnibus-v1",
+    "edition_slug": "x-factor-the-original-x-men-omnibus-v1",
     "is_core": true,
     "reading_order": 1
   },
@@ -535,7 +529,7 @@
   },
   {
     "event_slug": "empyre",
-    "edition_slug": "empyre-hc-cheung-avengersfantastic-four-cover-omnibus",
+    "edition_slug": "empyre",
     "is_core": true,
     "reading_order": 1
   },
@@ -589,7 +583,7 @@
   },
   {
     "event_slug": "annihilation-conquest",
-    "edition_slug": "annihilation-conquest-hc-langley-cover-omnibus",
+    "edition_slug": "annihilation-conquest-omnibus",
     "is_core": true,
     "reading_order": 1
   },
@@ -604,12 +598,6 @@
     "edition_slug": "guardians-of-the-galaxy-modern-era-war-of-kings-epic",
     "is_core": true,
     "reading_order": 2
-  },
-  {
-    "event_slug": "x-of-swords-event",
-    "edition_slug": "x-of-swords-larraz-cover-hc",
-    "is_core": true,
-    "reading_order": 1
   },
   {
     "event_slug": "x-of-swords-event",
@@ -796,5 +784,29 @@
     "edition_slug": "cap-heroes-return-tp-cc-v01",
     "is_core": false,
     "reading_order": 2
+  },
+  {
+    "event_slug": "bendis-avengers-saga",
+    "edition_slug": "avengers-disassembled",
+    "is_core": true,
+    "reading_order": 1
+  },
+  {
+    "event_slug": "bendis-avengers-saga",
+    "edition_slug": "new-avengers-omnibus-v1",
+    "is_core": true,
+    "reading_order": 2
+  },
+  {
+    "event_slug": "bendis-avengers-saga",
+    "edition_slug": "new-avengers-omnibus-v2",
+    "is_core": true,
+    "reading_order": 3
+  },
+  {
+    "event_slug": "bendis-avengers-saga",
+    "edition_slug": "new-avengers-illuminati",
+    "is_core": false,
+    "reading_order": 4
   }
 ]
