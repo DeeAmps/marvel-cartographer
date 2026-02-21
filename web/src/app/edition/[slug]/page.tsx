@@ -306,12 +306,20 @@ export default async function EditionDetailPage({ params }: { params: Promise<{ 
                 Era
               </h3>
               <Link
-                href={`/timeline#${edition.era_slug}`}
+                href="/timeline"
                 className="text-sm transition-colors hover:text-[var(--accent-red)]"
                 style={{ color: "var(--accent-blue)" }}
               >
                 {eraNameMap.get(edition.era_slug) || edition.era_slug.replace(/-/g, " ").replace(/\b\w/g, (l) => l.toUpperCase())}
               </Link>
+              {edition.publication_era_slug && edition.publication_era_slug !== edition.era_slug && (
+                <p
+                  className="text-xs mt-1"
+                  style={{ color: "var(--text-tertiary)" }}
+                >
+                  Published: {edition.publication_era_name || eraNameMap.get(edition.publication_era_slug) || edition.publication_era_slug.replace(/-/g, " ").replace(/\b\w/g, (l) => l.toUpperCase())}
+                </p>
+              )}
             </div>
           )}
         </div>

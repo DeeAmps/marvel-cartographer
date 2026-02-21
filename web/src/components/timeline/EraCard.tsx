@@ -2,7 +2,7 @@ import type { Era } from "@/lib/types";
 
 export default function EraCard({ era, children }: { era: Era; children?: React.ReactNode }) {
   return (
-    <section className="mb-14">
+    <section id={era.slug} className="mb-14 scroll-mt-24">
       <div className="flex items-center gap-4 mb-5">
         <div
           className="w-1 h-14 rounded-full"

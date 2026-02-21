@@ -5,25 +5,25 @@
     "category": "getting-started",
     "path_type": "curated",
     "difficulty": "beginner",
-    "description": "Never read Marvel before? Start here. 10 accessible books that each stand on their own while building a foundation. You don't need to read all of Marvel history \u2014 these 10 books give you the full picture.",
+    "description": "Never read Marvel before? Start here. 10 accessible books that each stand on their own while building a foundation. You don't need to read all of Marvel history — these 10 books give you the full picture.",
     "estimated_issues": 250,
     "entries": [
       {
         "position": 1,
         "edition_slug": "marvels",
-        "note": "The perfect introduction \u2014 Marvel through ordinary eyes",
+        "note": "The perfect introduction — Marvel through ordinary eyes",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "ff-omnibus-v1",
-        "note": "Where it all began \u2014 Lee and Kirby",
+        "note": "Where it all began — Lee and Kirby",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "asm-omnibus-v1",
-        "note": "Spider-Man \u2014 everyone's favorite",
+        "note": "Spider-Man — everyone's favorite",
         "is_optional": false
       },
       {
@@ -53,7 +53,7 @@
       {
         "position": 8,
         "edition_slug": "cap-brubaker-v1",
-        "note": "The Winter Soldier \u2014 spy thriller perfection",
+        "note": "The Winter Soldier — spy thriller perfection",
         "is_optional": false
       },
       {
@@ -318,7 +318,7 @@
       {
         "position": 5,
         "edition_slug": "alias-omnibus",
-        "note": "Jessica Jones \u2014 noir detective in the Marvel Universe",
+        "note": "Jessica Jones — noir detective in the Marvel Universe",
         "is_optional": false
       },
       {
@@ -336,7 +336,7 @@
       {
         "position": 8,
         "edition_slug": "avengers-disassembled",
-        "note": "Everything changes \u2014 Bendis takes over",
+        "note": "Everything changes — Bendis takes over",
         "is_optional": false
       },
       {
@@ -348,7 +348,7 @@
       {
         "position": 10,
         "edition_slug": "house-of-m",
-        "note": "'No more mutants' \u2014 Scarlet Witch reshapes reality",
+        "note": "'No more mutants' — Scarlet Witch reshapes reality",
         "is_optional": false
       }
     ]
@@ -413,7 +413,7 @@
       {
         "position": 9,
         "edition_slug": "siege",
-        "note": "Osborn attacks Asgard \u2014 Heroic Age begins",
+        "note": "Osborn attacks Asgard — Heroic Age begins",
         "is_optional": false
       },
       {
@@ -436,13 +436,13 @@
       {
         "position": 1,
         "edition_slug": "ms-marvel-wilson",
-        "note": "Kamala Khan \u2014 the best new hero in decades",
+        "note": "Kamala Khan — the best new hero in decades",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "vision-tom-king",
-        "note": "The Vision tries to be human \u2014 masterpiece",
+        "note": "The Vision tries to be human — masterpiece",
         "is_optional": false
       },
       {
@@ -466,7 +466,7 @@
       {
         "position": 6,
         "edition_slug": "immortal-hulk-omnibus",
-        "note": "Horror Hulk \u2014 best Hulk run ever",
+        "note": "Horror Hulk — best Hulk run ever",
         "is_optional": false
       },
       {
@@ -478,7 +478,7 @@
       {
         "position": 8,
         "edition_slug": "spider-man-life-story",
-        "note": "Spider-Man's entire life in 6 issues \u2014 perfect primer",
+        "note": "Spider-Man's entire life in 6 issues — perfect primer",
         "is_optional": false
       },
       {
@@ -507,7 +507,7 @@
       {
         "position": 1,
         "edition_slug": "blood-hunt",
-        "note": "Vampires attack \u2014 Doctor Strange dies, Doom rises",
+        "note": "Vampires attack — Doctor Strange dies, Doom rises",
         "is_optional": false
       },
       {
@@ -525,7 +525,7 @@
       {
         "position": 4,
         "edition_slug": "ultimate-spider-man-hickman-v1",
-        "note": "Hickman's new Ultimate Universe \u2014 Peter Parker at 40",
+        "note": "Hickman's new Ultimate Universe — Peter Parker at 40",
         "is_optional": false
       },
       {
@@ -555,7 +555,7 @@
       {
         "position": 9,
         "edition_slug": "armageddon-2026",
-        "note": "NEXT MAJOR EVENT \u2014 Chip Zdarsky",
+        "note": "NEXT MAJOR EVENT — Chip Zdarsky",
         "is_optional": false
       }
     ]
@@ -607,7 +607,7 @@
       {
         "position": 4,
         "edition_slug": "asm-omnibus-v4",
-        "note": "Death of Gwen Stacy \u2014 the end of innocence",
+        "note": "Death of Gwen Stacy — the end of innocence",
         "is_optional": false
       },
       {
@@ -619,7 +619,7 @@
       {
         "position": 6,
         "edition_slug": "spider-man-stern-omnibus",
-        "note": "Roger Stern's definitive 1980s Spidey \u2014 Hobgoblin mystery",
+        "note": "Roger Stern's definitive 1980s Spidey — Hobgoblin mystery",
         "is_optional": false
       },
       {
@@ -637,7 +637,7 @@
       {
         "position": 9,
         "edition_slug": "spider-man-maximum-carnage",
-        "note": "Carnage's biggest story \u2014 90s Spider-Man defined",
+        "note": "Carnage's biggest story — 90s Spider-Man defined",
         "is_optional": true
       },
       {
@@ -655,7 +655,7 @@
       {
         "position": 12,
         "edition_slug": "spider-man-bnd-omnibus-v1",
-        "note": "Brand New Day \u2014 post-OMD relaunch",
+        "note": "Brand New Day — post-OMD relaunch",
         "is_optional": true
       },
       {
@@ -673,7 +673,7 @@
       {
         "position": 15,
         "edition_slug": "spider-man-life-story",
-        "note": "Spider-Man's life in real time \u2014 standalone masterpiece",
+        "note": "Spider-Man's life in real time — standalone masterpiece",
         "is_optional": false
       }
     ]
@@ -690,7 +690,7 @@
       {
         "position": 1,
         "edition_slug": "avengers-omnibus-v1",
-        "note": "Cap revived from ice in Avengers #4 \u2014 one of Marvel's greatest moments",
+        "note": "Cap revived from ice in Avengers #4 — one of Marvel's greatest moments",
         "is_optional": false
       },
       {
@@ -732,7 +732,7 @@
       {
         "position": 8,
         "edition_slug": "secret-empire",
-        "note": "Hydra Cap \u2014 the most controversial Cap story ever",
+        "note": "Hydra Cap — the most controversial Cap story ever",
         "is_optional": true
       },
       {
@@ -767,13 +767,13 @@
       {
         "position": 2,
         "edition_slug": "iron-man-armor-wars",
-        "note": "Tony's tech stolen \u2014 one-man war on everyone",
+        "note": "Tony's tech stolen — one-man war on everyone",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "iron-man-michelinie-omnibus",
-        "note": "Michelinie/Layton's complete run \u2014 War Machine, Tony 'dies'",
+        "note": "Michelinie/Layton's complete run — War Machine, Tony 'dies'",
         "is_optional": false
       },
       {
@@ -797,13 +797,13 @@
       {
         "position": 7,
         "edition_slug": "superior-iron-man",
-        "note": "Evil Tony \u2014 what if Stark stopped pretending to be good?",
+        "note": "Evil Tony — what if Stark stopped pretending to be good?",
         "is_optional": true
       },
       {
         "position": 8,
         "edition_slug": "infamous-iron-man",
-        "note": "Doom in the Iron Man armor \u2014 hero's journey",
+        "note": "Doom in the Iron Man armor — hero's journey",
         "is_optional": false
       }
     ]
@@ -838,7 +838,7 @@
       {
         "position": 4,
         "edition_slug": "thor-aaron-god-of-thunder",
-        "note": "Gorr the God Butcher \u2014 past, present, and future Thor",
+        "note": "Gorr the God Butcher — past, present, and future Thor",
         "is_optional": false
       },
       {
@@ -850,7 +850,7 @@
       {
         "position": 6,
         "edition_slug": "war-of-the-realms",
-        "note": "Aaron's epic conclusion \u2014 Malekith's war across all Ten Realms",
+        "note": "Aaron's epic conclusion — Malekith's war across all Ten Realms",
         "is_optional": false
       }
     ]
@@ -867,7 +867,7 @@
       {
         "position": 1,
         "edition_slug": "uxm-claremont-omnibus-v1",
-        "note": "Wolverine joins the X-Men \u2014 the beginning",
+        "note": "Wolverine joins the X-Men — the beginning",
         "is_optional": false
       },
       {
@@ -879,13 +879,13 @@
       {
         "position": 3,
         "edition_slug": "wolverine-weapon-x-origin",
-        "note": "The truth about Weapon X \u2014 Logan's lost memories",
+        "note": "The truth about Weapon X — Logan's lost memories",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "wolverine-enemy-of-state",
-        "note": "Wolverine brainwashed \u2014 the most dangerous man alive",
+        "note": "Wolverine brainwashed — the most dangerous man alive",
         "is_optional": false
       },
       {
@@ -897,13 +897,13 @@
       {
         "position": 6,
         "edition_slug": "uncanny-x-force-remender-omnibus",
-        "note": "Wolverine leads X-Force \u2014 the kill squad",
+        "note": "Wolverine leads X-Force — the kill squad",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "all-new-wolverine-omnibus",
-        "note": "Laura Kinney takes the mantle \u2014 the best Wolverine",
+        "note": "Laura Kinney takes the mantle — the best Wolverine",
         "is_optional": false
       },
       {
@@ -920,13 +920,13 @@
     "category": "character",
     "path_type": "character",
     "difficulty": "intermediate",
-    "description": "Bruce Banner's journey through rage, exile, and horror. Marvel's most tragic character \u2014 the monster who just wants to be left alone.",
+    "description": "Bruce Banner's journey through rage, exile, and horror. Marvel's most tragic character — the monster who just wants to be left alone.",
     "estimated_issues": 300,
     "entries": [
       {
         "position": 1,
         "edition_slug": "hulk-peter-david-omnibus-v1",
-        "note": "Peter David defines the modern Hulk \u2014 Gray Hulk, Joe Fixit",
+        "note": "Peter David defines the modern Hulk — Gray Hulk, Joe Fixit",
         "is_optional": false
       },
       {
@@ -950,7 +950,7 @@
       {
         "position": 5,
         "edition_slug": "immortal-hulk-omnibus",
-        "note": "Horror masterpiece \u2014 the Hulk can't die. Best Hulk run ever.",
+        "note": "Horror masterpiece — the Hulk can't die. Best Hulk run ever.",
         "is_optional": false
       }
     ]
@@ -990,19 +990,19 @@
       {
         "position": 2,
         "edition_slug": "dd-miller-companion",
-        "note": "Love and War, Elektra Lives Again \u2014 Miller's coda",
+        "note": "Love and War, Elektra Lives Again — Miller's coda",
         "is_optional": true
       },
       {
         "position": 3,
         "edition_slug": "dd-man-without-fear",
-        "note": "Miller retells the origin \u2014 definitive Daredevil origin",
+        "note": "Miller retells the origin — definitive Daredevil origin",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "dd-nocenti-epic",
-        "note": "Nocenti and JRJR's underrated run \u2014 Typhoid Mary",
+        "note": "Nocenti and JRJR's underrated run — Typhoid Mary",
         "is_optional": true
       },
       {
@@ -1020,7 +1020,7 @@
       {
         "position": 7,
         "edition_slug": "dd-brubaker-omnibus",
-        "note": "Brubaker's prison saga \u2014 Matt in jail",
+        "note": "Brubaker's prison saga — Matt in jail",
         "is_optional": false
       },
       {
@@ -1032,7 +1032,7 @@
       {
         "position": 9,
         "edition_slug": "dd-zdarsky-omnibus-v1",
-        "note": "Zdarsky's modern masterpiece \u2014 Matt questions everything",
+        "note": "Zdarsky's modern masterpiece — Matt questions everything",
         "is_optional": false
       },
       {
@@ -1049,7 +1049,7 @@
     "category": "character",
     "path_type": "character",
     "difficulty": "intermediate",
-    "description": "Marvel's greatest character from tyrant to god to reluctant hero. Follow Doom's complete arc across 60+ years \u2014 the most compelling villain-to-protagonist journey in comics.",
+    "description": "Marvel's greatest character from tyrant to god to reluctant hero. Follow Doom's complete arc across 60+ years — the most compelling villain-to-protagonist journey in comics.",
     "estimated_issues": 300,
     "sections": [
       {
@@ -1072,7 +1072,7 @@
       {
         "position": 1,
         "edition_slug": "ff-omnibus-v1",
-        "note": "Doom debut FF #5 \u2014 the greatest villain introduction ever",
+        "note": "Doom debut FF #5 — the greatest villain introduction ever",
         "is_optional": false
       },
       {
@@ -1102,25 +1102,25 @@
       {
         "position": 6,
         "edition_slug": "doctor-doom-books-of-doom",
-        "note": "Doom's origin retold \u2014 sympathetic monster",
+        "note": "Doom's origin retold — sympathetic monster",
         "is_optional": true
       },
       {
         "position": 7,
         "edition_slug": "ff-waid-wieringo-omnibus",
-        "note": "Unthinkable \u2014 Doom's darkest hour",
+        "note": "Unthinkable — Doom's darkest hour",
         "is_optional": false
       },
       {
         "position": 8,
         "edition_slug": "ff-hickman-omnibus-v1",
-        "note": "Council of Reeds \u2014 Doom vs. infinite genius",
+        "note": "Council of Reeds — Doom vs. infinite genius",
         "is_optional": false
       },
       {
         "position": 9,
         "edition_slug": "secret-wars-2015-omnibus",
-        "note": "God Emperor Doom \u2014 Doom saves reality",
+        "note": "God Emperor Doom — Doom saves reality",
         "is_optional": false
       },
       {
@@ -1132,7 +1132,7 @@
       {
         "position": 11,
         "edition_slug": "doctor-doom-2024",
-        "note": "Sorcerer Supreme \u2014 magic and power",
+        "note": "Sorcerer Supreme — magic and power",
         "is_optional": false
       },
       {
@@ -1144,7 +1144,7 @@
       {
         "position": 13,
         "edition_slug": "one-world-under-doom",
-        "note": "Doom rules the world \u2014 current Marvel status quo",
+        "note": "Doom rules the world — current Marvel status quo",
         "is_optional": false
       }
     ]
@@ -1161,13 +1161,13 @@
       {
         "position": 1,
         "edition_slug": "warlock-by-starlin",
-        "note": "Thanos becomes a fully realized villain \u2014 obsessed with Death",
+        "note": "Thanos becomes a fully realized villain — obsessed with Death",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "infinity-gauntlet-omnibus",
-        "note": "THE event \u2014 Thanos snaps, half the universe dies",
+        "note": "THE event — Thanos snaps, half the universe dies",
         "is_optional": false
       },
       {
@@ -1203,7 +1203,7 @@
       {
         "position": 8,
         "edition_slug": "thanos-wins-cates",
-        "note": "King Thanos at the end of time \u2014 haunting finale",
+        "note": "King Thanos at the end of time — haunting finale",
         "is_optional": false
       }
     ]
@@ -1214,7 +1214,7 @@
     "category": "character",
     "path_type": "character",
     "difficulty": "intermediate",
-    "description": "Marvel's most complex antagonist \u2014 Holocaust survivor, terrorist, revolutionary, king. From villain to the heart of the X-Men's dream.",
+    "description": "Marvel's most complex antagonist — Holocaust survivor, terrorist, revolutionary, king. From villain to the heart of the X-Men's dream.",
     "estimated_issues": 200,
     "entries": [
       {
@@ -1226,13 +1226,13 @@
       {
         "position": 2,
         "edition_slug": "uxm-claremont-omnibus-v2",
-        "note": "Magneto's complexity deepens \u2014 Dark Phoenix, Days of Future Past show his evolving philosophy",
+        "note": "Magneto's complexity deepens — Dark Phoenix, Days of Future Past show his evolving philosophy",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "xmen-god-loves-man-kills",
-        "note": "Magneto's argument proven right \u2014 humanity hates mutants",
+        "note": "Magneto's argument proven right — humanity hates mutants",
         "is_optional": false
       },
       {
@@ -1244,13 +1244,13 @@
       {
         "position": 5,
         "edition_slug": "nxm-morrison-omnibus",
-        "note": "Planet X \u2014 Magneto's darkest hour (or was it Xorn?)",
+        "note": "Planet X — Magneto's darkest hour (or was it Xorn?)",
         "is_optional": false
       },
       {
         "position": 6,
         "edition_slug": "house-of-m",
-        "note": "Magneto's 'perfect world' collapses \u2014 No More Mutants",
+        "note": "Magneto's 'perfect world' collapses — No More Mutants",
         "is_optional": false
       },
       {
@@ -1273,31 +1273,31 @@
     "category": "character",
     "path_type": "character",
     "difficulty": "intermediate",
-    "description": "T'Challa from first appearance to modern king. Every essential Black Panther run \u2014 politics, action, and the most technologically advanced nation on Earth.",
+    "description": "T'Challa from first appearance to modern king. Every essential Black Panther run — politics, action, and the most technologically advanced nation on Earth.",
     "estimated_issues": 200,
     "entries": [
       {
         "position": 1,
         "edition_slug": "ff-omnibus-v2",
-        "note": "Black Panther's first appearance \u2014 FF #52-53",
+        "note": "Black Panther's first appearance — FF #52-53",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "black-panther-priest-omnibus",
-        "note": "Christopher Priest's legendary run \u2014 the definitive T'Challa",
+        "note": "Christopher Priest's legendary run — the definitive T'Challa",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "black-panther-hudlin-omnibus",
-        "note": "Hudlin's T'Challa \u2014 marries Storm, Wakanda at war",
+        "note": "Hudlin's T'Challa — marries Storm, Wakanda at war",
         "is_optional": true
       },
       {
         "position": 4,
         "edition_slug": "new-avengers-illuminati",
-        "note": "T'Challa as one of the Illuminati \u2014 secret world leaders",
+        "note": "T'Challa as one of the Illuminati — secret world leaders",
         "is_optional": true
       },
       {
@@ -1314,13 +1314,13 @@
     "category": "character",
     "path_type": "character",
     "difficulty": "intermediate",
-    "description": "Carol Danvers from Ms. Marvel to Captain Marvel. Marvel's premier female hero \u2014 fighter pilot, Avenger, cosmic warrior.",
+    "description": "Carol Danvers from Ms. Marvel to Captain Marvel. Marvel's premier female hero — fighter pilot, Avenger, cosmic warrior.",
     "estimated_issues": 150,
     "entries": [
       {
         "position": 1,
         "edition_slug": "captain-marvel-ksd",
-        "note": "Carol takes the Captain Marvel name \u2014 Higher, Further, Faster, More",
+        "note": "Carol takes the Captain Marvel name — Higher, Further, Faster, More",
         "is_optional": false
       },
       {
@@ -1349,7 +1349,7 @@
       {
         "position": 1,
         "edition_slug": "deadpool-beginnings",
-        "note": "Deadpool's origin \u2014 from New Mutants #98 through early appearances",
+        "note": "Deadpool's origin — from New Mutants #98 through early appearances",
         "is_optional": false
       },
       {
@@ -1361,13 +1361,13 @@
       {
         "position": 3,
         "edition_slug": "cable-deadpool-omnibus",
-        "note": "Cable & Deadpool \u2014 the ultimate buddy comedy",
+        "note": "Cable & Deadpool — the ultimate buddy comedy",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "deadpool-posehn-duggan-omnibus",
-        "note": "Posehn & Duggan's definitive run \u2014 funny AND emotional",
+        "note": "Posehn & Duggan's definitive run — funny AND emotional",
         "is_optional": false
       },
       {
@@ -1384,19 +1384,19 @@
     "category": "character",
     "path_type": "character",
     "difficulty": "intermediate",
-    "description": "Marvel's most psychologically complex hero. Multiple identities, questionable sanity, divine vengeance. Not Marvel's Batman \u2014 something stranger.",
+    "description": "Marvel's most psychologically complex hero. Multiple identities, questionable sanity, divine vengeance. Not Marvel's Batman — something stranger.",
     "estimated_issues": 150,
     "entries": [
       {
         "position": 1,
         "edition_slug": "werewolf-by-night-complete",
-        "note": "Moon Knight's first appearance \u2014 hired to capture a werewolf (WBN #32)",
+        "note": "Moon Knight's first appearance — hired to capture a werewolf (WBN #32)",
         "is_optional": true
       },
       {
         "position": 2,
         "edition_slug": "moon-knight-moench-epic",
-        "note": "The original Moon Knight series \u2014 Moench/Sienkiewicz",
+        "note": "The original Moon Knight series — Moench/Sienkiewicz",
         "is_optional": false
       },
       {
@@ -1408,13 +1408,13 @@
       {
         "position": 4,
         "edition_slug": "moon-knight-lemire",
-        "note": "Lemire's mind-bending DID exploration \u2014 is Marc insane or divine?",
+        "note": "Lemire's mind-bending DID exploration — is Marc insane or divine?",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "moon-knight-mackay-omnibus",
-        "note": "Jed MacKay's modern epic \u2014 the definitive modern Moon Knight",
+        "note": "Jed MacKay's modern epic — the definitive modern Moon Knight",
         "is_optional": false
       }
     ]
@@ -1431,19 +1431,19 @@
       {
         "position": 1,
         "edition_slug": "asm-omnibus-v3",
-        "note": "Punisher first appearance \u2014 ASM #129",
+        "note": "Punisher first appearance — ASM #129",
         "is_optional": true
       },
       {
         "position": 2,
         "edition_slug": "punisher-welcome-back-frank",
-        "note": "Ennis brings Frank back to basics \u2014 dark comedy violence",
+        "note": "Ennis brings Frank back to basics — dark comedy violence",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "punisher-max-omnibus-v1",
-        "note": "Ennis Punisher MAX \u2014 the ultimate war story. No superheroes.",
+        "note": "Ennis Punisher MAX — the ultimate war story. No superheroes.",
         "is_optional": false
       },
       {
@@ -1455,7 +1455,7 @@
       {
         "position": 5,
         "edition_slug": "punisher-remender-omnibus",
-        "note": "Remender's Punisher \u2014 FrankenCastle, wild reinvention",
+        "note": "Remender's Punisher — FrankenCastle, wild reinvention",
         "is_optional": true
       }
     ]
@@ -1472,19 +1472,19 @@
       {
         "position": 1,
         "edition_slug": "doctor-strange-lee-ditko",
-        "note": "Lee/Ditko create Marvel's mystic dimension \u2014 Dormammu, the Ancient One",
+        "note": "Lee/Ditko create Marvel's mystic dimension — Dormammu, the Ancient One",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "doctor-strange-englehart-brunner",
-        "note": "1970s Strange \u2014 cosmic mysticism at its peak",
+        "note": "1970s Strange — cosmic mysticism at its peak",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "doctor-strange-aaron-omnibus",
-        "note": "Aaron's Strange \u2014 magic has a cost, the Last Days of Magic",
+        "note": "Aaron's Strange — magic has a cost, the Last Days of Magic",
         "is_optional": false
       },
       {
@@ -1507,13 +1507,13 @@
     "category": "character",
     "path_type": "character",
     "difficulty": "intermediate",
-    "description": "Norrin Radd \u2014 the most tragic and philosophical hero in Marvel. From herald of Galactus to cosmic wanderer to love story.",
+    "description": "Norrin Radd — the most tragic and philosophical hero in Marvel. From herald of Galactus to cosmic wanderer to love story.",
     "estimated_issues": 150,
     "entries": [
       {
         "position": 1,
         "edition_slug": "ff-omnibus-v2",
-        "note": "Silver Surfer debuts in the Galactus Trilogy \u2014 FF #48-50",
+        "note": "Silver Surfer debuts in the Galactus Trilogy — FF #48-50",
         "is_optional": false
       },
       {
@@ -1525,25 +1525,25 @@
       {
         "position": 3,
         "edition_slug": "silver-surfer-return-omnibus",
-        "note": "Surfer returns to the spaceways \u2014 Englehart/Marshall Rogers",
+        "note": "Surfer returns to the spaceways — Englehart/Marshall Rogers",
         "is_optional": true
       },
       {
         "position": 4,
         "edition_slug": "silver-surfer-requiem",
-        "note": "JMS's farewell to the Surfer \u2014 beautiful standalone",
+        "note": "JMS's farewell to the Surfer — beautiful standalone",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "silver-surfer-slott",
-        "note": "Slott's Surfer \u2014 cosmic adventure meets love story (Allreds art!)",
+        "note": "Slott's Surfer — cosmic adventure meets love story (Allreds art!)",
         "is_optional": false
       },
       {
         "position": 6,
         "edition_slug": "silver-surfer-black",
-        "note": "Cates/Moore: the Surfer lost in Knull's void \u2014 gorgeous",
+        "note": "Cates/Moore: the Surfer lost in Knull's void — gorgeous",
         "is_optional": false
       }
     ]
@@ -1560,7 +1560,7 @@
       {
         "position": 1,
         "edition_slug": "avengers-omnibus-v1",
-        "note": "Wanda and Pietro join Cap's Kooky Quartet \u2014 Avengers #16",
+        "note": "Wanda and Pietro join Cap's Kooky Quartet — Avengers #16",
         "is_optional": false
       },
       {
@@ -1572,7 +1572,7 @@
       {
         "position": 3,
         "edition_slug": "house-of-m",
-        "note": "'No More Mutants' \u2014 the most consequential words in Marvel",
+        "note": "'No More Mutants' — the most consequential words in Marvel",
         "is_optional": false
       },
       {
@@ -1584,7 +1584,7 @@
       {
         "position": 5,
         "edition_slug": "scarlet-witch-orlando",
-        "note": "Orlando's warm, healing Wanda \u2014 the Last Door shop",
+        "note": "Orlando's warm, healing Wanda — the Last Door shop",
         "is_optional": false
       }
     ]
@@ -1625,7 +1625,7 @@
       {
         "position": 5,
         "edition_slug": "champions-waid",
-        "note": "Miles helps found the Champions \u2014 next-gen heroes",
+        "note": "Miles helps found the Champions — next-gen heroes",
         "is_optional": false
       }
     ]
@@ -1636,7 +1636,7 @@
     "category": "character",
     "path_type": "character",
     "difficulty": "intermediate",
-    "description": "Logan's clone/daughter \u2014 from weapon to hero to Wolverine. One of Marvel's best character arcs of the 2010s.",
+    "description": "Logan's clone/daughter — from weapon to hero to Wolverine. One of Marvel's best character arcs of the 2010s.",
     "estimated_issues": 80,
     "entries": [
       {
@@ -1648,7 +1648,7 @@
       {
         "position": 2,
         "edition_slug": "all-new-wolverine-omnibus",
-        "note": "Laura IS Wolverine \u2014 Tom Taylor's masterpiece",
+        "note": "Laura IS Wolverine — Tom Taylor's masterpiece",
         "is_optional": false
       }
     ]
@@ -1659,7 +1659,7 @@
     "category": "team",
     "path_type": "team",
     "difficulty": "advanced",
-    "description": "Follow the First Family from beginning to current. Every major FF run in collected editions \u2014 the foundation of the Marvel Universe.",
+    "description": "Follow the First Family from beginning to current. Every major FF run in collected editions — the foundation of the Marvel Universe.",
     "estimated_issues": 500,
     "sections": [
       {
@@ -1682,19 +1682,19 @@
       {
         "position": 1,
         "edition_slug": "ff-omnibus-v1",
-        "note": "Lee/Kirby \u2014 the beginning of everything",
+        "note": "Lee/Kirby — the beginning of everything",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "ff-omnibus-v2",
-        "note": "Lee/Kirby \u2014 Galactus, Inhumans, Panther",
+        "note": "Lee/Kirby — Galactus, Inhumans, Panther",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "ff-omnibus-v3",
-        "note": "Lee/Kirby \u2014 cosmic peak, Adam Warlock created",
+        "note": "Lee/Kirby — cosmic peak, Adam Warlock created",
         "is_optional": false
       },
       {
@@ -1718,7 +1718,7 @@
       {
         "position": 7,
         "edition_slug": "ff-byrne-omnibus-v1",
-        "note": "Byrne's legendary run begins \u2014 She-Hulk joins",
+        "note": "Byrne's legendary run begins — She-Hulk joins",
         "is_optional": false
       },
       {
@@ -1730,7 +1730,7 @@
       {
         "position": 9,
         "edition_slug": "ff-waid-wieringo-omnibus",
-        "note": "Modern masterpiece \u2014 Unthinkable, Authoritative Action",
+        "note": "Modern masterpiece — Unthinkable, Authoritative Action",
         "is_optional": false
       },
       {
@@ -1765,7 +1765,7 @@
     "category": "team",
     "path_type": "team",
     "difficulty": "advanced",
-    "description": "Giant-Size X-Men #1 through the fall of Krakoa. 50 years of the mutant metaphor \u2014 civil rights, found family, and the dream of coexistence.",
+    "description": "Giant-Size X-Men #1 through the fall of Krakoa. 50 years of the mutant metaphor — civil rights, found family, and the dream of coexistence.",
     "estimated_issues": 600,
     "sections": [
       {
@@ -1811,13 +1811,13 @@
       {
         "position": 4,
         "edition_slug": "xmen-god-loves-man-kills",
-        "note": "Stryker's crusade \u2014 X-Men vs. religious extremism",
+        "note": "Stryker's crusade — X-Men vs. religious extremism",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "xmen-mutant-massacre",
-        "note": "The Marauders massacre the Morlocks \u2014 X-Men's darkest day",
+        "note": "The Marauders massacre the Morlocks — X-Men's darkest day",
         "is_optional": false
       },
       {
@@ -1829,13 +1829,13 @@
       {
         "position": 7,
         "edition_slug": "xmen-inferno-omnibus",
-        "note": "Inferno (1989) \u2014 Madelyne Pryor's revenge, demons invade NYC",
+        "note": "Inferno (1989) — Madelyne Pryor's revenge, demons invade NYC",
         "is_optional": false
       },
       {
         "position": 8,
         "edition_slug": "xmen-age-of-apocalypse",
-        "note": "Alternate timeline masterpiece \u2014 what if Xavier died?",
+        "note": "Alternate timeline masterpiece — what if Xavier died?",
         "is_optional": false
       },
       {
@@ -1847,25 +1847,25 @@
       {
         "position": 10,
         "edition_slug": "axm-whedon-omnibus",
-        "note": "Whedon's blockbuster run \u2014 Breakworld, Danger",
+        "note": "Whedon's blockbuster run — Breakworld, Danger",
         "is_optional": false
       },
       {
         "position": 11,
         "edition_slug": "house-of-m",
-        "note": "'No More Mutants' \u2014 Decimation",
+        "note": "'No More Mutants' — Decimation",
         "is_optional": false
       },
       {
         "position": 12,
         "edition_slug": "x-men-messiah-complex",
-        "note": "First mutant birth since Decimation \u2014 Hope Summers",
+        "note": "First mutant birth since Decimation — Hope Summers",
         "is_optional": false
       },
       {
         "position": 13,
         "edition_slug": "x-men-messiah-war",
-        "note": "Cable and Hope on the run through time \u2014 X-Force in pursuit",
+        "note": "Cable and Hope on the run through time — X-Force in pursuit",
         "is_optional": false
       },
       {
@@ -1883,7 +1883,7 @@
       {
         "position": 16,
         "edition_slug": "house-of-x-powers-of-x",
-        "note": "Hickman reinvents everything \u2014 Krakoa",
+        "note": "Hickman reinvents everything — Krakoa",
         "is_optional": false
       },
       {
@@ -1946,37 +1946,37 @@
       {
         "position": 2,
         "edition_slug": "avengers-kree-skrull-war",
-        "note": "First great Avengers epic \u2014 cosmic war",
+        "note": "First great Avengers epic — cosmic war",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "avengers-korvac-saga",
-        "note": "Korvac \u2014 cosmic-level threat, Avengers at full power",
+        "note": "Korvac — cosmic-level threat, Avengers at full power",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "avengers-under-siege",
-        "note": "Masters of Evil destroy Avengers Mansion \u2014 devastating",
+        "note": "Masters of Evil destroy Avengers Mansion — devastating",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "avengers-busiek-perez-v1",
-        "note": "Busiek/Perez renaissance \u2014 the definitive Avengers",
+        "note": "Busiek/Perez renaissance — the definitive Avengers",
         "is_optional": false
       },
       {
         "position": 6,
         "edition_slug": "avengers-busiek-perez-v2",
-        "note": "Kang Dynasty \u2014 time-traveling conqueror's masterplan",
+        "note": "Kang Dynasty — time-traveling conqueror's masterplan",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "avengers-disassembled",
-        "note": "Wanda destroys the team \u2014 end of classic Avengers",
+        "note": "Wanda destroys the team — end of classic Avengers",
         "is_optional": false
       },
       {
@@ -2006,7 +2006,7 @@
       {
         "position": 12,
         "edition_slug": "avengers-hickman-omnibus-v1",
-        "note": "Hickman's Avengers Machine \u2014 Builders, Infinity",
+        "note": "Hickman's Avengers Machine — Builders, Infinity",
         "is_optional": false
       },
       {
@@ -2041,37 +2041,37 @@
       {
         "position": 1,
         "edition_slug": "annihilation-omnibus",
-        "note": "The cosmic renaissance begins \u2014 Annihilation Wave",
+        "note": "The cosmic renaissance begins — Annihilation Wave",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "annihilation-conquest-omnibus",
-        "note": "The Guardians team forms here \u2014 Star-Lord leads misfits",
+        "note": "The Guardians team forms here — Star-Lord leads misfits",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "gotg-dna-omnibus",
-        "note": "THE definitive Guardians \u2014 DnA's masterpiece",
+        "note": "THE definitive Guardians — DnA's masterpiece",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "war-of-kings-omnibus",
-        "note": "Shi'ar vs. Inhumans \u2014 cosmic war",
+        "note": "Shi'ar vs. Inhumans — cosmic war",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "realm-of-kings",
-        "note": "The aftermath \u2014 the Fault opens",
+        "note": "The aftermath — the Fault opens",
         "is_optional": true
       },
       {
         "position": 6,
         "edition_slug": "thanos-imperative",
-        "note": "Star-Lord and Nova vs. the Cancerverse \u2014 the finale",
+        "note": "Star-Lord and Nova vs. the Cancerverse — the finale",
         "is_optional": false
       },
       {
@@ -2083,7 +2083,7 @@
       {
         "position": 8,
         "edition_slug": "guardians-cates",
-        "note": "Cates's cosmic Guardians \u2014 ties into King in Black",
+        "note": "Cates's cosmic Guardians — ties into King in Black",
         "is_optional": true
       }
     ]
@@ -2112,7 +2112,7 @@
       {
         "position": 3,
         "edition_slug": "uncanny-x-force-remender-omnibus",
-        "note": "Remender's kill squad \u2014 Dark Angel Saga is a masterpiece",
+        "note": "Remender's kill squad — Dark Angel Saga is a masterpiece",
         "is_optional": false
       }
     ]
@@ -2123,7 +2123,7 @@
     "category": "team",
     "path_type": "team",
     "difficulty": "beginner",
-    "description": "Marvel's next generation of heroes \u2014 from Young Avengers to Champions. These are the characters who will carry Marvel forward.",
+    "description": "Marvel's next generation of heroes — from Young Avengers to Champions. These are the characters who will carry Marvel forward.",
     "estimated_issues": 100,
     "entries": [
       {
@@ -2135,13 +2135,13 @@
       {
         "position": 2,
         "edition_slug": "young-avengers-gillen",
-        "note": "Gillen reinvents the team \u2014 Loki, America Chavez, Prodigy",
+        "note": "Gillen reinvents the team — Loki, America Chavez, Prodigy",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "ms-marvel-wilson",
-        "note": "Kamala Khan \u2014 the new face of Marvel heroism",
+        "note": "Kamala Khan — the new face of Marvel heroism",
         "is_optional": false
       },
       {
@@ -2187,25 +2187,25 @@
       {
         "position": 2,
         "edition_slug": "ultimate-spider-man-bendis-v2",
-        "note": "Venom, Carnage, Ultimate Six \u2014 the saga continues",
+        "note": "Venom, Carnage, Ultimate Six — the saga continues",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "ultimates-millar-hitch-omnibus",
-        "note": "The Avengers as widescreen action cinema \u2014 MCU blueprint",
+        "note": "The Avengers as widescreen action cinema — MCU blueprint",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "ultimate-ff-omnibus-v1",
-        "note": "Ultimate Fantastic Four \u2014 different powers, different Doom",
+        "note": "Ultimate Fantastic Four — different powers, different Doom",
         "is_optional": true
       },
       {
         "position": 5,
         "edition_slug": "ultimatum",
-        "note": "Ultimatum (2009) \u2014 controversial event that devastates the Ultimate Universe",
+        "note": "Ultimatum (2009) — controversial event that devastates the Ultimate Universe",
         "is_optional": true
       },
       {
@@ -2229,7 +2229,7 @@
       {
         "position": 9,
         "edition_slug": "ultimate-spider-man-hickman-v1",
-        "note": "New Ultimate Spider-Man \u2014 Peter Parker at 40 with a family",
+        "note": "New Ultimate Spider-Man — Peter Parker at 40 with a family",
         "is_optional": false
       },
       {
@@ -2252,7 +2252,7 @@
     "category": "team",
     "path_type": "team",
     "difficulty": "intermediate",
-    "description": "The non-team of street-level heroes \u2014 Daredevil, Luke Cage, Iron Fist, Jessica Jones, and the heroes who protect the neighborhood.",
+    "description": "The non-team of street-level heroes — Daredevil, Luke Cage, Iron Fist, Jessica Jones, and the heroes who protect the neighborhood.",
     "estimated_issues": 200,
     "entries": [
       {
@@ -2264,13 +2264,13 @@
       {
         "position": 2,
         "edition_slug": "luke-cage-power-man-iron-fist-epic-v1",
-        "note": "Heroes for Hire \u2014 the definitive buddy duo",
+        "note": "Heroes for Hire — the definitive buddy duo",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "alias-omnibus",
-        "note": "Jessica Jones \u2014 Marvel's best PI noir",
+        "note": "Jessica Jones — Marvel's best PI noir",
         "is_optional": false
       },
       {
@@ -2282,7 +2282,7 @@
       {
         "position": 5,
         "edition_slug": "immortal-iron-fist-omnibus",
-        "note": "Iron Fist reimagined \u2014 Seven Capital Cities of Heaven",
+        "note": "Iron Fist reimagined — Seven Capital Cities of Heaven",
         "is_optional": false
       },
       {
@@ -2328,13 +2328,13 @@
     "category": "event",
     "path_type": "event",
     "difficulty": "intermediate",
-    "description": "Marvel's cosmic renaissance. Dan Abnett and Andy Lanning rebuild cosmic Marvel from the ground up \u2014 Annihilation, Conquest, War of Kings, and the Thanos Imperative. This is where the MCU's Guardians of the Galaxy comes from.",
+    "description": "Marvel's cosmic renaissance. Dan Abnett and Andy Lanning rebuild cosmic Marvel from the ground up — Annihilation, Conquest, War of Kings, and the Thanos Imperative. This is where the MCU's Guardians of the Galaxy comes from.",
     "estimated_issues": 200,
     "entries": [
       {
         "position": 1,
         "edition_slug": "annihilation-omnibus",
-        "note": "Annihilus attacks \u2014 Nova is the last man standing",
+        "note": "Annihilus attacks — Nova is the last man standing",
         "is_optional": false
       },
       {
@@ -2346,25 +2346,25 @@
       {
         "position": 3,
         "edition_slug": "gotg-dna-omnibus",
-        "note": "Guardians of the Galaxy \u2014 the definitive team",
+        "note": "Guardians of the Galaxy — the definitive team",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "war-of-kings-omnibus",
-        "note": "Shi'ar vs. Inhumans \u2014 Vulcan vs. Black Bolt",
+        "note": "Shi'ar vs. Inhumans — Vulcan vs. Black Bolt",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "realm-of-kings",
-        "note": "The aftermath \u2014 the Fault opens to the Cancerverse",
+        "note": "The aftermath — the Fault opens to the Cancerverse",
         "is_optional": true
       },
       {
         "position": 6,
         "edition_slug": "thanos-imperative",
-        "note": "The finale \u2014 Star-Lord and Nova vs. Thanos in the Cancerverse",
+        "note": "The finale — Star-Lord and Nova vs. Thanos in the Cancerverse",
         "is_optional": false
       }
     ]
@@ -2381,7 +2381,7 @@
       {
         "position": 1,
         "edition_slug": "ff-hickman-omnibus-v1",
-        "note": "Council of Reeds, War of Four Cities \u2014 the architecture begins",
+        "note": "Council of Reeds, War of Four Cities — the architecture begins",
         "is_optional": false
       },
       {
@@ -2440,7 +2440,7 @@
       {
         "position": 3,
         "edition_slug": "xmen-x-of-swords",
-        "note": "Arakko invasion \u2014 first Krakoa crossover",
+        "note": "Arakko invasion — first Krakoa crossover",
         "is_optional": false
       },
       {
@@ -2452,7 +2452,7 @@
       {
         "position": 5,
         "edition_slug": "immortal-x-men-gillen",
-        "note": "Quiet Council politics \u2014 Sinister's game",
+        "note": "Quiet Council politics — Sinister's game",
         "is_optional": false
       },
       {
@@ -2470,13 +2470,13 @@
       {
         "position": 8,
         "edition_slug": "xmen-fall-of-x",
-        "note": "Orchis destroys Krakoa \u2014 mutants hunted again",
+        "note": "Orchis destroys Krakoa — mutants hunted again",
         "is_optional": false
       },
       {
         "position": 9,
         "edition_slug": "rise-of-powers-of-x",
-        "note": "Grand conclusion \u2014 Krakoa's legacy",
+        "note": "Grand conclusion — Krakoa's legacy",
         "is_optional": false
       },
       {
@@ -2499,7 +2499,7 @@
       {
         "position": 1,
         "edition_slug": "avengers-disassembled",
-        "note": "Wanda destroys the Avengers \u2014 everything changes",
+        "note": "Wanda destroys the Avengers — everything changes",
         "is_optional": false
       },
       {
@@ -2511,13 +2511,13 @@
       {
         "position": 3,
         "edition_slug": "house-of-m",
-        "note": "'No More Mutants' \u2014 Scarlet Witch reshapes reality",
+        "note": "'No More Mutants' — Scarlet Witch reshapes reality",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "civil-war",
-        "note": "Iron Man vs. Captain America \u2014 Registration Act",
+        "note": "Iron Man vs. Captain America — Registration Act",
         "is_optional": false
       },
       {
@@ -2535,13 +2535,13 @@
       {
         "position": 7,
         "edition_slug": "secret-invasion",
-        "note": "Skrulls revealed \u2014 who do you trust?",
+        "note": "Skrulls revealed — who do you trust?",
         "is_optional": false
       },
       {
         "position": 8,
         "edition_slug": "dark-avengers-osborns-reign",
-        "note": "Norman Osborn runs HAMMER \u2014 Dark Reign",
+        "note": "Norman Osborn runs HAMMER — Dark Reign",
         "is_optional": false
       },
       {
@@ -2554,7 +2554,7 @@
   },
   {
     "slug": "secret-wars-duology",
-    "name": "EVENT: Secret Wars \u2014 1984 and 2015",
+    "name": "EVENT: Secret Wars — 1984 and 2015",
     "category": "event",
     "path_type": "event",
     "difficulty": "intermediate",
@@ -2599,19 +2599,19 @@
       {
         "position": 1,
         "edition_slug": "asm-omnibus-v4",
-        "note": "Death of Gwen Stacy \u2014 the end of the Silver Age",
+        "note": "Death of Gwen Stacy — the end of the Silver Age",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "kravens-last-hunt",
-        "note": "Kraven buries Spider-Man alive \u2014 psychological horror",
+        "note": "Kraven buries Spider-Man alive — psychological horror",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "spider-man-maximum-carnage",
-        "note": "Carnage's killing spree \u2014 biggest 90s Spider-event",
+        "note": "Carnage's killing spree — biggest 90s Spider-event",
         "is_optional": true
       },
       {
@@ -2629,13 +2629,13 @@
       {
         "position": 6,
         "edition_slug": "asm-jms-omnibus-v2",
-        "note": "One More Day \u2014 Mephisto erases the marriage",
+        "note": "One More Day — Mephisto erases the marriage",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "superior-spider-man-omnibus",
-        "note": "Doc Ock takes Peter's body \u2014 Superior Spider-Man",
+        "note": "Doc Ock takes Peter's body — Superior Spider-Man",
         "is_optional": false
       },
       {
@@ -2658,7 +2658,7 @@
       {
         "position": 1,
         "edition_slug": "doctor-doom-2024",
-        "note": "Doom as Sorcerer Supreme \u2014 the setup",
+        "note": "Doom as Sorcerer Supreme — the setup",
         "is_optional": false
       },
       {
@@ -2710,7 +2710,7 @@
       {
         "position": 1,
         "edition_slug": "ff-omnibus-v2",
-        "note": "Galactus Trilogy \u2014 it all starts here",
+        "note": "Galactus Trilogy — it all starts here",
         "is_optional": false
       },
       {
@@ -2728,13 +2728,13 @@
       {
         "position": 4,
         "edition_slug": "infinity-gauntlet-omnibus",
-        "note": "THE cosmic event \u2014 Thanos snaps",
+        "note": "THE cosmic event — Thanos snaps",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "annihilation-omnibus",
-        "note": "Annihilation Wave \u2014 cosmic renaissance",
+        "note": "Annihilation Wave — cosmic renaissance",
         "is_optional": false
       },
       {
@@ -2746,7 +2746,7 @@
       {
         "position": 7,
         "edition_slug": "gotg-dna-omnibus",
-        "note": "DnA's Guardians of the Galaxy \u2014 the definitive cosmic team",
+        "note": "DnA's Guardians of the Galaxy — the definitive cosmic team",
         "is_optional": false
       },
       {
@@ -2770,7 +2770,7 @@
       {
         "position": 11,
         "edition_slug": "venom-cates-omnibus",
-        "note": "Knull, King in Black \u2014 cosmic symbiote god",
+        "note": "Knull, King in Black — cosmic symbiote god",
         "is_optional": true
       }
     ]
@@ -2781,7 +2781,7 @@
     "category": "thematic",
     "path_type": "thematic",
     "difficulty": "intermediate",
-    "description": "Daredevil, Punisher, Luke Cage, Iron Fist, Jessica Jones, Moon Knight. The gritty street heroes who don't fly and don't save the world \u2014 they save the neighborhood.",
+    "description": "Daredevil, Punisher, Luke Cage, Iron Fist, Jessica Jones, Moon Knight. The gritty street heroes who don't fly and don't save the world — they save the neighborhood.",
     "estimated_issues": 350,
     "sections": [
       {
@@ -2816,7 +2816,7 @@
       {
         "position": 3,
         "edition_slug": "luke-cage-power-man-iron-fist-epic-v1",
-        "note": "Heroes for Hire \u2014 the definitive buddy duo",
+        "note": "Heroes for Hire — the definitive buddy duo",
         "is_optional": false
       },
       {
@@ -2834,25 +2834,25 @@
       {
         "position": 6,
         "edition_slug": "alias-omnibus",
-        "note": "Jessica Jones \u2014 Marvel's best PI noir",
+        "note": "Jessica Jones — Marvel's best PI noir",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "punisher-max-omnibus-v1",
-        "note": "Ennis Punisher MAX \u2014 the ultimate war story",
+        "note": "Ennis Punisher MAX — the ultimate war story",
         "is_optional": false
       },
       {
         "position": 8,
         "edition_slug": "immortal-iron-fist-omnibus",
-        "note": "Seven Capital Cities of Heaven \u2014 Iron Fist reborn",
+        "note": "Seven Capital Cities of Heaven — Iron Fist reborn",
         "is_optional": false
       },
       {
         "position": 9,
         "edition_slug": "moon-knight-ellis",
-        "note": "Mr. Knight \u2014 Ellis reinvents Moon Knight",
+        "note": "Mr. Knight — Ellis reinvents Moon Knight",
         "is_optional": false
       },
       {
@@ -2881,7 +2881,7 @@
     "category": "thematic",
     "path_type": "thematic",
     "difficulty": "intermediate",
-    "description": "Marvel's dark side \u2014 vampires, werewolves, demons, and body horror. From 1970s monster comics to Immortal Hulk. Marvel does horror better than you'd expect.",
+    "description": "Marvel's dark side — vampires, werewolves, demons, and body horror. From 1970s monster comics to Immortal Hulk. Marvel does horror better than you'd expect.",
     "estimated_issues": 200,
     "sections": [
       {
@@ -2922,31 +2922,31 @@
       {
         "position": 4,
         "edition_slug": "ghost-rider-aaron-omnibus",
-        "note": "Johnny Blaze \u2014 the original Spirit of Vengeance",
+        "note": "Johnny Blaze — the original Spirit of Vengeance",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "ghost-rider-danny-ketch-omnibus",
-        "note": "Danny Ketch Ghost Rider \u2014 90s reinvention",
+        "note": "Danny Ketch Ghost Rider — 90s reinvention",
         "is_optional": true
       },
       {
         "position": 6,
         "edition_slug": "new-mutants-omnibus-v1",
-        "note": "Demon Bear Saga (#18-20) \u2014 Sienkiewicz's horror masterpiece",
+        "note": "Demon Bear Saga (#18-20) — Sienkiewicz's horror masterpiece",
         "is_optional": true
       },
       {
         "position": 7,
         "edition_slug": "moon-knight-lemire",
-        "note": "Psychological horror \u2014 is Marc Spector insane or chosen?",
+        "note": "Psychological horror — is Marc Spector insane or chosen?",
         "is_optional": false
       },
       {
         "position": 8,
         "edition_slug": "doctor-strange-cates",
-        "note": "Strange meets cosmic horror \u2014 Sentry connection",
+        "note": "Strange meets cosmic horror — Sentry connection",
         "is_optional": true
       },
       {
@@ -2958,13 +2958,13 @@
       {
         "position": 10,
         "edition_slug": "venom-cates-omnibus",
-        "note": "Knull \u2014 god of the symbiotes. Cosmic horror.",
+        "note": "Knull — god of the symbiotes. Cosmic horror.",
         "is_optional": false
       },
       {
         "position": 11,
         "edition_slug": "blood-hunt",
-        "note": "Vampires attack the Marvel Universe \u2014 Blade goes dark",
+        "note": "Vampires attack the Marvel Universe — Blade goes dark",
         "is_optional": false
       }
     ]
@@ -2998,49 +2998,49 @@
       {
         "position": 1,
         "edition_slug": "marvels",
-        "note": "Marvel history through a photographer's eyes \u2014 Busiek/Ross",
+        "note": "Marvel history through a photographer's eyes — Busiek/Ross",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "vision-tom-king",
-        "note": "The Vision builds a family in suburbia \u2014 suburban horror masterpiece",
+        "note": "The Vision builds a family in suburbia — suburban horror masterpiece",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "hawkeye-fraction-omnibus",
-        "note": "Clint Barton's days off \u2014 the Eisner winner",
+        "note": "Clint Barton's days off — the Eisner winner",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "moon-knight-lemire",
-        "note": "Identity, sanity, and divine purpose \u2014 stunning",
+        "note": "Identity, sanity, and divine purpose — stunning",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "immortal-hulk-omnibus",
-        "note": "Horror Hulk \u2014 redefines what a superhero comic can be",
+        "note": "Horror Hulk — redefines what a superhero comic can be",
         "is_optional": false
       },
       {
         "position": 6,
         "edition_slug": "spider-man-life-story",
-        "note": "Spider-Man's life in real time \u2014 the perfect primer",
+        "note": "Spider-Man's life in real time — the perfect primer",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "silver-surfer-slott",
-        "note": "Cosmic love story with Allred art \u2014 pure joy",
+        "note": "Cosmic love story with Allred art — pure joy",
         "is_optional": false
       },
       {
         "position": 8,
         "edition_slug": "punisher-max-omnibus-v1",
-        "note": "War is hell \u2014 Ennis writes the definitive Punisher",
+        "note": "War is hell — Ennis writes the definitive Punisher",
         "is_optional": false
       },
       {
@@ -3058,13 +3058,13 @@
       {
         "position": 11,
         "edition_slug": "ms-marvel-wilson",
-        "note": "Kamala Khan \u2014 the new face of Marvel, heartfelt and authentic",
+        "note": "Kamala Khan — the new face of Marvel, heartfelt and authentic",
         "is_optional": false
       },
       {
         "position": 12,
         "edition_slug": "ff-ryan-north",
-        "note": "The funniest, cleverest FF run \u2014 science and heart",
+        "note": "The funniest, cleverest FF run — science and heart",
         "is_optional": false
       }
     ]
@@ -3075,7 +3075,7 @@
     "category": "thematic",
     "path_type": "thematic",
     "difficulty": "intermediate",
-    "description": "The best runs featuring Marvel's women \u2014 as leads, not supporting characters. From Jessica Jones to Captain Marvel to Ms. Marvel to X-23.",
+    "description": "The best runs featuring Marvel's women — as leads, not supporting characters. From Jessica Jones to Captain Marvel to Ms. Marvel to X-23.",
     "estimated_issues": 250,
     "sections": [
       {
@@ -3098,19 +3098,19 @@
       {
         "position": 1,
         "edition_slug": "uxm-claremont-omnibus-v1",
-        "note": "Storm, Jean Grey, Kitty Pryde \u2014 Claremont wrote women like no one before",
+        "note": "Storm, Jean Grey, Kitty Pryde — Claremont wrote women like no one before",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "alias-omnibus",
-        "note": "Jessica Jones \u2014 Marvel's best private eye",
+        "note": "Jessica Jones — Marvel's best private eye",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "she-hulk-slott",
-        "note": "Jennifer Walters: lawyer by day, Hulk by day too \u2014 funny and smart",
+        "note": "Jennifer Walters: lawyer by day, Hulk by day too — funny and smart",
         "is_optional": false
       },
       {
@@ -3122,13 +3122,13 @@
       {
         "position": 5,
         "edition_slug": "ms-marvel-wilson",
-        "note": "Kamala Khan \u2014 the best new hero in decades",
+        "note": "Kamala Khan — the best new hero in decades",
         "is_optional": false
       },
       {
         "position": 6,
         "edition_slug": "mighty-thor-aaron-omnibus",
-        "note": "Jane Foster IS Thor \u2014 cancer, sacrifice, and worthiness",
+        "note": "Jane Foster IS Thor — cancer, sacrifice, and worthiness",
         "is_optional": false
       },
       {
@@ -3140,7 +3140,7 @@
       {
         "position": 8,
         "edition_slug": "all-new-wolverine-omnibus",
-        "note": "Laura Kinney IS Wolverine \u2014 Tom Taylor's masterpiece",
+        "note": "Laura Kinney IS Wolverine — Tom Taylor's masterpiece",
         "is_optional": false
       },
       {
@@ -3152,7 +3152,7 @@
       {
         "position": 10,
         "edition_slug": "black-widow-thompson",
-        "note": "Natasha Romanoff \u2014 spy thriller",
+        "note": "Natasha Romanoff — spy thriller",
         "is_optional": false
       },
       {
@@ -3192,49 +3192,49 @@
       {
         "position": 1,
         "edition_slug": "iron-man-extremis",
-        "note": "Iron Man 3's source \u2014 Extremis virus, modern armor",
+        "note": "Iron Man 3's source — Extremis virus, modern armor",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "cap-brubaker-v1",
-        "note": "Winter Soldier film's source \u2014 Bucky returns, Cap dies",
+        "note": "Winter Soldier film's source — Bucky returns, Cap dies",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "civil-war",
-        "note": "Captain America: Civil War's source \u2014 heroes divided",
+        "note": "Captain America: Civil War's source — heroes divided",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "infinity-gauntlet-omnibus",
-        "note": "Infinity War/Endgame's source \u2014 THE snap",
+        "note": "Infinity War/Endgame's source — THE snap",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "planet-hulk",
-        "note": "Thor: Ragnarok borrowed from this \u2014 Hulk as gladiator",
+        "note": "Thor: Ragnarok borrowed from this — Hulk as gladiator",
         "is_optional": false
       },
       {
         "position": 6,
         "edition_slug": "thor-aaron-god-of-thunder",
-        "note": "Thor: Love and Thunder's source \u2014 Gorr the God Butcher",
+        "note": "Thor: Love and Thunder's source — Gorr the God Butcher",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "mighty-thor-aaron-omnibus",
-        "note": "Jane Foster Thor \u2014 Love and Thunder's emotional core",
+        "note": "Jane Foster Thor — Love and Thunder's emotional core",
         "is_optional": false
       },
       {
         "position": 8,
         "edition_slug": "black-panther-priest-omnibus",
-        "note": "MCU Black Panther's primary inspiration \u2014 Priest defined modern T'Challa, Dora Milaje, Wakandan politics",
+        "note": "MCU Black Panther's primary inspiration — Priest defined modern T'Challa, Dora Milaje, Wakandan politics",
         "is_optional": false
       },
       {
@@ -3269,7 +3269,7 @@
     "category": "thematic",
     "path_type": "creator",
     "difficulty": "advanced",
-    "description": "Everything Jonathan Hickman wrote at Marvel \u2014 from Fantastic Four to Secret Warriors to Avengers to Secret Wars to X-Men. One interconnected grand design spanning a decade. The most ambitious single-author achievement in superhero comics.",
+    "description": "Everything Jonathan Hickman wrote at Marvel — from Fantastic Four to Secret Warriors to Avengers to Secret Wars to X-Men. One interconnected grand design spanning a decade. The most ambitious single-author achievement in superhero comics.",
     "estimated_issues": 400,
     "sections": [
       {
@@ -3297,13 +3297,13 @@
       {
         "position": 1,
         "edition_slug": "secret-warriors-omnibus",
-        "note": "Nick Fury's secret team \u2014 HYDRA inside SHIELD",
+        "note": "Nick Fury's secret team — HYDRA inside SHIELD",
         "is_optional": true
       },
       {
         "position": 2,
         "edition_slug": "ff-hickman-omnibus-v1",
-        "note": "Council of Reeds \u2014 the architecture begins",
+        "note": "Council of Reeds — the architecture begins",
         "is_optional": false
       },
       {
@@ -3321,7 +3321,7 @@
       {
         "position": 5,
         "edition_slug": "avengers-hickman-omnibus-v2",
-        "note": "Time Runs Out \u2014 the multiverse is dying",
+        "note": "Time Runs Out — the multiverse is dying",
         "is_optional": false
       },
       {
@@ -3333,13 +3333,13 @@
       {
         "position": 7,
         "edition_slug": "house-of-x-powers-of-x",
-        "note": "X-Men reinvented \u2014 Krakoa, Moira, resurrection",
+        "note": "X-Men reinvented — Krakoa, Moira, resurrection",
         "is_optional": false
       },
       {
         "position": 8,
         "edition_slug": "inferno-hickman-complete",
-        "note": "Hickman's Krakoa conclusion \u2014 Moira exposed",
+        "note": "Hickman's Krakoa conclusion — Moira exposed",
         "is_optional": false
       },
       {
@@ -3351,7 +3351,7 @@
       {
         "position": 10,
         "edition_slug": "ultimate-spider-man-hickman-v1",
-        "note": "New Ultimate Spider-Man \u2014 Peter at 40",
+        "note": "New Ultimate Spider-Man — Peter at 40",
         "is_optional": false
       },
       {
@@ -3368,7 +3368,7 @@
     "category": "character",
     "path_type": "character",
     "difficulty": "intermediate",
-    "description": "The complete arc of the Maker \u2014 the Ultimate Universe's Reed Richards who became one of Marvel's most terrifying villains. From idealistic young genius to post-human monster to architect of an entire reality, the Maker is the dark answer to the question: what happens when the smartest man alive decides humanity isn't worth saving? This path traces his origin, descent, survival across universal destruction, and his ultimate ambition to build a world he controls.",
+    "description": "The complete arc of the Maker — the Ultimate Universe's Reed Richards who became one of Marvel's most terrifying villains. From idealistic young genius to post-human monster to architect of an entire reality, the Maker is the dark answer to the question: what happens when the smartest man alive decides humanity isn't worth saving? This path traces his origin, descent, survival across universal destruction, and his ultimate ambition to build a world he controls.",
     "estimated_issues": 200,
     "sections": [
       {
@@ -3401,7 +3401,7 @@
       {
         "position": 1,
         "edition_slug": "ultimate-ff-omnibus-v1",
-        "note": "Ultimate Reed Richards' origin. Young genius, optimistic explorer. The 'Crossover' arc introduces the concept of evil Reeds \u2014 seeds of the Maker.",
+        "note": "Ultimate Reed Richards' origin. Young genius, optimistic explorer. The 'Crossover' arc introduces the concept of evil Reeds — seeds of the Maker.",
         "is_optional": false
       },
       {
@@ -3425,7 +3425,7 @@
       {
         "position": 5,
         "edition_slug": "ultimate-marvel-hickman-omnibus",
-        "note": "The Maker unleashes the Children of Tomorrow \u2014 a post-human civilization that conquers Asgard. Hickman writes the Maker as a dark mirror of 616 Reed. Essential.",
+        "note": "The Maker unleashes the Children of Tomorrow — a post-human civilization that conquers Asgard. Hickman writes the Maker as a dark mirror of 616 Reed. Essential.",
         "is_optional": false
       },
       {
@@ -3449,7 +3449,7 @@
       {
         "position": 9,
         "edition_slug": "secret-wars-2015-omnibus",
-        "note": "The multiverse dies. The Maker survives into Battleworld and then into the rebuilt 616. The pivot point \u2014 he's now loose in the main Marvel Universe.",
+        "note": "The multiverse dies. The Maker survives into Battleworld and then into the rebuilt 616. The pivot point — he's now loose in the main Marvel Universe.",
         "is_optional": false
       },
       {
@@ -3461,13 +3461,13 @@
       {
         "position": 11,
         "edition_slug": "ultimate-invasion",
-        "note": "The Maker's masterpiece. He builds an entirely new Ultimate Universe \u2014 one he controls from behind the scenes, preventing superheroes from ever emerging. Hickman returns.",
+        "note": "The Maker's masterpiece. He builds an entirely new Ultimate Universe — one he controls from behind the scenes, preventing superheroes from ever emerging. Hickman returns.",
         "is_optional": false
       },
       {
         "position": 12,
         "edition_slug": "ultimate-spider-man-hickman-v1",
-        "note": "Peter Parker in the Maker's controlled world. A 40-year-old father who never got powers \u2014 until now. The cracks in the Maker's plan begin.",
+        "note": "Peter Parker in the Maker's controlled world. A 40-year-old father who never got powers — until now. The cracks in the Maker's plan begin.",
         "is_optional": false
       },
       {
@@ -6262,7 +6262,7 @@
       {
         "position": 1,
         "edition_slug": "tomb-of-dracula-omnibus-v1",
-        "note": "Blade debuts in Tomb of Dracula #10 (1973) \u2014 his mother killed by Deacon Frost",
+        "note": "Blade debuts in Tomb of Dracula #10 (1973) — his mother killed by Deacon Frost",
         "is_optional": false
       },
       {
@@ -6286,7 +6286,7 @@
       {
         "position": 5,
         "edition_slug": "blade-vampire-hunter-tpb",
-        "note": "Blade's 1990s solo series \u2014 post-movie popularity",
+        "note": "Blade's 1990s solo series — post-movie popularity",
         "is_optional": false
       },
       {
@@ -6304,7 +6304,7 @@
       {
         "position": 8,
         "edition_slug": "blood-hunt",
-        "note": "Blade leads a vampire army \u2014 his darkest hour becomes Marvel's 2024 event",
+        "note": "Blade leads a vampire army — his darkest hour becomes Marvel's 2024 event",
         "is_optional": false
       },
       {
@@ -6339,13 +6339,13 @@
       {
         "position": 3,
         "edition_slug": "sub-mariner-omnibus",
-        "note": "Namor's Bronze Age solo series \u2014 king of Atlantis in full",
+        "note": "Namor's Bronze Age solo series — king of Atlantis in full",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "ff-omnibus-v1",
-        "note": "Namor's return in FF #4 \u2014 the antihero who started Marvel's first love triangle",
+        "note": "Namor's return in FF #4 — the antihero who started Marvel's first love triangle",
         "is_optional": false
       },
       {
@@ -6357,13 +6357,13 @@
       {
         "position": 6,
         "edition_slug": "namor-byrne-omnibus",
-        "note": "John Byrne's 1990 definitive Namor run \u2014 corporate raider king",
+        "note": "John Byrne's 1990 definitive Namor run — corporate raider king",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "new-avengers-illuminati",
-        "note": "Namor as Illuminati member \u2014 the secret rulers of Marvel",
+        "note": "Namor as Illuminati member — the secret rulers of Marvel",
         "is_optional": false
       },
       {
@@ -6381,7 +6381,7 @@
       {
         "position": 10,
         "edition_slug": "namor-conquered-shores",
-        "note": "Namor in a dark alternate future \u2014 the last king",
+        "note": "Namor in a dark alternate future — the last king",
         "is_optional": true
       }
     ]
@@ -6398,25 +6398,25 @@
       {
         "position": 1,
         "edition_slug": "sensational-she-hulk-byrne-omnibus",
-        "note": "John Byrne's legendary meta-comedy run \u2014 She-Hulk breaks the fourth wall",
+        "note": "John Byrne's legendary meta-comedy run — She-Hulk breaks the fourth wall",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "she-hulk-slott",
-        "note": "Dan Slott Vol. 1 \u2014 She-Hulk as superhuman law attorney. Brilliant concept.",
+        "note": "Dan Slott Vol. 1 — She-Hulk as superhuman law attorney. Brilliant concept.",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "she-hulk-slott-v2",
-        "note": "Slott continues \u2014 courtroom battles with Marvel Universe consequences",
+        "note": "Slott continues — courtroom battles with Marvel Universe consequences",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "she-hulk-soule",
-        "note": "Charles Soule (real lawyer) writes She-Hulk \u2014 legal procedural meets superhero",
+        "note": "Charles Soule (real lawyer) writes She-Hulk — legal procedural meets superhero",
         "is_optional": false
       },
       {
@@ -6434,14 +6434,14 @@
       {
         "position": 7,
         "edition_slug": "she-hulk-rowell",
-        "note": "Rainbow Rowell's modern run \u2014 Jen rebuilds her life and practice",
+        "note": "Rainbow Rowell's modern run — Jen rebuilds her life and practice",
         "is_optional": false
       }
     ]
   },
   {
     "slug": "hawkeye-complete",
-    "name": "Hawkeye: Clint & Kate \u2014 Both Archers",
+    "name": "Hawkeye: Clint & Kate — Both Archers",
     "category": "character",
     "path_type": "character",
     "difficulty": "intermediate",
@@ -6457,7 +6457,7 @@
       {
         "position": 2,
         "edition_slug": "hawkeye-gruenwald-omnibus",
-        "note": "Gruenwald's classic solo Hawkeye \u2014 the original limited series that proved Clint could carry a book",
+        "note": "Gruenwald's classic solo Hawkeye — the original limited series that proved Clint could carry a book",
         "is_optional": false
       },
       {
@@ -6469,7 +6469,7 @@
       {
         "position": 4,
         "edition_slug": "hawkeye-mockingbird-complete",
-        "note": "Clint and Bobbi Morse \u2014 the great Hawkeye romance",
+        "note": "Clint and Bobbi Morse — the great Hawkeye romance",
         "is_optional": true
       },
       {
@@ -6487,31 +6487,31 @@
       {
         "position": 7,
         "edition_slug": "hawkeye-fraction-v2",
-        "note": "Fraction's run concludes \u2014 the tracksuit mafia saga",
+        "note": "Fraction's run concludes — the tracksuit mafia saga",
         "is_optional": false
       },
       {
         "position": 8,
         "edition_slug": "kate-bishop-hawkeye-tamaki",
-        "note": "Kate Bishop goes solo in Los Angeles \u2014 young PI with a bow",
+        "note": "Kate Bishop goes solo in Los Angeles — young PI with a bow",
         "is_optional": false
       },
       {
         "position": 9,
         "edition_slug": "dark-reign-hawkeye",
-        "note": "Dark Reign: Hawkeye \u2014 Bullseye wears the costume under Osborn",
+        "note": "Dark Reign: Hawkeye — Bullseye wears the costume under Osborn",
         "is_optional": true
       },
       {
         "position": 10,
         "edition_slug": "old-man-hawkeye",
-        "note": "Prequel to Old Man Logan \u2014 blind Clint's last ride",
+        "note": "Prequel to Old Man Logan — blind Clint's last ride",
         "is_optional": true
       },
       {
         "position": 11,
         "edition_slug": "hawkeye-freefall",
-        "note": "Matthew Rosenberg's Freefall \u2014 Clint goes undercover as Ronin",
+        "note": "Matthew Rosenberg's Freefall — Clint goes undercover as Ronin",
         "is_optional": true
       }
     ]
@@ -6528,13 +6528,13 @@
       {
         "position": 1,
         "edition_slug": "black-widow-edmondson",
-        "note": "Edmondson and Noto's espionage run \u2014 Natasha hunted by her own past",
+        "note": "Edmondson and Noto's espionage run — Natasha hunted by her own past",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "black-widow-waid-samnee",
-        "note": "Waid and Samnee's action-packed spy thriller \u2014 Natasha on the run from SHIELD",
+        "note": "Waid and Samnee's action-packed spy thriller — Natasha on the run from SHIELD",
         "is_optional": false
       },
       {
@@ -6546,20 +6546,20 @@
       {
         "position": 4,
         "edition_slug": "black-widow-yelena-belova",
-        "note": "Yelena Belova \u2014 the other Black Widow, Natasha's successor and rival",
+        "note": "Yelena Belova — the other Black Widow, Natasha's successor and rival",
         "is_optional": true
       },
       {
         "position": 5,
         "edition_slug": "black-widow-kelly-thompson",
-        "note": "Thompson continues \u2014 the definitive modern Black Widow",
+        "note": "Thompson continues — the definitive modern Black Widow",
         "is_optional": false
       }
     ]
   },
   {
     "slug": "shang-chi-complete",
-    "name": "Shang-Chi: Master of Kung Fu \u2014 Complete",
+    "name": "Shang-Chi: Master of Kung Fu — Complete",
     "category": "character",
     "path_type": "character",
     "difficulty": "intermediate",
@@ -6569,13 +6569,13 @@
       {
         "position": 1,
         "edition_slug": "shang-chi-omnibus-v1",
-        "note": "The original Master of Kung Fu \u2014 Shang-Chi vs. his father Fu Manchu. Doug Moench and Paul Gulacy create a martial arts masterpiece.",
+        "note": "The original Master of Kung Fu — Shang-Chi vs. his father Fu Manchu. Doug Moench and Paul Gulacy create a martial arts masterpiece.",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "shang-chi-omnibus-v2",
-        "note": "Moench continues \u2014 espionage and martial arts in the Bronze Age",
+        "note": "Moench continues — espionage and martial arts in the Bronze Age",
         "is_optional": true
       },
       {
@@ -6587,13 +6587,13 @@
       {
         "position": 4,
         "edition_slug": "shang-chi-yang-2021",
-        "note": "Yang continues \u2014 Shang-Chi vs. his family dynasty",
+        "note": "Yang continues — Shang-Chi vs. his family dynasty",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "shang-chi-ten-rings",
-        "note": "Shang-Chi and the Ten Rings \u2014 modern ongoing",
+        "note": "Shang-Chi and the Ten Rings — modern ongoing",
         "is_optional": true
       }
     ]
@@ -6604,19 +6604,19 @@
     "category": "character",
     "path_type": "character",
     "difficulty": "intermediate",
-    "description": "Elektra Natchios \u2014 assassin, Hand leader, Daredevil's greatest love. Created by Frank Miller as the ultimate femme fatale, Elektra's story is tragedy, resurrection, and the question of whether a killer can find redemption.",
+    "description": "Elektra Natchios — assassin, Hand leader, Daredevil's greatest love. Created by Frank Miller as the ultimate femme fatale, Elektra's story is tragedy, resurrection, and the question of whether a killer can find redemption.",
     "estimated_issues": 70,
     "entries": [
       {
         "position": 1,
         "edition_slug": "dd-miller-omnibus",
-        "note": "Elektra's debut and death in Miller's Daredevil \u2014 one of the most iconic character introductions ever",
+        "note": "Elektra's debut and death in Miller's Daredevil — one of the most iconic character introductions ever",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "elektra-by-frank-miller",
-        "note": "Miller's Elektra: Assassin \u2014 surreal, political, and utterly unique. Bill Sienkiewicz art.",
+        "note": "Miller's Elektra: Assassin — surreal, political, and utterly unique. Bill Sienkiewicz art.",
         "is_optional": false
       },
       {
@@ -6628,19 +6628,19 @@
       {
         "position": 4,
         "edition_slug": "elektra-black-white-blood",
-        "note": "Elektra: Black, White & Blood anthology \u2014 short stories by top creators",
+        "note": "Elektra: Black, White & Blood anthology — short stories by top creators",
         "is_optional": true
       },
       {
         "position": 5,
         "edition_slug": "dd-zdarsky-omnibus-v1",
-        "note": "Elektra becomes Daredevil \u2014 Chip Zdarsky gives her the horns",
+        "note": "Elektra becomes Daredevil — Chip Zdarsky gives her the horns",
         "is_optional": false
       },
       {
         "position": 6,
         "edition_slug": "daredevil-woman-without-fear",
-        "note": "Elektra as the Woman Without Fear \u2014 solo Daredevil identity",
+        "note": "Elektra as the Woman Without Fear — solo Daredevil identity",
         "is_optional": false
       }
     ]
@@ -6657,13 +6657,13 @@
       {
         "position": 1,
         "edition_slug": "annihilation-omnibus",
-        "note": "Star-Lord's modern reinvention begins in Annihilation \u2014 from obscure 70s character to cosmic leader",
+        "note": "Star-Lord's modern reinvention begins in Annihilation — from obscure 70s character to cosmic leader",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "gotg-dna-omnibus",
-        "note": "Star-Lord forms the Guardians of the Galaxy \u2014 DnA's cosmic saga",
+        "note": "Star-Lord forms the Guardians of the Galaxy — DnA's cosmic saga",
         "is_optional": false
       },
       {
@@ -6675,13 +6675,13 @@
       {
         "position": 4,
         "edition_slug": "star-lord-zdarsky",
-        "note": "Chip Zdarsky's Star-Lord \u2014 Peter Quill stranded for 12 years on an alien world. Intimate, character-driven.",
+        "note": "Chip Zdarsky's Star-Lord — Peter Quill stranded for 12 years on an alien world. Intimate, character-driven.",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "old-man-quill",
-        "note": "Old Man Quill \u2014 alternate future Star-Lord in the Wastelands",
+        "note": "Old Man Quill — alternate future Star-Lord in the Wastelands",
         "is_optional": true
       }
     ]
@@ -6698,31 +6698,31 @@
       {
         "position": 1,
         "edition_slug": "captain-marvel-monica-rambeau",
-        "note": "Monica's Captain Marvel era \u2014 she leads the Avengers in the 1980s",
+        "note": "Monica's Captain Marvel era — she leads the Avengers in the 1980s",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "avengers-stern-omnibus",
-        "note": "Roger Stern's Avengers \u2014 Monica as team chair, peak Avengers leadership",
+        "note": "Roger Stern's Avengers — Monica as team chair, peak Avengers leadership",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "mighty-avengers-ewing",
-        "note": "Al Ewing's Mighty Avengers \u2014 Monica as Spectrum anchors a diverse team",
+        "note": "Al Ewing's Mighty Avengers — Monica as Spectrum anchors a diverse team",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "photon-ewing",
-        "note": "Photon solo series \u2014 Monica claims her own identity",
+        "note": "Photon solo series — Monica claims her own identity",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "ultimates-ewing-omnibus",
-        "note": "Ewing's Ultimates \u2014 Monica as part of the cosmic problem-solving team",
+        "note": "Ewing's Ultimates — Monica as part of the cosmic problem-solving team",
         "is_optional": false
       }
     ]
@@ -6739,60 +6739,60 @@
       {
         "position": 1,
         "edition_slug": "secret-avengers-brubaker",
-        "note": "Brubaker launches Secret Avengers \u2014 Steve Rogers leads covert Avengers missions. Espionage meets superheroes.",
+        "note": "Brubaker launches Secret Avengers — Steve Rogers leads covert Avengers missions. Espionage meets superheroes.",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "secret-avengers-remender",
-        "note": "Remender takes over \u2014 Hawkeye, Black Widow, Venom on impossible missions",
+        "note": "Remender takes over — Hawkeye, Black Widow, Venom on impossible missions",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "secret-avengers-spencer",
-        "note": "Nick Spencer's run \u2014 SHIELD-integrated Secret Avengers with memory wipes",
+        "note": "Nick Spencer's run — SHIELD-integrated Secret Avengers with memory wipes",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "secret-avengers-ales-kot",
-        "note": "Ales Kot's surreal, meta finale \u2014 MODOK joins the team",
+        "note": "Ales Kot's surreal, meta finale — MODOK joins the team",
         "is_optional": true
       }
     ]
   },
   {
     "slug": "thunderbolts-every-era",
-    "name": "Thunderbolts: Villains to Heroes \u2014 Every Era",
+    "name": "Thunderbolts: Villains to Heroes — Every Era",
     "category": "team",
     "path_type": "complete",
     "difficulty": "advanced",
-    "description": "The complete Thunderbolts from Busiek's original 'villains pretending to be heroes' twist through Ellis's brutal reinvention to the modern era. One of Marvel's most consistently reinvented concepts \u2014 the team that asks whether villains can become heroes.",
+    "description": "The complete Thunderbolts from Busiek's original 'villains pretending to be heroes' twist through Ellis's brutal reinvention to the modern era. One of Marvel's most consistently reinvented concepts — the team that asks whether villains can become heroes.",
     "estimated_issues": 350,
     "entries": [
       {
         "position": 1,
         "edition_slug": "thunderbolts-ultimate",
-        "note": "Ultimate Thunderbolts \u2014 latest incarnation",
+        "note": "Ultimate Thunderbolts — latest incarnation",
         "is_optional": true
       },
       {
         "position": 2,
         "edition_slug": "thunderbolts-busiek-omnibus-v1",
-        "note": "THE reveal \u2014 the Thunderbolts are the Masters of Evil in disguise. One of Marvel's greatest twists.",
+        "note": "THE reveal — the Thunderbolts are the Masters of Evil in disguise. One of Marvel's greatest twists.",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "thunderbolts-busiek-omnibus-v2",
-        "note": "Busiek continues \u2014 the team genuinely tries to reform",
+        "note": "Busiek continues — the team genuinely tries to reform",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "new-thunderbolts-omnibus",
-        "note": "Nicieza and Bagley's New Thunderbolts \u2014 rebuilding after Avengers Disassembled",
+        "note": "Nicieza and Bagley's New Thunderbolts — rebuilding after Avengers Disassembled",
         "is_optional": true
       },
       {
@@ -6804,7 +6804,7 @@
       {
         "position": 6,
         "edition_slug": "thunderbolts-parker-complete",
-        "note": "Jeff Parker's run \u2014 Luke Cage leads villains on rehabilitation missions from the Raft",
+        "note": "Jeff Parker's run — Luke Cage leads villains on rehabilitation missions from the Raft",
         "is_optional": false
       },
       {
@@ -6816,13 +6816,13 @@
       {
         "position": 8,
         "edition_slug": "thunderbolts-soule-red-hulk",
-        "note": "Red Hulk leads Punisher, Elektra, Deadpool, Venom \u2014 wet works team",
+        "note": "Red Hulk leads Punisher, Elektra, Deadpool, Venom — wet works team",
         "is_optional": false
       },
       {
         "position": 9,
         "edition_slug": "thunderbolts-zub",
-        "note": "Zub's run \u2014 Winter Soldier leads a new Thunderbolts lineup",
+        "note": "Zub's run — Winter Soldier leads a new Thunderbolts lineup",
         "is_optional": true
       },
       {
@@ -6839,31 +6839,31 @@
     "category": "team",
     "path_type": "thematic",
     "difficulty": "intermediate",
-    "description": "Marvel's supernatural corner \u2014 vampires, werewolves, demons, sorcerers, and the hunters who fight them. From Tomb of Dracula through the Midnight Sons to modern horror revival. The dark side of the Marvel Universe.",
+    "description": "Marvel's supernatural corner — vampires, werewolves, demons, sorcerers, and the hunters who fight them. From Tomb of Dracula through the Midnight Sons to modern horror revival. The dark side of the Marvel Universe.",
     "estimated_issues": 250,
     "entries": [
       {
         "position": 1,
         "edition_slug": "tomb-of-dracula-omnibus-v1",
-        "note": "The foundation of Marvel horror \u2014 Marv Wolfman and Gene Colan's Dracula is one of Marvel's best-written villains",
+        "note": "The foundation of Marvel horror — Marv Wolfman and Gene Colan's Dracula is one of Marvel's best-written villains",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "tomb-of-dracula-omnibus-v2",
-        "note": "Dracula's saga continues \u2014 Blade, Hannibal King, Rachel van Helsing",
+        "note": "Dracula's saga continues — Blade, Hannibal King, Rachel van Helsing",
         "is_optional": true
       },
       {
         "position": 3,
         "edition_slug": "werewolf-by-night-complete",
-        "note": "Jack Russell as the Werewolf by Night \u2014 Moon Knight debuts here",
+        "note": "Jack Russell as the Werewolf by Night — Moon Knight debuts here",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "man-thing-omnibus",
-        "note": "Man-Thing \u2014 the guardian of the Nexus of All Realities",
+        "note": "Man-Thing — the guardian of the Nexus of All Realities",
         "is_optional": true
       },
       {
@@ -6875,37 +6875,37 @@
       {
         "position": 6,
         "edition_slug": "midnight-sons-omnibus",
-        "note": "The Midnight Sons team forms \u2014 Ghost Rider, Blade, Morbius, Doctor Strange unite against Lilith",
+        "note": "The Midnight Sons team forms — Ghost Rider, Blade, Morbius, Doctor Strange unite against Lilith",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "ghost-rider-danny-ketch-omnibus",
-        "note": "Danny Ketch era Ghost Rider \u2014 90s supernatural",
+        "note": "Danny Ketch era Ghost Rider — 90s supernatural",
         "is_optional": true
       },
       {
         "position": 8,
         "edition_slug": "doctor-strange-aaron-omnibus",
-        "note": "Jason Aaron's Doctor Strange \u2014 magic has a cost",
+        "note": "Jason Aaron's Doctor Strange — magic has a cost",
         "is_optional": false
       },
       {
         "position": 9,
         "edition_slug": "doctor-strange-cates",
-        "note": "Cates sends Strange to the edge \u2014 Sentry, Void, cosmic horror",
+        "note": "Cates sends Strange to the edge — Sentry, Void, cosmic horror",
         "is_optional": true
       },
       {
         "position": 10,
         "edition_slug": "ghost-rider-aaron-omnibus",
-        "note": "Jason Aaron's Ghost Rider \u2014 heaven and hell at war",
+        "note": "Jason Aaron's Ghost Rider — heaven and hell at war",
         "is_optional": false
       },
       {
         "position": 11,
         "edition_slug": "midnight-suns-2022",
-        "note": "Modern Midnight Suns revival \u2014 tie-in with the game era",
+        "note": "Modern Midnight Suns revival — tie-in with the game era",
         "is_optional": true
       },
       {
@@ -6917,7 +6917,7 @@
       {
         "position": 13,
         "edition_slug": "blood-hunt",
-        "note": "Blade and the vampire invasion \u2014 supernatural Marvel goes mainstream event",
+        "note": "Blade and the vampire invasion — supernatural Marvel goes mainstream event",
         "is_optional": false
       }
     ]
@@ -6940,7 +6940,7 @@
       {
         "position": 2,
         "edition_slug": "avengers-initiative-complete-v1",
-        "note": "Avengers: The Initiative Vol. 1 \u2014 new recruits, Camp Hammond, the 50-state program",
+        "note": "Avengers: The Initiative Vol. 1 — new recruits, Camp Hammond, the 50-state program",
         "is_optional": false
       },
       {
@@ -6952,25 +6952,25 @@
       {
         "position": 4,
         "edition_slug": "avengers-academy-complete-v1",
-        "note": "Avengers Academy \u2014 Hank Pym teaches kids who were tortured by Norman Osborn",
+        "note": "Avengers Academy — Hank Pym teaches kids who were tortured by Norman Osborn",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "avengers-academy-complete-v2",
-        "note": "Academy concludes \u2014 these kids graduate into the Avengers world",
+        "note": "Academy concludes — these kids graduate into the Avengers world",
         "is_optional": false
       },
       {
         "position": 6,
         "edition_slug": "avengers-arena-complete",
-        "note": "Avengers Arena \u2014 Academy students trapped in Murder World. Dark, divisive, unforgettable.",
+        "note": "Avengers Arena — Academy students trapped in Murder World. Dark, divisive, unforgettable.",
         "is_optional": true
       },
       {
         "position": 7,
         "edition_slug": "avengers-undercover",
-        "note": "Aftermath of Arena \u2014 survivors go undercover with the Masters of Evil",
+        "note": "Aftermath of Arena — survivors go undercover with the Masters of Evil",
         "is_optional": true
       }
     ]
@@ -6981,7 +6981,7 @@
     "category": "team",
     "path_type": "team",
     "difficulty": "intermediate",
-    "description": "Canada's premiere superhero team \u2014 from John Byrne's beloved original run through multiple revivals. Alpha Flight has always been the X-Men's northern cousins, with a roster featuring Guardian, Puck, Sasquatch, Northstar, and Aurora.",
+    "description": "Canada's premiere superhero team — from John Byrne's beloved original run through multiple revivals. Alpha Flight has always been the X-Men's northern cousins, with a roster featuring Guardian, Puck, Sasquatch, Northstar, and Aurora.",
     "estimated_issues": 150,
     "entries": [
       {
@@ -6993,7 +6993,7 @@
       {
         "position": 2,
         "edition_slug": "alpha-flight-omnibus",
-        "note": "John Byrne's Alpha Flight \u2014 the definitive run. Guardian's death, Puck's origin, Northstar's groundbreaking story.",
+        "note": "John Byrne's Alpha Flight — the definitive run. Guardian's death, Puck's origin, Northstar's groundbreaking story.",
         "is_optional": false
       },
       {
@@ -7005,7 +7005,7 @@
       {
         "position": 4,
         "edition_slug": "alpha-flight-pak-van-lente",
-        "note": "Pak and Van Lente's modern Alpha Flight \u2014 the team rebuilds after being targeted by the government",
+        "note": "Pak and Van Lente's modern Alpha Flight — the team rebuilds after being targeted by the government",
         "is_optional": false
       }
     ]
@@ -7016,109 +7016,109 @@
     "category": "thematic",
     "path_type": "curated",
     "difficulty": "beginner",
-    "description": "Marvel's Epic Collections are affordable, chronological, and widely available. This path picks the best Epic Collections across all characters \u2014 perfect if you want variety without committing to omnibuses. Each one is a standalone chunk of Marvel history.",
+    "description": "Marvel's Epic Collections are affordable, chronological, and widely available. This path picks the best Epic Collections across all characters — perfect if you want variety without committing to omnibuses. Each one is a standalone chunk of Marvel history.",
     "estimated_issues": 350,
     "entries": [
       {
         "position": 1,
         "edition_slug": "ff-epic-worlds-greatest",
-        "note": "Fantastic Four Epic: World's Greatest \u2014 early Lee/Kirby FF",
+        "note": "Fantastic Four Epic: World's Greatest — early Lee/Kirby FF",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "ff-epic-coming-of-galactus",
-        "note": "FF Epic: The Coming of Galactus \u2014 Silver Surfer, Inhumans, Black Panther",
+        "note": "FF Epic: The Coming of Galactus — Silver Surfer, Inhumans, Black Panther",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "asm-epic-great-power",
-        "note": "ASM Epic: Great Power \u2014 Spider-Man's origin and early villains",
+        "note": "ASM Epic: Great Power — Spider-Man's origin and early villains",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "asm-epic-great-responsibility",
-        "note": "ASM Epic: Great Responsibility \u2014 more classic Spidey",
+        "note": "ASM Epic: Great Responsibility — more classic Spidey",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "avengers-epic-earths-mightiest",
-        "note": "Avengers Epic: Earth's Mightiest \u2014 the team founding, Cap's revival",
+        "note": "Avengers Epic: Earth's Mightiest — the team founding, Cap's revival",
         "is_optional": false
       },
       {
         "position": 6,
         "edition_slug": "hulk-epic-man-or-monster",
-        "note": "Hulk Epic: Man or Monster \u2014 the gamma-irradiated origin",
+        "note": "Hulk Epic: Man or Monster — the gamma-irradiated origin",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "thor-epic-god-of-thunder",
-        "note": "Thor Epic: God of Thunder \u2014 Asgardian mythology begins",
+        "note": "Thor Epic: God of Thunder — Asgardian mythology begins",
         "is_optional": false
       },
       {
         "position": 8,
         "edition_slug": "iron-man-epic-golden-avenger",
-        "note": "Iron Man Epic: The Golden Avenger \u2014 Tony Stark's cold war origins",
+        "note": "Iron Man Epic: The Golden Avenger — Tony Stark's cold war origins",
         "is_optional": false
       },
       {
         "position": 9,
         "edition_slug": "x-men-epic-children-of-atom",
-        "note": "X-Men Epic: Children of the Atom \u2014 the original five",
+        "note": "X-Men Epic: Children of the Atom — the original five",
         "is_optional": false
       },
       {
         "position": 10,
         "edition_slug": "dd-epic-man-without-fear",
-        "note": "Daredevil Epic: Man Without Fear \u2014 Matt Murdock begins",
+        "note": "Daredevil Epic: Man Without Fear — Matt Murdock begins",
         "is_optional": false
       },
       {
         "position": 11,
         "edition_slug": "cap-epic-coming-of-falcon",
-        "note": "Cap Epic: Coming of the Falcon \u2014 Sam Wilson's debut",
+        "note": "Cap Epic: Coming of the Falcon — Sam Wilson's debut",
         "is_optional": false
       },
       {
         "position": 12,
         "edition_slug": "doctor-strange-epic-master-mystic-arts",
-        "note": "Doctor Strange Epic: Master of the Mystic Arts \u2014 Lee/Ditko psychedelia",
+        "note": "Doctor Strange Epic: Master of the Mystic Arts — Lee/Ditko psychedelia",
         "is_optional": false
       },
       {
         "position": 13,
         "edition_slug": "black-panther-epic-panthers-rage",
-        "note": "Black Panther Epic: Panther's Rage \u2014 Don McGregor's groundbreaking run",
+        "note": "Black Panther Epic: Panther's Rage — Don McGregor's groundbreaking run",
         "is_optional": false
       },
       {
         "position": 14,
         "edition_slug": "silver-surfer-epic-freedom",
-        "note": "Silver Surfer Epic: Freedom \u2014 the Sentinel of the Spaceways",
+        "note": "Silver Surfer Epic: Freedom — the Sentinel of the Spaceways",
         "is_optional": true
       },
       {
         "position": 15,
         "edition_slug": "ghost-rider-epic-hell-on-wheels",
-        "note": "Ghost Rider Epic: Hell on Wheels \u2014 Johnny Blaze rides",
+        "note": "Ghost Rider Epic: Hell on Wheels — Johnny Blaze rides",
         "is_optional": true
       },
       {
         "position": 16,
         "edition_slug": "iron-fist-epic-fury-of-iron-fist",
-        "note": "Iron Fist Epic: Fury of Iron Fist \u2014 martial arts meets Marvel",
+        "note": "Iron Fist Epic: Fury of Iron Fist — martial arts meets Marvel",
         "is_optional": true
       },
       {
         "position": 17,
         "edition_slug": "luke-cage-epic-retribution",
-        "note": "Luke Cage Epic: Retribution \u2014 Hero for Hire in Harlem",
+        "note": "Luke Cage Epic: Retribution — Hero for Hire in Harlem",
         "is_optional": true
       }
     ]
@@ -7129,97 +7129,97 @@
     "category": "thematic",
     "path_type": "thematic",
     "difficulty": "intermediate",
-    "description": "Marvel's multiverse is infinite. These are the best stories from alternate realities \u2014 what-if scenarios, dystopian futures, and reimagined origins. Each one stands alone and shows Marvel characters in a completely different light.",
+    "description": "Marvel's multiverse is infinite. These are the best stories from alternate realities — what-if scenarios, dystopian futures, and reimagined origins. Each one stands alone and shows Marvel characters in a completely different light.",
     "estimated_issues": 200,
     "entries": [
       {
         "position": 1,
         "edition_slug": "what-if-classic-complete-v1",
-        "note": "What If? \u2014 Marvel's classic alternate reality anthology. What if Spider-Man joined the FF?",
+        "note": "What If? — Marvel's classic alternate reality anthology. What if Spider-Man joined the FF?",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "earth-x-trilogy",
-        "note": "Earth X \u2014 Alex Ross and Jim Krueger's dystopian Marvel future. Everyone has powers.",
+        "note": "Earth X — Alex Ross and Jim Krueger's dystopian Marvel future. Everyone has powers.",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "squadron-supreme",
-        "note": "Squadron Supreme \u2014 the Justice League analogues create a utopia that goes wrong. Predates Watchmen.",
+        "note": "Squadron Supreme — the Justice League analogues create a utopia that goes wrong. Predates Watchmen.",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "marvel-1602",
-        "note": "Neil Gaiman's Marvel 1602 \u2014 Marvel heroes in Elizabethan England",
+        "note": "Neil Gaiman's Marvel 1602 — Marvel heroes in Elizabethan England",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "marvel-zombies-complete-v1",
-        "note": "Marvel Zombies \u2014 the heroes become flesh-eating monsters. Darkly funny.",
+        "note": "Marvel Zombies — the heroes become flesh-eating monsters. Darkly funny.",
         "is_optional": false
       },
       {
         "position": 6,
         "edition_slug": "spider-man-life-story",
-        "note": "Spider-Man: Life Story \u2014 Peter ages in real time through each decade",
+        "note": "Spider-Man: Life Story — Peter ages in real time through each decade",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "spider-man-reign",
-        "note": "Spider-Man: Reign \u2014 an elderly Peter Parker in a dark future NYC",
+        "note": "Spider-Man: Reign — an elderly Peter Parker in a dark future NYC",
         "is_optional": true
       },
       {
         "position": 8,
         "edition_slug": "old-man-logan-lemire",
-        "note": "Old Man Logan \u2014 Wolverine in a villain-ruled wasteland",
+        "note": "Old Man Logan — Wolverine in a villain-ruled wasteland",
         "is_optional": false
       },
       {
         "position": 9,
         "edition_slug": "supreme-power-omnibus",
-        "note": "Supreme Power \u2014 J. Michael Straczynski's ultra-realistic take on Squadron Supreme",
+        "note": "Supreme Power — J. Michael Straczynski's ultra-realistic take on Squadron Supreme",
         "is_optional": true
       },
       {
         "position": 10,
         "edition_slug": "exiles-omnibus-v1",
-        "note": "Exiles \u2014 team of alternate reality mutants fixing broken timelines",
+        "note": "Exiles — team of alternate reality mutants fixing broken timelines",
         "is_optional": false
       },
       {
         "position": 11,
         "edition_slug": "exiles-omnibus-v2",
-        "note": "Exiles continues \u2014 more multiverse adventures",
+        "note": "Exiles continues — more multiverse adventures",
         "is_optional": true
       },
       {
         "position": 12,
         "edition_slug": "avengers-twilight",
-        "note": "Avengers: Twilight \u2014 elderly Avengers in a dark future. Chip Zdarsky.",
+        "note": "Avengers: Twilight — elderly Avengers in a dark future. Chip Zdarsky.",
         "is_optional": false
       },
       {
         "position": 13,
         "edition_slug": "dark-ages",
-        "note": "Dark Ages \u2014 all technology dies, Marvel Universe goes medieval",
+        "note": "Dark Ages — all technology dies, Marvel Universe goes medieval",
         "is_optional": true
       },
       {
         "position": 14,
         "edition_slug": "incredible-hulk-jones-future-imperfect",
-        "note": "Future Imperfect \u2014 the Maestro, an evil future Hulk, rules the wasteland",
+        "note": "Future Imperfect — the Maestro, an evil future Hulk, rules the wasteland",
         "is_optional": false
       },
       {
         "position": 15,
         "edition_slug": "namor-conquered-shores",
-        "note": "Namor: Conquered Shores \u2014 Namor as the last king in a drowned world",
+        "note": "Namor: Conquered Shores — Namor as the last king in a drowned world",
         "is_optional": true
       }
     ]
@@ -7230,31 +7230,31 @@
     "category": "thematic",
     "path_type": "curated",
     "difficulty": "beginner",
-    "description": "Jeph Loeb and Tim Sale's legendary color series \u2014 four prestige limited series that retell Marvel origins with painterly art and emotional depth. Each named after a color, each a standalone masterpiece. The best entry point for any of these characters.",
+    "description": "Jeph Loeb and Tim Sale's legendary color series — four prestige limited series that retell Marvel origins with painterly art and emotional depth. Each named after a color, each a standalone masterpiece. The best entry point for any of these characters.",
     "estimated_issues": 24,
     "entries": [
       {
         "position": 1,
         "edition_slug": "daredevil-yellow",
-        "note": "Daredevil: Yellow \u2014 Matt Murdock writes a letter to the dead Karen Page. His origin retold as a love story.",
+        "note": "Daredevil: Yellow — Matt Murdock writes a letter to the dead Karen Page. His origin retold as a love story.",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "spider-man-blue",
-        "note": "Spider-Man: Blue \u2014 Peter reflects on Gwen Stacy. The greatest Spider-Man love story.",
+        "note": "Spider-Man: Blue — Peter reflects on Gwen Stacy. The greatest Spider-Man love story.",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "hulk-gray",
-        "note": "Hulk: Gray \u2014 the first days of the Hulk. Banner and Betty through the tragedy of the gamma bomb.",
+        "note": "Hulk: Gray — the first days of the Hulk. Banner and Betty through the tragedy of the gamma bomb.",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "captain-america-white",
-        "note": "Captain America: White \u2014 Cap and Bucky in WWII. The final color book, published years after the others.",
+        "note": "Captain America: White — Cap and Bucky in WWII. The final color book, published years after the others.",
         "is_optional": false
       }
     ]
@@ -7271,85 +7271,85 @@
       {
         "position": 1,
         "edition_slug": "marvel-masterworks-ff-v4",
-        "note": "FF Masterworks Vol. 4 \u2014 Galactus Trilogy in premium format",
+        "note": "FF Masterworks Vol. 4 — Galactus Trilogy in premium format",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "marvel-masterworks-spider-man-v4",
-        "note": "ASM Masterworks Vol. 4 \u2014 classic Romita era",
+        "note": "ASM Masterworks Vol. 4 — classic Romita era",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "marvel-masterworks-avengers-v3",
-        "note": "Avengers Masterworks Vol. 3 \u2014 Kang, Ultron setup",
+        "note": "Avengers Masterworks Vol. 3 — Kang, Ultron setup",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "marvel-masterworks-avengers-v4",
-        "note": "Avengers Masterworks Vol. 4 \u2014 Vision debuts",
+        "note": "Avengers Masterworks Vol. 4 — Vision debuts",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "marvel-masterworks-thor-v1",
-        "note": "Thor Masterworks Vol. 1 \u2014 the God of Thunder in Journey into Mystery",
+        "note": "Thor Masterworks Vol. 1 — the God of Thunder in Journey into Mystery",
         "is_optional": false
       },
       {
         "position": 6,
         "edition_slug": "marvel-masterworks-thor-v2",
-        "note": "Thor Masterworks Vol. 2 \u2014 Tales of Asgard, Loki",
+        "note": "Thor Masterworks Vol. 2 — Tales of Asgard, Loki",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "marvel-masterworks-iron-man-v1",
-        "note": "Iron Man Masterworks Vol. 1 \u2014 Tales of Suspense era",
+        "note": "Iron Man Masterworks Vol. 1 — Tales of Suspense era",
         "is_optional": false
       },
       {
         "position": 8,
         "edition_slug": "marvel-masterworks-hulk-v1",
-        "note": "Hulk Masterworks Vol. 1 \u2014 the original six issues + Tales to Astonish",
+        "note": "Hulk Masterworks Vol. 1 — the original six issues + Tales to Astonish",
         "is_optional": false
       },
       {
         "position": 9,
         "edition_slug": "marvel-masterworks-daredevil-v1",
-        "note": "Daredevil Masterworks Vol. 1 \u2014 the Man Without Fear begins",
+        "note": "Daredevil Masterworks Vol. 1 — the Man Without Fear begins",
         "is_optional": false
       },
       {
         "position": 10,
         "edition_slug": "marvel-masterworks-doctor-strange-v1",
-        "note": "Doctor Strange Masterworks \u2014 Lee/Ditko's psychedelic sorcery",
+        "note": "Doctor Strange Masterworks — Lee/Ditko's psychedelic sorcery",
         "is_optional": false
       },
       {
         "position": 11,
         "edition_slug": "marvel-masterworks-x-men-v1",
-        "note": "X-Men Masterworks Vol. 1 \u2014 the original five mutants",
+        "note": "X-Men Masterworks Vol. 1 — the original five mutants",
         "is_optional": false
       },
       {
         "position": 12,
         "edition_slug": "marvel-masterworks-captain-america-v1",
-        "note": "Captain America Masterworks \u2014 the Sentinel of Liberty in the Silver Age",
+        "note": "Captain America Masterworks — the Sentinel of Liberty in the Silver Age",
         "is_optional": false
       },
       {
         "position": 13,
         "edition_slug": "marvel-masterworks-sub-mariner-v1",
-        "note": "Sub-Mariner Masterworks \u2014 Namor's Silver Age solo adventures",
+        "note": "Sub-Mariner Masterworks — Namor's Silver Age solo adventures",
         "is_optional": true
       },
       {
         "position": 14,
         "edition_slug": "marvel-masterworks-silver-surfer-v1",
-        "note": "Silver Surfer Masterworks \u2014 the Sentinel of the Spaceways yearns for freedom",
+        "note": "Silver Surfer Masterworks — the Sentinel of the Spaceways yearns for freedom",
         "is_optional": true
       }
     ]
@@ -7360,31 +7360,31 @@
     "category": "thematic",
     "path_type": "curated",
     "difficulty": "beginner",
-    "description": "The best Marvel comics from the last seven years. These are the runs that define the current era \u2014 from Krakoa to Immortal Hulk to the new Ultimate Universe. Every book here can be read with minimal prior knowledge.",
+    "description": "The best Marvel comics from the last seven years. These are the runs that define the current era — from Krakoa to Immortal Hulk to the new Ultimate Universe. Every book here can be read with minimal prior knowledge.",
     "estimated_issues": 350,
     "entries": [
       {
         "position": 1,
         "edition_slug": "house-of-x-powers-of-x",
-        "note": "The X-Men reinvented \u2014 Krakoa begins (2019)",
+        "note": "The X-Men reinvented — Krakoa begins (2019)",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "immortal-hulk-omnibus",
-        "note": "Horror Hulk masterpiece \u2014 the best run of the 2010s (2018-2021)",
+        "note": "Horror Hulk masterpiece — the best run of the 2010s (2018-2021)",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "venom-cates-omnibus",
-        "note": "Knull, the King in Black \u2014 Cates redefines Venom (2018-2021)",
+        "note": "Knull, the King in Black — Cates redefines Venom (2018-2021)",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "dd-zdarsky-omnibus-v1",
-        "note": "Chip Zdarsky's Daredevil \u2014 the best DD since Miller (2019-2023)",
+        "note": "Chip Zdarsky's Daredevil — the best DD since Miller (2019-2023)",
         "is_optional": false
       },
       {
@@ -7396,13 +7396,13 @@
       {
         "position": 6,
         "edition_slug": "immortal-thor-ewing",
-        "note": "Al Ewing's Immortal Thor \u2014 cosmic mythology (2023)",
+        "note": "Al Ewing's Immortal Thor — cosmic mythology (2023)",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "moon-knight-mackay-omnibus",
-        "note": "Jed MacKay's Moon Knight \u2014 the definitive modern MK run (2021-2023)",
+        "note": "Jed MacKay's Moon Knight — the definitive modern MK run (2021-2023)",
         "is_optional": false
       },
       {
@@ -7414,43 +7414,43 @@
       {
         "position": 9,
         "edition_slug": "x-men-red-ewing",
-        "note": "Al Ewing's X-Men Red \u2014 Storm rules Arakko/Mars (2022)",
+        "note": "Al Ewing's X-Men Red — Storm rules Arakko/Mars (2022)",
         "is_optional": false
       },
       {
         "position": 10,
         "edition_slug": "ultimate-spider-man-hickman-v1",
-        "note": "Hickman's new Ultimate Spider-Man \u2014 Peter Parker at 40 (2024)",
+        "note": "Hickman's new Ultimate Spider-Man — Peter Parker at 40 (2024)",
         "is_optional": false
       },
       {
         "position": 11,
         "edition_slug": "ultimate-spider-man-hickman-v2",
-        "note": "Ultimate Spider-Man continues \u2014 the new Ultimate Universe expands",
+        "note": "Ultimate Spider-Man continues — the new Ultimate Universe expands",
         "is_optional": false
       },
       {
         "position": 12,
         "edition_slug": "storm-solo-2024",
-        "note": "Storm solo \u2014 Ororo as the most powerful mutant (2024)",
+        "note": "Storm solo — Ororo as the most powerful mutant (2024)",
         "is_optional": false
       },
       {
         "position": 13,
         "edition_slug": "blood-hunt",
-        "note": "Blood Hunt \u2014 Marvel's 2024 vampire event",
+        "note": "Blood Hunt — Marvel's 2024 vampire event",
         "is_optional": false
       },
       {
         "position": 14,
         "edition_slug": "one-world-under-doom",
-        "note": "One World Under Doom \u2014 Doctor Doom conquers the world (2025)",
+        "note": "One World Under Doom — Doctor Doom conquers the world (2025)",
         "is_optional": false
       },
       {
         "position": 15,
         "edition_slug": "armageddon-2026",
-        "note": "Armageddon \u2014 the next major event (2026)",
+        "note": "Armageddon — the next major event (2026)",
         "is_optional": false
       }
     ]
@@ -7461,127 +7461,127 @@
     "category": "thematic",
     "path_type": "thematic",
     "difficulty": "intermediate",
-    "description": "No cosmic threats, no world-ending events \u2014 just heroes protecting their neighborhoods. Daredevil, Luke Cage, Iron Fist, Moon Knight, Punisher, and Jessica Jones fighting crime at street level. The grittiest, most grounded corner of Marvel.",
+    "description": "No cosmic threats, no world-ending events — just heroes protecting their neighborhoods. Daredevil, Luke Cage, Iron Fist, Moon Knight, Punisher, and Jessica Jones fighting crime at street level. The grittiest, most grounded corner of Marvel.",
     "estimated_issues": 500,
     "entries": [
       {
         "position": 1,
         "edition_slug": "dd-miller-omnibus",
-        "note": "Frank Miller's Daredevil \u2014 the book that invented street-level Marvel",
+        "note": "Frank Miller's Daredevil — the book that invented street-level Marvel",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "luke-cage-hero-for-hire-omnibus",
-        "note": "Luke Cage: Hero for Hire \u2014 Harlem's Power Man in the Bronze Age",
+        "note": "Luke Cage: Hero for Hire — Harlem's Power Man in the Bronze Age",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "iron-fist-omnibus",
-        "note": "Iron Fist \u2014 martial arts meets Marvel in the 1970s",
+        "note": "Iron Fist — martial arts meets Marvel in the 1970s",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "power-man-iron-fist-omnibus-v1",
-        "note": "Power Man and Iron Fist team up \u2014 the greatest buddy comic in Marvel",
+        "note": "Power Man and Iron Fist team up — the greatest buddy comic in Marvel",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "moon-knight-moench-omnibus-v1",
-        "note": "Doug Moench's Moon Knight \u2014 the original multi-identity hero",
+        "note": "Doug Moench's Moon Knight — the original multi-identity hero",
         "is_optional": false
       },
       {
         "position": 6,
         "edition_slug": "punisher-epic-circle-of-blood",
-        "note": "Circle of Blood \u2014 the Punisher proves he can carry a solo book",
+        "note": "Circle of Blood — the Punisher proves he can carry a solo book",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "punisher-welcome-back-frank",
-        "note": "Garth Ennis's Welcome Back, Frank \u2014 Punisher reborn in Marvel Knights",
+        "note": "Garth Ennis's Welcome Back, Frank — Punisher reborn in Marvel Knights",
         "is_optional": false
       },
       {
         "position": 8,
         "edition_slug": "punisher-max-omnibus-v1",
-        "note": "Punisher MAX \u2014 Ennis writes the most brutal, realistic Punisher. No superheroes.",
+        "note": "Punisher MAX — Ennis writes the most brutal, realistic Punisher. No superheroes.",
         "is_optional": false
       },
       {
         "position": 9,
         "edition_slug": "dd-bendis-maleev-v1",
-        "note": "Bendis/Maleev Daredevil \u2014 Matt Murdock outed as Daredevil",
+        "note": "Bendis/Maleev Daredevil — Matt Murdock outed as Daredevil",
         "is_optional": false
       },
       {
         "position": 10,
         "edition_slug": "dd-bendis-maleev-v2",
-        "note": "Bendis concludes \u2014 Murdock goes to prison",
+        "note": "Bendis concludes — Murdock goes to prison",
         "is_optional": false
       },
       {
         "position": 11,
         "edition_slug": "alias-omnibus",
-        "note": "Jessica Jones \u2014 Bendis creates the ultimate street-level PI",
+        "note": "Jessica Jones — Bendis creates the ultimate street-level PI",
         "is_optional": false
       },
       {
         "position": 12,
         "edition_slug": "dd-brubaker-omnibus",
-        "note": "Brubaker's Daredevil \u2014 prison noir continuation",
+        "note": "Brubaker's Daredevil — prison noir continuation",
         "is_optional": false
       },
       {
         "position": 13,
         "edition_slug": "immortal-iron-fist-omnibus",
-        "note": "Fraction and Brubaker reinvent Iron Fist \u2014 the Tournament of the Seven Cities",
+        "note": "Fraction and Brubaker reinvent Iron Fist — the Tournament of the Seven Cities",
         "is_optional": false
       },
       {
         "position": 14,
         "edition_slug": "moon-knight-ellis",
-        "note": "Warren Ellis reinvents Moon Knight \u2014 six done-in-one masterpieces",
+        "note": "Warren Ellis reinvents Moon Knight — six done-in-one masterpieces",
         "is_optional": false
       },
       {
         "position": 15,
         "edition_slug": "moon-knight-lemire",
-        "note": "Jeff Lemire's Moon Knight \u2014 identity and asylum",
+        "note": "Jeff Lemire's Moon Knight — identity and asylum",
         "is_optional": false
       },
       {
         "position": 16,
         "edition_slug": "dd-waid-omnibus",
-        "note": "Mark Waid's Daredevil \u2014 Matt Murdock chooses joy over darkness",
+        "note": "Mark Waid's Daredevil — Matt Murdock chooses joy over darkness",
         "is_optional": false
       },
       {
         "position": 17,
         "edition_slug": "power-man-iron-fist-2016",
-        "note": "Modern Power Man and Iron Fist \u2014 David Walker brings the duo back",
+        "note": "Modern Power Man and Iron Fist — David Walker brings the duo back",
         "is_optional": true
       },
       {
         "position": 18,
         "edition_slug": "dd-zdarsky-omnibus-v1",
-        "note": "Zdarsky's Daredevil \u2014 the best modern street-level book",
+        "note": "Zdarsky's Daredevil — the best modern street-level book",
         "is_optional": false
       },
       {
         "position": 19,
         "edition_slug": "moon-knight-mackay-omnibus",
-        "note": "MacKay's Moon Knight \u2014 Marc Spector's war on the Midnight Mission",
+        "note": "MacKay's Moon Knight — Marc Spector's war on the Midnight Mission",
         "is_optional": false
       },
       {
         "position": 20,
         "edition_slug": "luke-cage-city-of-fire",
-        "note": "Modern Luke Cage \u2014 Harlem's hero in the current era",
+        "note": "Modern Luke Cage — Harlem's hero in the current era",
         "is_optional": true
       }
     ]
@@ -7592,115 +7592,115 @@
     "category": "thematic",
     "path_type": "thematic",
     "difficulty": "beginner",
-    "description": "The essential runs starring Marvel's women \u2014 from Storm and She-Hulk to Kamala Khan and Captain Marvel. These are the books where women lead, written and drawn by diverse creative teams. Focus on quality and accessibility.",
+    "description": "The essential runs starring Marvel's women — from Storm and She-Hulk to Kamala Khan and Captain Marvel. These are the books where women lead, written and drawn by diverse creative teams. Focus on quality and accessibility.",
     "estimated_issues": 300,
     "entries": [
       {
         "position": 1,
         "edition_slug": "spider-woman-omnibus",
-        "note": "Jessica Drew \u2014 the original Spider-Woman's solo series from the 1970s",
+        "note": "Jessica Drew — the original Spider-Woman's solo series from the 1970s",
         "is_optional": true
       },
       {
         "position": 2,
         "edition_slug": "sensational-she-hulk-byrne-omnibus",
-        "note": "She-Hulk breaks the fourth wall \u2014 Byrne's comedy masterpiece",
+        "note": "She-Hulk breaks the fourth wall — Byrne's comedy masterpiece",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "ms-marvel-original-omnibus",
-        "note": "The original Ms. Marvel \u2014 Carol Danvers' first solo title",
+        "note": "The original Ms. Marvel — Carol Danvers' first solo title",
         "is_optional": true
       },
       {
         "position": 4,
         "edition_slug": "alias-omnibus",
-        "note": "Jessica Jones \u2014 the most complex woman in Marvel, by Bendis",
+        "note": "Jessica Jones — the most complex woman in Marvel, by Bendis",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "captain-marvel-ksd",
-        "note": "Kelly Sue DeConnick makes Carol Danvers Captain Marvel \u2014 the movement that changed Marvel",
+        "note": "Kelly Sue DeConnick makes Carol Danvers Captain Marvel — the movement that changed Marvel",
         "is_optional": false
       },
       {
         "position": 6,
         "edition_slug": "she-hulk-soule",
-        "note": "Charles Soule's She-Hulk \u2014 lawyer, hero, icon",
+        "note": "Charles Soule's She-Hulk — lawyer, hero, icon",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "ms-marvel-wilson",
-        "note": "Kamala Khan \u2014 the most important new Marvel hero since Spider-Man",
+        "note": "Kamala Khan — the most important new Marvel hero since Spider-Man",
         "is_optional": false
       },
       {
         "position": 8,
         "edition_slug": "mighty-thor-aaron-omnibus",
-        "note": "Jane Foster as Thor \u2014 cancer patient, goddess, hero",
+        "note": "Jane Foster as Thor — cancer patient, goddess, hero",
         "is_optional": false
       },
       {
         "position": 9,
         "edition_slug": "black-widow-waid-samnee",
-        "note": "Waid/Samnee's Black Widow \u2014 spy action perfection",
+        "note": "Waid/Samnee's Black Widow — spy action perfection",
         "is_optional": false
       },
       {
         "position": 10,
         "edition_slug": "all-new-wolverine-omnibus",
-        "note": "Laura Kinney IS Wolverine \u2014 Tom Taylor's best Marvel work",
+        "note": "Laura Kinney IS Wolverine — Tom Taylor's best Marvel work",
         "is_optional": false
       },
       {
         "position": 11,
         "edition_slug": "gwenpool-omnibus",
-        "note": "Gwenpool \u2014 a comic fan inside the Marvel Universe. Wildly inventive.",
+        "note": "Gwenpool — a comic fan inside the Marvel Universe. Wildly inventive.",
         "is_optional": true
       },
       {
         "position": 12,
         "edition_slug": "scarlet-witch-robinson",
-        "note": "James Robinson's Scarlet Witch \u2014 Wanda explores her magical heritage",
+        "note": "James Robinson's Scarlet Witch — Wanda explores her magical heritage",
         "is_optional": false
       },
       {
         "position": 13,
         "edition_slug": "spider-gwen-ghost-spider",
-        "note": "Spider-Gwen \u2014 the alternate Gwen Stacy who got the spider bite",
+        "note": "Spider-Gwen — the alternate Gwen Stacy who got the spider bite",
         "is_optional": false
       },
       {
         "position": 14,
         "edition_slug": "captain-marvel-thompson",
-        "note": "Kelly Thompson's Captain Marvel \u2014 Carol at her most powerful",
+        "note": "Kelly Thompson's Captain Marvel — Carol at her most powerful",
         "is_optional": false
       },
       {
         "position": 15,
         "edition_slug": "black-widow-kelly-thompson",
-        "note": "Thompson's Black Widow \u2014 Natasha's clone saga and identity",
+        "note": "Thompson's Black Widow — Natasha's clone saga and identity",
         "is_optional": false
       },
       {
         "position": 16,
         "edition_slug": "scarlet-witch-orlando",
-        "note": "Steve Orlando's Scarlet Witch \u2014 Wanda opens a magic door for the lost",
+        "note": "Steve Orlando's Scarlet Witch — Wanda opens a magic door for the lost",
         "is_optional": false
       },
       {
         "position": 17,
         "edition_slug": "storm-solo-2024",
-        "note": "Storm solo \u2014 Ororo Munroe at full power (2024)",
+        "note": "Storm solo — Ororo Munroe at full power (2024)",
         "is_optional": false
       },
       {
         "position": 18,
         "edition_slug": "phoenix-2024",
-        "note": "Jean Grey as the Phoenix \u2014 cosmic power unbound (2024)",
+        "note": "Jean Grey as the Phoenix — cosmic power unbound (2024)",
         "is_optional": true
       }
     ]
@@ -7711,7 +7711,7 @@
     "category": "thematic",
     "path_type": "thematic",
     "difficulty": "advanced",
-    "description": "Marvel's horror roots run deeper than most readers know. From the 1970s monster comics to modern cosmic horror, this is every essential horror title in Marvel history \u2014 vampires, werewolves, man-things, and things that go bump in the Marvel Universe.",
+    "description": "Marvel's horror roots run deeper than most readers know. From the 1970s monster comics to modern cosmic horror, this is every essential horror title in Marvel history — vampires, werewolves, man-things, and things that go bump in the Marvel Universe.",
     "estimated_issues": 400,
     "entries": [
       {
@@ -7723,19 +7723,19 @@
       {
         "position": 2,
         "edition_slug": "marvel-horror-omnibus-v1",
-        "note": "Marvel Horror anthology \u2014 short horror stories from the 1970s",
+        "note": "Marvel Horror anthology — short horror stories from the 1970s",
         "is_optional": true
       },
       {
         "position": 3,
         "edition_slug": "werewolf-by-night-epic-full-moon-rise",
-        "note": "Werewolf by Night Epic \u2014 alternate format for the classic run",
+        "note": "Werewolf by Night Epic — alternate format for the classic run",
         "is_optional": true
       },
       {
         "position": 4,
         "edition_slug": "tomb-of-dracula-omnibus-v1",
-        "note": "Tomb of Dracula Vol. 1 \u2014 the greatest horror comic Marvel ever published",
+        "note": "Tomb of Dracula Vol. 1 — the greatest horror comic Marvel ever published",
         "is_optional": false
       },
       {
@@ -7759,7 +7759,7 @@
       {
         "position": 8,
         "edition_slug": "ghost-rider-omnibus",
-        "note": "Johnny Blaze \u2014 the original flaming skull biker",
+        "note": "Johnny Blaze — the original flaming skull biker",
         "is_optional": false
       },
       {
@@ -7771,13 +7771,13 @@
       {
         "position": 10,
         "edition_slug": "brother-voodoo-complete",
-        "note": "Brother Voodoo \u2014 Haitian sorcerer in the Marvel Universe",
+        "note": "Brother Voodoo — Haitian sorcerer in the Marvel Universe",
         "is_optional": true
       },
       {
         "position": 11,
         "edition_slug": "cloak-and-dagger-omnibus",
-        "note": "Cloak and Dagger \u2014 teenage runaways with dark powers",
+        "note": "Cloak and Dagger — teenage runaways with dark powers",
         "is_optional": true
       },
       {
@@ -7789,19 +7789,19 @@
       {
         "position": 13,
         "edition_slug": "ghost-rider-danny-ketch-omnibus",
-        "note": "Danny Ketch Ghost Rider \u2014 the 90s era of hellfire",
+        "note": "Danny Ketch Ghost Rider — the 90s era of hellfire",
         "is_optional": true
       },
       {
         "position": 14,
         "edition_slug": "ghost-rider-aaron-omnibus",
-        "note": "Jason Aaron's Ghost Rider \u2014 heaven and hell literally at war",
+        "note": "Jason Aaron's Ghost Rider — heaven and hell literally at war",
         "is_optional": false
       },
       {
         "position": 15,
         "edition_slug": "immortal-hulk-omnibus",
-        "note": "Immortal Hulk \u2014 body horror + gamma mythology. The best modern horror comic.",
+        "note": "Immortal Hulk — body horror + gamma mythology. The best modern horror comic.",
         "is_optional": false
       },
       {
@@ -7813,13 +7813,13 @@
       {
         "position": 17,
         "edition_slug": "blade-ayala-2023",
-        "note": "Blade in the modern era \u2014 leading into Blood Hunt",
+        "note": "Blade in the modern era — leading into Blood Hunt",
         "is_optional": false
       },
       {
         "position": 18,
         "edition_slug": "blood-hunt",
-        "note": "Blood Hunt \u2014 vampires conquer Earth",
+        "note": "Blood Hunt — vampires conquer Earth",
         "is_optional": false
       }
     ]
@@ -7830,19 +7830,19 @@
     "category": "team",
     "path_type": "team",
     "difficulty": "intermediate",
-    "description": "Marvel's teen heroes of the 1990s \u2014 Night Thrasher, Nova, Namorita, Firestar, Justice, Speedball. The New Warriors were the anti-X-Men: diverse heroes without the mutant metaphor. Their Stamford incident directly triggered Civil War.",
+    "description": "Marvel's teen heroes of the 1990s — Night Thrasher, Nova, Namorita, Firestar, Justice, Speedball. The New Warriors were the anti-X-Men: diverse heroes without the mutant metaphor. Their Stamford incident directly triggered Civil War.",
     "estimated_issues": 130,
     "entries": [
       {
         "position": 1,
         "edition_slug": "new-warriors-classic-omnibus-v1",
-        "note": "Fabian Nicieza launches the New Warriors \u2014 Night Thrasher recruits teen heroes",
+        "note": "Fabian Nicieza launches the New Warriors — Night Thrasher recruits teen heroes",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "new-warriors-nicieza-v2",
-        "note": "Nicieza continues \u2014 the team matures through the 90s",
+        "note": "Nicieza continues — the team matures through the 90s",
         "is_optional": false
       },
       {
@@ -7854,7 +7854,7 @@
       {
         "position": 4,
         "edition_slug": "civil-war",
-        "note": "Stamford \u2014 the New Warriors' disaster triggers the Superhuman Registration Act",
+        "note": "Stamford — the New Warriors' disaster triggers the Superhuman Registration Act",
         "is_optional": false
       },
       {
@@ -7877,13 +7877,13 @@
     "category": "thematic",
     "path_type": "thematic",
     "difficulty": "intermediate",
-    "description": "The women of the spider-family \u2014 Jessica Drew, Spider-Gwen, Silk, and more. From Jessica Drew's 1970s spy-fi origins through the Spider-Verse multiverse to modern solo runs. The spider-web extends far beyond Peter and Miles.",
+    "description": "The women of the spider-family — Jessica Drew, Spider-Gwen, Silk, and more. From Jessica Drew's 1970s spy-fi origins through the Spider-Verse multiverse to modern solo runs. The spider-web extends far beyond Peter and Miles.",
     "estimated_issues": 150,
     "entries": [
       {
         "position": 1,
         "edition_slug": "spider-woman-omnibus",
-        "note": "Jessica Drew's original 1970s series \u2014 spy meets superhero",
+        "note": "Jessica Drew's original 1970s series — spy meets superhero",
         "is_optional": false
       },
       {
@@ -7895,19 +7895,19 @@
       {
         "position": 3,
         "edition_slug": "spider-verse",
-        "note": "Spider-Verse \u2014 every Spider-Person across the multiverse",
+        "note": "Spider-Verse — every Spider-Person across the multiverse",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "spider-gwen-ghost-spider",
-        "note": "Spider-Gwen \u2014 the Gwen Stacy who got the spider bite in another universe",
+        "note": "Spider-Gwen — the Gwen Stacy who got the spider bite in another universe",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "silk-thompson",
-        "note": "Silk \u2014 Cindy Moon, bitten by the same spider as Peter Parker",
+        "note": "Silk — Cindy Moon, bitten by the same spider as Peter Parker",
         "is_optional": false
       },
       {
@@ -7919,19 +7919,19 @@
       {
         "position": 7,
         "edition_slug": "spider-woman-karla-pacheco",
-        "note": "Karla Pacheco's modern Spider-Woman \u2014 Jessica Drew pregnant and fighting",
+        "note": "Karla Pacheco's modern Spider-Woman — Jessica Drew pregnant and fighting",
         "is_optional": false
       },
       {
         "position": 8,
         "edition_slug": "spider-verse-spider-geddon-omnibus",
-        "note": "Spider-Geddon \u2014 the multiverse spider war continues",
+        "note": "Spider-Geddon — the multiverse spider war continues",
         "is_optional": true
       },
       {
         "position": 9,
         "edition_slug": "web-warriors",
-        "note": "Web Warriors \u2014 multiverse spider-team ongoing",
+        "note": "Web Warriors — multiverse spider-team ongoing",
         "is_optional": true
       }
     ]
@@ -7942,61 +7942,61 @@
     "category": "team",
     "path_type": "team",
     "difficulty": "advanced",
-    "description": "The Defenders are Marvel's 'non-team' \u2014 heroes who don't want to be on a team, forced together anyway. From the original Hulk/Namor/Strange/Silver Surfer lineup through every weird iteration. The anti-Avengers.",
+    "description": "The Defenders are Marvel's 'non-team' — heroes who don't want to be on a team, forced together anyway. From the original Hulk/Namor/Strange/Silver Surfer lineup through every weird iteration. The anti-Avengers.",
     "estimated_issues": 300,
     "entries": [
       {
         "position": 1,
         "edition_slug": "defenders-epic-day-of-defenders",
-        "note": "Day of the Defenders \u2014 Hulk, Namor, Doctor Strange reluctantly unite",
+        "note": "Day of the Defenders — Hulk, Namor, Doctor Strange reluctantly unite",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "defenders-omnibus-v1",
-        "note": "Defenders Omnibus Vol. 1 \u2014 the non-team assembles properly",
+        "note": "Defenders Omnibus Vol. 1 — the non-team assembles properly",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "defenders-omnibus-v2",
-        "note": "Defenders Vol. 2 \u2014 Nighthawk, Valkyrie, Hellcat join",
+        "note": "Defenders Vol. 2 — Nighthawk, Valkyrie, Hellcat join",
         "is_optional": true
       },
       {
         "position": 4,
         "edition_slug": "defenders-omnibus-v3",
-        "note": "Defenders Vol. 3 \u2014 the team evolves through the Bronze Age",
+        "note": "Defenders Vol. 3 — the team evolves through the Bronze Age",
         "is_optional": true
       },
       {
         "position": 5,
         "edition_slug": "avengers-defenders-war",
-        "note": "Avengers/Defenders War \u2014 the classic crossover",
+        "note": "Avengers/Defenders War — the classic crossover",
         "is_optional": false
       },
       {
         "position": 6,
         "edition_slug": "defenders-fraction",
-        "note": "Matt Fraction's Defenders \u2014 quirky modern relaunch with Strange, She-Hulk, Namor, Silver Surfer",
+        "note": "Matt Fraction's Defenders — quirky modern relaunch with Strange, She-Hulk, Namor, Silver Surfer",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "fearless-defenders-bunn",
-        "note": "Fearless Defenders \u2014 all-women Defenders lineup with Valkyrie and Misty Knight",
+        "note": "Fearless Defenders — all-women Defenders lineup with Valkyrie and Misty Knight",
         "is_optional": true
       },
       {
         "position": 8,
         "edition_slug": "defenders-ewing-2021",
-        "note": "Al Ewing's Defenders \u2014 cosmic quest through Marvel's history",
+        "note": "Al Ewing's Defenders — cosmic quest through Marvel's history",
         "is_optional": false
       },
       {
         "position": 9,
         "edition_slug": "defenders-beyond-ewing",
-        "note": "Defenders: Beyond \u2014 Ewing takes the team beyond the multiverse itself",
+        "note": "Defenders: Beyond — Ewing takes the team beyond the multiverse itself",
         "is_optional": false
       }
     ]
@@ -8007,25 +8007,25 @@
     "category": "character",
     "path_type": "character",
     "difficulty": "intermediate",
-    "description": "Luke Cage and Danny Rand \u2014 individually powerful, together unstoppable. From blaxploitation and kung fu origins to modern street-level kings. The greatest buddy duo in Marvel Comics, and the backbone of street-level Marvel.",
+    "description": "Luke Cage and Danny Rand — individually powerful, together unstoppable. From blaxploitation and kung fu origins to modern street-level kings. The greatest buddy duo in Marvel Comics, and the backbone of street-level Marvel.",
     "estimated_issues": 250,
     "entries": [
       {
         "position": 1,
         "edition_slug": "luke-cage-hero-for-hire-omnibus",
-        "note": "Luke Cage: Hero for Hire \u2014 Harlem's unbreakable hero debuts",
+        "note": "Luke Cage: Hero for Hire — Harlem's unbreakable hero debuts",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "iron-fist-omnibus",
-        "note": "Iron Fist origin \u2014 Danny Rand earns the power of the Iron Fist in K'un-Lun",
+        "note": "Iron Fist origin — Danny Rand earns the power of the Iron Fist in K'un-Lun",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "power-man-iron-fist-omnibus-v1",
-        "note": "Power Man and Iron Fist team up \u2014 the Heroes for Hire partnership begins",
+        "note": "Power Man and Iron Fist team up — the Heroes for Hire partnership begins",
         "is_optional": false
       },
       {
@@ -8037,55 +8037,55 @@
       {
         "position": 5,
         "edition_slug": "heroes-for-hire-omnibus-70s",
-        "note": "Heroes for Hire 70s complete \u2014 Luke and Danny's full Bronze Age run",
+        "note": "Heroes for Hire 70s complete — Luke and Danny's full Bronze Age run",
         "is_optional": true
       },
       {
         "position": 6,
         "edition_slug": "alias-omnibus",
-        "note": "Jessica Jones \u2014 Luke Cage's future wife and partner",
+        "note": "Jessica Jones — Luke Cage's future wife and partner",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "cage-genndy",
-        "note": "Cage by Genndy Tartakovsky \u2014 stylized modern take",
+        "note": "Cage by Genndy Tartakovsky — stylized modern take",
         "is_optional": true
       },
       {
         "position": 8,
         "edition_slug": "new-avengers-omnibus-v1",
-        "note": "Luke Cage joins the New Avengers \u2014 from street hero to Avenger",
+        "note": "Luke Cage joins the New Avengers — from street hero to Avenger",
         "is_optional": false
       },
       {
         "position": 9,
         "edition_slug": "immortal-iron-fist-omnibus",
-        "note": "Fraction and Brubaker reinvent Iron Fist \u2014 the legacy of all Iron Fists",
+        "note": "Fraction and Brubaker reinvent Iron Fist — the legacy of all Iron Fists",
         "is_optional": false
       },
       {
         "position": 10,
         "edition_slug": "mighty-avengers-ewing",
-        "note": "Al Ewing's Mighty Avengers \u2014 Luke Cage leads a diverse Avengers team",
+        "note": "Al Ewing's Mighty Avengers — Luke Cage leads a diverse Avengers team",
         "is_optional": false
       },
       {
         "position": 11,
         "edition_slug": "power-man-iron-fist-2016",
-        "note": "Modern Heroes for Hire \u2014 David Walker reunites the duo",
+        "note": "Modern Heroes for Hire — David Walker reunites the duo",
         "is_optional": false
       },
       {
         "position": 12,
         "edition_slug": "iron-fist-heart-of-dragon",
-        "note": "Heart of the Dragon \u2014 Iron Fist modern series",
+        "note": "Heart of the Dragon — Iron Fist modern series",
         "is_optional": true
       },
       {
         "position": 13,
         "edition_slug": "luke-cage-city-of-fire",
-        "note": "Luke Cage: City of Fire \u2014 modern solo Cage",
+        "note": "Luke Cage: City of Fire — modern solo Cage",
         "is_optional": true
       }
     ]
@@ -8096,49 +8096,49 @@
     "category": "character",
     "path_type": "character",
     "difficulty": "intermediate",
-    "description": "Two Novas, one legacy. Richard Rider \u2014 the original Human Rocket who became cosmic Marvel's greatest hero in Annihilation. Sam Alexander \u2014 the teenage successor. Together they carry the Nova Corps from 1976 to today.",
+    "description": "Two Novas, one legacy. Richard Rider — the original Human Rocket who became cosmic Marvel's greatest hero in Annihilation. Sam Alexander — the teenage successor. Together they carry the Nova Corps from 1976 to today.",
     "estimated_issues": 170,
     "entries": [
       {
         "position": 1,
         "edition_slug": "nova-classic-complete",
-        "note": "Richard Rider debuts as Nova \u2014 Marv Wolfman's teen hero in the 1970s",
+        "note": "Richard Rider debuts as Nova — Marv Wolfman's teen hero in the 1970s",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "new-warriors-classic-omnibus-v1",
-        "note": "Nova joins the New Warriors \u2014 Rich Rider finds his team",
+        "note": "Nova joins the New Warriors — Rich Rider finds his team",
         "is_optional": true
       },
       {
         "position": 3,
         "edition_slug": "annihilation-omnibus",
-        "note": "Annihilation \u2014 Nova becomes cosmic Marvel's greatest hero. Richard Rider's finest hour.",
+        "note": "Annihilation — Nova becomes cosmic Marvel's greatest hero. Richard Rider's finest hour.",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "nova-annihilation-era",
-        "note": "Nova's solo series during the DnA cosmic era \u2014 the last Nova Centurion",
+        "note": "Nova's solo series during the DnA cosmic era — the last Nova Centurion",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "gotg-dna-omnibus",
-        "note": "Nova alongside the Guardians \u2014 DnA's cosmic saga",
+        "note": "Nova alongside the Guardians — DnA's cosmic saga",
         "is_optional": false
       },
       {
         "position": 6,
         "edition_slug": "thanos-imperative",
-        "note": "The Thanos Imperative \u2014 Rich Rider's apparent sacrifice in the Cancerverse",
+        "note": "The Thanos Imperative — Rich Rider's apparent sacrifice in the Cancerverse",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "nova-sam-alexander-complete-v1",
-        "note": "Sam Alexander becomes the new Nova \u2014 teenage hero with a mysterious helmet",
+        "note": "Sam Alexander becomes the new Nova — teenage hero with a mysterious helmet",
         "is_optional": false
       },
       {
@@ -8150,7 +8150,7 @@
       {
         "position": 9,
         "edition_slug": "nova-loveness-2024",
-        "note": "Modern Nova \u2014 the legacy continues",
+        "note": "Modern Nova — the legacy continues",
         "is_optional": true
       }
     ]
@@ -8161,25 +8161,25 @@
     "category": "character",
     "path_type": "character",
     "difficulty": "advanced",
-    "description": "The Spirit of Vengeance across every host \u2014 Johnny Blaze, Danny Ketch, Robbie Reyes. Ghost Rider is Marvel's most heavy-metal character: flaming skulls, hellfire chains, and the eternal war between heaven and hell.",
+    "description": "The Spirit of Vengeance across every host — Johnny Blaze, Danny Ketch, Robbie Reyes. Ghost Rider is Marvel's most heavy-metal character: flaming skulls, hellfire chains, and the eternal war between heaven and hell.",
     "estimated_issues": 300,
     "entries": [
       {
         "position": 1,
         "edition_slug": "ghost-rider-omnibus",
-        "note": "Johnny Blaze \u2014 the original Ghost Rider. Motorcycle stuntman sells his soul.",
+        "note": "Johnny Blaze — the original Ghost Rider. Motorcycle stuntman sells his soul.",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "ghost-rider-epic-hell-on-wheels",
-        "note": "Ghost Rider Epic \u2014 the definitive classic era collection",
+        "note": "Ghost Rider Epic — the definitive classic era collection",
         "is_optional": true
       },
       {
         "position": 3,
         "edition_slug": "ghost-rider-danny-ketch-omnibus",
-        "note": "Danny Ketch \u2014 the 1990s Ghost Rider. Darker, more supernatural.",
+        "note": "Danny Ketch — the 1990s Ghost Rider. Darker, more supernatural.",
         "is_optional": false
       },
       {
@@ -8191,13 +8191,13 @@
       {
         "position": 5,
         "edition_slug": "ghost-rider-percy-2022",
-        "note": "Percy's modern Ghost Rider \u2014 Johnny Blaze returns",
+        "note": "Percy's modern Ghost Rider — Johnny Blaze returns",
         "is_optional": false
       },
       {
         "position": 6,
         "edition_slug": "cosmic-ghost-rider-cates",
-        "note": "Cosmic Ghost Rider \u2014 Frank Castle as a Ghost Rider from the future with the Power Cosmic. Insane.",
+        "note": "Cosmic Ghost Rider — Frank Castle as a Ghost Rider from the future with the Power Cosmic. Insane.",
         "is_optional": true
       }
     ]
@@ -8208,25 +8208,25 @@
     "category": "team",
     "path_type": "team",
     "difficulty": "intermediate",
-    "description": "Marvel's most underrated team \u2014 1950s Marvel heroes revived by Jeff Parker into a modern secret organization. Jimmy Woo, Gorilla-Man, Marvel Boy, Venus, Namora, and M-11 the robot. Secret history meets superhero fun.",
+    "description": "Marvel's most underrated team — 1950s Marvel heroes revived by Jeff Parker into a modern secret organization. Jimmy Woo, Gorilla-Man, Marvel Boy, Venus, Namora, and M-11 the robot. Secret history meets superhero fun.",
     "estimated_issues": 60,
     "entries": [
       {
         "position": 1,
         "edition_slug": "agents-of-atlas-complete",
-        "note": "Jeff Parker's original Agents of Atlas \u2014 1950s heroes reformed as a modern secret team. Charming and inventive.",
+        "note": "Jeff Parker's original Agents of Atlas — 1950s heroes reformed as a modern secret team. Charming and inventive.",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "marvel-boy-morrison",
-        "note": "Marvel Boy by Grant Morrison \u2014 Noh-Varr's wild origin before joining the Agents",
+        "note": "Marvel Boy by Grant Morrison — Noh-Varr's wild origin before joining the Agents",
         "is_optional": true
       },
       {
         "position": 3,
         "edition_slug": "agents-of-atlas-pak-2019",
-        "note": "Greg Pak's Agents of Atlas \u2014 Jimmy Woo leads Asian heroes in the modern era",
+        "note": "Greg Pak's Agents of Atlas — Jimmy Woo leads Asian heroes in the modern era",
         "is_optional": false
       }
     ]
@@ -8237,31 +8237,31 @@
     "category": "team",
     "path_type": "team",
     "difficulty": "intermediate",
-    "description": "The Avengers' California branch \u2014 founded by Hawkeye, featuring Wonder Man, Tigra, Mockingbird, and War Machine. From the 1980s original through the Thompson revival, the WCA proved the Avengers concept could franchise.",
+    "description": "The Avengers' California branch — founded by Hawkeye, featuring Wonder Man, Tigra, Mockingbird, and War Machine. From the 1980s original through the Thompson revival, the WCA proved the Avengers concept could franchise.",
     "estimated_issues": 200,
     "entries": [
       {
         "position": 1,
         "edition_slug": "west-coast-avengers-omnibus-v1",
-        "note": "Hawkeye founds the West Coast Avengers \u2014 the California branch",
+        "note": "Hawkeye founds the West Coast Avengers — the California branch",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "west-coast-avengers-omnibus-v2",
-        "note": "The team evolves \u2014 Vision dismantled, Scarlet Witch's breakdown begins",
+        "note": "The team evolves — Vision dismantled, Scarlet Witch's breakdown begins",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "avengers-west-coast-omnibus-v3",
-        "note": "WCA Vol. 3 \u2014 the team's later years and evolution into Force Works",
+        "note": "WCA Vol. 3 — the team's later years and evolution into Force Works",
         "is_optional": true
       },
       {
         "position": 4,
         "edition_slug": "west-coast-avengers-thompson",
-        "note": "Kelly Thompson's modern WCA \u2014 Kate Bishop, America Chavez, Gwenpool",
+        "note": "Kelly Thompson's modern WCA — Kate Bishop, America Chavez, Gwenpool",
         "is_optional": false
       }
     ]
@@ -8272,49 +8272,49 @@
     "category": "thematic",
     "path_type": "thematic",
     "difficulty": "beginner",
-    "description": "Marvel's young heroes beyond the X-Men \u2014 the Runaways discover their parents are supervillains, the Young Avengers redefine legacy, and the Champions stand for a better world. Teen heroes for a new generation.",
+    "description": "Marvel's young heroes beyond the X-Men — the Runaways discover their parents are supervillains, the Young Avengers redefine legacy, and the Champions stand for a better world. Teen heroes for a new generation.",
     "estimated_issues": 180,
     "entries": [
       {
         "position": 1,
         "edition_slug": "runaways-bkv",
-        "note": "Brian K. Vaughan's Runaways \u2014 kids discover their parents are the Pride, a supervillain cabal",
+        "note": "Brian K. Vaughan's Runaways — kids discover their parents are the Pride, a supervillain cabal",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "runaways-bkv-v2",
-        "note": "Runaways continues \u2014 one of Marvel's most beloved modern series",
+        "note": "Runaways continues — one of Marvel's most beloved modern series",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "young-avengers-heinberg",
-        "note": "Young Avengers by Heinberg and Cheung \u2014 teen legacy heroes including Wiccan, Hulkling, Kate Bishop",
+        "note": "Young Avengers by Heinberg and Cheung — teen legacy heroes including Wiccan, Hulkling, Kate Bishop",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "young-avengers-children-crusade",
-        "note": "Children's Crusade \u2014 Wiccan and Speed search for the Scarlet Witch",
+        "note": "Children's Crusade — Wiccan and Speed search for the Scarlet Witch",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "young-avengers-gillen",
-        "note": "Kieron Gillen's Young Avengers \u2014 pop art, meta-narrative, LGBTQ+ representation at its finest",
+        "note": "Kieron Gillen's Young Avengers — pop art, meta-narrative, LGBTQ+ representation at its finest",
         "is_optional": false
       },
       {
         "position": 6,
         "edition_slug": "ms-marvel-wilson",
-        "note": "Kamala Khan becomes Ms. Marvel \u2014 the breakout young hero",
+        "note": "Kamala Khan becomes Ms. Marvel — the breakout young hero",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "champions-waid",
-        "note": "Champions \u2014 Ms. Marvel, Miles Morales, and Nova form their own team",
+        "note": "Champions — Ms. Marvel, Miles Morales, and Nova form their own team",
         "is_optional": false
       },
       {
@@ -8326,13 +8326,13 @@
       {
         "position": 9,
         "edition_slug": "moon-girl-devil-dinosaur",
-        "note": "Moon Girl and Devil Dinosaur \u2014 the smartest person in Marvel is a 9-year-old girl",
+        "note": "Moon Girl and Devil Dinosaur — the smartest person in Marvel is a 9-year-old girl",
         "is_optional": true
       },
       {
         "position": 10,
         "edition_slug": "champions-ewing-2020",
-        "note": "Ewing's Champions \u2014 the young heroes face Roxxon and Kamala's Law",
+        "note": "Ewing's Champions — the young heroes face Roxxon and Kamala's Law",
         "is_optional": true
       }
     ]
@@ -8343,73 +8343,73 @@
     "category": "creator",
     "path_type": "creator",
     "difficulty": "intermediate",
-    "description": "Al Ewing is the most quietly ambitious writer at Marvel \u2014 building a connected cosmic mythology across Mighty Avengers, Ultimates, Immortal Hulk, Immortal Thor, Defenders, X-Men Red, and Venom. His work rewards the attentive reader with a grand unified theory of Marvel cosmology.",
+    "description": "Al Ewing is the most quietly ambitious writer at Marvel — building a connected cosmic mythology across Mighty Avengers, Ultimates, Immortal Hulk, Immortal Thor, Defenders, X-Men Red, and Venom. His work rewards the attentive reader with a grand unified theory of Marvel cosmology.",
     "estimated_issues": 350,
     "entries": [
       {
         "position": 1,
         "edition_slug": "mighty-avengers-ewing",
-        "note": "Mighty Avengers \u2014 Luke Cage leads, Monica Rambeau shines. Ewing's Marvel debut statement.",
+        "note": "Mighty Avengers — Luke Cage leads, Monica Rambeau shines. Ewing's Marvel debut statement.",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "new-avengers-ewing-aim",
-        "note": "New Avengers: AIM \u2014 Roberto da Costa buys AIM. Ewing builds his Marvel cosmology.",
+        "note": "New Avengers: AIM — Roberto da Costa buys AIM. Ewing builds his Marvel cosmology.",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "ultimates-ewing-omnibus",
-        "note": "Ultimates \u2014 cosmic problem-solving team. Galactus becomes the Lifebringer. Ewing's cosmic thesis.",
+        "note": "Ultimates — cosmic problem-solving team. Galactus becomes the Lifebringer. Ewing's cosmic thesis.",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "immortal-hulk-omnibus",
-        "note": "Immortal Hulk \u2014 Ewing redefines the Hulk as cosmic horror. Below-Place, the Green Door, the One Below All.",
+        "note": "Immortal Hulk — Ewing redefines the Hulk as cosmic horror. Below-Place, the Green Door, the One Below All.",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "guardians-galaxy-ewing",
-        "note": "Ewing's Guardians of the Galaxy \u2014 post-Empyre cosmic team",
+        "note": "Ewing's Guardians of the Galaxy — post-Empyre cosmic team",
         "is_optional": true
       },
       {
         "position": 6,
         "edition_slug": "sword-ewing",
-        "note": "SWORD \u2014 Ewing runs mutant space operations on the Peak",
+        "note": "SWORD — Ewing runs mutant space operations on the Peak",
         "is_optional": true
       },
       {
         "position": 7,
         "edition_slug": "defenders-ewing-2021",
-        "note": "Defenders \u2014 Ewing explores the origins of Marvel's multiverse",
+        "note": "Defenders — Ewing explores the origins of Marvel's multiverse",
         "is_optional": false
       },
       {
         "position": 8,
         "edition_slug": "defenders-beyond-ewing",
-        "note": "Defenders: Beyond \u2014 beyond the multiverse to the mystery of the One Above All",
+        "note": "Defenders: Beyond — beyond the multiverse to the mystery of the One Above All",
         "is_optional": false
       },
       {
         "position": 9,
         "edition_slug": "x-men-red-ewing",
-        "note": "X-Men Red \u2014 Storm rules Arakko. Ewing's mutant political thriller.",
+        "note": "X-Men Red — Storm rules Arakko. Ewing's mutant political thriller.",
         "is_optional": false
       },
       {
         "position": 10,
         "edition_slug": "x-men-red-ewing-v2",
-        "note": "X-Men Red continues \u2014 the Fall of Arakko",
+        "note": "X-Men Red continues — the Fall of Arakko",
         "is_optional": false
       },
       {
         "position": 11,
         "edition_slug": "immortal-thor-ewing",
-        "note": "Immortal Thor \u2014 Ewing applies his cosmic framework to Asgard",
+        "note": "Immortal Thor — Ewing applies his cosmic framework to Asgard",
         "is_optional": false
       },
       {
@@ -8421,7 +8421,7 @@
       {
         "position": 13,
         "edition_slug": "venom-ewing-ram-v",
-        "note": "Ewing's Venom \u2014 post-King in Black symbiote mythology",
+        "note": "Ewing's Venom — post-King in Black symbiote mythology",
         "is_optional": false
       }
     ]
@@ -8432,67 +8432,67 @@
     "category": "creator",
     "path_type": "creator",
     "difficulty": "intermediate",
-    "description": "Jason Aaron built one of Marvel's longest creator sagas \u2014 from Wolverine through Ghost Rider, Thor (God of Thunder to War of the Realms to Jane Foster), Doctor Strange, and Avengers. His Thor run alone spans nearly a decade.",
+    "description": "Jason Aaron built one of Marvel's longest creator sagas — from Wolverine through Ghost Rider, Thor (God of Thunder to War of the Realms to Jane Foster), Doctor Strange, and Avengers. His Thor run alone spans nearly a decade.",
     "estimated_issues": 400,
     "entries": [
       {
         "position": 1,
         "edition_slug": "wolverine-aaron-omnibus-v1",
-        "note": "Aaron's Wolverine \u2014 brutal, funny, character-defining. Get Mystique.",
+        "note": "Aaron's Wolverine — brutal, funny, character-defining. Get Mystique.",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "ghost-rider-aaron-omnibus",
-        "note": "Aaron's Ghost Rider \u2014 heaven vs. hell in an escalating war",
+        "note": "Aaron's Ghost Rider — heaven vs. hell in an escalating war",
         "is_optional": false
       },
       {
         "position": 3,
         "edition_slug": "thor-aaron-god-of-thunder",
-        "note": "Thor: God of Thunder \u2014 Gorr the God Butcher across three timelines. Thor's modern reinvention.",
+        "note": "Thor: God of Thunder — Gorr the God Butcher across three timelines. Thor's modern reinvention.",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "thor-god-of-thunder-v2",
-        "note": "God of Thunder continues \u2014 Old Galactus, Malekith's rise",
+        "note": "God of Thunder continues — Old Galactus, Malekith's rise",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "mighty-thor-aaron-omnibus",
-        "note": "Jane Foster becomes Thor \u2014 cancer patient wielding Mjolnir. One of Marvel's most powerful stories.",
+        "note": "Jane Foster becomes Thor — cancer patient wielding Mjolnir. One of Marvel's most powerful stories.",
         "is_optional": false
       },
       {
         "position": 6,
         "edition_slug": "mighty-thor-aaron-v2",
-        "note": "Jane Foster Thor concludes \u2014 the War of the Realms setup",
+        "note": "Jane Foster Thor concludes — the War of the Realms setup",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "doctor-strange-aaron-omnibus",
-        "note": "Aaron's Doctor Strange \u2014 magic has a terrible cost",
+        "note": "Aaron's Doctor Strange — magic has a terrible cost",
         "is_optional": false
       },
       {
         "position": 8,
         "edition_slug": "war-of-the-realms",
-        "note": "War of the Realms \u2014 Aaron's Thor saga climax. Malekith's invasion of Earth.",
+        "note": "War of the Realms — Aaron's Thor saga climax. Malekith's invasion of Earth.",
         "is_optional": false
       },
       {
         "position": 9,
         "edition_slug": "avengers-aaron-omnibus-v1",
-        "note": "Aaron's Avengers \u2014 1,000,000 BC Avengers, cosmic threats, the Phoenix",
+        "note": "Aaron's Avengers — 1,000,000 BC Avengers, cosmic threats, the Phoenix",
         "is_optional": false
       },
       {
         "position": 10,
         "edition_slug": "heroes-reborn-2021-aaron",
-        "note": "Heroes Reborn \u2014 Aaron's alternate reality where the Avengers never existed",
+        "note": "Heroes Reborn — Aaron's alternate reality where the Avengers never existed",
         "is_optional": true
       }
     ]
@@ -8509,78 +8509,78 @@
       {
         "position": 1,
         "edition_slug": "nick-fury-steranko-complete",
-        "note": "Jim Steranko's Nick Fury \u2014 psychedelic spy-fi that redefined comic art",
+        "note": "Jim Steranko's Nick Fury — psychedelic spy-fi that redefined comic art",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "nick-fury-agent-of-shield-omnibus",
-        "note": "Nick Fury: Agent of SHIELD \u2014 the complete espionage foundation",
+        "note": "Nick Fury: Agent of SHIELD — the complete espionage foundation",
         "is_optional": true
       },
       {
         "position": 3,
         "edition_slug": "secret-war-bendis",
-        "note": "Bendis's Secret War \u2014 Fury's unauthorized invasion of Latveria",
+        "note": "Bendis's Secret War — Fury's unauthorized invasion of Latveria",
         "is_optional": false
       },
       {
         "position": 4,
         "edition_slug": "secret-warriors-omnibus",
-        "note": "Hickman's Secret Warriors \u2014 Nick Fury discovers SHIELD was always HYDRA. Game-changer.",
+        "note": "Hickman's Secret Warriors — Nick Fury discovers SHIELD was always HYDRA. Game-changer.",
         "is_optional": false
       },
       {
         "position": 5,
         "edition_slug": "secret-warriors-hickman-v2",
-        "note": "Secret Warriors continues \u2014 Fury's long game against Leviathan",
+        "note": "Secret Warriors continues — Fury's long game against Leviathan",
         "is_optional": false
       },
       {
         "position": 6,
         "edition_slug": "secret-avengers-brubaker",
-        "note": "Secret Avengers \u2014 Steve Rogers runs covert Avengers ops",
+        "note": "Secret Avengers — Steve Rogers runs covert Avengers ops",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "shield-hickman-complete",
-        "note": "Hickman's SHIELD \u2014 Leonardo da Vinci, Galileo, and Newton were all SHIELD agents. Mind-bending.",
+        "note": "Hickman's SHIELD — Leonardo da Vinci, Galileo, and Newton were all SHIELD agents. Mind-bending.",
         "is_optional": false
       },
       {
         "position": 8,
         "edition_slug": "black-widow-waid-samnee",
-        "note": "Black Widow on the run from SHIELD \u2014 the best spy comic Marvel's published",
+        "note": "Black Widow on the run from SHIELD — the best spy comic Marvel's published",
         "is_optional": false
       },
       {
         "position": 9,
         "edition_slug": "secret-warriors-rosenberg",
-        "note": "Rosenberg's Secret Warriors \u2014 modern iteration",
+        "note": "Rosenberg's Secret Warriors — modern iteration",
         "is_optional": true
       }
     ]
   },
   {
     "slug": "x-men-from-ashes-current",
-    "name": "X-Men: From the Ashes \u2014 Current Era (2024+)",
+    "name": "X-Men: From the Ashes — Current Era (2024+)",
     "category": "team",
     "path_type": "team",
     "difficulty": "beginner",
-    "description": "Post-Krakoa, the X-Men rebuild from the ashes. This is the current X-Men line \u2014 every ongoing title for readers who want to follow X-Men NOW without decades of backstory. Jump in here if the Krakoa era intimidates you.",
+    "description": "Post-Krakoa, the X-Men rebuild from the ashes. This is the current X-Men line — every ongoing title for readers who want to follow X-Men NOW without decades of backstory. Jump in here if the Krakoa era intimidates you.",
     "estimated_issues": 80,
     "entries": [
       {
         "position": 1,
         "edition_slug": "fall-of-house-x",
-        "note": "The fall of Krakoa \u2014 how the mutant nation ended. Essential context.",
+        "note": "The fall of Krakoa — how the mutant nation ended. Essential context.",
         "is_optional": false
       },
       {
         "position": 2,
         "edition_slug": "x-men-from-the-ashes",
-        "note": "X-Men: From the Ashes \u2014 Jed MacKay's new X-Men flagship",
+        "note": "X-Men: From the Ashes — Jed MacKay's new X-Men flagship",
         "is_optional": false
       },
       {
@@ -8592,7 +8592,7 @@
       {
         "position": 4,
         "edition_slug": "uncanny-x-men-simone-2024",
-        "note": "Gail Simone's Uncanny X-Men \u2014 small town, big mutant problems",
+        "note": "Gail Simone's Uncanny X-Men — small town, big mutant problems",
         "is_optional": false
       },
       {
@@ -8604,43 +8604,43 @@
       {
         "position": 6,
         "edition_slug": "exceptional-x-men",
-        "note": "Exceptional X-Men \u2014 Eve Ewing's new generation",
+        "note": "Exceptional X-Men — Eve Ewing's new generation",
         "is_optional": false
       },
       {
         "position": 7,
         "edition_slug": "storm-solo-2024",
-        "note": "Storm solo \u2014 Ororo at full power",
+        "note": "Storm solo — Ororo at full power",
         "is_optional": false
       },
       {
         "position": 8,
         "edition_slug": "phoenix-2024",
-        "note": "Phoenix \u2014 Jean Grey embraces the cosmic fire",
+        "note": "Phoenix — Jean Grey embraces the cosmic fire",
         "is_optional": false
       },
       {
         "position": 9,
         "edition_slug": "nyx-2024",
-        "note": "NYX \u2014 young mutants in New York City",
+        "note": "NYX — young mutants in New York City",
         "is_optional": true
       },
       {
         "position": 10,
         "edition_slug": "psylocke-2024",
-        "note": "Psylocke solo \u2014 Kwannon reclaims her identity",
+        "note": "Psylocke solo — Kwannon reclaims her identity",
         "is_optional": true
       },
       {
         "position": 11,
         "edition_slug": "forge-2024",
-        "note": "Forge \u2014 the mutant inventor goes solo",
+        "note": "Forge — the mutant inventor goes solo",
         "is_optional": true
       },
       {
         "position": 12,
         "edition_slug": "sentinels-2024",
-        "note": "Sentinels \u2014 the robot hunters from the mutant perspective",
+        "note": "Sentinels — the robot hunters from the mutant perspective",
         "is_optional": true
       }
     ]
@@ -8653,20 +8653,7 @@
     "difficulty": "intermediate",
     "description": "The main Star Wars comic series published by Marvel from 2015 onward, set between Episodes IV and V (and later V and VI). Follow the core storyline through Jason Aaron's run, then Gillen & Pak's continuation.",
     "estimated_issues": 50,
-    "entries": [
-      {
-        "position": 1,
-        "edition_slug": "star-wars-by-jason-aaron-hc-cassaday-cover-omnibus",
-        "is_optional": false,
-        "note": "Jason Aaron's run \u2014 Skywalker Strikes through Rebel Jail"
-      },
-      {
-        "position": 2,
-        "edition_slug": "star-wars-by-gillen-pak-hc-omnibus",
-        "is_optional": false,
-        "note": "Gillen & Pak continue the main series"
-      }
-    ]
+    "entries": []
   },
   {
     "slug": "star-wars-darth-vader-complete",
@@ -8676,38 +8663,7 @@
     "difficulty": "intermediate",
     "description": "Every major Darth Vader-focused comic series from Marvel. Three distinct runs by three writers, each exploring different periods of Vader's story.",
     "estimated_issues": 125,
-    "entries": [
-      {
-        "position": 1,
-        "edition_slug": "star-wars-darth-vader-by-gillen-larroca-hc-andrews-cover-omnibus",
-        "is_optional": false,
-        "note": "Gillen/Larroca \u2014 set between Episodes IV-V"
-      },
-      {
-        "position": 2,
-        "edition_slug": "star-wars-darth-vader-dark-lord-sith-hc-v02",
-        "is_optional": true,
-        "note": "Charles Soule \u2014 Vader's early days after Ep. III"
-      },
-      {
-        "position": 3,
-        "edition_slug": "star-wars-darth-vader-by-charles-soule-hc-deodato-cover-omnibus",
-        "is_optional": false,
-        "note": "Charles Soule \u2014 Dark Lord of the Sith complete"
-      },
-      {
-        "position": 4,
-        "edition_slug": "star-wars-darth-vader-pak",
-        "is_optional": false,
-        "note": "Greg Pak \u2014 set between Episodes V-VI"
-      },
-      {
-        "position": 5,
-        "edition_slug": "star-wars-darth-vader-black-white-red-tp",
-        "is_optional": true,
-        "note": "Anthology \u2014 short stories by various creators"
-      }
-    ]
+    "entries": []
   },
   {
     "slug": "star-wars-doctor-aphra-complete",
@@ -8715,34 +8671,9 @@
     "category": "character",
     "path_type": "curated",
     "difficulty": "intermediate",
-    "description": "Doctor Aphra \u2014 Marvel's breakout original Star Wars character. An amoral archaeologist who debuted in Darth Vader, then got her own series. Two complete runs.",
+    "description": "Doctor Aphra — Marvel's breakout original Star Wars character. An amoral archaeologist who debuted in Darth Vader, then got her own series. Two complete runs.",
     "estimated_issues": 100,
-    "entries": [
-      {
-        "position": 1,
-        "edition_slug": "star-wars-darth-vader-by-gillen-larroca-hc-andrews-cover-omnibus",
-        "is_optional": false,
-        "note": "Aphra's debut in Vader by Gillen"
-      },
-      {
-        "position": 2,
-        "edition_slug": "star-wars-doctor-aphra-hc-omnibus-v01",
-        "is_optional": false,
-        "note": "Aphra's solo series Vol. 1"
-      },
-      {
-        "position": 3,
-        "edition_slug": "star-wars-doctor-aphra-hc-omnibus-v2",
-        "is_optional": false,
-        "note": "Aphra's solo series Vol. 2"
-      },
-      {
-        "position": 4,
-        "edition_slug": "star-wars-doctor-aphra-friends-and-enemies-omnibus",
-        "is_optional": false,
-        "note": "Aphra Vol. 2 series \u2014 Friends and Enemies"
-      }
-    ]
+    "entries": []
   },
   {
     "slug": "star-wars-canon-crossovers",
@@ -8752,20 +8683,7 @@
     "difficulty": "advanced",
     "description": "The major Marvel Star Wars crossover events that span multiple series. War of the Bounty Hunters and Crimson Reign connect the main series, Vader, Aphra, and Bounty Hunters.",
     "estimated_issues": 50,
-    "entries": [
-      {
-        "position": 1,
-        "edition_slug": "star-wars-war-of-the-bounty-hunters-hc-yu-cover-omnibus",
-        "is_optional": false,
-        "note": "War of the Bounty Hunters \u2014 the hunt for Han Solo"
-      },
-      {
-        "position": 2,
-        "edition_slug": "star-wars-crimson-reign-omnibus",
-        "is_optional": false,
-        "note": "Crimson Reign \u2014 Qi'ra's shadow war"
-      }
-    ]
+    "entries": []
   },
   {
     "slug": "star-wars-high-republic",
@@ -8775,32 +8693,7 @@
     "difficulty": "intermediate",
     "description": "The High Republic era (hundreds of years before the films). A new era of Star Wars storytelling with original characters and threats. Three phases.",
     "estimated_issues": 100,
-    "entries": [
-      {
-        "position": 1,
-        "edition_slug": "star-wars-the-high-republic-phase-i-hc-omnibus",
-        "is_optional": false,
-        "note": "Phase I \u2014 Light of the Jedi era"
-      },
-      {
-        "position": 2,
-        "edition_slug": "star-wars-the-high-republic-phase-ii-quest-of-the-jedi-omnibus",
-        "is_optional": false,
-        "note": "Phase II \u2014 Quest of the Jedi"
-      },
-      {
-        "position": 3,
-        "edition_slug": "star-wars-the-high-republic-phase-iii-the-hunted-tp-v2",
-        "is_optional": true,
-        "note": "Phase III \u2014 The Hunted"
-      },
-      {
-        "position": 4,
-        "edition_slug": "star-wars-the-high-republic-fear-of-the-jedi-tp",
-        "is_optional": true,
-        "note": "Fear of the Jedi"
-      }
-    ]
+    "entries": []
   },
   {
     "slug": "star-wars-legends-tales-of-the-jedi",
@@ -8808,28 +8701,9 @@
     "category": "franchise",
     "path_type": "curated",
     "difficulty": "intermediate",
-    "description": "The earliest era of Star Wars Legends comics \u2014 set thousands of years before the films. Ancient Sith, early Jedi, and the Great Hyperspace War.",
+    "description": "The earliest era of Star Wars Legends comics — set thousands of years before the films. Ancient Sith, early Jedi, and the Great Hyperspace War.",
     "estimated_issues": 75,
-    "entries": [
-      {
-        "position": 1,
-        "edition_slug": "star-wars-legends-tales-of-the-jedi-hc-omnibus",
-        "is_optional": false,
-        "note": "Tales of the Jedi Omnibus \u2014 the complete collection"
-      },
-      {
-        "position": 2,
-        "edition_slug": "star-wars-legends-tales-of-the-jedi-tpb-v2",
-        "is_optional": false,
-        "note": "Epic Collection Vol. 2 \u2014 continuation"
-      },
-      {
-        "position": 3,
-        "edition_slug": "star-wars-legends-tales-of-the-jedi-tpb-v3",
-        "is_optional": false,
-        "note": "Epic Collection Vol. 3 \u2014 conclusion"
-      }
-    ]
+    "entries": []
   },
   {
     "slug": "star-wars-legends-old-republic",
@@ -8837,22 +8711,9 @@
     "category": "franchise",
     "path_type": "curated",
     "difficulty": "intermediate",
-    "description": "The Old Republic era \u2014 set during the events of the Knights of the Old Republic games. Zayne Carrick's adventure from fugitive Padawan to galactic hero.",
+    "description": "The Old Republic era — set during the events of the Knights of the Old Republic games. Zayne Carrick's adventure from fugitive Padawan to galactic hero.",
     "estimated_issues": 50,
-    "entries": [
-      {
-        "position": 1,
-        "edition_slug": "star-wars-legends-the-old-republic-omnibus-v1",
-        "is_optional": false,
-        "note": "Old Republic Omnibus Vol. 1"
-      },
-      {
-        "position": 2,
-        "edition_slug": "star-wars-legends-the-old-republic-omnibus-v2",
-        "is_optional": false,
-        "note": "Old Republic Omnibus Vol. 2"
-      }
-    ]
+    "entries": []
   },
   {
     "slug": "star-wars-legends-prequel-era",
@@ -8860,40 +8721,9 @@
     "category": "franchise",
     "path_type": "curated",
     "difficulty": "advanced",
-    "description": "Star Wars Legends comics set during the prequel film era \u2014 Rise of the Sith, The Menace Revealed, and The Clone Wars. Fills in gaps around Episodes I-III.",
+    "description": "Star Wars Legends comics set during the prequel film era — Rise of the Sith, The Menace Revealed, and The Clone Wars. Fills in gaps around Episodes I-III.",
     "estimated_issues": 125,
-    "entries": [
-      {
-        "position": 1,
-        "edition_slug": "star-wars-legends-rise-of-the-sith-hc-bachs-cover-omnibus",
-        "is_optional": false,
-        "note": "Rise of the Sith Omnibus"
-      },
-      {
-        "position": 2,
-        "edition_slug": "star-wars-legends-the-menace-revealed-tpb-v3",
-        "is_optional": false,
-        "note": "The Menace Revealed Vol. 3"
-      },
-      {
-        "position": 3,
-        "edition_slug": "star-wars-legends-the-menace-revealed-tpb-v4",
-        "is_optional": false,
-        "note": "The Menace Revealed Vol. 4"
-      },
-      {
-        "position": 4,
-        "edition_slug": "star-wars-legends-the-clone-wars-tpb-v4",
-        "is_optional": false,
-        "note": "The Clone Wars Vol. 4"
-      },
-      {
-        "position": 5,
-        "edition_slug": "star-wars-jedi-knights-guardians-of-the-republic-tp-v1",
-        "is_optional": true,
-        "note": "Jedi Knights \u2014 Republic era"
-      }
-    ]
+    "entries": []
   },
   {
     "slug": "star-wars-legends-empire-rebellion",
@@ -8903,44 +8733,7 @@
     "difficulty": "advanced",
     "description": "Star Wars Legends comics set during the original trilogy era. The Empire and Rebellion Epic Collections cover stories set between and around Episodes IV-VI.",
     "estimated_issues": 150,
-    "entries": [
-      {
-        "position": 1,
-        "edition_slug": "star-wars-legends-the-empire-hc-sanda-cover-omnibus-v1",
-        "is_optional": false,
-        "note": "The Empire Omnibus Vol. 1"
-      },
-      {
-        "position": 2,
-        "edition_slug": "star-wars-legends-the-empire-omnibus-v2",
-        "is_optional": false,
-        "note": "The Empire Omnibus Vol. 2"
-      },
-      {
-        "position": 3,
-        "edition_slug": "star-wars-legends-the-empire-omnibus-v3",
-        "is_optional": false,
-        "note": "The Empire Omnibus Vol. 3"
-      },
-      {
-        "position": 4,
-        "edition_slug": "star-wars-legends-the-rebellion-hc-fleming-cover-omnibus-v1",
-        "is_optional": false,
-        "note": "The Rebellion Omnibus Vol. 1"
-      },
-      {
-        "position": 5,
-        "edition_slug": "star-wars-legends-the-rebellion-hc-omnibus-v2",
-        "is_optional": false,
-        "note": "The Rebellion Omnibus Vol. 2"
-      },
-      {
-        "position": 6,
-        "edition_slug": "star-wars-legends-the-rebellion-omnibus-v3",
-        "is_optional": false,
-        "note": "The Rebellion Omnibus Vol. 3"
-      }
-    ]
+    "entries": []
   },
   {
     "slug": "star-wars-legends-new-republic",
@@ -8950,26 +8743,7 @@
     "difficulty": "advanced",
     "description": "Star Wars Legends comics set after Return of the Jedi. The New Republic, Thrawn's campaign, the New Jedi Order era. Includes the beloved Thrawn Trilogy adaptation.",
     "estimated_issues": 75,
-    "entries": [
-      {
-        "position": 1,
-        "edition_slug": "star-wars-legends-the-new-republic-hc-lauffray-cover-omnibus-v1",
-        "is_optional": false,
-        "note": "The New Republic Omnibus Vol. 1"
-      },
-      {
-        "position": 2,
-        "edition_slug": "star-wars-legends-the-new-republic-hc-omnibus-v2",
-        "is_optional": false,
-        "note": "The New Republic Omnibus Vol. 2"
-      },
-      {
-        "position": 3,
-        "edition_slug": "star-wars-legends-the-thrawn-trilogy-tpb",
-        "is_optional": false,
-        "note": "The Thrawn Trilogy adaptation"
-      }
-    ]
+    "entries": []
   },
   {
     "slug": "star-wars-legends-original-marvel",
@@ -8977,28 +8751,9 @@
     "category": "franchise",
     "path_type": "curated",
     "difficulty": "intermediate",
-    "description": "Marvel's original Star Wars comics (1977-1986) \u2014 the very first Star Wars comics, published alongside the original trilogy. A fascinating time capsule.",
+    "description": "Marvel's original Star Wars comics (1977-1986) — the very first Star Wars comics, published alongside the original trilogy. A fascinating time capsule.",
     "estimated_issues": 75,
-    "entries": [
-      {
-        "position": 1,
-        "edition_slug": "star-wars-legends-the-original-marvel-years-tp-epic-v5",
-        "is_optional": false,
-        "note": "Original Marvel Years Epic Vol. 5"
-      },
-      {
-        "position": 2,
-        "edition_slug": "star-wars-legends-the-original-marvel-years-tpb-v6",
-        "is_optional": false,
-        "note": "Original Marvel Years Epic Vol. 6"
-      },
-      {
-        "position": 3,
-        "edition_slug": "star-wars-legends-the-original-marvel-years-droids-ewoks-epic",
-        "is_optional": true,
-        "note": "Droids & Ewoks \u2014 spinoff series"
-      }
-    ]
+    "entries": []
   },
   {
     "slug": "conan-barbarian-original-marvel",
@@ -9008,38 +8763,7 @@
     "difficulty": "completionist",
     "description": "Marvel's original Conan the Barbarian series (1970-1993) collected in massive omnibuses. Roy Thomas and Barry Windsor-Smith's legendary run that brought Robert E. Howard's creation to comics.",
     "estimated_issues": 125,
-    "entries": [
-      {
-        "position": 1,
-        "edition_slug": "conan-barbarian-omnibus-v1",
-        "is_optional": false,
-        "note": "Vol. 1 \u2014 Roy Thomas & Barry Windsor-Smith define Conan in comics"
-      },
-      {
-        "position": 2,
-        "edition_slug": "conan-barbarian-omnibus-v2",
-        "is_optional": false,
-        "note": "Vol. 2 \u2014 The saga continues"
-      },
-      {
-        "position": 3,
-        "edition_slug": "conan-barbarian-orig-marvel-yrs-hc-omnibus-v04",
-        "is_optional": false,
-        "note": "Vol. 4 \u2014 Later issues"
-      },
-      {
-        "position": 4,
-        "edition_slug": "conan-the-barbarian-the-original-marvel-years-hc-buscema-cover-omnibus-v6",
-        "is_optional": false,
-        "note": "Vol. 6 \u2014 John Buscema era"
-      },
-      {
-        "position": 5,
-        "edition_slug": "conan-the-barbarian-the-original-marvel-years-hc-isherwood-cover-omnibus-v8",
-        "is_optional": false,
-        "note": "Vol. 8 \u2014 Late run"
-      }
-    ]
+    "entries": []
   },
   {
     "slug": "savage-sword-conan-complete",
@@ -9047,40 +8771,9 @@
     "category": "franchise",
     "path_type": "curated",
     "difficulty": "completionist",
-    "description": "Marvel's black-and-white Savage Sword of Conan magazine (1974-1995) \u2014 more mature, unbound by Comics Code restrictions. Grittier, bloodier Conan stories.",
+    "description": "Marvel's black-and-white Savage Sword of Conan magazine (1974-1995) — more mature, unbound by Comics Code restrictions. Grittier, bloodier Conan stories.",
     "estimated_issues": 125,
-    "entries": [
-      {
-        "position": 1,
-        "edition_slug": "savage-sword-conan-orig-marvel-yrs-hc-omnibus-v04",
-        "is_optional": false,
-        "note": "Vol. 4"
-      },
-      {
-        "position": 2,
-        "edition_slug": "savage-sword-of-conan-the-original-marvel-years-hc-asrar-cover-omnibus-v5",
-        "is_optional": false,
-        "note": "Vol. 5"
-      },
-      {
-        "position": 3,
-        "edition_slug": "savage-sword-of-conan-the-original-marvel-years-hc-jusko-cover-omnibus-v6",
-        "is_optional": false,
-        "note": "Vol. 6"
-      },
-      {
-        "position": 4,
-        "edition_slug": "savage-sword-of-conan-the-original-marvel-years-hc-larkin-cover-omnibus-v7",
-        "is_optional": false,
-        "note": "Vol. 7"
-      },
-      {
-        "position": 5,
-        "edition_slug": "savage-sword-of-conan-the-original-marvel-years-hc-klein-cover-omnibus-v8",
-        "is_optional": false,
-        "note": "Vol. 8"
-      }
-    ]
+    "entries": []
   },
   {
     "slug": "conan-complete-reading-order",
@@ -9088,82 +8781,9 @@
     "category": "franchise",
     "path_type": "curated",
     "difficulty": "advanced",
-    "description": "All Marvel Conan comics in a suggested reading order \u2014 from the original 1970s Marvel years through the 2019 revival. Combines the main Barbarian series, Savage Sword magazine, King Conan, and modern runs.",
+    "description": "All Marvel Conan comics in a suggested reading order — from the original 1970s Marvel years through the 2019 revival. Combines the main Barbarian series, Savage Sword magazine, King Conan, and modern runs.",
     "estimated_issues": 300,
-    "entries": [
-      {
-        "position": 1,
-        "edition_slug": "conan-barbarian-omnibus-v1",
-        "is_optional": false,
-        "note": "Original Marvel Years \u2014 the beginning"
-      },
-      {
-        "position": 2,
-        "edition_slug": "conan-barbarian-omnibus-v2",
-        "is_optional": false,
-        "note": "Original Marvel Years Vol. 2"
-      },
-      {
-        "position": 3,
-        "edition_slug": "conan-the-barbarian-the-original-marvel-years-epic-2-hawks-from-the-sea-hc",
-        "is_optional": true,
-        "note": "Epic: Hawks from the Sea"
-      },
-      {
-        "position": 4,
-        "edition_slug": "conan-the-barbarian-the-curse-of-the-golden-skull-epic",
-        "is_optional": true,
-        "note": "Epic: Curse of the Golden Skull"
-      },
-      {
-        "position": 5,
-        "edition_slug": "conan-the-barbarian-the-original-marvel-years-queen-of-the-black-coast-tpb",
-        "is_optional": true,
-        "note": "Epic: Queen of the Black Coast"
-      },
-      {
-        "position": 6,
-        "edition_slug": "conan-chronicles-the-song-of-belit-tpb-epic",
-        "is_optional": false,
-        "note": "Chronicles: Song of Belit"
-      },
-      {
-        "position": 7,
-        "edition_slug": "conan-shadows-over-kush-tp",
-        "is_optional": false,
-        "note": "Epic: Shadows Over Kush"
-      },
-      {
-        "position": 8,
-        "edition_slug": "conan-the-king-the-original-marvel-years-hc-andrews-cover-omnibus-v1",
-        "is_optional": false,
-        "note": "King Conan Omnibus Vol. 1"
-      },
-      {
-        "position": 9,
-        "edition_slug": "king-conan-chronicles-phantoms-and-phoenixes-tpb",
-        "is_optional": false,
-        "note": "King Conan Chronicles"
-      },
-      {
-        "position": 10,
-        "edition_slug": "conan-the-barbarian-by-kurt-busiek-hc-omnibus",
-        "is_optional": false,
-        "note": "Busiek's Dark Horse-era revival at Marvel"
-      },
-      {
-        "position": 11,
-        "edition_slug": "conan-the-barbarian-by-aaron-asrar-hc",
-        "is_optional": false,
-        "note": "Aaron & Asrar \u2014 2019 Marvel revival"
-      },
-      {
-        "position": 12,
-        "edition_slug": "conan-chronicles-blood-in-his-wake-tpb",
-        "is_optional": false,
-        "note": "Chronicles: Blood in His Wake"
-      }
-    ]
+    "entries": []
   },
   {
     "slug": "star-wars-modern-era-epics",
@@ -9171,40 +8791,9 @@
     "category": "franchise",
     "path_type": "curated",
     "difficulty": "intermediate",
-    "description": "Budget-friendly way to read Marvel's canon Star Wars comics through Epic Collections \u2014 more affordable than the omnibuses.",
+    "description": "Budget-friendly way to read Marvel's canon Star Wars comics through Epic Collections — more affordable than the omnibuses.",
     "estimated_issues": 125,
-    "entries": [
-      {
-        "position": 1,
-        "edition_slug": "star-wars-modern-era-star-wars-tpb-v1",
-        "is_optional": false,
-        "note": "Modern Era: Star Wars Vol. 1"
-      },
-      {
-        "position": 2,
-        "edition_slug": "star-wars-modern-era-yodas-secret-war-epic",
-        "is_optional": false,
-        "note": "Yoda's Secret War"
-      },
-      {
-        "position": 3,
-        "edition_slug": "star-wars-darth-vader-modern-era-vader-down-epic",
-        "is_optional": true,
-        "note": "Vader Down crossover era"
-      },
-      {
-        "position": 4,
-        "edition_slug": "star-wars-darth-vader-modern-era-shadows-and-secrets-epic",
-        "is_optional": true,
-        "note": "Vader: Shadows and Secrets"
-      },
-      {
-        "position": 5,
-        "edition_slug": "star-wars-kanan-modern-era-the-last-padawan-epic",
-        "is_optional": true,
-        "note": "Kanan: The Last Padawan"
-      }
-    ]
+    "entries": []
   },
   {
     "slug": "star-wars-ages-anthology",
@@ -9212,21 +8801,8 @@
     "category": "franchise",
     "path_type": "curated",
     "difficulty": "beginner",
-    "description": "Three anthology hardcovers covering the three eras of the Skywalker saga. Short character-focused stories \u2014 a great intro to Star Wars comics.",
+    "description": "Three anthology hardcovers covering the three eras of the Skywalker saga. Short character-focused stories — a great intro to Star Wars comics.",
     "estimated_issues": 50,
-    "entries": [
-      {
-        "position": 1,
-        "edition_slug": "star-wars-age-of-rebellion-hc",
-        "is_optional": false,
-        "note": "Age of Rebellion \u2014 original trilogy era characters"
-      },
-      {
-        "position": 2,
-        "edition_slug": "star-wars-age-of-resistance-hc",
-        "is_optional": false,
-        "note": "Age of Resistance \u2014 sequel trilogy era characters"
-      }
-    ]
+    "entries": []
   }
 ]

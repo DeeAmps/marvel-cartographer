@@ -148,7 +148,7 @@ function mapEditionRow(e: Record<string, unknown>): CollectedEdition {
     format: (e.format as CollectedEdition["format"]) || "omnibus",
     issues_collected: (e.issues_collected as string) || "",
     issue_count: (e.issue_count as number) || 0,
-    print_status: (e.print_status as CollectedEdition["print_status"]) || "check_availability",
+    print_status: (e.print_status as CollectedEdition["print_status"]) || "in_print",
     importance: (e.importance as CollectedEdition["importance"]) || "recommended",
     era_id: (e.era_id as string) || "",
     chapter_id: (e.chapter_id as string) || undefined,
@@ -167,6 +167,11 @@ function mapEditionRow(e: Record<string, unknown>): CollectedEdition {
     chapter_slug: (e.chapter_slug as string) || undefined,
     universe_name: (e.universe_name as string) || undefined,
     universe_designation: (e.universe_designation as string) || undefined,
+    publication_era_id: (e.publication_era_id as string) || undefined,
+    publication_era_name: (e.publication_era_name as string) || undefined,
+    publication_era_slug: (e.publication_era_slug as string) || undefined,
+    publication_era_number: (e.publication_era_number as number) || undefined,
+    publication_era_color: (e.publication_era_color as string) || undefined,
     creator_names: (e.creator_names as string[]) || [],
   };
 }
@@ -232,6 +237,57 @@ export async function getEditionsByEra(): Promise<
     grouped[key] = sortEditions(grouped[key]);
   }
   return grouped;
+}
+
+// ============================================================
+// ESSENTIAL EDITIONS BY ERA (for timeline essential path)
+// ============================================================
+
+export async function getEssentialEditionsByEra(): Promise<
+  Record<string, CollectedEdition[]>
+> {
+  const editions = await getEditions();
+  const grouped: Record<string, CollectedEdition[]> = {};
+  for (const e of editions) {
+    if (e.importance !== "essential") continue;
+    const key = e.era_slug || e.era_id;
+    if (!grouped[key]) grouped[key] = [];
+    grouped[key].push(e);
+  }
+  // Sort each era's essentials by title (proxy for chronological reading order)
+  for (const key of Object.keys(grouped)) {
+    grouped[key].sort((a, b) => a.title.localeCompare(b.title));
+  }
+  return grouped;
+}
+
+// ============================================================
+// ERA EDITION COUNTS (lightweight for timeline)
+// ============================================================
+
+export interface EraEditionCount {
+  total: number;
+  essential: number;
+  recommended: number;
+  supplemental: number;
+  completionist: number;
+}
+
+export async function getEraEditionCounts(): Promise<Record<string, EraEditionCount>> {
+  const editions = await getEditions();
+  const counts: Record<string, EraEditionCount> = {};
+  for (const e of editions) {
+    const key = e.era_slug || e.era_id;
+    if (!counts[key]) {
+      counts[key] = { total: 0, essential: 0, recommended: 0, supplemental: 0, completionist: 0 };
+    }
+    counts[key].total++;
+    const imp = e.importance as keyof Omit<EraEditionCount, "total">;
+    if (imp in counts[key]) {
+      counts[key][imp]++;
+    }
+  }
+  return counts;
 }
 
 // ============================================================
@@ -496,6 +552,40 @@ export async function getEventBySlug(
   return events.find((e) => e.slug === slug);
 }
 
+// JSON fallback for event_editions not yet seeded into Supabase
+import eventEditionsJson from "@/../data/event_editions.json";
+
+type EventEditionSeed = {
+  event_slug: string;
+  edition_slug: string;
+  is_core: boolean;
+  reading_order: number;
+};
+
+function getEventEditionsFromJson(
+  editionSlugMap: Map<string, CollectedEdition>
+): Record<string, { edition: CollectedEdition; is_core: boolean; reading_order: number }[]> {
+  const result: Record<
+    string,
+    { edition: CollectedEdition; is_core: boolean; reading_order: number }[]
+  > = {};
+  for (const ee of eventEditionsJson as EventEditionSeed[]) {
+    const edition = editionSlugMap.get(ee.edition_slug);
+    if (!edition) continue;
+    if (!result[ee.event_slug]) result[ee.event_slug] = [];
+    result[ee.event_slug].push({
+      edition,
+      is_core: ee.is_core ?? false,
+      reading_order: ee.reading_order || 0,
+    });
+  }
+  // Sort each event's editions by reading_order
+  for (const key of Object.keys(result)) {
+    result[key].sort((a, b) => a.reading_order - b.reading_order);
+  }
+  return result;
+}
+
 export async function getEditionsForEvent(
   eventSlug: string
 ): Promise<
@@ -512,9 +602,16 @@ export async function getEditionsForEvent(
       .eq("event_id", event.id)
       .order("reading_order")
       .range(0, 999);
-    if (eeErr || !eeData || eeData.length === 0) return [];
 
     const editions = await getEditions();
+
+    if (eeErr || !eeData || eeData.length === 0) {
+      // Fallback to JSON seed data
+      const editionSlugMap = new Map(editions.map((e) => [e.slug, e]));
+      const jsonData = getEventEditionsFromJson(editionSlugMap);
+      return jsonData[eventSlug] || [];
+    }
+
     const editionMap = new Map(editions.map((e) => [e.id, e]));
 
     return eeData
@@ -541,19 +638,77 @@ export async function getEventEditionCounts(): Promise<Record<string, number>> {
       .from("event_editions")
       .select("event_id")
       .range(0, 9999);
-    if (error || !data) return {};
 
     const events = await getEvents();
     const eventIdToSlug = new Map(events.map((e) => [e.id, e.slug]));
 
     const counts: Record<string, number> = {};
-    for (const row of data) {
-      const slug = eventIdToSlug.get(row.event_id as string);
-      if (slug) {
-        counts[slug] = (counts[slug] || 0) + 1;
+    if (!error && data) {
+      for (const row of data) {
+        const slug = eventIdToSlug.get(row.event_id as string);
+        if (slug) {
+          counts[slug] = (counts[slug] || 0) + 1;
+        }
       }
     }
+
+    // Fill gaps from JSON seed data
+    const editions = await getEditions();
+    const editionSlugMap = new Map(editions.map((e) => [e.slug, e]));
+    const jsonData = getEventEditionsFromJson(editionSlugMap);
+    for (const [eventSlug, items] of Object.entries(jsonData)) {
+      if (!counts[eventSlug]) {
+        counts[eventSlug] = items.length;
+      }
+    }
+
     return counts;
+  });
+}
+
+export async function getAllEventEditions(): Promise<
+  Record<string, { edition: CollectedEdition; is_core: boolean; reading_order: number }[]>
+> {
+  return cachedQuery("all-event-editions", async () => {
+    const { data, error } = await supabase
+      .from("event_editions")
+      .select("event_id, edition_id, is_core, reading_order")
+      .order("reading_order")
+      .range(0, 9999);
+
+    const [events, editions] = await Promise.all([getEvents(), getEditions()]);
+    const eventIdToSlug = new Map(events.map((e) => [e.id, e.slug]));
+    const editionMap = new Map(editions.map((e) => [e.id, e]));
+    const editionSlugMap = new Map(editions.map((e) => [e.slug, e]));
+
+    const result: Record<
+      string,
+      { edition: CollectedEdition; is_core: boolean; reading_order: number }[]
+    > = {};
+
+    if (!error && data) {
+      for (const row of data) {
+        const slug = eventIdToSlug.get(row.event_id as string);
+        const edition = editionMap.get(row.edition_id as string);
+        if (!slug || !edition) continue;
+        if (!result[slug]) result[slug] = [];
+        result[slug].push({
+          edition,
+          is_core: (row.is_core as boolean) || false,
+          reading_order: (row.reading_order as number) || 0,
+        });
+      }
+    }
+
+    // Fill gaps from JSON seed data
+    const jsonData = getEventEditionsFromJson(editionSlugMap);
+    for (const [eventSlug, items] of Object.entries(jsonData)) {
+      if (!result[eventSlug]) {
+        result[eventSlug] = items;
+      }
+    }
+
+    return result;
   });
 }
 
@@ -629,7 +784,7 @@ export async function getConnectionsForEdition(slug: string): Promise<{
             .replace(/-/g, " ")
             .replace(/\b\w/g, (l) => l.toUpperCase()),
         target_importance: target?.importance || "recommended",
-        target_status: target?.print_status || "check_availability",
+        target_status: target?.print_status || "in_print",
         target_issues: target?.issues_collected || "",
       };
     })
@@ -647,7 +802,7 @@ export async function getConnectionsForEdition(slug: string): Promise<{
             .replace(/-/g, " ")
             .replace(/\b\w/g, (l) => l.toUpperCase()),
         source_importance: source?.importance || "recommended",
-        source_status: source?.print_status || "check_availability",
+        source_status: source?.print_status || "in_print",
         source_issues: source?.issues_collected || "",
       };
     })
@@ -881,7 +1036,7 @@ export async function getReadingPaths(): Promise<ReadingPath[]> {
               format: "omnibus" as const,
               issues_collected: "",
               issue_count: 0,
-              print_status: "check_availability" as const,
+              print_status: "in_print" as const,
               importance: "recommended" as const,
               era_id: "",
               era_slug: "",
@@ -1511,6 +1666,13 @@ export async function searchEditions(
   if (filters.era) {
     results = results.filter(
       (e) => e.era_slug === filters.era || e.era_id === filters.era
+    );
+  }
+
+  // Publication era filter
+  if (filters.publication_era) {
+    results = results.filter(
+      (e) => e.publication_era_slug === filters.publication_era
     );
   }
 

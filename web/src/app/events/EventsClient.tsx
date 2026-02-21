@@ -1,9 +1,9 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useRef } from "react";
 import Link from "next/link";
 import ImportanceBadge from "@/components/ui/ImportanceBadge";
-import type { Event, ImportanceLevel } from "@/lib/types";
+import type { Event, ImportanceLevel, CollectedEdition } from "@/lib/types";
 
 const TAG_CATEGORIES: { label: string; tags: string[] }[] = [
   {
@@ -24,37 +24,62 @@ const TAG_CATEGORIES: { label: string; tags: string[] }[] = [
   },
 ];
 
+type EventEditionItem = {
+  edition: CollectedEdition;
+  is_core: boolean;
+  reading_order: number;
+};
+
 export default function EventsClient({
   events,
   editionCounts,
+  eventEditions,
 }: {
   events: Event[];
   editionCounts: Record<string, number>;
+  eventEditions: Record<string, EventEditionItem[]>;
 }) {
   const [activeFilter, setActiveFilter] = useState<string | null>(null);
+  const [activeDecade, setActiveDecade] = useState<number | null>(null);
+  const cardsRef = useRef<HTMLDivElement>(null);
 
   const filteredEvents = useMemo(() => {
-    if (!activeFilter) return events;
-    const category = TAG_CATEGORIES.find((c) => c.label === activeFilter);
-    if (!category) return events;
-    return events.filter((e) =>
-      e.tags.some((t) => category.tags.includes(t.toLowerCase())),
-    );
-  }, [events, activeFilter]);
-
-  const minYear = Math.min(...events.map((e) => e.year));
-  const maxYear = Math.max(...events.map((e) => e.year));
-  const yearSpan = maxYear - minYear || 1;
-
-  const decades = useMemo(() => {
-    const startDecade = Math.floor(minYear / 10) * 10;
-    const endDecade = Math.floor(maxYear / 10) * 10;
-    const result: number[] = [];
-    for (let d = startDecade; d <= endDecade; d += 10) {
-      result.push(d);
+    let result = events;
+    if (activeFilter) {
+      const category = TAG_CATEGORIES.find((c) => c.label === activeFilter);
+      if (category) {
+        result = result.filter((e) =>
+          e.tags.some((t) => category.tags.includes(t.toLowerCase())),
+        );
+      }
+    }
+    if (activeDecade !== null) {
+      result = result.filter(
+        (e) => e.year >= activeDecade && e.year < activeDecade + 10,
+      );
     }
     return result;
-  }, [minYear, maxYear]);
+  }, [events, activeFilter, activeDecade]);
+
+  // Build decade buckets
+  const decades = useMemo(() => {
+    const minYear = Math.min(...events.map((e) => e.year));
+    const maxYear = Math.max(...events.map((e) => e.year));
+    const startDecade = Math.floor(minYear / 10) * 10;
+    const endDecade = Math.floor(maxYear / 10) * 10;
+    const result: { decade: number; count: number; essential: number }[] = [];
+    for (let d = startDecade; d <= endDecade; d += 10) {
+      const inDecade = events.filter((e) => e.year >= d && e.year < d + 10);
+      result.push({
+        decade: d,
+        count: inDecade.length,
+        essential: inDecade.filter((e) => e.importance === "essential").length,
+      });
+    }
+    return result;
+  }, [events]);
+
+  const maxCount = Math.max(...decades.map((d) => d.count), 1);
 
   return (
     <div>
@@ -65,96 +90,129 @@ export default function EventsClient({
         Events & Sagas
       </h1>
       <p className="mb-6" style={{ color: "var(--text-secondary)" }}>
-        {events.length} major Marvel events, crossovers, and saga-defining runs,
-        from the Coming of Galactus to the present.
+        {events.length} major Marvel events, crossovers, and saga-defining runs
+        — ordered by publication year.
       </p>
 
-      {/* Visual Timeline */}
-      <div className="mb-8 pb-4">
-        <div
-          className="relative"
-          style={{ height: 80, marginLeft: 24, marginRight: 24 }}
-        >
-          {/* Timeline line */}
-          <div
-            className="absolute top-8 left-0 right-0 h-px"
-            style={{ background: "var(--border-default)" }}
-          />
-          {/* Decade markers */}
-          {decades.map((decade) => {
-            const pct = ((decade - minYear) / yearSpan) * 100;
-            return (
-              <div
-                key={decade}
-                className="absolute text-xs"
-                style={{
-                  left: `${pct}%`,
-                  top: 14,
-                  color: "var(--text-tertiary)",
-                  fontFamily: "var(--font-geist-mono), monospace",
-                  fontSize: "0.75rem",
-                  transform: "translateX(-50%)",
-                }}
-              >
-                {decade}
-              </div>
-            );
-          })}
-          {/* Event dots */}
-          {events.map((event) => {
-            const pct = ((event.year - minYear) / yearSpan) * 100;
-            const importanceColor =
-              event.importance === "essential"
-                ? "var(--importance-essential)"
-                : event.importance === "recommended"
-                  ? "var(--importance-recommended)"
-                  : "var(--importance-supplemental)";
-
-            // Dim dots that are filtered out
-            const isVisible =
-              !activeFilter ||
-              (() => {
-                const category = TAG_CATEGORIES.find(
-                  (c) => c.label === activeFilter,
-                );
-                return (
-                  category &&
-                  event.tags.some((t) =>
-                    category.tags.includes(t.toLowerCase()),
-                  )
-                );
-              })();
+      {/* Decade Navigator */}
+      <div
+        className="rounded-lg border p-4 mb-6"
+        style={{
+          background: "var(--bg-secondary)",
+          borderColor: "var(--border-default)",
+        }}
+      >
+        <div className="flex items-center justify-between mb-3">
+          <span
+            className="text-xs font-bold uppercase tracking-wider"
+            style={{ color: "var(--text-tertiary)" }}
+          >
+            Publication Decade
+          </span>
+          {activeDecade !== null && (
+            <button
+              onClick={() => setActiveDecade(null)}
+              className="text-xs px-2 py-0.5 rounded transition-colors"
+              style={{
+                background: "var(--bg-tertiary)",
+                color: "var(--text-secondary)",
+              }}
+            >
+              Show all decades
+            </button>
+          )}
+        </div>
+        <div className="flex gap-1.5">
+          {decades.map((d) => {
+            const isActive = activeDecade === d.decade;
+            const barHeight = Math.max(8, (d.count / maxCount) * 48);
 
             return (
-              <a
-                key={event.slug}
-                href={`#${event.slug}`}
-                className="absolute group"
+              <button
+                key={d.decade}
+                onClick={() =>
+                  setActiveDecade(isActive ? null : d.decade)
+                }
+                className="flex-1 flex flex-col items-center gap-1 group transition-opacity"
                 style={{
-                  left: `${pct}%`,
-                  top: 24,
-                  transform: "translateX(-50%)",
-                  opacity: isVisible ? 1 : 0.2,
-                  transition: "opacity 0.3s",
+                  opacity:
+                    activeDecade !== null && !isActive ? 0.35 : 1,
                 }}
               >
+                {/* Bar */}
                 <div
-                  className="w-3 h-3 rounded-full transition-transform hover:scale-150"
-                  style={{ background: importanceColor }}
-                />
-                <div
-                  className="absolute bottom-full mb-1 left-1/2 -translate-x-1/2 whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none px-2 py-1 rounded text-xs z-10"
+                  className="w-full flex flex-col items-center justify-end"
+                  style={{ height: 52 }}
+                >
+                  <span
+                    className="text-[0.6rem] font-bold mb-0.5 transition-colors"
+                    style={{
+                      color: isActive
+                        ? "var(--accent-gold)"
+                        : "var(--text-tertiary)",
+                      fontFamily: "var(--font-geist-mono), monospace",
+                    }}
+                  >
+                    {d.count}
+                  </span>
+                  <div
+                    className="w-full rounded-sm transition-all group-hover:opacity-80"
+                    style={{
+                      height: barHeight,
+                      background: isActive
+                        ? "var(--accent-gold)"
+                        : "var(--bg-tertiary)",
+                      borderBottom: d.essential > 0
+                        ? `${Math.max(2, (d.essential / d.count) * barHeight)}px solid var(--accent-red)`
+                        : undefined,
+                    }}
+                  />
+                </div>
+                {/* Label */}
+                <span
+                  className="text-xs font-bold transition-colors"
                   style={{
-                    background: "var(--bg-tertiary)",
-                    color: "var(--text-primary)",
-                    fontSize: "0.75rem",
+                    color: isActive
+                      ? "var(--accent-gold)"
+                      : "var(--text-tertiary)",
+                    fontFamily: "var(--font-geist-mono), monospace",
+                    fontSize: "0.7rem",
                   }}
                 >
-                  {event.name} ({event.year})
-                </div>
-              </a>
+                  {String(d.decade).slice(-2)}s
+                </span>
+              </button>
             );
           })}
+        </div>
+        <div
+          className="flex items-center gap-4 mt-3 pt-2"
+          style={{ borderTop: "1px solid var(--border-default)" }}
+        >
+          <div className="flex items-center gap-1.5">
+            <div
+              className="w-2.5 h-2.5 rounded-sm"
+              style={{ background: "var(--bg-tertiary)" }}
+            />
+            <span
+              className="text-[0.65rem]"
+              style={{ color: "var(--text-tertiary)" }}
+            >
+              Total events
+            </span>
+          </div>
+          <div className="flex items-center gap-1.5">
+            <div
+              className="w-2.5 h-2.5 rounded-sm"
+              style={{ background: "var(--accent-red)" }}
+            />
+            <span
+              className="text-[0.65rem]"
+              style={{ color: "var(--text-tertiary)" }}
+            >
+              Essential
+            </span>
+          </div>
         </div>
       </div>
 
@@ -195,8 +253,54 @@ export default function EventsClient({
         ))}
       </div>
 
+      {/* Active filters summary */}
+      {(activeDecade !== null || activeFilter) && (
+        <div
+          className="flex items-center gap-2 mb-4 text-xs"
+          style={{ color: "var(--text-secondary)" }}
+        >
+          <span>
+            Showing {filteredEvents.length} event{filteredEvents.length !== 1 ? "s" : ""}
+          </span>
+          {activeDecade !== null && (
+            <span
+              className="px-2 py-0.5 rounded font-bold"
+              style={{
+                background: "var(--accent-gold)",
+                color: "#000",
+                fontFamily: "var(--font-geist-mono), monospace",
+              }}
+            >
+              {activeDecade}s
+            </span>
+          )}
+          {activeFilter && (
+            <span
+              className="px-2 py-0.5 rounded font-bold"
+              style={{
+                background: "var(--accent-gold)",
+                color: "#000",
+                fontFamily: "var(--font-geist-mono), monospace",
+              }}
+            >
+              {activeFilter}
+            </span>
+          )}
+          <button
+            onClick={() => {
+              setActiveDecade(null);
+              setActiveFilter(null);
+            }}
+            className="underline"
+            style={{ color: "var(--text-tertiary)" }}
+          >
+            Clear all
+          </button>
+        </div>
+      )}
+
       {/* Event Cards */}
-      <div className="space-y-4">
+      <div className="space-y-4" ref={cardsRef}>
         {filteredEvents.map((event) => (
           <Link
             key={event.slug}
@@ -266,6 +370,69 @@ export default function EventsClient({
                 {event.impact}
               </span>
             </div>
+
+            {eventEditions[event.slug] && eventEditions[event.slug].length > 0 && (
+              <div className="mt-3">
+                <span
+                  className="text-xs font-bold uppercase"
+                  style={{ color: "var(--accent-blue)" }}
+                >
+                  Reading Order:
+                </span>
+                <div className="mt-1.5 space-y-1">
+                  {eventEditions[event.slug].map((ee, i) => (
+                    <div
+                      key={ee.edition.slug}
+                      className="flex items-baseline gap-2 text-xs"
+                    >
+                      <span
+                        className="shrink-0 w-5 text-right"
+                        style={{
+                          color: "var(--text-tertiary)",
+                          fontFamily: "var(--font-geist-mono), monospace",
+                        }}
+                      >
+                        {i + 1}.
+                      </span>
+                      <span style={{ color: "var(--text-primary)" }}>
+                        {ee.edition.title}
+                      </span>
+                      {ee.is_core ? (
+                        <span
+                          className="shrink-0 px-1.5 py-px rounded text-[0.625rem] font-bold uppercase"
+                          style={{
+                            background: "var(--accent-red)",
+                            color: "#fff",
+                          }}
+                        >
+                          Core
+                        </span>
+                      ) : (
+                        <span
+                          className="shrink-0 px-1.5 py-px rounded text-[0.625rem] font-bold uppercase"
+                          style={{
+                            background: "var(--bg-tertiary)",
+                            color: "var(--text-tertiary)",
+                          }}
+                        >
+                          Tie-in
+                        </span>
+                      )}
+                      <span
+                        className="shrink-0 truncate max-w-[220px]"
+                        style={{
+                          color: "var(--text-tertiary)",
+                          fontFamily: "var(--font-geist-mono), monospace",
+                          fontSize: "0.675rem",
+                        }}
+                      >
+                        {ee.edition.issues_collected}
+                      </span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
 
             {event.prerequisites && (
               <div className="mt-3">

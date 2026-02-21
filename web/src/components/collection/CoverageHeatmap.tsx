@@ -156,7 +156,7 @@ export default function CoverageHeatmap({ eras }: { eras: EraData[] }) {
           >
             <div className="flex items-center justify-between mb-2">
               <Link
-                href={`/timeline#${era.slug}`}
+                href="/timeline"
                 className="text-sm font-bold tracking-tight transition-colors hover:text-[var(--accent-red)]"
                 style={{ fontFamily: "var(--font-bricolage), sans-serif" }}
               >

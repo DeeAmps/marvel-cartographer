@@ -34,7 +34,6 @@ const statusOptions = [
   { value: "upcoming", label: "Upcoming" },
   { value: "digital_only", label: "Digital Only" },
   { value: "ongoing", label: "Ongoing" },
-  { value: "check_availability", label: "Check Availability" },
 ];
 
 const formatOptions = [

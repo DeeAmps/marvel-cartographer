@@ -6,11 +6,10 @@ const statusConfig: Record<PrintStatus, { label: string; color: string }> = {
   upcoming: { label: "Upcoming", color: "var(--status-upcoming)" },
   digital_only: { label: "Digital Only", color: "var(--status-digital)" },
   ongoing: { label: "Ongoing", color: "var(--status-ongoing)" },
-  check_availability: { label: "Check Availability", color: "var(--text-tertiary)" },
 };
 
 export default function StatusBadge({ status }: { status: PrintStatus }) {
-  const config = statusConfig[status] || statusConfig.check_availability;
+  const config = statusConfig[status] || statusConfig.in_print;
 
   return (
     <span

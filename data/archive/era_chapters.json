@@ -573,7 +573,7 @@
             "xmen-1991-omnibus-v2",
             "xmen-fatal-attractions",
             "x-force-epic-under-the-gun",
-            "x-force-cable-90s-omnibus-v2",
+            "cable-x-force-omnibus",
             "cable-classic-omnibus-v1",
             "wolverine-hama-omnibus-v1",
             "wolverine-hama-omnibus-v2"
@@ -955,7 +955,7 @@
             "dark-wolverine-complete",
             "agents-of-atlas-complete",
             "avengers-initiative-complete-v2",
-            "mighty-avengers-slott",
+            "mighty-avengers-bendis",
             "dark-reign-hawkeye",
             "the-order-fraction",
             "war-machine-pak",
@@ -1748,7 +1748,7 @@
             "doctor-doom-2024",
             "blood-hunt-companion",
             "wolverine-blood-hunt",
-            "doctor-doom-2024-rodwell"
+            "doctor-doom-cantwell-2024"
         ]
     },
     {
@@ -1873,7 +1873,7 @@
         "year_end": 2025,
         "description": "Post-Krakoa, the X-Men rebuild in the From the Ashes era. Uncanny launches. Phoenix soars solo. Forge invents. The new mutant status quo takes shape.",
         "edition_slugs": [
-            "uncanny-x-men-duggan-2024",
+            "uncanny-x-men-simone-2024",
             "exceptional-x-men",
             "phoenix-2024",
             "forge-2024"

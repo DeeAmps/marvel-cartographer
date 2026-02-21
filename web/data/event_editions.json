@@ -134,7 +134,7 @@
   {
     "event_slug": "armageddon-2026",
     "edition_slug": "x-force-armageddon-now-tpb",
-    "is_core": true,
+    "is_core": false,
     "reading_order": 2
   },
   {
@@ -163,15 +163,9 @@
   },
   {
     "event_slug": "inferno",
-    "edition_slug": "inferno-hickman-complete",
-    "is_core": true,
-    "reading_order": 1
-  },
-  {
-    "event_slug": "inferno",
     "edition_slug": "x-men-inferno-hc-omnibus",
     "is_core": true,
-    "reading_order": 2
+    "reading_order": 1
   },
   {
     "event_slug": "dark-reign",
@@ -248,7 +242,7 @@
   {
     "event_slug": "world-war-hulk",
     "edition_slug": "heroes-for-hire-2006",
-    "is_core": true,
+    "is_core": false,
     "reading_order": 2
   },
   {
@@ -320,7 +314,7 @@
   {
     "event_slug": "infinity-war-event",
     "edition_slug": "dr-strange-infinity-war-tpb",
-    "is_core": true,
+    "is_core": false,
     "reading_order": 3
   },
   {
@@ -462,12 +456,6 @@
     "reading_order": 1
   },
   {
-    "event_slug": "inferno-2021-event",
-    "edition_slug": "x-men-inferno-hc-omnibus",
-    "is_core": true,
-    "reading_order": 2
-  },
-  {
     "event_slug": "devils-reign-event",
     "edition_slug": "devils-reign-omnibus",
     "is_core": true,
@@ -517,15 +505,9 @@
   },
   {
     "event_slug": "judgment-day",
-    "edition_slug": "avengers-judgment-day-tpb",
-    "is_core": true,
-    "reading_order": 2
-  },
-  {
-    "event_slug": "judgment-day",
     "edition_slug": "axe-judgment-day-companion",
     "is_core": false,
-    "reading_order": 3
+    "reading_order": 2
   },
   {
     "event_slug": "empyre",
@@ -535,43 +517,19 @@
   },
   {
     "event_slug": "hellfire-gala-2022",
-    "edition_slug": "x-men-hellfire-gala-the-red-carpet-collection-ohc",
-    "is_core": true,
-    "reading_order": 1
-  },
-  {
-    "event_slug": "hellfire-gala-2022",
     "edition_slug": "x-men-hellfire-gala-2022",
-    "is_core": true,
-    "reading_order": 2
-  },
-  {
-    "event_slug": "hellfire-gala-2022",
-    "edition_slug": "x-men-hellfire-gala-2023",
-    "is_core": true,
-    "reading_order": 3
-  },
-  {
-    "event_slug": "hellfire-gala-2023",
-    "edition_slug": "x-men-hellfire-gala-the-red-carpet-collection-ohc",
     "is_core": true,
     "reading_order": 1
   },
   {
     "event_slug": "hellfire-gala-2023",
-    "edition_slug": "x-men-hellfire-gala-2022",
-    "is_core": true,
-    "reading_order": 2
-  },
-  {
-    "event_slug": "hellfire-gala-2023",
     "edition_slug": "x-men-hellfire-gala-2023",
     "is_core": true,
-    "reading_order": 3
+    "reading_order": 1
   },
   {
     "event_slug": "annihilation",
-    "edition_slug": "annihilation-2099-tp",
+    "edition_slug": "annihilation-omnibus",
     "is_core": true,
     "reading_order": 1
   },
@@ -596,7 +554,7 @@
   {
     "event_slug": "war-of-kings",
     "edition_slug": "guardians-of-the-galaxy-modern-era-war-of-kings-epic",
-    "is_core": true,
+    "is_core": false,
     "reading_order": 2
   },
   {
@@ -614,7 +572,7 @@
   {
     "event_slug": "civil-war-ii",
     "edition_slug": "all-new-wolverine-v2",
-    "is_core": true,
+    "is_core": false,
     "reading_order": 2
   },
   {
@@ -625,13 +583,13 @@
   },
   {
     "event_slug": "coming-of-galactus",
-    "edition_slug": "ff-omnibus-v1",
+    "edition_slug": "ff-omnibus-v2",
     "is_core": true,
     "reading_order": 1
   },
   {
     "event_slug": "the-thanos-war",
-    "edition_slug": "warlock-by-starlin",
+    "edition_slug": "captain-marvel-starlin",
     "is_core": true,
     "reading_order": 1
   },
@@ -686,7 +644,7 @@
   {
     "event_slug": "gang-war-event",
     "edition_slug": "daredevil-gang-war",
-    "is_core": true,
+    "is_core": false,
     "reading_order": 3
   },
   {
@@ -726,12 +684,6 @@
     "reading_order": 1
   },
   {
-    "event_slug": "maximum-security-event",
-    "edition_slug": "avengers-epic-earths-mightiest",
-    "is_core": true,
-    "reading_order": 1
-  },
-  {
     "event_slug": "spider-verse-event",
     "edition_slug": "spider-verse",
     "is_core": true,
@@ -740,7 +692,7 @@
   {
     "event_slug": "death-of-x-event",
     "edition_slug": "inhumans-vs-x-men",
-    "is_core": true,
+    "is_core": false,
     "reading_order": 1
   },
   {
@@ -763,7 +715,7 @@
   },
   {
     "event_slug": "the-secret-empire-1974",
-    "edition_slug": "cap-epic-coming-of-falcon",
+    "edition_slug": "captain-america-englehart-omnibus",
     "is_core": true,
     "reading_order": 1
   },

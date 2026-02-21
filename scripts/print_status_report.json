@@ -1,0 +1,15 @@
+{
+  "run_date": "2026-02-20",
+  "dry_run": false,
+  "total_editions": 2237,
+  "original_status_counts": {
+    "in_print": 972,
+    "check_availability": 383,
+    "upcoming": 6,
+    "ongoing": 10,
+    "out_of_print": 846,
+    "digital_only": 20
+  },
+  "total_changes": 0,
+  "changes": []
+}

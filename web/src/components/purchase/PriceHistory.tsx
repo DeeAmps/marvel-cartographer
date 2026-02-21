@@ -14,7 +14,6 @@ const statusColors: Record<string, string> = {
   upcoming: "var(--status-upcoming)",
   digital_only: "var(--status-digital)",
   ongoing: "var(--status-ongoing)",
-  check_availability: "var(--text-tertiary)",
 };
 
 function formatStatus(status: string): string {

@@ -76,7 +76,7 @@
     {"event_slug": "fatal-attractions-event", "edition_slug": "xmen-fatal-attractions", "is_core": true, "reading_order": 1},
     {"event_slug": "fatal-attractions-event", "edition_slug": "xm-epic-v23-fatal-attractions", "is_core": false, "reading_order": 2},
     {"event_slug": "fatal-attractions-event", "edition_slug": "xmen-1991-omnibus-v1", "is_core": false, "reading_order": 3},
-    {"event_slug": "fatal-attractions-event", "edition_slug": "x-force-cable-90s-omnibus-v2", "is_core": false, "reading_order": 4},
+    {"event_slug": "fatal-attractions-event", "edition_slug": "cable-x-force-omnibus", "is_core": false, "reading_order": 4},
 
 
     {"event_slug": "infinity-crusade-event", "edition_slug": "infinity-crusade-omnibus", "is_core": true, "reading_order": 1},
@@ -166,7 +166,7 @@
     {"event_slug": "secret-invasion", "edition_slug": "secret-invasion", "is_core": true, "reading_order": 1},
     {"event_slug": "secret-invasion", "edition_slug": "new-avengers-omnibus-v2", "is_core": false, "reading_order": 0},
     {"event_slug": "secret-invasion", "edition_slug": "new-avengers-illuminati-miniseries", "is_core": false, "reading_order": 2},
-    {"event_slug": "secret-invasion", "edition_slug": "mighty-avengers-slott", "is_core": false, "reading_order": 3},
+    {"event_slug": "secret-invasion", "edition_slug": "mighty-avengers-bendis", "is_core": false, "reading_order": 3},
 
 
     {"event_slug": "dark-reign", "edition_slug": "dark-avengers-complete", "is_core": true, "reading_order": 1},
@@ -351,7 +351,7 @@
 
 
     {"event_slug": "one-world-under-doom", "edition_slug": "doctor-doom-2024", "is_core": false, "reading_order": 0},
-    {"event_slug": "one-world-under-doom", "edition_slug": "doctor-doom-2024-rodwell", "is_core": false, "reading_order": 1},
+    {"event_slug": "one-world-under-doom", "edition_slug": "doctor-doom-cantwell-2024", "is_core": false, "reading_order": 1},
     {"event_slug": "one-world-under-doom", "edition_slug": "one-world-under-doom", "is_core": true, "reading_order": 2},
     {"event_slug": "one-world-under-doom", "edition_slug": "blood-hunt", "is_core": false, "reading_order": 3},
     {"event_slug": "one-world-under-doom", "edition_slug": "owud-avengers-tie-in", "is_core": false, "reading_order": 4},

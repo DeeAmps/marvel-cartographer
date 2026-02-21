@@ -17,6 +17,10 @@
 import { readFileSync, existsSync } from 'fs';
 import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { createRequire } from 'module';
+import { execSync } from 'child_process';
+const require = createRequire(resolve(dirname(fileURLToPath(import.meta.url)), '..', 'web', 'package.json'));
+const { createClient } = require('@supabase/supabase-js');
 
 // ---------------------------------------------------------------------------
 // Resolve project root
@@ -62,6 +66,11 @@ console.log(`Supabase URL: ${SUPABASE_URL}`);
 console.log('Service role key loaded.');
 
 // ---------------------------------------------------------------------------
+// Supabase JS client (handles new sb_secret_ key format)
+// ---------------------------------------------------------------------------
+const supabase = createClient(SUPABASE_URL, SERVICE_ROLE_KEY);
+
+// ---------------------------------------------------------------------------
 // Helpers
 // ---------------------------------------------------------------------------
 const DATA_DIR = resolve(PROJECT_ROOT, 'data', 'archive');
@@ -77,7 +86,7 @@ function loadJSON(filename) {
 }
 
 /**
- * Upsert rows into a Supabase table via PostgREST.
+ * Upsert rows into a Supabase table via JS client.
  * Returns the inserted/updated rows with generated UUIDs.
  */
 async function upsert(table, rows, onConflict = 'slug') {
@@ -88,25 +97,16 @@ async function upsert(table, rows, onConflict = 'slug') {
 
   for (let i = 0; i < rows.length; i += BATCH_SIZE) {
     const batch = rows.slice(i, i + BATCH_SIZE);
-    const url = `${SUPABASE_URL}/rest/v1/${table}?on_conflict=${onConflict}`;
-    const res = await fetch(url, {
-      method: 'POST',
-      headers: {
-        'Authorization': `Bearer ${SERVICE_ROLE_KEY}`,
-        'apikey': ANON_KEY,
-        'Content-Type': 'application/json',
-        'Prefer': 'return=representation,resolution=merge-duplicates',
-      },
-      body: JSON.stringify(batch),
-    });
+    const { data, error } = await supabase
+      .from(table)
+      .upsert(batch, { onConflict, ignoreDuplicates: false })
+      .select();
 
-    if (!res.ok) {
-      const body = await res.text();
-      throw new Error(`Upsert into ${table} failed (batch ${i / BATCH_SIZE + 1}): ${res.status} ${res.statusText}\n${body}`);
+    if (error) {
+      throw new Error(`Upsert into ${table} failed (batch ${i / BATCH_SIZE + 1}): ${error.code} ${error.message}`);
     }
 
-    const data = await res.json();
-    allResults.push(...data);
+    allResults.push(...(data || []));
   }
 
   return allResults;
@@ -114,7 +114,7 @@ async function upsert(table, rows, onConflict = 'slug') {
 
 /**
  * Insert rows (no upsert — for junction tables without a slug).
- * Uses POST. If duplicates exist, they'll error; we catch and continue.
+ * If duplicates exist, we catch and continue.
  */
 async function insertRows(table, rows, onConflict = null) {
   if (!rows || rows.length === 0) return [];
@@ -124,37 +124,34 @@ async function insertRows(table, rows, onConflict = null) {
 
   for (let i = 0; i < rows.length; i += BATCH_SIZE) {
     const batch = rows.slice(i, i + BATCH_SIZE);
-    let url = `${SUPABASE_URL}/rest/v1/${table}`;
-    if (onConflict) {
-      url += `?on_conflict=${onConflict}`;
-    }
-    const preferParts = ['return=representation'];
-    if (onConflict) {
-      preferParts.push('resolution=merge-duplicates');
-    }
-    const res = await fetch(url, {
-      method: 'POST',
-      headers: {
-        'Authorization': `Bearer ${SERVICE_ROLE_KEY}`,
-        'apikey': ANON_KEY,
-        'Content-Type': 'application/json',
-        'Prefer': preferParts.join(','),
-      },
-      body: JSON.stringify(batch),
-    });
 
-    if (!res.ok) {
-      const body = await res.text();
-      // For junction tables, duplicate key errors are expected on re-run
-      if (res.status === 409 || body.includes('duplicate key')) {
-        console.warn(`    WARN: Duplicate key(s) in ${table} batch ${i / BATCH_SIZE + 1}, skipping.`);
-        continue;
+    if (onConflict) {
+      const { data, error } = await supabase
+        .from(table)
+        .upsert(batch, { onConflict, ignoreDuplicates: false })
+        .select();
+      if (error) {
+        if (error.code === '23505' || (error.message && error.message.includes('duplicate key'))) {
+          console.warn(`    WARN: Duplicate key(s) in ${table} batch ${i / BATCH_SIZE + 1}, skipping.`);
+          continue;
+        }
+        throw new Error(`Insert into ${table} failed (batch ${i / BATCH_SIZE + 1}): ${error.code} ${error.message}`);
       }
-      throw new Error(`Insert into ${table} failed (batch ${i / BATCH_SIZE + 1}): ${res.status} ${res.statusText}\n${body}`);
+      allResults.push(...(data || []));
+    } else {
+      const { data, error } = await supabase
+        .from(table)
+        .insert(batch)
+        .select();
+      if (error) {
+        if (error.code === '23505' || (error.message && error.message.includes('duplicate key'))) {
+          console.warn(`    WARN: Duplicate key(s) in ${table} batch ${i / BATCH_SIZE + 1}, skipping.`);
+          continue;
+        }
+        throw new Error(`Insert into ${table} failed (batch ${i / BATCH_SIZE + 1}): ${error.code} ${error.message}`);
+      }
+      allResults.push(...(data || []));
     }
-
-    const data = await res.json();
-    allResults.push(...data);
   }
 
   return allResults;
@@ -164,55 +161,39 @@ async function insertRows(table, rows, onConflict = null) {
  * Delete all rows from a table (used for clean re-seed of junction tables).
  */
 async function deleteAll(table) {
-  // PostgREST requires a filter to delete — use a tautology: id is not null
-  const url = `${SUPABASE_URL}/rest/v1/${table}?id=not.is.null`;
-  const res = await fetch(url, {
-    method: 'DELETE',
-    headers: {
-      'Authorization': `Bearer ${SERVICE_ROLE_KEY}`,
-      'apikey': ANON_KEY,
-      'Prefer': 'return=minimal',
-    },
-  });
-  if (!res.ok) {
-    const body = await res.text();
-    // Some junction tables use composite PKs without an id column
-    // Try deleting with a different filter
-    const url2 = `${SUPABASE_URL}/rest/v1/${table}?edition_id=not.is.null`;
-    const res2 = await fetch(url2, {
-      method: 'DELETE',
-      headers: {
-        'Authorization': `Bearer ${SERVICE_ROLE_KEY}`,
-        'apikey': ANON_KEY,
-        'Prefer': 'return=minimal',
-      },
-    });
-    if (!res2.ok) {
-      console.warn(`    WARN: Could not clear ${table}: ${body}`);
+  const { error } = await supabase
+    .from(table)
+    .delete()
+    .neq('id', '00000000-0000-0000-0000-000000000000');
+  if (error) {
+    // Some junction tables use composite PKs without an id column — try edition_id
+    const { error: error2 } = await supabase
+      .from(table)
+      .delete()
+      .not('edition_id', 'is', null);
+    if (error2) {
+      console.warn(`    WARN: Could not clear ${table}: ${error.message}`);
     }
   }
 }
 
 /**
- * PATCH rows via PostgREST
+ * PATCH rows via Supabase JS client
  */
 async function patchRows(table, filter, updates) {
-  const url = `${SUPABASE_URL}/rest/v1/${table}?${filter}`;
-  const res = await fetch(url, {
-    method: 'PATCH',
-    headers: {
-      'Authorization': `Bearer ${SERVICE_ROLE_KEY}`,
-      'apikey': ANON_KEY,
-      'Content-Type': 'application/json',
-      'Prefer': 'return=representation',
-    },
-    body: JSON.stringify(updates),
-  });
-  if (!res.ok) {
-    const body = await res.text();
-    throw new Error(`PATCH ${table} failed: ${res.status} ${body}`);
+  // filter is like "slug=eq.some-slug"
+  const [col, rest] = filter.split('=');
+  const [op, ...valueParts] = rest.split('.');
+  const value = valueParts.join('.');
+  const { data, error } = await supabase
+    .from(table)
+    .update(updates)
+    .eq(col, value)
+    .select();
+  if (error) {
+    throw new Error(`PATCH ${table} failed: ${error.code} ${error.message}`);
   }
-  return res.json();
+  return data;
 }
 
 /**
@@ -328,6 +309,7 @@ async function seedCollectedEditions(eraMap, universeMap) {
     release_date: e.release_date || null,
     edition_number: e.edition_number || 1,
     era_id: eraMap[e.era_slug] || null,
+    publication_era_id: eraMap[e.publication_era_slug] || eraMap[e.era_slug] || null,
     universe_id: earth616Id,
     synopsis: e.synopsis || '',
     connection_notes: e.connection_notes || null,
@@ -853,6 +835,18 @@ async function main() {
   console.log('===========================================');
   console.log(`  Data directory: ${DATA_DIR}`);
   console.log(`  Target: ${SUPABASE_URL}`);
+
+  // Pre-seed data quality gate
+  console.log('\n  Running data validators...');
+  try {
+    execSync(`node "${resolve(__dirname, 'validate-event-editions.mjs')}"`, {
+      stdio: 'inherit',
+    });
+    console.log('  ✓ All validators passed.\n');
+  } catch {
+    console.error('\n  ✗ Data validation failed — fix errors before seeding.');
+    process.exit(1);
+  }
 
   const startTime = Date.now();
 

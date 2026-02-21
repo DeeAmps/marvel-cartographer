@@ -1,0 +1,1708 @@
+{
+  "analysis_date": "2026-02-20",
+  "total_editions": 2221,
+  "current_counts": {
+    "birth-of-marvel": 142,
+    "the-expansion": 72,
+    "bronze-age": 218,
+    "rise-of-x-men": 191,
+    "marvel-knights-ultimate": 153,
+    "hickman-saga": 152,
+    "all-new-all-different": 164,
+    "dawn-of-krakoa": 274,
+    "current-ongoings": 73,
+    "event-age": 196,
+    "bendis-avengers": 197,
+    "heroes-reborn-return": 54,
+    "speculation-crash": 113,
+    "blood-hunt-doom": 222
+  },
+  "reassignment_summary": {
+    "total_reassignments": 240,
+    "from_dawn_of_krakoa": 156,
+    "from_hickman_saga": 44,
+    "from_blood_hunt_doom": 40
+  },
+  "reassignments": [
+    {
+      "slug": "ff-ryan-north",
+      "title": "Fantastic Four by Ryan North",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Fantastic Four by Slott/North is not Krakoa-related"
+    },
+    {
+      "slug": "war-of-the-realms",
+      "title": "War of the Realms",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "all-new-all-different",
+      "reason": "War of the Realms (2019) culminates Aaron's Thor saga, belongs in ANAD era"
+    },
+    {
+      "slug": "cap-coates",
+      "title": "Captain America by Ta-Nehisi Coates",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Captain America by Coates (2018-2021) is not Krakoa-related"
+    },
+    {
+      "slug": "dd-zdarsky-omnibus-v1",
+      "title": "Daredevil by Chip Zdarsky Omnibus Vol. 1",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Daredevil by Zdarsky (2019-2024) is not Krakoa-related"
+    },
+    {
+      "slug": "dd-zdarsky-omnibus-v2",
+      "title": "Daredevil by Chip Zdarsky Omnibus Vol. 2",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Daredevil by Zdarsky (2019-2024) is not Krakoa-related"
+    },
+    {
+      "slug": "asm-zeb-wells",
+      "title": "Amazing Spider-Man by Zeb Wells",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "ASM by Zeb Wells (2022-2024) is not Krakoa-related"
+    },
+    {
+      "slug": "empyre",
+      "title": "Empyre",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Empyre (2020) is an Avengers/FF event, not Krakoa-related"
+    },
+    {
+      "slug": "king-in-black",
+      "title": "King in Black",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "King in Black (2020-2021) is a Venom event, not Krakoa-related"
+    },
+    {
+      "slug": "avengers-mackey-current",
+      "title": "Avengers by Jed MacKay",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Avengers by MacKay (2023) is not Krakoa-related"
+    },
+    {
+      "slug": "black-widow-thompson",
+      "title": "Black Widow by Kelly Thompson",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Black Widow by Thompson (2020-2022) is not Krakoa-related"
+    },
+    {
+      "slug": "silver-surfer-black",
+      "title": "Silver Surfer: Black",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Silver Surfer: Black (2019) is not Krakoa-related"
+    },
+    {
+      "slug": "beta-ray-bill-argent-star",
+      "title": "Beta Ray Bill: Argent Star",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Beta Ray Bill (2021) is not Krakoa-related"
+    },
+    {
+      "slug": "dark-ages",
+      "title": "Dark Ages",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Dark Ages (2021) is a standalone alternate reality, not Krakoa-related"
+    },
+    {
+      "slug": "guardians-cates",
+      "title": "Guardians of the Galaxy by Donny Cates",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Guardians of the Galaxy (2019-2021) is not Krakoa-related"
+    },
+    {
+      "slug": "moon-knight-mackay-omnibus",
+      "title": "Moon Knight By Jed MacKay Omnibus",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Moon Knight by MacKay (2021-2023) is not Krakoa-related"
+    },
+    {
+      "slug": "eternals-gillen",
+      "title": "Eternals By Kieron Gillen",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Eternals by Gillen (2021) is not Krakoa-related"
+    },
+    {
+      "slug": "kang-conqueror-only-myself",
+      "title": "Kang The Conqueror: Only Myself Left to Conquer",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Kang the Conqueror (2021) is not Krakoa-related"
+    },
+    {
+      "slug": "history-marvel-universe",
+      "title": "History of the Marvel Universe",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "History of the Marvel Universe (2019) is a meta-reference, not Krakoa-related"
+    },
+    {
+      "slug": "spider-man-life-story",
+      "title": "Spider-Man: Life Story",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Spider-Man: Life Story (2019) is not Krakoa-related"
+    },
+    {
+      "slug": "cap-sentinel-liberty",
+      "title": "Captain America: Sentinel of Liberty",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Captain America: Sentinel of Liberty (2022) is not Krakoa-related"
+    },
+    {
+      "slug": "captain-marvel-thompson",
+      "title": "Captain Marvel by Kelly Thompson",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Captain Marvel by Thompson (2019-2021) is not Krakoa-related"
+    },
+    {
+      "slug": "scarlet-witch-orlando",
+      "title": "Scarlet Witch by Steve Orlando",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Scarlet Witch by Orlando (2023) is not Krakoa-related"
+    },
+    {
+      "slug": "blade-ayala-2023",
+      "title": "Blade (2023) by Bryan Edward Hill",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Blade (2023) is not Krakoa-related"
+    },
+    {
+      "slug": "namor-conquered-shores",
+      "title": "Namor: Conquered Shores",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Namor: Conquered Shores (2022) is not Krakoa-related"
+    },
+    {
+      "slug": "hawkeye-freefall",
+      "title": "Hawkeye: Freefall",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Hawkeye: Freefall (2020) is not Krakoa-related"
+    },
+    {
+      "slug": "black-widow-kelly-thompson",
+      "title": "Black Widow by Kelly Thompson Complete Collection",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Black Widow by Thompson (2020-2022) is not Krakoa-related"
+    },
+    {
+      "slug": "she-hulk-rowell",
+      "title": "She-Hulk by Rainbow Rowell",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "She-Hulk by Rowell (2022-2024) is not Krakoa-related"
+    },
+    {
+      "slug": "shang-chi-yang",
+      "title": "Shang-Chi by Gene Luen Yang",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Shang-Chi by Yang (2020-2022) is not Krakoa-related"
+    },
+    {
+      "slug": "shang-chi-ten-rings",
+      "title": "Shang-Chi and the Ten Rings",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Shang-Chi and the Ten Rings is not Krakoa-related"
+    },
+    {
+      "slug": "ant-man-zeb-wells",
+      "title": "Ant-Man by Zeb Wells",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Ant-Man (2020) is not Krakoa-related"
+    },
+    {
+      "slug": "spider-woman-karla-pacheco",
+      "title": "Spider-Woman by Karla Pacheco",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Spider-Woman by Pacheco (2020-2021) is not Krakoa-related"
+    },
+    {
+      "slug": "photon-ewing",
+      "title": "Monica Rambeau: Photon by Eve Ewing",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Monica Rambeau: Photon (2022) is not Krakoa-related"
+    },
+    {
+      "slug": "valkyrie-jane-foster",
+      "title": "Valkyrie: Jane Foster by Aaron & Ewing",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Valkyrie: Jane Foster (2019) is not Krakoa-related"
+    },
+    {
+      "slug": "taskmaster-complete",
+      "title": "Taskmaster Complete Collection",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Taskmaster collection spans multiple eras, not Krakoa-related"
+    },
+    {
+      "slug": "midnight-suns-2022",
+      "title": "Midnight Suns (2022)",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Midnight Suns (2022) is not Krakoa-related"
+    },
+    {
+      "slug": "savage-avengers-duggan-omnibus",
+      "title": "Savage Avengers Omnibus by Gerry Duggan",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Savage Avengers (2019-2022) is not Krakoa-related"
+    },
+    {
+      "slug": "strikeforce-complete",
+      "title": "Strikeforce Complete",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Strikeforce (2019) is not Krakoa-related"
+    },
+    {
+      "slug": "power-pack-2020",
+      "title": "Power Pack (2020)",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Power Pack (2020) is not Krakoa-related"
+    },
+    {
+      "slug": "new-warriors-2019",
+      "title": "New Warriors (2019) Outlawed",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "New Warriors (2020) is not Krakoa-related"
+    },
+    {
+      "slug": "thunderbolts-2022",
+      "title": "Thunderbolts (2022) by Jackson Lanzing & Collin Kelly",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Thunderbolts (2022) is not Krakoa-related"
+    },
+    {
+      "slug": "agents-of-wakanda",
+      "title": "Black Panther and the Agents of Wakanda",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Black Panther by Coates/Wakanda titles are not Krakoa-related"
+    },
+    {
+      "slug": "defenders-ewing-2021",
+      "title": "Defenders by Al Ewing (2021)",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Defenders by Ewing (2021-2022) is not Krakoa-related"
+    },
+    {
+      "slug": "agents-of-atlas-pak-2019",
+      "title": "Agents of Atlas by Greg Pak (2019)",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "all-new-all-different",
+      "reason": "War of the Realms (2019) culminates Aaron's Thor saga, belongs in ANAD era"
+    },
+    {
+      "slug": "champions-ewing-2020",
+      "title": "Champions (2020) by Eve L. Ewing",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Champions (2020) is not Krakoa-related"
+    },
+    {
+      "slug": "winter-guard-complete",
+      "title": "Winter Guard Complete",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Winter Guard (2021) is not Krakoa-related"
+    },
+    {
+      "slug": "avengers-no-road-home",
+      "title": "Avengers: No Road Home",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Avengers: No Road Home (2019) is not Krakoa-related"
+    },
+    {
+      "slug": "miracleman-silver-age",
+      "title": "Miracleman: The Silver Age",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Miracleman: Silver Age is not Krakoa-related"
+    },
+    {
+      "slug": "amazing-fantasy-2022-andrews",
+      "title": "Amazing Fantasy (2022)",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Amazing Fantasy (2022) is not Krakoa-related"
+    },
+    {
+      "slug": "spider-punk-arms-race",
+      "title": "Spider-Punk: Arms Race",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Spider-Punk is not Krakoa-related"
+    },
+    {
+      "slug": "guardians-galaxy-ewing",
+      "title": "Guardians of the Galaxy by Al Ewing",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Guardians of the Galaxy (2019-2021) is not Krakoa-related"
+    },
+    {
+      "slug": "heroes-reborn-2021-aaron",
+      "title": "Heroes Reborn (2021)",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Heroes Reborn (2021) by Aaron is not Krakoa-related"
+    },
+    {
+      "slug": "dd-zdarsky-one-more-day",
+      "title": "Daredevil by Chip Zdarsky: To Heaven Through Hell Vol. 3",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Daredevil by Zdarsky (2019-2024) is not Krakoa-related"
+    },
+    {
+      "slug": "war-of-realms-companion",
+      "title": "War of the Realms Companion Omnibus",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "all-new-all-different",
+      "reason": "War of the Realms (2019) culminates Aaron's Thor saga, belongs in ANAD era"
+    },
+    {
+      "slug": "absolute-carnage-omnibus",
+      "title": "Absolute Carnage Omnibus",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Absolute Carnage (2019) is a Venom event, not Krakoa-related"
+    },
+    {
+      "slug": "cap-sentinel-liberty-2022",
+      "title": "Captain America: Sentinel of Liberty (2022) Complete",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Captain America: Sentinel of Liberty (2022) is not Krakoa-related"
+    },
+    {
+      "slug": "ff-slott-omnibus-v2",
+      "title": "Fantastic Four by Dan Slott Omnibus Vol. 2",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Fantastic Four by Slott/North is not Krakoa-related"
+    },
+    {
+      "slug": "ms-marvel-ahmed-magnificent",
+      "title": "Magnificent Ms. Marvel by Saladin Ahmed",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "all-new-all-different",
+      "reason": "Magnificent Ms. Marvel by Ahmed (2019-2021) is ANAD era"
+    },
+    {
+      "slug": "black-cat-mackay",
+      "title": "Black Cat by Jed MacKay Complete Collection",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Black Cat by MacKay (2019-2022) is not Krakoa-related"
+    },
+    {
+      "slug": "venom-ewing-complete",
+      "title": "Venom by Al Ewing Complete Collection",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Venom by Ewing (2021-2024) is not Krakoa-related"
+    },
+    {
+      "slug": "thor-cates-omnibus",
+      "title": "Thor by Donny Cates Omnibus",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Thor by Aaron/Cates is not Krakoa-related"
+    },
+    {
+      "slug": "ghost-spider-mcguire",
+      "title": "Ghost-Spider by Seanan McGuire",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Ghost-Spider is not Krakoa-related"
+    },
+    {
+      "slug": "gwenpool-strikes-back",
+      "title": "Gwenpool Strikes Back",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "all-new-all-different",
+      "reason": "Gwenpool Strikes Back (2019) is closer to ANAD era"
+    },
+    {
+      "slug": "silk-pak-2022-complete",
+      "title": "Silk (2022) by Pak Complete",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Silk (2021-2022) is not Krakoa-related"
+    },
+    {
+      "slug": "marvels-25th-anniversary-ohc",
+      "title": "Marvels 25th Anniversary",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Marvels Snapshots/25th Anniversary is meta content, not Krakoa-related"
+    },
+    {
+      "slug": "cap-by-ta-nehisi-coates-ohc-v1",
+      "title": "Captain America By Ta-Nehisi Coates Vol. 1",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Captain America by Coates (2018-2021) is not Krakoa-related"
+    },
+    {
+      "slug": "immortal-hulk-ohc-v2",
+      "title": "Immortal Hulk Vol. 2",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Immortal Hulk (2018-2021) is not Krakoa-related"
+    },
+    {
+      "slug": "dd-hc-man-without-fear-marvel-select",
+      "title": "Daredevil HC Man Without Fear Marvel Select",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "speculation-crash",
+      "reason": "Daredevil: Man Without Fear (1993-1994) by Miller belongs in Speculation Crash"
+    },
+    {
+      "slug": "black-panther-hc-intergalactic-empire-of-wakanda-part-one-v03",
+      "title": "Black Panther HC Vol. 03 Intergalactic Empire Of Wakanda Part One",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Black Panther by Coates/Wakanda titles are not Krakoa-related"
+    },
+    {
+      "slug": "always-an-invader-hc",
+      "title": "Always An Invader HC",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Invaders (2019) is not Krakoa-related"
+    },
+    {
+      "slug": "guardians-of-the-galaxy-by-donny-cates-hc",
+      "title": "Guardians Of The Galaxy By Donny Cates HC",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Guardians of the Galaxy (2019-2021) is not Krakoa-related"
+    },
+    {
+      "slug": "mmw-captain-america-hc-v12",
+      "title": "Mmw Captain America HC Vol. 12",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "bronze-age",
+      "reason": "Captain America #215-230 (1977-1978) is Bronze Age content"
+    },
+    {
+      "slug": "mmw-spider-woman-hc-v02",
+      "title": "Mmw Spider-Woman HC Vol. 02",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "bronze-age",
+      "reason": "Spider-Woman #9-25 (1978-1979) is Bronze Age content"
+    },
+    {
+      "slug": "spider-man-kravens-last-hunt-marvel-select-hc",
+      "title": "Spider-Man: Kraven's Last Hunt Marvel Select HC",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "event-age",
+      "reason": "Kraven's Last Hunt (1987) belongs in Event Age"
+    },
+    {
+      "slug": "venom-by-donny-cates-hc-v02",
+      "title": "Venom By Donny Cates HC Vol. 02",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Venom by Cates is not Krakoa-related"
+    },
+    {
+      "slug": "cap-sam-wilson-tp-cc-v02",
+      "title": "Captain America Sam Wilson Complete Collection TP Vol. 02",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "all-new-all-different",
+      "reason": "Captain America: Sam Wilson #7-24 (2016-2017) belongs in ANAD era"
+    },
+    {
+      "slug": "dd-by-chip-zdarsky-to-heaven-through-hell-ohc-v1",
+      "title": "Daredevil By Chip Zdarsky: To Heaven Through Hell Vol. 1",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Daredevil by Zdarsky (2019-2024) is not Krakoa-related"
+    },
+    {
+      "slug": "official-handbook-marvel-universe-dlx-ed-hc-omnibus",
+      "title": "Official Handbook Marvel Universe Dlx Ed Omnibus HC",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "event-age",
+      "reason": "OHOTMU Deluxe Edition (1985-1987) belongs in Event Age"
+    },
+    {
+      "slug": "punisher-welcome-back-frank-marvel-select-hc",
+      "title": "Punisher: Welcome Back, Frank Marvel Select HC",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "marvel-knights-ultimate",
+      "reason": "Punisher: Welcome Back, Frank (2000) is Marvel Knights era"
+    },
+    {
+      "slug": "immortal-hulk-ohc-v3",
+      "title": "Immortal Hulk Vol. 3",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Immortal Hulk (2018-2021) is not Krakoa-related"
+    },
+    {
+      "slug": "dead-man-logan-cc",
+      "title": "Dead Man Logan Complete Collection",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "all-new-all-different",
+      "reason": "Dead Man Logan (2018-2019) is ANAD era"
+    },
+    {
+      "slug": "ka-zar-the-savage-omibus-hc-anderson-action-cover",
+      "title": "Ka-Zar The Savage Omibus HC Anderson Action Cover",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "rise-of-x-men",
+      "reason": "Ka-Zar the Savage (1981-1984) is an early-80s title"
+    },
+    {
+      "slug": "immortal-hulk-ohc-v4",
+      "title": "Immortal Hulk Vol. 4",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Immortal Hulk (2018-2021) is not Krakoa-related"
+    },
+    {
+      "slug": "jessica-jones-alias-hc-first-issue-omnibus",
+      "title": "Jessica Jones: Alias Omnibus HC First Issue",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "marvel-knights-ultimate",
+      "reason": "Alias (2001-2004) is Marvel Knights era"
+    },
+    {
+      "slug": "marvel-the-spectacular-spider-man-hc-v4",
+      "title": "Marvel Masterworks: The Spectacular Spider-Man Vol. 4 HC",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "rise-of-x-men",
+      "reason": "Spectacular Spider-Man #43-55 (1980-1981) belongs in Rise of X-Men era"
+    },
+    {
+      "slug": "spider-man-life-story-ohc",
+      "title": "Spider-Man: Life Story",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Spider-Man: Life Story (2019) is not Krakoa-related"
+    },
+    {
+      "slug": "ff-by-dan-slott-ohc-v2",
+      "title": "Fantastic Four By Dan Slott Vol. 2",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Fantastic Four by Slott/North is not Krakoa-related"
+    },
+    {
+      "slug": "howard-the-duck-by-zdarsky-quinones-hc-quinones-cover-omnibus",
+      "title": "Howard The Duck By Zdarsky & Quinones Omnibus HC Quinones Cover",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "all-new-all-different",
+      "reason": "War of the Realms (2019) culminates Aaron's Thor saga, belongs in ANAD era"
+    },
+    {
+      "slug": "venom-by-donny-cates-ohc-v3",
+      "title": "Venom By Donny Cates Vol. 3",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Venom by Cates is not Krakoa-related"
+    },
+    {
+      "slug": "avengers-by-jason-aaron-ohc-v2",
+      "title": "Avengers By Jason Aaron Vol. 2",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Avengers by Aaron (2018-2023) is not Krakoa-related"
+    },
+    {
+      "slug": "black-panther-the-intergalactic-empire-of-wakanda-part-two-ohc-v4",
+      "title": "Black Panther Vol. 4: The Intergalactic Empire Of Wakanda Part Two",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Black Panther by Coates/Wakanda titles are not Krakoa-related"
+    },
+    {
+      "slug": "cap-by-ta-nehisi-coates-ohc-v2",
+      "title": "Captain America By Ta-Nehisi Coates Vol. 2",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Captain America by Coates (2018-2021) is not Krakoa-related"
+    },
+    {
+      "slug": "thor-by-jason-aaron-ohc-v5",
+      "title": "Thor By Jason Aaron Vol. 5",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Thor by Aaron/Cates is not Krakoa-related"
+    },
+    {
+      "slug": "thor-by-jason-aaron-the-tpb-v5",
+      "title": "Thor By Jason Aaron: The Complete Collection Vol. 5 TPB",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Thor by Aaron/Cates is not Krakoa-related"
+    },
+    {
+      "slug": "marvel-dazzler-hc-v3",
+      "title": "Marvel Masterworks: Dazzler Vol. 3 HC",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "rise-of-x-men",
+      "reason": "Dazzler #26-34 (1982-1984) belongs in Rise of X-Men era"
+    },
+    {
+      "slug": "avengers-by-jason-aaron-ohc-v3",
+      "title": "Avengers By Jason Aaron Vol. 3",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Avengers by Aaron (2018-2023) is not Krakoa-related"
+    },
+    {
+      "slug": "strange-academy-first-class-ohc",
+      "title": "Strange Academy: First Class",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Strange Academy (2020-2022) is not Krakoa-related"
+    },
+    {
+      "slug": "dd-by-chip-zdarsky-to-heaven-through-hell-ohc-v3",
+      "title": "Daredevil By Chip Zdarsky: To Heaven Through Hell Vol. 3",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Daredevil by Zdarsky (2019-2024) is not Krakoa-related"
+    },
+    {
+      "slug": "fortnite-x-marvel-zero-war-premiere-hc",
+      "title": "Fortnite X Marvel: Zero War Premiere HC",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Fortnite x Marvel: Zero War (2022) publication is not Krakoa-related"
+    },
+    {
+      "slug": "immortal-hulk-ohc-v5",
+      "title": "Immortal Hulk Vol. 5",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Immortal Hulk (2018-2021) is not Krakoa-related"
+    },
+    {
+      "slug": "official-handbook-of-the-marvel-universe-update-89-hc-frenz-iron-man-cover-omnibus",
+      "title": "Official Handbook Of The Marvel Universe Update 89 Omnibus HC Frenz Iron Man Cover",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "event-age",
+      "reason": "OHOTMU Update 89 (1989) belongs in Event Age"
+    },
+    {
+      "slug": "asm-by-nick-spencer-hc-ottley-first-issue-cover-omnibus-v1",
+      "title": "Amazing Spider-Man By Nick Spencer Omnibus Vol. 1 HC Ottley First Issue Cover",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "all-new-all-different",
+      "reason": "ASM by Spencer (2018-2021) is not Krakoa-related"
+    },
+    {
+      "slug": "ff-by-dan-slott-ohc-v3",
+      "title": "Fantastic Four By Dan Slott Vol. 3",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Fantastic Four by Slott/North is not Krakoa-related"
+    },
+    {
+      "slug": "cap-by-nick-spencer-hc-alex-ross-cover-omnibus-v1",
+      "title": "Captain America By Nick Spencer Omnibus Vol. 1 HC Alex Ross Cover",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "all-new-all-different",
+      "reason": "Captain America by Spencer (2016-2017) belongs in ANAD era"
+    },
+    {
+      "slug": "hulk-grand-design-treasury-edition-tpb-ohc",
+      "title": "Hulk: Grand Design Treasury Edition TPB",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Hulk: Grand Design (2022) is a standalone retelling, not Krakoa-related"
+    },
+    {
+      "slug": "deadpool-by-kelly-thompson-tp",
+      "title": "Deadpool By Kelly Thompson TP",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Deadpool by Thompson (2019) is not Krakoa-related"
+    },
+    {
+      "slug": "dr-strange-triumph-and-torment-tpb",
+      "title": "Doctor Strange Epic Collection: Triumph And Torment TPB",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "event-age",
+      "reason": "Doctor Strange, Sorcerer Supreme #1-13 (1988-1989) belongs in Event Age"
+    },
+    {
+      "slug": "avengers-west-coast-california-screaming-tpb",
+      "title": "Avengers West Coast Epic Collection: California Screaming TPB",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "event-age",
+      "reason": "Avengers West Coast #65-82 (1990-1992) belongs in Event Age"
+    },
+    {
+      "slug": "captain-marvel-by-kelly-thompson-hc-omnibus-v1",
+      "title": "Captain Marvel By Kelly Thompson Omnibus Vol. 1 HC",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Captain Marvel by Thompson (2019-2021) is not Krakoa-related"
+    },
+    {
+      "slug": "sgt-fury-berlin-breakout-tpb",
+      "title": "Sgt. Fury Epic Collection: Berlin Breakout TPB",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "birth-of-marvel",
+      "reason": "Sgt. Fury (1960s) belongs in Birth of Marvel"
+    },
+    {
+      "slug": "the-hood-the-saga-of-parker-robbins-tpb",
+      "title": "The Hood: The Saga Of Parker Robbins TPB",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "bendis-avengers",
+      "reason": "The Hood: Dark Reign (2009) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "black-cat-by-jed-mackay-hc-in-hyuk-lee-cover-omnibus",
+      "title": "Black Cat By Jed Mackay Omnibus HC In-Hyuk Lee Cover",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Black Cat by MacKay (2019-2022) is not Krakoa-related"
+    },
+    {
+      "slug": "dd-by-chip-zdarsky-to-heaven-through-hell-ohc-v4",
+      "title": "Daredevil By Chip Zdarsky: To Heaven Through Hell Vol. 4",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Daredevil by Zdarsky (2019-2024) is not Krakoa-related"
+    },
+    {
+      "slug": "avengers-by-jason-aaron-ohc-v4",
+      "title": "Avengers By Jason Aaron Vol. 4",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Avengers by Aaron (2018-2023) is not Krakoa-related"
+    },
+    {
+      "slug": "cap-by-ta-nehisi-coates-omnibus",
+      "title": "Captain America By Ta-Nehisi Coates Omnibus",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Captain America by Coates (2018-2021) is not Krakoa-related"
+    },
+    {
+      "slug": "dr-strange-fall-sunrise-treasury-edition-tpb-hc",
+      "title": "Doctor Strange: Fall Sunrise Treasury Edition TPB",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Doctor Strange is not Krakoa-related"
+    },
+    {
+      "slug": "infamous-iron-man-by-bendis-maleev-tp",
+      "title": "Infamous Iron Man By Bendis & Maleev",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "all-new-all-different",
+      "reason": "Infamous Iron Man (2016-2017) by Bendis belongs in ANAD era"
+    },
+    {
+      "slug": "miles-morales-spider-man-by-saladin-ahmed-hc-omnibus",
+      "title": "Miles Morales: Spider-Man By Saladin Ahmed Omnibus HC",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Absolute Carnage (2019) is a Venom event, not Krakoa-related"
+    },
+    {
+      "slug": "miles-morales-spider-man-by-saladin-ahmed-hc-omnibus-2",
+      "title": "Miles Morales: Spider-Man By Saladin Ahmed Omnibus HC",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Absolute Carnage (2019) is a Venom event, not Krakoa-related"
+    },
+    {
+      "slug": "captain-marvel-by-kelly-thompson-tpb-v1",
+      "title": "Captain Marvel By Kelly Thompson [Complete Collection] Vol. 1 TPB",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Captain Marvel by Thompson (2019-2021) is not Krakoa-related"
+    },
+    {
+      "slug": "ghost-rider-by-ed-brisson-tpb",
+      "title": "Ghost Rider By Ed Brisson TPB",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "King in Black (2020-2021) is a Venom event, not Krakoa-related"
+    },
+    {
+      "slug": "marvel-age-hc-omnibus-v1",
+      "title": "Marvel Age Omnibus Vol. 1 HC",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "rise-of-x-men",
+      "reason": "Marvel Age #1-34 (1983-1986) belongs in Rise of X-Men era"
+    },
+    {
+      "slug": "hawkeye-the-way-of-the-arrow-tpb",
+      "title": "Hawkeye Epic Collection: The Way Of The Arrow TPB",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "event-age",
+      "reason": "Solo Avengers/Avengers Spotlight (1988-1989) belongs in Event Age"
+    },
+    {
+      "slug": "marvel-z-returns-hc-omnibus",
+      "title": "Marvel Zomnibus Returns HC",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "bendis-avengers",
+      "reason": "Marvel Zombies franchise is primarily Bendis Avengers era"
+    },
+    {
+      "slug": "demon-wars-treasury-edition-tpb-hc",
+      "title": "Demon Wars Treasury Edition TPB",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Demon Wars (2022-2023) is a standalone, not Krakoa-related"
+    },
+    {
+      "slug": "spider-mandeadpool-modern-era-isnt-it-bromantic-tpb",
+      "title": "Spider-Man/deadpool Modern Era Epic Collection: Isn't It Bromantic TPB",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "all-new-all-different",
+      "reason": "Spider-Man/Deadpool (2016-2019) belongs in ANAD era"
+    },
+    {
+      "slug": "spider-man-by-tom-taylor-tpb",
+      "title": "Spider-Man By Tom Taylor TPB",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Friendly Neighborhood Spider-Man (2019) is not Krakoa-related"
+    },
+    {
+      "slug": "ff-by-dan-slott-ohc-v4",
+      "title": "Fantastic Four By Dan Slott Vol. 4",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Fantastic Four by Slott/North is not Krakoa-related"
+    },
+    {
+      "slug": "spidey-freshman-year-tpb",
+      "title": "Spidey: Freshman Year TPB",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "all-new-all-different",
+      "reason": "Spidey (2016) is ANAD era"
+    },
+    {
+      "slug": "secret-wars-ii-tpb",
+      "title": "Secret Wars II TPB",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "rise-of-x-men",
+      "reason": "Secret Wars II (1985) belongs in Rise of X-Men era"
+    },
+    {
+      "slug": "spider-verse-across-the-multiverse-tpb",
+      "title": "Spider-Verse: Across The Multiverse TPB",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "all-new-all-different",
+      "reason": "Spider-Verse collection is primarily ANAD era content"
+    },
+    {
+      "slug": "cap-by-nick-spencer-hc-omnibus-v2",
+      "title": "Captain America By Nick Spencer Omnibus Vol. 2 HC",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "all-new-all-different",
+      "reason": "Captain America by Spencer (2016-2017) belongs in ANAD era"
+    },
+    {
+      "slug": "asm-by-nick-spencer-hc-omnibus-v2",
+      "title": "Amazing Spider-Man By Nick Spencer Omnibus Vol. 2 HC",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "all-new-all-different",
+      "reason": "ASM by Spencer (2018-2021) is not Krakoa-related"
+    },
+    {
+      "slug": "black-widow-by-kelly-thompson-tpb",
+      "title": "Black Widow By Kelly Thompson TPB",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Black Widow by Thompson (2020-2022) is not Krakoa-related"
+    },
+    {
+      "slug": "dd-by-chip-zdarsky-hc-checchetto-cover-omnibus-v1",
+      "title": "Daredevil By Chip Zdarsky Omnibus Vol. 1 HC Checchetto Cover",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Daredevil by Zdarsky (2019-2024) is not Krakoa-related"
+    },
+    {
+      "slug": "eternals-by-kieron-gillen-tpb",
+      "title": "Eternals By Kieron Gillen TPB",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Eternals by Gillen (2021) is not Krakoa-related"
+    },
+    {
+      "slug": "dr-strange-by-mark-waid-tpb-v2",
+      "title": "Doctor Strange By Mark Waid Vol. 2 TPB",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Doctor Strange is not Krakoa-related"
+    },
+    {
+      "slug": "avengers-by-jason-aaron-ohc-v5",
+      "title": "Avengers By Jason Aaron Vol. 5",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Avengers by Aaron (2018-2023) is not Krakoa-related"
+    },
+    {
+      "slug": "moon-knight-by-jed-mackay-omnibus",
+      "title": "Moon Knight By Jed Mackay Omnibus",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Moon Knight by MacKay (2021-2023) is not Krakoa-related"
+    },
+    {
+      "slug": "thor-by-cates-klein-nic-klein-thor-team-up-cover-omnibus",
+      "title": "Thor By Cates & Klein Omnibus Nic Klein Thor Team-Up Cover",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Thor by Aaron/Cates is not Krakoa-related"
+    },
+    {
+      "slug": "cap-by-j-michael-straczynski-trying-to-come-home-tp-v2",
+      "title": "Captain America By J. Michael Straczynski Vol. 2: Trying To Come Home",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Captain America by Straczynski (2023) is not Krakoa-related"
+    },
+    {
+      "slug": "hulk-by-cates-ottley-omnibus",
+      "title": "Hulk By Cates & Ottley Omnibus",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Thor by Aaron/Cates is not Krakoa-related"
+    },
+    {
+      "slug": "doctor-doom-by-cantwell-larroca-cc",
+      "title": "Doctor Doom By Cantwell & Larroca",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "all-new-all-different",
+      "reason": "War of the Realms (2019) culminates Aaron's Thor saga, belongs in ANAD era"
+    },
+    {
+      "slug": "peach-momokos-demon-saga-demon-wars-tp",
+      "title": "Peach Momoko's Demon Saga: Demon Wars",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Demon Wars (2022-2023) is a standalone, not Krakoa-related"
+    },
+    {
+      "slug": "ff-reckoning-war-ohc",
+      "title": "Fantastic Four: Reckoning War",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Fantastic Four by Slott/North is not Krakoa-related"
+    },
+    {
+      "slug": "savage-avengers-by-gerry-duggan-cc-v2",
+      "title": "Savage Avengers By Gerry Duggan Vol. 2",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Empyre (2020) is an Avengers/FF event, not Krakoa-related"
+    },
+    {
+      "slug": "black-panther-by-ta-nehisi-coates-the-intergalactic-empire-of-wakanda-cc",
+      "title": "Black Panther By Ta-Nehisi Coates: The Intergalactic Empire Of Wakanda",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Black Panther by Coates/Wakanda titles are not Krakoa-related"
+    },
+    {
+      "slug": "strange-academy-omnibus",
+      "title": "Strange Academy Omnibus",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Strange Academy (2020-2022) is not Krakoa-related"
+    },
+    {
+      "slug": "old-man-hawkeye-the-cc",
+      "title": "Old Man Hawkeye: The Complete Collection",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "all-new-all-different",
+      "reason": "Old Man Hawkeye (2018) is ANAD era"
+    },
+    {
+      "slug": "spider-man-gang-war-omnibus",
+      "title": "Spider-Man: Gang War Omnibus",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "ASM by Zeb Wells (2022-2024) is not Krakoa-related"
+    },
+    {
+      "slug": "howard-the-duck-by-zdarsky-quinones-cc",
+      "title": "Howard The Duck By Zdarsky & Quinones",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "all-new-all-different",
+      "reason": "War of the Realms (2019) culminates Aaron's Thor saga, belongs in ANAD era"
+    },
+    {
+      "slug": "dr-strange-by-jed-mackay-omnibus",
+      "title": "Doctor Strange By Jed Mackay Omnibus",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Doctor Strange is not Krakoa-related"
+    },
+    {
+      "slug": "dr-strange-by-jed-mackay-stephanie-hans-cover-omnibus",
+      "title": "Doctor Strange By Jed Mackay Omnibus Stephanie Hans Cover",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "Doctor Strange is not Krakoa-related"
+    },
+    {
+      "slug": "she-hulk-by-rainbow-rowell-omnibus",
+      "title": "She-Hulk By Rainbow Rowell Omnibus",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "She-Hulk by Rowell (2022-2024) is not Krakoa-related"
+    },
+    {
+      "slug": "she-hulk-by-rainbow-rowell-peach-momoko-cover-omnibus",
+      "title": "She-Hulk By Rainbow Rowell Omnibus Peach Momoko Cover",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "blood-hunt-doom",
+      "reason": "She-Hulk by Rowell (2022-2024) is not Krakoa-related"
+    },
+    {
+      "slug": "black-panther-who-is-black-panther-marvel-select-hc",
+      "title": "Black Panther Who Is Black Panther Marvel Select HC",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "bendis-avengers",
+      "reason": "Who Is Black Panther by Hudlin (2005) is Bendis Avengers era"
+    },
+    {
+      "slug": "mmw-howard-the-duck-hc-exclusive-ed-300-v01",
+      "title": "Mmw Howard The Duck HC Vol. 01 Exclusive Ed 300",
+      "current_era": "dawn-of-krakoa",
+      "suggested_era": "bronze-age",
+      "reason": "Howard the Duck (1976-1979) is Bronze Age content"
+    },
+    {
+      "slug": "dd-shadowland-omnibus",
+      "title": "Daredevil: Shadowland Omnibus",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Daredevil: Shadowland (2010) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "fear-itself",
+      "title": "Fear Itself",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Fear Itself (2011) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "punisher-remender-omnibus",
+      "title": "Punisher By Rick Remender Omnibus",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Punisher by Remender (2009-2010) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "namor-first-mutant",
+      "title": "Namor: The First Mutant Complete Collection",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Namor: The First Mutant (2010-2011) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "hawkeye-mockingbird-complete",
+      "title": "Hawkeye & Mockingbird / Black Widow: Widowmaker",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Hawkeye & Mockingbird (2010-2011) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "agent-venom-complete-v1",
+      "title": "Venom by Rick Remender Complete Collection Vol. 1",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Agent Venom by Remender (2011-2013) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "hercules-assault-on-olympus",
+      "title": "Hercules: Assault on New Olympus",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Incredible Hercules (2009-2010) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "secret-avengers-brubaker",
+      "title": "Secret Avengers by Ed Brubaker Complete Collection",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Secret Avengers by Brubaker (2010-2011) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "avengers-academy-complete-v1",
+      "title": "Avengers Academy Complete Collection Vol. 1",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Avengers Academy (2010-2012) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "avengers-academy-complete-v2",
+      "title": "Avengers Academy Complete Collection Vol. 2",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Avengers Academy (2010-2012) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "heroes-for-hire-2011",
+      "title": "Heroes for Hire (2011) Complete",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Heroes for Hire (2011) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "alpha-flight-pak-van-lente",
+      "title": "Alpha Flight by Pak & Van Lente Complete",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Alpha Flight (2011) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "thunderbolts-parker-complete",
+      "title": "Thunderbolts by Jeff Parker Complete Collection",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Thunderbolts by Parker (2009-2012) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "winter-soldier-brubaker",
+      "title": "Winter Soldier by Brubaker Complete",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Winter Soldier by Brubaker (2012) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "captain-america-bucky-brubaker",
+      "title": "Captain America & Bucky by Brubaker",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Captain America & Bucky (2011) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "young-allies-complete",
+      "title": "Young Allies Complete Collection",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Young Allies (2010) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "heroic-age-complete",
+      "title": "Heroic Age: Complete Collection",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Heroic Age / Avengers (2010) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "spider-island-omnibus",
+      "title": "Spider-Island Omnibus",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Spider-Island (2011) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "fear-itself-the-fearless",
+      "title": "Fear Itself: The Fearless",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Fear Itself (2011) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "age-of-x-complete",
+      "title": "Age of X Complete",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Age of X (2011) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "annihilators-complete",
+      "title": "Annihilators Complete",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Annihilators (2011) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "avengers-vs-x-men-hc-cheung-iron-man-vs-magneto-cover-omnibus",
+      "title": "Avengers Vs. X-Men Omnibus HC Cheung Iron Man Vs. Magneto Cover",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Avengers Academy (2010-2012) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "moon-knight-by-bendis-maleev-the-tpb",
+      "title": "Moon Knight By Bendis & Maleev: The Complete Collection TPB",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Moon Knight by Bendis (2011-2012) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "deadpool-cable-hc-omnibus",
+      "title": "Deadpool & Cable Omnibus HC",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Cable & Deadpool (2004-2008) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "spider-gwen-ghost-spider-modern-era-edge-of-spider-verse-tpb",
+      "title": "Spider-Gwen: Ghost-Spider Modern Era Epic Collection: Edge Of Spider-Verse TPB",
+      "current_era": "hickman-saga",
+      "suggested_era": "all-new-all-different",
+      "reason": "Spider-Gwen (2015-2018) belongs in ANAD era"
+    },
+    {
+      "slug": "new-x-men-hc-quitely-promo-cover-omnibus",
+      "title": "New X-Men Omnibus HC Quitely Promo Cover",
+      "current_era": "hickman-saga",
+      "suggested_era": "marvel-knights-ultimate",
+      "reason": "New X-Men (2001-2004) by Morrison belongs in Marvel Knights era"
+    },
+    {
+      "slug": "loki-modern-era-everything-burns-tpb",
+      "title": "Loki Modern Era Epic Collection: Everything Burns TPB",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Loki: Journey into Mystery (2011-2012) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "cap-return-of-the-winter-soldier-hc-omnibus",
+      "title": "Captain America: Return Of The Winter Soldier Omnibus HC",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Fear Itself (2011) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "cap-return-of-the-winter-soldier-omnibus",
+      "title": "Captain America: Return Of The Winter Soldier Omnibus",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Fear Itself (2011) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "thunderbolts-dark-reign-tpb",
+      "title": "Thunderbolts: Dark Reign TPB",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Thunderbolts: Dark Reign (2008-2009) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "miles-morales-spider-man-modern-era-hero-in-training-epic",
+      "title": "Miles Morales: Spider-Man Modern Era Epic Collection: Hero In Training",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Miles Morales: Ultimate Comics Spider-Man (2011-2012) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "thunderbolts-the-saga-of-yelena-belova-cc",
+      "title": "Thunderbolts: The Saga Of Yelena Belova",
+      "current_era": "hickman-saga",
+      "suggested_era": "marvel-knights-ultimate",
+      "reason": "Black Widow/Yelena Belova (1999-2001) belongs in Marvel Knights era"
+    },
+    {
+      "slug": "new-x-men-modern-era-new-worlds-epic",
+      "title": "New X-Men Modern Era Epic Collection: New Worlds",
+      "current_era": "hickman-saga",
+      "suggested_era": "marvel-knights-ultimate",
+      "reason": "New X-Men (2001-2004) by Morrison belongs in Marvel Knights era"
+    },
+    {
+      "slug": "agent-venom-omnibus",
+      "title": "Agent Venom Omnibus",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Agent Venom by Remender (2011-2013) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "iron-man-modern-era-the-new-iron-age-epic",
+      "title": "Iron Man Modern Era Epic Collection: The New Iron Age",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Fear Itself (2011) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "wolverine-goes-to-hell-omnibus",
+      "title": "Wolverine Goes To Hell Omnibus",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Wolverine (2010) by Aaron belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "fear-itself-tp",
+      "title": "Fear Itself",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Fear Itself (2011) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "miles-morales-spider-man-modern-era-spider-man-no-more-epic",
+      "title": "Miles Morales: Spider-Man Modern Era Epic Collection: Spider-Man No More",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Miles Morales: Ultimate Comics Spider-Man (2012-2013) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "phoenix-the-death-rebirth-of-jean-grey-omnibus",
+      "title": "Phoenix: The Death & Rebirth Of Jean Grey Omnibus",
+      "current_era": "hickman-saga",
+      "suggested_era": "marvel-knights-ultimate",
+      "reason": "New X-Men (2001-2004) by Morrison belongs in Marvel Knights era"
+    },
+    {
+      "slug": "phoenix-the-death-rebirth-of-jean-grey-jim-lee-cover-omnibus",
+      "title": "Phoenix: The Death & Rebirth Of Jean Grey Omnibus Jim Lee Cover",
+      "current_era": "hickman-saga",
+      "suggested_era": "marvel-knights-ultimate",
+      "reason": "New X-Men (2001-2004) by Morrison belongs in Marvel Knights era"
+    },
+    {
+      "slug": "carnage-modern-era-carnage-usa-epic",
+      "title": "Carnage Modern Era Epic Collection: Carnage U.S.A.",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Carnage/Carnage USA (2010-2012) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "spider-man-noir-hard-boiled-origins-cc",
+      "title": "Spider-Man Noir: Hard-Boiled Origins",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Spider-Man Noir (2008-2009) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "ultimate-spider-man-omnibus-v5",
+      "title": "Ultimate Spider-Man Omnibus Vol. 5",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Ultimate Spider-Man Vol. 5 (2009-2011) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "ux-by-brian-michael-bendis-omnibus",
+      "title": "Uncanny X-Men By Brian Michael Bendis Omnibus",
+      "current_era": "hickman-saga",
+      "suggested_era": "bendis-avengers",
+      "reason": "Uncanny X-Men by Bendis (2013-2015) is Bendis's work, belongs in Bendis era"
+    },
+    {
+      "slug": "asm-beyond-hc-arthur-adams-first-issue-cover-omnibus",
+      "title": "Amazing Spider-Man: Beyond Omnibus HC Arthur Adams First Issue Cover",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "dawn-of-krakoa",
+      "reason": "ASM Beyond (2021-2022) was published during Dawn of Krakoa era"
+    },
+    {
+      "slug": "ultimate-x-men-hc-omnibus-v2",
+      "title": "Ultimate X-Men Omnibus Vol. 2 HC",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "marvel-knights-ultimate",
+      "reason": "Ultimate X-Men #34-74 (2003-2006) belongs in Marvel Knights era"
+    },
+    {
+      "slug": "deadpool-verse-deadpool-corps-tpb",
+      "title": "Deadpool-Verse: Deadpool Corps TPB",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "bendis-avengers",
+      "reason": "Deadpool Corps (2010-2011) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "ultimate-marvel-by-jonathan-hickman-hc-omnibus",
+      "title": "Ultimate Marvel By Jonathan Hickman Omnibus HC",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "bendis-avengers",
+      "reason": "Ultimate Comics Ultimates by Hickman (2011-2012) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "jeph-loeb-tim-sale-hulk-gallery-edition-hc",
+      "title": "Jeph Loeb & Tim Sale: Hulk Gallery Edition",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "marvel-knights-ultimate",
+      "reason": "Hulk: Gray (2003-2004) by Loeb/Sale belongs in Marvel Knights era"
+    },
+    {
+      "slug": "jeph-loeb-tim-sale-hulk-gallery-edition-hc-2",
+      "title": "Jeph Loeb & Tim Sale: Hulk Gallery Edition",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "marvel-knights-ultimate",
+      "reason": "Hulk: Gray (2003-2004) by Loeb/Sale belongs in Marvel Knights era"
+    },
+    {
+      "slug": "avengers-west-coast-ultron-unbound-tpb",
+      "title": "Avengers West Coast Epic Collection: Ultron Unbound TPB",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "speculation-crash",
+      "reason": "Avengers West Coast #83-95 (1992-1993) belongs in Speculation Crash era"
+    },
+    {
+      "slug": "ms-marvel-by-saladin-ahmed-tpb",
+      "title": "Ms. Marvel By Saladin Ahmed TPB",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "dawn-of-krakoa",
+      "reason": "Magnificent Ms. Marvel (2019-2021) was published during Krakoa era"
+    },
+    {
+      "slug": "hawkeye-modern-era-the-reunion-tp",
+      "title": "Hawkeye Modern Era Epic Collection: The Reunion",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "bendis-avengers",
+      "reason": "Hawkeye: The Reunion (2009-2011) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "jeph-loeb-tim-sale-captain-america-gallery-edition-hc",
+      "title": "Jeph Loeb & Tim Sale: Captain America Gallery Edition",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "hickman-saga",
+      "reason": "Captain America: White (2015) by Loeb/Sale belongs in Hickman Saga era"
+    },
+    {
+      "slug": "jeph-loeb-tim-sale-captain-america-gallery-edition-hc-2",
+      "title": "Jeph Loeb & Tim Sale: Captain America Gallery Edition",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "hickman-saga",
+      "reason": "Captain America: White (2015) by Loeb/Sale belongs in Hickman Saga era"
+    },
+    {
+      "slug": "fall-of-the-house-of-x-rise-of-the-powers-of-x-cc",
+      "title": "Fall Of The House Of X / Rise Of The Powers Of X",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "dawn-of-krakoa",
+      "reason": "House of X / Powers of X (2019) is THE foundational Dawn of Krakoa title"
+    },
+    {
+      "slug": "nyx-gallery-edition-hc",
+      "title": "NYX Gallery Edition HC",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "marvel-knights-ultimate",
+      "reason": "NYX (2003-2005) belongs in Marvel Knights era"
+    },
+    {
+      "slug": "doctor-doom-books-of-doom-tp",
+      "title": "Doctor Doom: Books Of Doom",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "bendis-avengers",
+      "reason": "Books of Doom (2005-2006) by Brubaker belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "beta-ray-bill-argent-star-tp",
+      "title": "Beta Ray Bill: Argent Star",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "dawn-of-krakoa",
+      "reason": "Beta Ray Bill (2021) was published during Krakoa era"
+    },
+    {
+      "slug": "deadpool-kills-the-marvel-universe-again-tp",
+      "title": "Deadpool Kills The Marvel Universe Again",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "all-new-all-different",
+      "reason": "Deadpool Kills the Marvel Universe Again (2017) belongs in ANAD era"
+    },
+    {
+      "slug": "annihilation-omnibus-2",
+      "title": "Annihilation Omnibus",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "bendis-avengers",
+      "reason": "Annihilation (2006) is a major Bendis Avengers era cosmic event"
+    },
+    {
+      "slug": "ff-by-morrison-lee-1234-tp",
+      "title": "Fantastic Four By Morrison & Lee: 1234",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "marvel-knights-ultimate",
+      "reason": "FF: 1234 by Morrison/Lee (2001-2002) belongs in Marvel Knights era"
+    },
+    {
+      "slug": "spider-man-legend-of-the-spider-clan-tp",
+      "title": "Spider-Man: Legend Of The Spider-Clan",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "marvel-knights-ultimate",
+      "reason": "Spider-Man: Legend of the Spider-Clan (2002) belongs in Marvel Knights era"
+    },
+    {
+      "slug": "strange-academy-skottie-young-cover-omnibus",
+      "title": "Strange Academy Omnibus Skottie Young Cover",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "dawn-of-krakoa",
+      "reason": "Strange Academy (2020-2022) was published during Krakoa era"
+    },
+    {
+      "slug": "ultimate-fantastic-four-the-fantastic-epic",
+      "title": "Ultimate Fantastic Four Epic Collection: The Fantastic",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "marvel-knights-ultimate",
+      "reason": "Ultimate Fantastic Four #1-18 (2004-2005) belongs in Marvel Knights era"
+    },
+    {
+      "slug": "usavengers-cc",
+      "title": "U.S.Avengers",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "all-new-all-different",
+      "reason": "U.S.Avengers (2017) belongs in ANAD era"
+    },
+    {
+      "slug": "civil-war-marvel-prem",
+      "title": "Civil War: Marvel Premier Collection",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "bendis-avengers",
+      "reason": "Civil War (2006-2007) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "asm-modern-era-big-time-epic",
+      "title": "Amazing Spider-Man Modern Era Epic Collection: Big Time",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "bendis-avengers",
+      "reason": "ASM: Big Time (2010-2011) belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "jeph-loeb-tim-sale-hulk-tp",
+      "title": "Jeph Loeb & Tim Sale: Hulk",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "marvel-knights-ultimate",
+      "reason": "Hulk: Gray (2003-2004) by Loeb/Sale belongs in Marvel Knights era"
+    },
+    {
+      "slug": "annihilation-modern-era-desperate-measures-epic",
+      "title": "Annihilation Modern Era Epic Collection: Desperate Measures",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "bendis-avengers",
+      "reason": "Annihilation content belongs in Bendis Avengers era"
+    },
+    {
+      "slug": "x-men-wounded-wolf-epic",
+      "title": "X-Men Epic Collection: Wounded Wolf",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "rise-of-x-men",
+      "reason": "X-Men: Wounded Wolf (1980s) belongs in Rise of X-Men era"
+    },
+    {
+      "slug": "moon-knight-scarlet-redemption-epic",
+      "title": "Moon Knight Epic Collection: Scarlet Redemption",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "rise-of-x-men",
+      "reason": "Moon Knight: Scarlet Redemption (1980s) belongs in Rise of X-Men era"
+    },
+    {
+      "slug": "venom-planet-of-the-symbiotes-epic",
+      "title": "Venom Epic Collection: Planet Of The Symbiotes",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "speculation-crash",
+      "reason": "Venom: Planet of the Symbiotes (1990s) belongs in Speculation Crash era"
+    },
+    {
+      "slug": "doctor-doom-enter-doctor-doom-epic",
+      "title": "Doctor Doom Epic Collection: Enter... Doctor Doom",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "birth-of-marvel",
+      "reason": "Doctor Doom: Enter Doctor Doom (1960s) belongs in Birth of Marvel"
+    },
+    {
+      "slug": "dr-strange-strangers-among-us-epic",
+      "title": "Doctor Strange Epic Collection: Strangers Among Us",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "bronze-age",
+      "reason": "Doctor Strange: Strangers Among Us (1970s) belongs in Bronze Age"
+    },
+    {
+      "slug": "house-of-x-powers-of-x-mark-brooks-cover-ohc",
+      "title": "House Of X / Powers Of X Mark Brooks Cover",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "dawn-of-krakoa",
+      "reason": "House of X / Powers of X (2019) is THE foundational Dawn of Krakoa title"
+    },
+    {
+      "slug": "house-of-x-powers-of-x-ohc",
+      "title": "House Of X / Powers Of X",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "dawn-of-krakoa",
+      "reason": "House of X / Powers of X (2019) is THE foundational Dawn of Krakoa title"
+    },
+    {
+      "slug": "spider-girl-modern-era-family-ties-epic",
+      "title": "Spider-Girl Modern Era Epic Collection: Family Ties",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "marvel-knights-ultimate",
+      "reason": "Spider-Girl (1998-2006) belongs in Marvel Knights era"
+    },
+    {
+      "slug": "all-new-wolverine-modern-era-the-four-sisters-epic",
+      "title": "All-New Wolverine Modern Era Epic Collection: The Four Sisters",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "all-new-all-different",
+      "reason": "All-New Wolverine (2016) belongs in ANAD era"
+    },
+    {
+      "slug": "namor-the-sub-mariner-the-invasion-of-new-york-epic",
+      "title": "Namor The Sub-Mariner Epic Collection: The Invasion Of New York",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "event-age",
+      "reason": "Namor: Invasion of New York (late 1980s) belongs in Event Age"
+    },
+    {
+      "slug": "ff-by-waid-wieringo-authoritative-action-cc",
+      "title": "Fantastic Four By Waid & Wieringo: Authoritative Action",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "marvel-knights-ultimate",
+      "reason": "FF by Waid & Wieringo (2002-2004) belongs in Marvel Knights era"
+    },
+    {
+      "slug": "hawkeye-marked-for-death-epic",
+      "title": "Hawkeye Epic Collection: Marked For Death",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "rise-of-x-men",
+      "reason": "Hawkeye: Marked for Death (1983-1984) belongs in Rise of X-Men era"
+    },
+    {
+      "slug": "rom-the-original-marvel-years-epic-v3",
+      "title": "Rom Epic Collection: The Original Marvel Years Vol. 3",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "rise-of-x-men",
+      "reason": "Rom (1979-1986) belongs in Rise of X-Men era"
+    },
+    {
+      "slug": "wolverine-and-kitty-pryde-tp",
+      "title": "Wolverine And Kitty Pryde",
+      "current_era": "blood-hunt-doom",
+      "suggested_era": "rise-of-x-men",
+      "reason": "Wolverine and Kitty Pryde (1984) belongs in Rise of X-Men era"
+    }
+  ]
+}

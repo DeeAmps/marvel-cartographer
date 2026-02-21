@@ -13,8 +13,7 @@ export type PrintStatus =
   | 'out_of_print'
   | 'upcoming'
   | 'digital_only'
-  | 'ongoing'
-  | 'check_availability';
+  | 'ongoing';
 
 export type ImportanceLevel =
   | 'essential'
@@ -168,6 +167,7 @@ export interface Issue {
 export interface SearchFilters {
   query?: string;
   era?: string;
+  publication_era?: string;
   importance?: ImportanceLevel;
   status?: PrintStatus;
   format?: EditionFormat;
@@ -225,6 +225,11 @@ export interface CollectedEdition {
   chapter_slug?: string;
   universe_name?: string;
   universe_designation?: string;
+  publication_era_id?: string;
+  publication_era_name?: string;
+  publication_era_slug?: string;
+  publication_era_number?: number;
+  publication_era_color?: string;
   creator_names?: string[];
 }
 

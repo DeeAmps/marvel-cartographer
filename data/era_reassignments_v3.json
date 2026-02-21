@@ -1,0 +1,850 @@
+[
+  {
+    "slug": "ff-hickman-omnibus-v2",
+    "title": "Fantastic Four by Jonathan Hickman Omnibus Vol. 2",
+    "current_era": "hickman-saga",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2011-2048",
+    "issues_snippet": "FF (2011) #1-23, FF (1998) #600-611"
+  },
+  {
+    "slug": "mighty-thor-aaron-omnibus",
+    "title": "Mighty Thor by Jason Aaron Omnibus",
+    "current_era": "all-new-all-different",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2015-2075",
+    "issues_snippet": "Mighty Thor (2015) #1-23, Mighty Thor (2017) #700-706, related"
+  },
+  {
+    "slug": "dd-brubaker-omnibus",
+    "title": "Daredevil by Ed Brubaker Omnibus",
+    "current_era": "bendis-avengers",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2004-2049",
+    "issues_snippet": "Daredevil (1998) #82-119, Daredevil (2008) #500"
+  },
+  {
+    "slug": "doctor-strange-cates",
+    "title": "Doctor Strange by Donny Cates",
+    "current_era": "all-new-all-different",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2048-2049",
+    "issues_snippet": "Doctor Strange (2017) #381-390"
+  },
+  {
+    "slug": "deadpool-beginnings",
+    "title": "Deadpool Beginnings Omnibus",
+    "current_era": "event-age",
+    "suggested_era": "speculation-crash",
+    "estimated_content_years": "1994-1998",
+    "issues_snippet": "New Mutants #98, Deadpool: The Circle Chase #1-4, Deadpool (1994) #1-4, Deadpool (1997) #1-18"
+  },
+  {
+    "slug": "kang-saga-once-future",
+    "title": "Kang: The Saga of the Once and Future Conqueror",
+    "current_era": "bendis-avengers",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1963-1992",
+    "issues_snippet": "Avengers (1963) #8, #23-24, #69-71, #129-135, #267-269, Avengers Annual #21, Giant-Size Avengers #2-"
+  },
+  {
+    "slug": "doctor-strange-omnibus-v2",
+    "title": "Doctor Strange Omnibus Vol. 2",
+    "current_era": "the-expansion",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1974-1975",
+    "issues_snippet": "Doctor Strange #169-183, Sub-Mariner #22, Marvel Feature #1, Incredible Hulk #126, Marvel Premiere #"
+  },
+  {
+    "slug": "black-panther-priest-omnibus-v2",
+    "title": "Black Panther by Christopher Priest Omnibus Vol. 2",
+    "current_era": "heroes-reborn-return",
+    "suggested_era": "marvel-knights-ultimate",
+    "estimated_content_years": "2000-2003",
+    "issues_snippet": "Black Panther (1998) #36-62"
+  },
+  {
+    "slug": "new-thunderbolts-omnibus",
+    "title": "New Thunderbolts Omnibus",
+    "current_era": "marvel-knights-ultimate",
+    "suggested_era": "hickman-saga",
+    "estimated_content_years": "2014-2015",
+    "issues_snippet": "New Thunderbolts #1-18, Thunderbolts (2006) #100-109"
+  },
+  {
+    "slug": "ff-waid-additional",
+    "title": "Fantastic Four by Waid & Wieringo Omnibus Vol. 2: Unthinkable & Hereafter",
+    "current_era": "marvel-knights-ultimate",
+    "suggested_era": "dawn-of-krakoa",
+    "estimated_content_years": "2003-2041",
+    "issues_snippet": "Fantastic Four (1998) #67-524, #500-524"
+  },
+  {
+    "slug": "asm-jms-omnibus-v3",
+    "title": "Amazing Spider-Man by JMS Omnibus Vol. 3",
+    "current_era": "marvel-knights-ultimate",
+    "suggested_era": "bendis-avengers",
+    "estimated_content_years": "2007-2008",
+    "issues_snippet": "Amazing Spider-Man #519-545, Friendly Neighborhood Spider-Man #1-4, Sensational Spider-Man (2006) #2"
+  },
+  {
+    "slug": "thunderbolts-ellis-omnibus",
+    "title": "Thunderbolts by Warren Ellis & Mike Deodato Omnibus",
+    "current_era": "bendis-avengers",
+    "suggested_era": "hickman-saga",
+    "estimated_content_years": "2015-2016",
+    "issues_snippet": "Thunderbolts (2006) #110-121"
+  },
+  {
+    "slug": "thunderbolts-diggle",
+    "title": "Thunderbolts by Andy Diggle: Burning Down the House",
+    "current_era": "bendis-avengers",
+    "suggested_era": "all-new-all-different",
+    "estimated_content_years": "2016-2017",
+    "issues_snippet": "Thunderbolts (2006) #126-136"
+  },
+  {
+    "slug": "ff-millar-hitch-omnibus",
+    "title": "Fantastic Four by Millar & Hitch Omnibus",
+    "current_era": "bendis-avengers",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2044-2045",
+    "issues_snippet": "Fantastic Four (1998) #554-569"
+  },
+  {
+    "slug": "x-factor-peter-david-v3",
+    "title": "X-Factor by Peter David: The Complete Collection Vol. 3",
+    "current_era": "bendis-avengers",
+    "suggested_era": "dawn-of-krakoa",
+    "estimated_content_years": "2022-2024",
+    "issues_snippet": "X-Factor (2006) #200-224.1"
+  },
+  {
+    "slug": "captain-marvel-monica-rambeau",
+    "title": "Captain Marvel: Monica Rambeau Complete Collection",
+    "current_era": "rise-of-x-men",
+    "suggested_era": "event-age",
+    "estimated_content_years": "1989-1989",
+    "issues_snippet": "Amazing Spider-Man Annual #16, Avengers #227-239 (Monica stories), Captain Marvel (1989) #1"
+  },
+  {
+    "slug": "taskmaster-complete",
+    "title": "Taskmaster Complete Collection",
+    "current_era": "dawn-of-krakoa",
+    "suggested_era": "bendis-avengers",
+    "estimated_content_years": "2002-2020",
+    "issues_snippet": "Taskmaster (2002) #1-4, Taskmaster (2010) #1-4, Taskmaster (2020) #1-5"
+  },
+  {
+    "slug": "dark-avengers-thunderbolts-parker",
+    "title": "Dark Avengers/Thunderbolts by Jeff Parker",
+    "current_era": "hickman-saga",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2026-2027",
+    "issues_snippet": "Dark Avengers (2012) #175-190"
+  },
+  {
+    "slug": "avengers-no-surrender",
+    "title": "Avengers: No Surrender",
+    "current_era": "all-new-all-different",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2072-2073",
+    "issues_snippet": "Avengers (2016) #675-690"
+  },
+  {
+    "slug": "venom-ewing-ram-v",
+    "title": "Venom by Al Ewing & Ram V (2021)",
+    "current_era": "all-new-all-different",
+    "suggested_era": "dawn-of-krakoa",
+    "estimated_content_years": "2021-2022",
+    "issues_snippet": "Venom (2021) #1-15"
+  },
+  {
+    "slug": "strange-mackay-2022",
+    "title": "Strange by Jed MacKay (2022)",
+    "current_era": "all-new-all-different",
+    "suggested_era": "dawn-of-krakoa",
+    "estimated_content_years": "2022-2022",
+    "issues_snippet": "Strange (2022) #1-10"
+  },
+  {
+    "slug": "incredible-hulk-trimpe-epic-v2",
+    "title": "Incredible Hulk Epic Collection: The Hulk Must Die",
+    "current_era": "the-expansion",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1977-1979",
+    "issues_snippet": "Incredible Hulk (1968) #118-137"
+  },
+  {
+    "slug": "captain-america-silver-age-omnibus-v3",
+    "title": "Captain America Omnibus Vol. 3 (Silver Age)",
+    "current_era": "the-expansion",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1977-1979",
+    "issues_snippet": "Captain America (1968) #114-136"
+  },
+  {
+    "slug": "daredevil-soule-complete",
+    "title": "Daredevil by Charles Soule Complete Collection",
+    "current_era": "all-new-all-different",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2015-2067",
+    "issues_snippet": "Daredevil (2015) #1-28, Daredevil (2017) #595-612"
+  },
+  {
+    "slug": "captain-america-waid-2nd-run",
+    "title": "Captain America by Mark Waid (2017) Complete",
+    "current_era": "all-new-all-different",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2074-2075",
+    "issues_snippet": "Captain America (2017) #695-704"
+  },
+  {
+    "slug": "black-widow-strikes-omnibus",
+    "title": "Black Widow Strikes Omnibus",
+    "current_era": "bronze-age",
+    "suggested_era": "marvel-knights-ultimate",
+    "estimated_content_years": "1963-2039",
+    "issues_snippet": "Avengers (1963) #29-30, #36-37, and #43-44; Amazing Spider-Man (1963) #86; Daredevil (1964) #81; Bla"
+  },
+  {
+    "slug": "eternals-complete-saga-hc-ross-cvr-omnibus",
+    "title": "Eternals Complete Saga Omnibus HC Ross Cvr",
+    "current_era": "bronze-age",
+    "suggested_era": "event-age",
+    "estimated_content_years": "1971-2000",
+    "issues_snippet": "ETERNALS (1976) #1-19, ETERNALS ANNUAL (1977) #1; ETERNALS (1985) #1-12; ETERNALS: THE HEROD FACTOR "
+  },
+  {
+    "slug": "ff-by-dan-slott-hc-v1",
+    "title": "Fantastic Four By Dan Slott Vol. 1",
+    "current_era": "birth-of-marvel",
+    "suggested_era": "event-age",
+    "estimated_content_years": "1961-2018",
+    "issues_snippet": "FANTASTIC FOUR (2018) #1-11, FANTASTIC FOUR WEDDING SPECIAL (2018) #1 and FANTASTIC FOUR (1961) #8"
+  },
+  {
+    "slug": "power-pack-classic-brigman-cover-hc-omnibus-v2",
+    "title": "Power Pack Classic Omnibus Vol. 2 Brigman Cover HC",
+    "current_era": "speculation-crash",
+    "suggested_era": "hickman-saga",
+    "estimated_content_years": "1986-2045",
+    "issues_snippet": "Power Pack (1984) #37-64, Excalibur (1988) #29, Power Pack Holdiay Special #1, Power Pack (2000) #1-"
+  },
+  {
+    "slug": "generation-x-back-to-school-tpb-epic",
+    "title": "Generation X Epic Collection: Back To School TPB",
+    "current_era": "speculation-crash",
+    "suggested_era": "marvel-knights-ultimate",
+    "estimated_content_years": "1993-2007",
+    "issues_snippet": "UNCANNY X-MEN (1981) #316-318, X-MEN (1991) #36-37, GENERATION X (1994) #1-9, WOLVERINE (1988) #94, "
+  },
+  {
+    "slug": "avengers-vs-x-men-hc-cheung-iron-man-vs-magneto-cover-omnibus",
+    "title": "Avengers Vs. X-Men Omnibus HC Cheung Iron Man Vs. Magneto Cover",
+    "current_era": "hickman-saga",
+    "suggested_era": "dawn-of-krakoa",
+    "estimated_content_years": "2011-2030",
+    "issues_snippet": "AVENGERS VS. X-MEN #0-12; AVX: VS. #1-6; AVENGERS VS. X-MEN: INFINITE #1, #6 and #10; AVENGERS ACADE"
+  },
+  {
+    "slug": "asm-lifetheft-tpb",
+    "title": "Amazing Spider-Man Epic Collection: Lifetheft TPB",
+    "current_era": "speculation-crash",
+    "suggested_era": "rise-of-x-men",
+    "estimated_content_years": "1966-1995",
+    "issues_snippet": "AMAZING SPIDER-MAN (1963) #381-393, AMAZING SPIDER-MAN ANNUAL (1964) #28, SPIDER-MAN (1990) #45, SPE"
+  },
+  {
+    "slug": "ff-by-jonathan-hickman-hc-davis-cover-variant-omnibus-v1",
+    "title": "Fantastic Four By Jonathan Hickman Omnibus Vol. 1 HC Davis Cover Variant",
+    "current_era": "marvel-knights-ultimate",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2011-2046",
+    "issues_snippet": "DARK REIGN: FANTASTIC FOUR #1-5, FANTASTIC FOUR (1998) #570-588, FF (2011) #1-5 and material from DA"
+  },
+  {
+    "slug": "carnage-born-in-blood-tpb",
+    "title": "Carnage Epic Collection: Born In Blood TPB",
+    "current_era": "speculation-crash",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1966-1993",
+    "issues_snippet": "AMAZING SPIDER-MAN (1963) #361-363 and #378-380, WEB OF SPIDER-MAN (1985) #101-103, SPIDER-MAN (1990"
+  },
+  {
+    "slug": "ff-by-jonathan-hickman-hc-camuncoli-cover-omnibus-v2",
+    "title": "Fantastic Four By Jonathan Hickman Omnibus Vol. 2 HC Camuncoli Cover",
+    "current_era": "marvel-knights-ultimate",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2011-2048",
+    "issues_snippet": "FF (2011) #6-23 and FANTASTIC FOUR (1998) #600-611 and #605.1"
+  },
+  {
+    "slug": "marvel-the-uncanny-x-men-hc-v14",
+    "title": "Marvel Masterworks: The Uncanny X-Men Vol. 14 HC",
+    "current_era": "bronze-age",
+    "suggested_era": "rise-of-x-men",
+    "estimated_content_years": "1970-1999",
+    "issues_snippet": "UNCANNY X-MEN (1981) #210-219, X-MEN ANNUAL (1970) #10, NEW MUTANTS ANNUAL #2 and FANTASTIC FOUR VS."
+  },
+  {
+    "slug": "avengers-operation-galactic-storm-tpb-2",
+    "title": "Avengers Epic Collection: Operation Galactic Storm TPB \u2013!",
+    "current_era": "event-age",
+    "suggested_era": "heroes-reborn-return",
+    "estimated_content_years": "1991-2003",
+    "issues_snippet": "AVENGERS (1963) #345-347, AVENGERS WEST COAST (1985) #80-82, QUASAR (1989) #32-34, WONDER MAN (1991)"
+  },
+  {
+    "slug": "marvel-the-avengers-hc-v22",
+    "title": "Marvel Masterworks: The Avengers Vol. 22 HC",
+    "current_era": "the-expansion",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1965-1982",
+    "issues_snippet": "THE AVENGERS (1963) #227-235, ANNUAL (1967) #12, THE AMAZING SPIDER-MAN ANNUAL (1964) #16, DOCTOR ST"
+  },
+  {
+    "slug": "peter-porker-the-spectacular-spider-ham-the-tpb-v2",
+    "title": "Peter Porker, The Spectacular Spider-Ham: The Complete Collection Vol. 2 TPB",
+    "current_era": "the-expansion",
+    "suggested_era": "marvel-knights-ultimate",
+    "estimated_content_years": "1980-2019",
+    "issues_snippet": "WHAT THE-?! #20; ULTIMATE CIVIL WAR: SPIDER-HAM; SPIDER-HAM 25TH ANNIVERSARY SPECIAL and SPIDER-MAN "
+  },
+  {
+    "slug": "wakanda-world-of-black-panther-hc-greene-cover-omnibus",
+    "title": "Wakanda: World Of Black Panther Omnibus HC Greene Cover",
+    "current_era": "dawn-of-krakoa",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2018-2102",
+    "issues_snippet": "RISE OF THE BLACK PANTHER #1-6, BLACK PANTHER: WORLD OF WAKANDA #1-6, BLACK PANTHER & THE CREW #1-6,"
+  },
+  {
+    "slug": "marvel-the-amazing-spider-man-hc-variant-v24",
+    "title": "Marvel Masterworks: The Amazing Spider-Man Vol. 24 HC Variant",
+    "current_era": "birth-of-marvel",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1965-1984",
+    "issues_snippet": "AMAZING SPIDER-MAN (1963) #252-262 and AMAZING SPIDER-MAN ANNUAL (1964) #18"
+  },
+  {
+    "slug": "spider-man-the-wedding-album-gallery-edition-hc",
+    "title": "Spider-Man: The Wedding Album Gallery Edition HC",
+    "current_era": "birth-of-marvel",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1965-1990",
+    "issues_snippet": "AMAZING SPIDER-MAN (1963) #290-292, AMAZING SPIDER-MAN ANNUAL (1964) #21, SPECTACULAR SPIDER-MAN ANN"
+  },
+  {
+    "slug": "asm-invasion-of-the-spider-slayers-tpb",
+    "title": "Amazing Spider-Man Epic Collection: Invasion Of The Spider-Slayers TPB",
+    "current_era": "the-expansion",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1966-1994",
+    "issues_snippet": "AMAZING SPIDER-MAN (1963) #368-377, AMAZING SPIDER-MAN ANNUAL (1964) #27, SPIDER-MAN/DR. STRANGE: TH"
+  },
+  {
+    "slug": "asm-kravens-last-hunt-tpb",
+    "title": "Amazing Spider-Man Epic Collection: Kraven's Last Hunt TPB",
+    "current_era": "event-age",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1965-1987",
+    "issues_snippet": "AMAZING SPIDER-MAN (1963) #289-294, AMAZING SPIDER-MAN ANNUAL (1964) #20-21, SPIDER-MAN VS. WOLVERIN"
+  },
+  {
+    "slug": "asm-the-hero-killers-tpb",
+    "title": "Amazing Spider-Man Epic Collection: The Hero Killers TPB",
+    "current_era": "the-expansion",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1966-1993",
+    "issues_snippet": "AMAZING SPIDER-MAN (1963) #361-367; AMAZING SPIDER-MAN ANNUAL (1964) #26; AMAZING SPIDER-MAN: SOUL O"
+  },
+  {
+    "slug": "ff-by-jonathan-hickman-the-tp-v4",
+    "title": "Fantastic Four By Jonathan Hickman: The Complete Collection Vol. 4 TP",
+    "current_era": "marvel-knights-ultimate",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2012-2048",
+    "issues_snippet": "FANTASTIC FOUR (1998) #605-611 and #605.1, FF (2011) #17-23"
+  },
+  {
+    "slug": "hulk-planet-hulk-hc-ladronn-arena-cover-omnibus",
+    "title": "Hulk: Planet Hulk Omnibus HC Ladronn Arena Cover",
+    "current_era": "bendis-avengers",
+    "suggested_era": "dawn-of-krakoa",
+    "estimated_content_years": "2005-2042",
+    "issues_snippet": "FANTASTIC FOUR (1998) #533-535, INCREDIBLE HULK (2000) #88-105, GIANT-SIZE HULK (2006) #1, WHAT IF? "
+  },
+  {
+    "slug": "spider-versespider-geddon-hc-camuncoli-cover-omnibus",
+    "title": "Spider-Verse/spider-Geddon Omnibus HC Camuncoli Cover",
+    "current_era": "hickman-saga",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2014-2043",
+    "issues_snippet": "EDGE OF SPIDER-VERSE #1-5; SPIDER-VERSE (2014) #1-2; SUPERIOR SPIDER-MAN (2013) #32-33; AMAZING SPID"
+  },
+  {
+    "slug": "marvel-the-uncanny-x-men-hc-v15",
+    "title": "Marvel Masterworks: The Uncanny X-Men Vol. 15 HC",
+    "current_era": "bronze-age",
+    "suggested_era": "rise-of-x-men",
+    "estimated_content_years": "1970-2000",
+    "issues_snippet": "UNCANNY X-MEN (1981) #220-231, X-MEN ANNUAL (1970) #11, X-MEN VS. AVENGERS #1-4 and material from BE"
+  },
+  {
+    "slug": "ff-by-millar-hitch-hc-silvestri-cover-omnibus",
+    "title": "Fantastic Four By Millar & Hitch Omnibus HC Silvestri Cover",
+    "current_era": "marvel-knights-ultimate",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2009-2045",
+    "issues_snippet": "FANTASTIC FOUR (1998) #554-569 and ANNUAL #32, FANTASTIC FORCE (2009) #1-4 and MARVEL 1985 #1-6"
+  },
+  {
+    "slug": "spider-man-one-more-day-gallery-edition-hc",
+    "title": "Spider-Man: One More Day Gallery Edition HC",
+    "current_era": "bendis-avengers",
+    "suggested_era": "blood-hunt-doom",
+    "estimated_content_years": "2006-2044",
+    "issues_snippet": "AMAZING SPIDER-MAN (1999) #544-545, SENSATIONAL SPIDER-MAN (2006) #41, FRIENDLY NEIGHBORHOOD SPIDER-"
+  },
+  {
+    "slug": "superior-spider-man-hc-quesada-cover-omnibus-v1",
+    "title": "Superior Spider-Man Omnibus Vol. 1 HC Quesada Cover",
+    "current_era": "marvel-knights-ultimate",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2013-2057",
+    "issues_snippet": "AMAZING SPIDER-MAN (1999) #698-700, and SUPERIOR SPIDER-MAN (2013) #1-31 and ANNUAL #1-2"
+  },
+  {
+    "slug": "asm-spider-man-or-spider-clone-tpb",
+    "title": "Amazing Spider-Man Epic Collection: Spider-Man Or Spider-Clone? TPB",
+    "current_era": "birth-of-marvel",
+    "suggested_era": "the-expansion",
+    "estimated_content_years": "1964-1976",
+    "issues_snippet": "AMAZING SPIDER-MAN (1963) #143-164 and AMAZING SPIDER-MAN ANNUAL (1964) #10"
+  },
+  {
+    "slug": "infamous-iron-man-by-bendis-maleev-tp",
+    "title": "Infamous Iron Man By Bendis & Maleev",
+    "current_era": "dawn-of-krakoa",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2016-2066",
+    "issues_snippet": "Infamous Iron Man (2016) #1-12, Invincible Iron Man (2017) #593-600"
+  },
+  {
+    "slug": "new-avengers-modern-era-assembled-tpb",
+    "title": "New Avengers Modern Era Epic Collection: Assembled TPB",
+    "current_era": "bendis-avengers",
+    "suggested_era": "dawn-of-krakoa",
+    "estimated_content_years": "2004-2039",
+    "issues_snippet": "AVENGERS (1998) #500-503 and #500 DIRECTOR'S CUT, AVENGERS FINALE, NEW AVENGERS (2004) #1-10 and #1 "
+  },
+  {
+    "slug": "venom-modern-era-agent-venom-tpb",
+    "title": "Venom Modern Era Epic Collection: Agent Venom TPB",
+    "current_era": "marvel-knights-ultimate",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2011-2053",
+    "issues_snippet": "AMAZING SPIDER-MAN (1999) #654 (B STORY) and #654.1, and VENOM (2011) #1-16 and #13.1-13.4"
+  },
+  {
+    "slug": "loki-modern-era-everything-burns-tpb",
+    "title": "Loki Modern Era Epic Collection: Everything Burns TPB",
+    "current_era": "hickman-saga",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2012-2064",
+    "issues_snippet": "JOURNEY INTO MYSTERY (2011) #637-645, EXILED #1, NEW MUTANTS (2009) #42-43, MIGHTY THOR (2011) #18-2"
+  },
+  {
+    "slug": "asm-round-robin-tpb",
+    "title": "Amazing Spider-Man Epic Collection: Round Robin TPB",
+    "current_era": "the-expansion",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1966-1992",
+    "issues_snippet": "AMAZING SPIDER-MAN (1963) #351-360, AMAZING SPIDER-MAN ANNUAL (1964) #25, SPECTACULAR SPIDER-MAN ANN"
+  },
+  {
+    "slug": "cap-the-trial-of-captain-america-hc-mcniven-cover-omnibus",
+    "title": "Captain America: The Trial Of Captain America Omnibus HC Mcniven Cover",
+    "current_era": "dawn-of-krakoa",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2011-2056",
+    "issues_snippet": "CAPTAIN AMERICA: WHO WILL WIELD THE SHIELD?, CAPTAIN AMERICA (2005) #602-619 and #615.1, STEVE ROGER"
+  },
+  {
+    "slug": "dd-by-mark-waid-hc-neal-adams-cover-omnibus-v1",
+    "title": "Daredevil By Mark Waid Omnibus Vol. 1 HC Neal Adams Cover",
+    "current_era": "hickman-saga",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2011-2055",
+    "issues_snippet": "DAREDEVIL (2011) #1-27 and #10.1, AMAZING SPIDER-MAN (1999) #677, AVENGING SPIDER-MAN #6 and PUNISHE"
+  },
+  {
+    "slug": "marvel-universe-by-arthur-adams-hc-omnibus",
+    "title": "Marvel Universe By Arthur Adams Omnibus HC",
+    "current_era": "event-age",
+    "suggested_era": "rise-of-x-men",
+    "estimated_content_years": "1970-1991",
+    "issues_snippet": "LONGSHOT #1-6, NEW MUTANTS SPECIAL EDITION #1, X-MEN ANNUAL (1970) #9-10, CLOAK AND DAGGER (1985) #9"
+  },
+  {
+    "slug": "thunderbolts-uncaged-hc-omnibus",
+    "title": "Thunderbolts: Uncaged Omnibus HC",
+    "current_era": "heroes-reborn-return",
+    "suggested_era": "all-new-all-different",
+    "estimated_content_years": "2008-2027",
+    "issues_snippet": "THUNDERBOLTS (1997) #144-174 and #163.1, DARK AVENGERS (2012) #175-190 and material from ENTER THE H"
+  },
+  {
+    "slug": "dd-last-rites-tpb",
+    "title": "Daredevil Epic Collection: Last Rites TPB",
+    "current_era": "the-expansion",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1967-1988",
+    "issues_snippet": "DAREDEVIL (1964) #283-300 and ANNUAL (1967) #7"
+  },
+  {
+    "slug": "deadpool-drowning-man-tpb",
+    "title": "Deadpool Epic Collection: Drowning Man TPB",
+    "current_era": "heroes-reborn-return",
+    "suggested_era": "rise-of-x-men",
+    "estimated_content_years": "1966-1998",
+    "issues_snippet": "DEADPOOL (1997) #10-20, DEADPOOL/DEATH ANNUAL '98, HEROES FOR HIRE (1997) #10-11, BABY'S FIRST DEADP"
+  },
+  {
+    "slug": "thor-by-straczynski-gillen-hc-omnibus",
+    "title": "Thor By Straczynski & Gillen Omnibus HC",
+    "current_era": "bendis-avengers",
+    "suggested_era": "blood-hunt-doom",
+    "estimated_content_years": "2007-2042",
+    "issues_snippet": "FANTASTIC FOUR (1998) #536-537, THOR (2007) #1-12 and #600-614, THOR ANNUAL (2009) #1, THOR GIANT-SI"
+  },
+  {
+    "slug": "dark-avengers-modern-era-osborns-reign-tpb",
+    "title": "Dark Avengers Modern Era Epic Collection: Osborn's Reign TPB",
+    "current_era": "bendis-avengers",
+    "suggested_era": "hickman-saga",
+    "estimated_content_years": "2009-2023",
+    "issues_snippet": "DARK AVENGERS (2009) #1-16 and ANNUAL #1, DARK AVENGERS/UNCANNY X-MEN: UTOPIA, UNCANNY X-MEN (1981) "
+  },
+  {
+    "slug": "cap-twilights-last-gleaming-tpb",
+    "title": "Captain America Epic Collection: Twilight's Last Gleaming TPB",
+    "current_era": "speculation-crash",
+    "suggested_era": "marvel-knights-ultimate",
+    "estimated_content_years": "1995-2004",
+    "issues_snippet": "CAPTAIN AMERICA (1968) #431-443, TALES OF SUSPENSE (1995) #1, AVENGERS (1963) #386-388 and material "
+  },
+  {
+    "slug": "hulk-modern-era-who-is-the-red-hulk-tpb",
+    "title": "Hulk Modern Era Epic Collection: Who Is The Red Hulk? TPB",
+    "current_era": "bendis-avengers",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2007-2049",
+    "issues_snippet": "HULK (2008) #1-12, KING-SIZE HULK #1, and material from INCREDIBLE HULK (2000) #600 and WOLVERINE (2"
+  },
+  {
+    "slug": "asm-assassin-nation-tp",
+    "title": "Amazing Spider-Man Epic Collection: Assassin Nation",
+    "current_era": "birth-of-marvel",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1965-1990",
+    "issues_snippet": "AMAZING SPIDER-MAN (1963) #311-325, AMAZING SPIDER-MAN ANNUAL (1964) #23 and MARVEL GRAPHIC NOVEL: A"
+  },
+  {
+    "slug": "thor-the-lost-gods-tpb",
+    "title": "Thor Epic Collection: The Lost Gods TPB",
+    "current_era": "heroes-reborn-return",
+    "suggested_era": "all-new-all-different",
+    "estimated_content_years": "1997-2038",
+    "issues_snippet": "JOURNEY INTO MYSTERY (1996) #503-513, -1; VALKYRIE (1997)#1; HERCULES AND THE HEART OF CHAOS (1997) "
+  },
+  {
+    "slug": "defenders-enter-the-headmen-tpb",
+    "title": "Defenders Epic Collection: Enter - The Headmen TPB",
+    "current_era": "bronze-age",
+    "suggested_era": "the-expansion",
+    "estimated_content_years": "1959-1974",
+    "issues_snippet": "DEFENDERS (1972) #12-25, GIANT-SIZE DEFENDERS #1-4 and MARVEL TWO-IN-ONE (1974) #6-7 - plus material"
+  },
+  {
+    "slug": "thor-modern-era-reborn-from-ragnarok-tpb",
+    "title": "Thor Modern Era Epic Collection: Reborn From Ragnarok TPB",
+    "current_era": "bendis-avengers",
+    "suggested_era": "blood-hunt-doom",
+    "estimated_content_years": "2007-2042",
+    "issues_snippet": "FANTASTIC FOUR (1998) #536-537; THOR (2007) #1-12, 600; and material from DARK REIGN: THE CABAL (200"
+  },
+  {
+    "slug": "spider-man-by-michelinie-bagley-hc-omnibus-v1",
+    "title": "Spider-Man By Michelinie & Bagley Omnibus Vol. 1 HC",
+    "current_era": "the-expansion",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1966-1994",
+    "issues_snippet": "AMAZING SPIDER-MAN (1963) #351-375, AMAZING SPIDER-MAN ANNUAL (1964) #25-26 and material from SPECTA"
+  },
+  {
+    "slug": "dd-shadowland-hc-omnibus",
+    "title": "Daredevil: Shadowland Omnibus HC",
+    "current_era": "bronze-age",
+    "suggested_era": "blood-hunt-doom",
+    "estimated_content_years": "2009-2040",
+    "issues_snippet": "DARK REIGN: THE LIST \u2014 DAREDEVIL; DAREDEVIL (1998) #501-512; SHADOWLAND #1-5; SHADOWLAND: ELEKTRA, B"
+  },
+  {
+    "slug": "savage-avengers-by-gerry-duggan-tpb-v1",
+    "title": "Savage Avengers By Gerry Duggan Vol. 1 TPB",
+    "current_era": "dawn-of-krakoa",
+    "suggested_era": "bendis-avengers",
+    "estimated_content_years": "1996-2019",
+    "issues_snippet": "SAVAGE AVENGERS (2019) #1-12 and ANNUAL #1, SAVAGE AVENGERS (2019) #0 [including UNCANNY X-MEN (1981"
+  },
+  {
+    "slug": "uncanny-x-force-by-rick-remender-hc-omnibus",
+    "title": "Uncanny X-Force By Rick Remender Omnibus HC",
+    "current_era": "dawn-of-krakoa",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2010-2093",
+    "issues_snippet": "UNCANNY X-FORCE (2010) #1-35, #5.1 and #19.1; and material from WOLVERINE: ROAD TO HELL; WOLVERINE: "
+  },
+  {
+    "slug": "asm-by-j-michael-stracyznski-omnibus-v2",
+    "title": "Amazing Spider-Man By J. Michael Stracyznski Omnibus Vol. 2",
+    "current_era": "bendis-avengers",
+    "suggested_era": "blood-hunt-doom",
+    "estimated_content_years": "2005-2044",
+    "issues_snippet": "Amazing Spider-Man (1999) #515-545; Friendly Neighborhood Spider-Man (2005) #1-4 and #24; Marvel Kni"
+  },
+  {
+    "slug": "spider-man-brand-new-day-phil-jimenez-cover-omnibus-v1",
+    "title": "Spider-Man: Brand New Day Omnibus Vol. 1 Phil Jimenez Cover",
+    "current_era": "bendis-avengers",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2008-2047",
+    "issues_snippet": "Free Comic Book Day 2007 (Spider-Man); Amazing Spider-Man (1999) #546-583; Amazing Spider-Man Annual"
+  },
+  {
+    "slug": "cap-streets-of-poison-epic",
+    "title": "Captain America Epic Collection: Streets Of Poison",
+    "current_era": "bronze-age",
+    "suggested_era": "event-age",
+    "estimated_content_years": "1971-2000",
+    "issues_snippet": "Captain America (1968) #372-386 and Annual (1971) #9-10"
+  },
+  {
+    "slug": "thor-the-eternals-saga-epic",
+    "title": "Thor Epic Collection: The Eternals Saga",
+    "current_era": "the-expansion",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1966-1991",
+    "issues_snippet": "Thor (1966) #281-302 and Annual (1966) #8 and material from Marvel Treasury Edition #24 and #26"
+  },
+  {
+    "slug": "silver-surfer-the-herald-ordeal-epic",
+    "title": "Silver Surfer Epic Collection: The Herald Ordeal",
+    "current_era": "event-age",
+    "suggested_era": "rise-of-x-men",
+    "estimated_content_years": "1969-1993",
+    "issues_snippet": "Silver Surfer (1987) #67-75, Silver Surfer Annual (1988) #5; Silver Surfer: Homecoming; and material"
+  },
+  {
+    "slug": "hawkeye-shafted-epic",
+    "title": "Hawkeye Epic Collection: Shafted",
+    "current_era": "bendis-avengers",
+    "suggested_era": "all-new-all-different",
+    "estimated_content_years": "1994-2039",
+    "issues_snippet": "Hawkeye (1994) #1-4; Hawkeye: Earth\u2019s Mightiest Marksman #1; Hawkeye (2003) #1-8; Avengers (1998) #5"
+  },
+  {
+    "slug": "x-force-omnibus-v1-2",
+    "title": "X-Force Omnibus Vol. 1",
+    "current_era": "event-age",
+    "suggested_era": "rise-of-x-men",
+    "estimated_content_years": "1971-1992",
+    "issues_snippet": "New Mutants (1983) #98-100 and Annual (1984) #7; X-Men Annual (1970) #15; X-Factor Annual #6; X-Forc"
+  },
+  {
+    "slug": "thor-modern-era-the-siege-of-asgard-epic",
+    "title": "Thor Modern Era Epic Collection: The Siege Of Asgard",
+    "current_era": "bendis-avengers",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2009-2058",
+    "issues_snippet": "Thor (2007) #601-614; Thor Annual (2009) #1; Thor Giant-Size Finale #1; Siege: Loki #1; and New Muta"
+  },
+  {
+    "slug": "spider-man-by-joe-kelly-omnibus",
+    "title": "Spider-Man By Joe Kelly Omnibus",
+    "current_era": "marvel-knights-ultimate",
+    "suggested_era": "dawn-of-krakoa",
+    "estimated_content_years": "1996-2047",
+    "issues_snippet": "Amazing Spider-Man (1999) #575-576, #595-599, #606-607, #611, #617, and #625; Non-Stop Spider-Man #1"
+  },
+  {
+    "slug": "ff-four-no-more-epic",
+    "title": "Fantastic Four Epic Collection: Four No More",
+    "current_era": "birth-of-marvel",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1963-1978",
+    "issues_snippet": "THE FANTASTIC FOUR (1961) #192-214 & ANNUAL (1963) #12-13"
+  },
+  {
+    "slug": "x-men-age-of-apocalypse-alpha-cc-v1",
+    "title": "X-Men: Age Of Apocalypse Vol. 1 - Alpha",
+    "current_era": "speculation-crash",
+    "suggested_era": "marvel-knights-ultimate",
+    "estimated_content_years": "1994-2007",
+    "issues_snippet": "Uncanny X-Men (1981) #320-321; X-Men (1991) #40-41; Cable (1993) #20; X-Men Alpha; Generation Next #"
+  },
+  {
+    "slug": "doom-treasury-edition-ohc",
+    "title": "Doom Treasury Edition",
+    "current_era": "marvel-knights-ultimate",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2015-2046",
+    "issues_snippet": "Doom (2024) #1; Fantastic Four (1998) #583; and Runaways (2015) #1"
+  },
+  {
+    "slug": "x-men-fatal-attractions-omnibus",
+    "title": "X-Men: Fatal Attractions Omnibus",
+    "current_era": "speculation-crash",
+    "suggested_era": "event-age",
+    "estimated_content_years": "1971-2006",
+    "issues_snippet": "Uncanny X-Men (1981) #298-305, and #315; X-Men Annual (1970) #17; X-Factor (1986) #87-92; X-Men Unli"
+  },
+  {
+    "slug": "asm-venom-epic",
+    "title": "Amazing Spider-Man Epic Collection: Venom",
+    "current_era": "event-age",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1965-1988",
+    "issues_snippet": "The Amazing Spider-Man (1963) #295-310 and Annual (1964) #22; Web of Spider-Man (1985) #33; and Pete"
+  },
+  {
+    "slug": "cosmic-x-men-omnibus",
+    "title": "Cosmic X-Men Omnibus",
+    "current_era": "bendis-avengers",
+    "suggested_era": "heroes-reborn-return",
+    "estimated_content_years": "1971-2022",
+    "issues_snippet": "X-Men (1963) #105, #107-108, and #137; Uncanny X-Men (1981) #154-158, #161-167, #276-277, and #475-4"
+  },
+  {
+    "slug": "ff-solve-everything-marvel-prem",
+    "title": "Fantastic Four: Solve Everything: Marvel Premier Collection",
+    "current_era": "marvel-knights-ultimate",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2045-2046",
+    "issues_snippet": "Fantastic Four (1998) #570-588"
+  },
+  {
+    "slug": "spider-man-by-michelinie-bagley-omnibus-v2",
+    "title": "Spider-Man By Michelinie & Bagley Omnibus Vol. 2",
+    "current_era": "speculation-crash",
+    "suggested_era": "rise-of-x-men",
+    "estimated_content_years": "1966-1995",
+    "issues_snippet": "Amazing Spider-Man (1963) #376-393 and Annual (1964) #27-28; Web of Spider-Man (1985) #101-103 and #"
+  },
+  {
+    "slug": "agent-venom-omnibus",
+    "title": "Agent Venom Omnibus",
+    "current_era": "hickman-saga",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2011-2053",
+    "issues_snippet": "Amazing Spider-Man (1999) #654, #654.1; Venom (2011) #1-42, #13.1-13.4; #27.1; Venom: Space Knight #"
+  },
+  {
+    "slug": "iron-man-modern-era-the-new-iron-age-epic",
+    "title": "Iron Man Modern Era Epic Collection: The New Iron Age",
+    "current_era": "hickman-saga",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2010-2049",
+    "issues_snippet": "Invincible Iron Man (2008) #500 (A story), #500.1 and #501-509; Invincible Iron Man Annual (2010) #1"
+  },
+  {
+    "slug": "ff-the-possession-of-franklin-richards-epic",
+    "title": "Fantastic Four Epic Collection: The Possession Of Franklin Richards",
+    "current_era": "birth-of-marvel",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1964-1980",
+    "issues_snippet": "Fantastic Four (1961) #215-231 & Annual (1963) #14-16"
+  },
+  {
+    "slug": "thor-modern-era-the-world-eaters-epic",
+    "title": "Thor Modern Era Epic Collection: The World Eaters",
+    "current_era": "dawn-of-krakoa",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2011-2058",
+    "issues_snippet": "Thor (2007) #615-621 and #620.1; The Mighty Thor (2011) #1-6; and Free Comic Book Day 2010 (Iron Man"
+  },
+  {
+    "slug": "marvel-the-uncanny-x-men-mmw-v17",
+    "title": "Marvel Masterworks: The Uncanny X-Men Vol. 17",
+    "current_era": "bronze-age",
+    "suggested_era": "event-age",
+    "estimated_content_years": "1971-2002",
+    "issues_snippet": "Uncanny X-Men (1981) #244-255; X-Men Annual (1970) #13; and material from Classic X-Men #39 and What"
+  },
+  {
+    "slug": "marvel-the-uncanny-x-men-mmw-v17-2",
+    "title": "Marvel Masterworks: The Uncanny X-Men Vol. 17",
+    "current_era": "bronze-age",
+    "suggested_era": "event-age",
+    "estimated_content_years": "1971-2002",
+    "issues_snippet": "Uncanny X-Men (1981) #244-255; X-Men Annual (1970) #13; and material from Classic X-Men #39 and What"
+  },
+  {
+    "slug": "guardians-of-the-galaxy-homecoming-epic",
+    "title": "Guardians Of The Galaxy Epic Collection: Homecoming",
+    "current_era": "event-age",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1964-1991",
+    "issues_snippet": "Guardians of the Galaxy (1990) #7-20 and Annual (1991) #1; and material from Fantastic Four Annual ("
+  },
+  {
+    "slug": "new-avengers-by-brian-michael-bendis-jim-cheung-cover-omnibus-v2",
+    "title": "New Avengers By Brian Michael Bendis Omnibus Vol. 2 Jim Cheung Cover",
+    "current_era": "bendis-avengers",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2006-2049",
+    "issues_snippet": "New Avengers (2004) #32-64 and Annual (2006) #2-3; New Avengers: Illuminati (2007) #1-5; Secret Inva"
+  },
+  {
+    "slug": "wolverine-the-death-and-life-of-sabretooth-cc",
+    "title": "Wolverine: The Death And Life Of Sabretooth",
+    "current_era": "all-new-all-different",
+    "suggested_era": "dawn-of-krakoa",
+    "estimated_content_years": "2007-2036",
+    "issues_snippet": "Wolverine (2003) #50-55 and Wolverine (2010) #310-313"
+  },
+  {
+    "slug": "marvel-the-amazing-spider-man-mmw-v27",
+    "title": "Marvel Masterworks: The Amazing Spider-Man Vol. 27",
+    "current_era": "the-expansion",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1965-1986",
+    "issues_snippet": "The Amazing Spider-Man (1963) #279-288 and Annual (1964) #20 and material from Marvel Tales (1966) #"
+  },
+  {
+    "slug": "asm-spider-man-threat-or-menace-epic",
+    "title": "Amazing Spider-Man Epic Collection: Spider-Man - Threat Or Menace?",
+    "current_era": "birth-of-marvel",
+    "suggested_era": "bronze-age",
+    "estimated_content_years": "1965-1981",
+    "issues_snippet": "Amazing Spider-Man (1963) #207-223 and Annual (1964) #14-15"
+  },
+  {
+    "slug": "ff-by-waid-wieringo-rising-storm-cc",
+    "title": "Fantastic Four By Waid & Wieringo: Rising Storm",
+    "current_era": "marvel-knights-ultimate",
+    "suggested_era": "current-ongoings",
+    "estimated_content_years": "2040-2041",
+    "issues_snippet": "Fantastic Four (1998) #514-524"
+  },
+  {
+    "slug": "miles-morales-spider-man-modern-era-revivals-and-revelations-epic",
+    "title": "Miles Morales: Spider-Man Modern Era Epic Collection: Revivals And Revelations",
+    "current_era": "hickman-saga",
+    "suggested_era": "dawn-of-krakoa",
+    "estimated_content_years": "2013-2030",
+    "issues_snippet": "Cataclysm: Ultimate Spider-Man (2013) #1-3; Ultimate Spider-Man (2014) #200; and Miles Morales: Ulti"
+  }
+]

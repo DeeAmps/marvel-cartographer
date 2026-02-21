@@ -1,4 +1,4 @@
-import { getEvents, getEventEditionCounts } from "@/lib/data";
+import { getEvents, getEventEditionCounts, getAllEventEditions } from "@/lib/data";
 import EventsClient from "./EventsClient";
 
 export const revalidate = 3600;
@@ -9,15 +9,17 @@ export const metadata = {
 };
 
 export default async function EventsPage() {
-  const [events, editionCounts] = await Promise.all([
+  const [events, editionCounts, eventEditions] = await Promise.all([
     getEvents(),
     getEventEditionCounts(),
+    getAllEventEditions(),
   ]);
 
   return (
     <EventsClient
       events={events}
       editionCounts={editionCounts}
+      eventEditions={eventEditions}
     />
   );
 }
