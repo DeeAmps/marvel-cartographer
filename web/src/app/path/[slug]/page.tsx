@@ -6,7 +6,8 @@ import ImportanceBadge from "@/components/ui/ImportanceBadge";
 import PathProgress, { PathCheckbox } from "@/components/paths/PathProgress";
 import PathCollectionStatus from "@/components/paths/PathCollectionStatus";
 import PathEntryOwned from "@/components/paths/PathEntryOwned";
-import { ArrowLeft, ChevronRight, DollarSign } from "lucide-react";
+import { ArrowLeft, ChevronRight, DollarSign, CalendarDays } from "lucide-react";
+import SchedulePathButton from "@/components/schedule/SchedulePathButton";
 
 export const dynamic = "force-dynamic";
 
@@ -100,6 +101,9 @@ export default async function ReadingPathPage({ params }: { params: Promise<{ sl
         </div>
         <ChevronRight size={16} style={{ color: "var(--text-tertiary)" }} />
       </Link>
+
+      {/* Schedule This Path */}
+      <SchedulePathButton pathSlug={slug} pathName={path.name} entryCount={path.entries.length} />
 
       {/* Section quick nav (if sections exist) */}
       {path.sections && path.sections.length > 0 && (

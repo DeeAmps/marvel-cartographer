@@ -39,4 +39,5 @@ export const XP_REWARDS = {
   path_completed: 50,
   rating_submitted: 5,
   trivia_played: 3,
+  schedule_item_completed: 10,
 } as const;

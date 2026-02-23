@@ -3,7 +3,6 @@ import type {
   Era,
   EraChapter,
   CollectedEdition,
-  Connection,
   ContinuityConflict,
   ReadingPath,
   Resource,
@@ -13,7 +12,6 @@ import type {
   StoryArc,
   Event,
   EventPhase,
-  EventEdition,
   ReadingOrderEntry,
   Universe,
   SearchFilters,
@@ -27,7 +25,6 @@ import type {
   MCUContent,
   MCUComicMapping,
   Debate,
-  DebateVote,
   DebateEvidence,
   InfinityTheme,
 } from "./types";
@@ -36,7 +33,8 @@ import type {
 // Supabase server-side client
 // ============================================================
 
-const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL || "http://127.0.0.1:54321";
+const supabaseUrl =
+  process.env.NEXT_PUBLIC_SUPABASE_URL || "http://127.0.0.1:54321";
 const supabaseServiceKey =
   process.env.SUPABASE_SERVICE_ROLE_KEY ||
   process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY ||
@@ -57,7 +55,7 @@ const SB_CACHE_TTL = 300_000; // 5 minutes
 
 async function cachedQuery<T>(
   key: string,
-  queryFn: () => Promise<T>
+  queryFn: () => Promise<T>,
 ): Promise<T> {
   const cached = sbCache.get(key);
   if (cached && Date.now() - cached.timestamp < SB_CACHE_TTL) {
@@ -75,7 +73,7 @@ async function cachedQuery<T>(
 async function paginatedFetch(
   table: string,
   selectColumns: string = "*",
-  pageSize: number = 1000
+  pageSize: number = 1000,
 ): Promise<Record<string, unknown>[]> {
   const allRows: Record<string, unknown>[] = [];
   let offset = 0;
@@ -148,14 +146,18 @@ function mapEditionRow(e: Record<string, unknown>): CollectedEdition {
     format: (e.format as CollectedEdition["format"]) || "omnibus",
     issues_collected: (e.issues_collected as string) || "",
     issue_count: (e.issue_count as number) || 0,
-    print_status: (e.print_status as CollectedEdition["print_status"]) || "in_print",
-    importance: (e.importance as CollectedEdition["importance"]) || "recommended",
+    print_status:
+      (e.print_status as CollectedEdition["print_status"]) || "in_print",
+    importance:
+      (e.importance as CollectedEdition["importance"]) || "recommended",
     era_id: (e.era_id as string) || "",
     chapter_id: (e.chapter_id as string) || undefined,
     universe_id: (e.universe_id as string) || undefined,
     synopsis: (e.synopsis as string) || "",
     connection_notes: (e.connection_notes as string) || "",
     cover_image_url: (e.cover_image_url as string) || null,
+    cover_variants:
+      (e.cover_variants as CollectedEdition["cover_variants"]) || [],
     page_count: (e.page_count as number) || undefined,
     cover_price: (e.cover_price as number) || undefined,
     isbn: (e.isbn as string) || undefined,
@@ -172,6 +174,7 @@ function mapEditionRow(e: Record<string, unknown>): CollectedEdition {
     publication_era_slug: (e.publication_era_slug as string) || undefined,
     publication_era_number: (e.publication_era_number as number) || undefined,
     publication_era_color: (e.publication_era_color as string) || undefined,
+    release_date: (e.release_date as string) || undefined,
     creator_names: (e.creator_names as string[]) || [],
   };
 }
@@ -184,7 +187,7 @@ export async function getEditions(): Promise<CollectedEdition[]> {
 }
 
 export async function getEditionBySlug(
-  slug: string
+  slug: string,
 ): Promise<CollectedEdition | undefined> {
   // Try cache first via full list
   const cached = sbCache.get("editions");
@@ -273,13 +276,21 @@ export interface EraEditionCount {
   completionist: number;
 }
 
-export async function getEraEditionCounts(): Promise<Record<string, EraEditionCount>> {
+export async function getEraEditionCounts(): Promise<
+  Record<string, EraEditionCount>
+> {
   const editions = await getEditions();
   const counts: Record<string, EraEditionCount> = {};
   for (const e of editions) {
     const key = e.era_slug || e.era_id;
     if (!counts[key]) {
-      counts[key] = { total: 0, essential: 0, recommended: 0, supplemental: 0, completionist: 0 };
+      counts[key] = {
+        total: 0,
+        essential: 0,
+        recommended: 0,
+        supplemental: 0,
+        completionist: 0,
+      };
     }
     counts[key].total++;
     const imp = e.importance as keyof Omit<EraEditionCount, "total">;
@@ -319,14 +330,14 @@ export async function getCharacters(): Promise<Character[]> {
 }
 
 export async function getCharacterBySlug(
-  slug: string
+  slug: string,
 ): Promise<Character | undefined> {
   const characters = await getCharacters();
   return characters.find((c) => c.slug === slug);
 }
 
 export async function getEditionsByCharacter(
-  characterSlug: string
+  characterSlug: string,
 ): Promise<CollectedEdition[]> {
   const [character, editions] = await Promise.all([
     getCharacterBySlug(characterSlug),
@@ -349,15 +360,17 @@ export async function getEditionsByCharacter(
 // CHARACTER EDITION COUNTS
 // ============================================================
 
-export async function getCharacterEditionCounts(): Promise<Map<string, number>> {
+export async function getCharacterEditionCounts(): Promise<
+  Map<string, number>
+> {
   const [characters, editions] = await Promise.all([
     getCharacters(),
     getEditions(),
   ]);
   const counts = new Map<string, number>();
 
-  const editionTexts = editions.map(
-    (e) => `${e.title} ${e.synopsis} ${e.connection_notes}`.toLowerCase()
+  const editionTexts = editions.map((e) =>
+    `${e.title} ${e.synopsis} ${e.connection_notes}`.toLowerCase(),
   );
 
   for (const c of characters) {
@@ -401,14 +414,14 @@ export async function getCreators(): Promise<Creator[]> {
 }
 
 export async function getCreatorBySlug(
-  slug: string
+  slug: string,
 ): Promise<Creator | undefined> {
   const creators = await getCreators();
   return creators.find((c) => c.slug === slug);
 }
 
 export async function getEditionsByCreator(
-  creatorSlug: string
+  creatorSlug: string,
 ): Promise<CollectedEdition[]> {
   const creator = await getCreatorBySlug(creatorSlug);
   if (!creator) return [];
@@ -431,7 +444,9 @@ export async function getEditionsByCreator(
       .range(0, 4999);
     if (jErr || !junctions || junctions.length === 0) return [];
 
-    const editionIds = new Set(junctions.map((j: Record<string, unknown>) => j.edition_id as string));
+    const editionIds = new Set(
+      junctions.map((j: Record<string, unknown>) => j.edition_id as string),
+    );
     const editions = await getEditions();
     return editions.filter((e) => editionIds.has(e.id));
   });
@@ -469,7 +484,7 @@ export async function getStoryArcs(): Promise<StoryArc[]> {
 }
 
 export async function getStoryArcsByEdition(
-  editionSlug: string
+  editionSlug: string,
 ): Promise<StoryArc[]> {
   const [edition, arcs] = await Promise.all([
     getEditionBySlug(editionSlug),
@@ -540,14 +555,13 @@ export async function getEvents(): Promise<Event[]> {
       consequences: (e.consequences as string) || "",
       era_slug: eraMap.get(e.era_id as string) || (e.era_id as string) || "",
       tags: (e.tags as string[]) || [],
-      guide_status: (e.guide_status as Event["guide_status"]) || ("complete" as const),
+      guide_status:
+        (e.guide_status as Event["guide_status"]) || ("complete" as const),
     }));
   });
 }
 
-export async function getEventBySlug(
-  slug: string
-): Promise<Event | undefined> {
+export async function getEventBySlug(slug: string): Promise<Event | undefined> {
   const events = await getEvents();
   return events.find((e) => e.slug === slug);
 }
@@ -563,8 +577,11 @@ type EventEditionSeed = {
 };
 
 function getEventEditionsFromJson(
-  editionSlugMap: Map<string, CollectedEdition>
-): Record<string, { edition: CollectedEdition; is_core: boolean; reading_order: number }[]> {
+  editionSlugMap: Map<string, CollectedEdition>,
+): Record<
+  string,
+  { edition: CollectedEdition; is_core: boolean; reading_order: number }[]
+> {
   const result: Record<
     string,
     { edition: CollectedEdition; is_core: boolean; reading_order: number }[]
@@ -587,7 +604,7 @@ function getEventEditionsFromJson(
 }
 
 export async function getEditionsForEvent(
-  eventSlug: string
+  eventSlug: string,
 ): Promise<
   { edition: CollectedEdition; is_core: boolean; reading_order: number }[]
 > {
@@ -667,7 +684,10 @@ export async function getEventEditionCounts(): Promise<Record<string, number>> {
 }
 
 export async function getAllEventEditions(): Promise<
-  Record<string, { edition: CollectedEdition; is_core: boolean; reading_order: number }[]>
+  Record<
+    string,
+    { edition: CollectedEdition; is_core: boolean; reading_order: number }[]
+  >
 > {
   return cachedQuery("all-event-editions", async () => {
     const { data, error } = await supabase
@@ -720,13 +740,14 @@ export async function getConnections(): Promise<RawConnection[]> {
   return cachedQuery("connections", async () => {
     const data = await paginatedFetch(
       "connections",
-      "source_type,source_id,target_type,target_id,connection_type,strength,confidence,description,source_slug,target_slug"
+      "source_type,source_id,target_type,target_id,connection_type,strength,confidence,description,source_slug,target_slug",
     );
 
     // If source_slug/target_slug are populated, use them directly.
     // Otherwise fall back to building a UUID->slug map.
     const needsMapping = data.some(
-      (c: Record<string, unknown>) => !c.source_slug && c.source_type === "edition"
+      (c: Record<string, unknown>) =>
+        !c.source_slug && c.source_type === "edition",
     );
 
     let uuidToSlug: Map<string, string> | null = null;
@@ -739,16 +760,58 @@ export async function getConnections(): Promise<RawConnection[]> {
       source_type: (c.source_type as string) || "edition",
       source_slug:
         (c.source_slug as string) ||
-        (uuidToSlug ? uuidToSlug.get(c.source_id as string) || (c.source_id as string) : (c.source_id as string)),
+        (uuidToSlug
+          ? uuidToSlug.get(c.source_id as string) || (c.source_id as string)
+          : (c.source_id as string)),
       target_type: (c.target_type as string) || "edition",
       target_slug:
         (c.target_slug as string) ||
-        (uuidToSlug ? uuidToSlug.get(c.target_id as string) || (c.target_id as string) : (c.target_id as string)),
+        (uuidToSlug
+          ? uuidToSlug.get(c.target_id as string) || (c.target_id as string)
+          : (c.target_id as string)),
       connection_type: (c.connection_type as string) || "leads_to",
       strength: (c.strength as number) || 5,
       confidence: (c.confidence as number) || 50,
       description: (c.description as string) || "",
     }));
+  });
+}
+
+// ============================================================
+// CONNECTION INDEX (O(1) lookups instead of full-array scans)
+// ============================================================
+
+interface ConnectionIndex {
+  bySource: Map<string, RawConnection[]>;
+  byTarget: Map<string, RawConnection[]>;
+}
+
+function buildConnectionIndex(connections: RawConnection[]): ConnectionIndex {
+  const bySource = new Map<string, RawConnection[]>();
+  const byTarget = new Map<string, RawConnection[]>();
+  for (const c of connections) {
+    const srcKey = c.source_slug;
+    const tgtKey = c.target_slug;
+    let srcList = bySource.get(srcKey);
+    if (!srcList) {
+      srcList = [];
+      bySource.set(srcKey, srcList);
+    }
+    srcList.push(c);
+    let tgtList = byTarget.get(tgtKey);
+    if (!tgtList) {
+      tgtList = [];
+      byTarget.set(tgtKey, tgtList);
+    }
+    tgtList.push(c);
+  }
+  return { bySource, byTarget };
+}
+
+async function getConnectionIndex(): Promise<ConnectionIndex> {
+  return cachedQuery("connection-index", async () => {
+    const connections = await getConnections();
+    return buildConnectionIndex(connections);
   });
 }
 
@@ -766,14 +829,14 @@ export async function getConnectionsForEdition(slug: string): Promise<{
     source_issues: string;
   })[];
 }> {
-  const [connections, editions] = await Promise.all([
-    getConnections(),
+  const [connIndex, editions] = await Promise.all([
+    getConnectionIndex(),
     getEditions(),
   ]);
   const editionMap = new Map(editions.map((e) => [e.slug, e]));
 
-  const outgoing = connections
-    .filter((c) => c.source_slug === slug && c.target_type === "edition")
+  const outgoing = (connIndex.bySource.get(slug) || [])
+    .filter((c) => c.target_type === "edition")
     .map((c) => {
       const target = editionMap.get(c.target_slug);
       return {
@@ -790,8 +853,8 @@ export async function getConnectionsForEdition(slug: string): Promise<{
     })
     .sort((a, b) => b.strength - a.strength);
 
-  const incoming = connections
-    .filter((c) => c.target_slug === slug && c.source_type === "edition")
+  const incoming = (connIndex.byTarget.get(slug) || [])
+    .filter((c) => c.source_type === "edition")
     .map((c) => {
       const source = editionMap.get(c.source_slug);
       return {
@@ -817,16 +880,30 @@ export async function getConnectionsForEdition(slug: string): Promise<{
 
 export async function getMultiHopConnections(
   slug: string,
-  maxDepth: number = 3
+  maxDepth: number = 3,
 ): Promise<GraphData> {
-  const [connections, editions] = await Promise.all([
-    getConnections(),
+  const [connIndex, editions] = await Promise.all([
+    getConnectionIndex(),
     getEditions(),
   ]);
   const editionMap = new Map(editions.map((e) => [e.slug, e]));
 
+  const OUTGOING_TYPES = new Set([
+    "leads_to",
+    "recommended_after",
+    "spin_off",
+    "ties_into",
+    "prerequisite",
+  ]);
+  const INCOMING_TYPES = new Set([
+    "leads_to",
+    "recommended_after",
+    "spin_off",
+  ]);
+
   const nodes = new Map<string, GraphNode>();
   const edges: GraphEdge[] = [];
+  const edgeKeys = new Set<string>();
   const visited = new Set<string>();
 
   // Add center node
@@ -851,18 +928,9 @@ export async function getMultiHopConnections(
     const current = queue.shift()!;
     if (current.depth >= maxDepth) continue;
 
-    // Outgoing connections
-    const outgoing = connections.filter(
-      (c) =>
-        c.source_slug === current.slug &&
-        c.target_type === "edition" &&
-        [
-          "leads_to",
-          "recommended_after",
-          "spin_off",
-          "ties_into",
-          "prerequisite",
-        ].includes(c.connection_type)
+    // Outgoing connections — O(1) Map lookup instead of full scan
+    const outgoing = (connIndex.bySource.get(current.slug) || []).filter(
+      (c) => c.target_type === "edition" && OUTGOING_TYPES.has(c.connection_type),
     );
 
     for (const conn of outgoing) {
@@ -881,14 +949,18 @@ export async function getMultiHopConnections(
         });
       }
 
-      edges.push({
-        source: conn.source_slug,
-        target: conn.target_slug,
-        connection_type: conn.connection_type,
-        strength: conn.strength,
-        confidence: conn.confidence,
-        description: conn.description,
-      });
+      const edgeKey = `${conn.source_slug}->${conn.target_slug}-${conn.connection_type}`;
+      if (!edgeKeys.has(edgeKey)) {
+        edgeKeys.add(edgeKey);
+        edges.push({
+          source: conn.source_slug,
+          target: conn.target_slug,
+          connection_type: conn.connection_type,
+          strength: conn.strength,
+          confidence: conn.confidence,
+          description: conn.description,
+        });
+      }
 
       if (!visited.has(conn.target_slug)) {
         visited.add(conn.target_slug);
@@ -896,14 +968,9 @@ export async function getMultiHopConnections(
       }
     }
 
-    // Incoming connections (for "what came before")
-    const incoming = connections.filter(
-      (c) =>
-        c.target_slug === current.slug &&
-        c.source_type === "edition" &&
-        ["leads_to", "recommended_after", "spin_off"].includes(
-          c.connection_type
-        )
+    // Incoming connections (for "what came before") — O(1) Map lookup
+    const incoming = (connIndex.byTarget.get(current.slug) || []).filter(
+      (c) => c.source_type === "edition" && INCOMING_TYPES.has(c.connection_type),
     );
 
     for (const conn of incoming) {
@@ -922,14 +989,10 @@ export async function getMultiHopConnections(
         });
       }
 
-      // Only add edge if not already present
+      // O(1) Set check instead of O(n) edges.some()
       const edgeKey = `${conn.source_slug}->${conn.target_slug}-${conn.connection_type}`;
-      if (
-        !edges.some(
-          (e) =>
-            `${e.source}->${e.target}-${e.connection_type}` === edgeKey
-        )
-      ) {
+      if (!edgeKeys.has(edgeKey)) {
+        edgeKeys.add(edgeKey);
         edges.push({
           source: conn.source_slug,
           target: conn.target_slug,
@@ -1012,7 +1075,7 @@ export async function getReadingPaths(): Promise<ReadingPath[]> {
     return (pathsRes.data || []).map((p: Record<string, unknown>) => {
       const pathEntries = entriesByPath.get(p.id as string) || [];
       const sortedEntries = pathEntries.sort(
-        (a, b) => (a.position as number) - (b.position as number)
+        (a, b) => (a.position as number) - (b.position as number),
       );
 
       return {
@@ -1023,7 +1086,8 @@ export async function getReadingPaths(): Promise<ReadingPath[]> {
         path_type: (p.path_type as string) || "",
         difficulty: (p.difficulty as string) || "beginner",
         description: (p.description as string) || "",
-        estimated_issues: (p.estimated_issues as number) || sortedEntries.length * 25,
+        estimated_issues:
+          (p.estimated_issues as number) || sortedEntries.length * 25,
         sections: (p.sections as ReadingPath["sections"]) || undefined,
         entries: sortedEntries.map((entry) => {
           const edition = editionMap.get(entry.edition_id as string);
@@ -1055,7 +1119,7 @@ export async function getReadingPaths(): Promise<ReadingPath[]> {
 }
 
 export async function getReadingPathBySlug(
-  slug: string
+  slug: string,
 ): Promise<ReadingPath | undefined> {
   const paths = await getReadingPaths();
   return paths.find((p) => p.slug === slug);
@@ -1121,7 +1185,7 @@ export async function getEditionIssues(): Promise<RawEditionIssue[]> {
     // We need to join with collected_editions to get the slug
     const data = await paginatedFetch(
       "edition_issues",
-      "edition_id, series_name, issue_number, is_annual"
+      "edition_id, series_name, issue_number, is_annual",
     );
 
     // Build UUID -> slug map from editions
@@ -1129,7 +1193,8 @@ export async function getEditionIssues(): Promise<RawEditionIssue[]> {
     const idToSlug = new Map(editions.map((e) => [e.id, e.slug]));
 
     return data.map((row: Record<string, unknown>) => ({
-      edition_slug: idToSlug.get(row.edition_id as string) || (row.edition_id as string),
+      edition_slug:
+        idToSlug.get(row.edition_id as string) || (row.edition_id as string),
       series_name: (row.series_name as string) || "",
       issue_number: (row.issue_number as number) || 0,
       is_annual: (row.is_annual as boolean) || false,
@@ -1137,9 +1202,7 @@ export async function getEditionIssues(): Promise<RawEditionIssue[]> {
   });
 }
 
-export async function findOverlaps(
-  editionSlugs: string[]
-): Promise<{
+export async function findOverlaps(editionSlugs: string[]): Promise<{
   overlaps: {
     edition_a: string;
     edition_b: string;
@@ -1213,10 +1276,10 @@ export async function getCreatorSaga(creatorSlug: string): Promise<{
   editions: CollectedEdition[];
   connections: RawConnection[];
 }> {
-  const [creator, editions, connections] = await Promise.all([
+  const [creator, editions, connIndex] = await Promise.all([
     getCreatorBySlug(creatorSlug),
     getEditionsByCreator(creatorSlug),
-    getConnections(),
+    getConnectionIndex(),
   ]);
 
   if (!creator) {
@@ -1224,13 +1287,16 @@ export async function getCreatorSaga(creatorSlug: string): Promise<{
   }
 
   const editionSlugs = new Set(editions.map((e) => e.slug));
-  const sagaConnections = connections.filter(
-    (c) =>
-      c.source_type === "edition" &&
-      c.target_type === "edition" &&
-      editionSlugs.has(c.source_slug) &&
-      editionSlugs.has(c.target_slug)
-  );
+  const sagaConnections: RawConnection[] = [];
+  for (const slug of editionSlugs) {
+    const outgoing = connIndex.bySource.get(slug);
+    if (!outgoing) continue;
+    for (const c of outgoing) {
+      if (c.target_type === "edition" && editionSlugs.has(c.target_slug)) {
+        sagaConnections.push(c);
+      }
+    }
+  }
 
   return {
     creator_name: creator.name,
@@ -1333,14 +1399,18 @@ export async function getEraChapters(): Promise<EraChapter[]> {
   });
 }
 
-export async function getChaptersForEra(eraSlug: string): Promise<EraChapter[]> {
+export async function getChaptersForEra(
+  eraSlug: string,
+): Promise<EraChapter[]> {
   const chapters = await getEraChapters();
   return chapters
     .filter((c) => c.era_id === eraSlug)
     .sort((a, b) => a.number - b.number);
 }
 
-export async function getChapterEditionSlugs(chapterSlug: string): Promise<string[]> {
+export async function getChapterEditionSlugs(
+  chapterSlug: string,
+): Promise<string[]> {
   return cachedQuery(`chapter-edition-slugs:${chapterSlug}`, async () => {
     // Get chapter UUID from slug
     const { data: chapterRow, error: cErr } = await supabase
@@ -1362,7 +1432,7 @@ export async function getChapterEditionSlugs(chapterSlug: string): Promise<strin
 }
 
 export async function getEditionsForChapter(
-  chapterSlug: string
+  chapterSlug: string,
 ): Promise<CollectedEdition[]> {
   const [slugs, editions] = await Promise.all([
     getChapterEditionSlugs(chapterSlug),
@@ -1395,7 +1465,8 @@ export async function getEventPhases(): Promise<EventPhase[]> {
 
     return (data || []).map((p: Record<string, unknown>) => ({
       id: p.id as string,
-      event_id: eventIdToSlug.get(p.event_id as string) || (p.event_id as string) || "",
+      event_id:
+        eventIdToSlug.get(p.event_id as string) || (p.event_id as string) || "",
       slug: p.slug as string,
       name: (p.name as string) || "",
       number: (p.number as number) || 0,
@@ -1404,7 +1475,9 @@ export async function getEventPhases(): Promise<EventPhase[]> {
   });
 }
 
-export async function getPhasesForEvent(eventSlug: string): Promise<EventPhase[]> {
+export async function getPhasesForEvent(
+  eventSlug: string,
+): Promise<EventPhase[]> {
   const phases = await getEventPhases();
   return phases
     .filter((p) => p.event_id === eventSlug)
@@ -1417,9 +1490,7 @@ export async function getPhasesForEvent(eventSlug: string): Promise<EventPhase[]
 
 export async function getUniverses(): Promise<Universe[]> {
   return cachedQuery("universes", async () => {
-    const { data, error } = await supabase
-      .from("universes")
-      .select("*");
+    const { data, error } = await supabase.from("universes").select("*");
     if (error) {
       console.error("getUniverses error:", error.message);
       return [];
@@ -1439,7 +1510,7 @@ export async function getUniverses(): Promise<Universe[]> {
 }
 
 export async function getUniverseBySlug(
-  slug: string
+  slug: string,
 ): Promise<Universe | undefined> {
   const universes = await getUniverses();
   return universes.find((u) => u.slug === slug);
@@ -1452,13 +1523,8 @@ const UNIVERSE_EDITION_MAP: Record<string, string[]> = {
     "miles-morales-ultimate-spider-man-hc-omnibus",
     "thunderbolts-ultimate",
   ],
-  "earth-295": [
-    "xmen-age-of-apocalypse",
-    "xmen-age-of-apocalypse-companion",
-  ],
-  "earth-982": [
-    "mc2-universe-collection",
-  ],
+  "earth-295": ["xmen-age-of-apocalypse", "xmen-age-of-apocalypse-companion"],
+  "earth-982": ["mc2-universe-collection"],
 };
 
 /** Slug prefix → universe mappings (checked with startsWith) */
@@ -1487,7 +1553,7 @@ function getUniverseForEdition(edition: CollectedEdition): string {
     if (universes_cache) {
       const universes = universes_cache.data as Universe[];
       const match = universes.find(
-        (u) => u.designation === edition.universe_designation
+        (u) => u.designation === edition.universe_designation,
       );
       if (match) return match.slug;
     }
@@ -1510,7 +1576,7 @@ function getUniverseForEdition(edition: CollectedEdition): string {
 }
 
 export async function getEditionsByUniverse(
-  universeSlug: string
+  universeSlug: string,
 ): Promise<CollectedEdition[]> {
   const editions = await getEditions();
   return editions.filter((e) => getUniverseForEdition(e) === universeSlug);
@@ -1521,7 +1587,7 @@ export async function getEditionsByUniverse(
 // ============================================================
 
 export async function getReadingOrderForEvent(
-  eventSlug: string
+  eventSlug: string,
 ): Promise<ReadingOrderEntry[]> {
   return cachedQuery(`reading-order:${eventSlug}`, async () => {
     // Get event UUID
@@ -1550,7 +1616,8 @@ export async function getReadingOrderForEvent(
         : undefined;
       return {
         id: (e.id as string) || `${eventSlug}-${e.position}`,
-        context_type: (e.context_type as ReadingOrderEntry["context_type"]) || "event",
+        context_type:
+          (e.context_type as ReadingOrderEntry["context_type"]) || "event",
         context_id: eventSlug,
         position: (e.position as number) || 0,
         series_title: (e.series_title as string) || "",
@@ -1571,10 +1638,7 @@ export async function getReadingOrderForEvent(
 // ============================================================
 
 export async function getErasWithChapters(): Promise<Era[]> {
-  const [eras, chapters] = await Promise.all([
-    getEras(),
-    getEraChapters(),
-  ]);
+  const [eras, chapters] = await Promise.all([getEras(), getEraChapters()]);
   const chaptersByEra = new Map<string, EraChapter[]>();
   for (const ch of chapters) {
     const key = ch.era_id;
@@ -1584,7 +1648,7 @@ export async function getErasWithChapters(): Promise<Era[]> {
   return eras.map((era) => ({
     ...era,
     chapters: (chaptersByEra.get(era.slug) || []).sort(
-      (a, b) => a.number - b.number
+      (a, b) => a.number - b.number,
     ),
   }));
 }
@@ -1594,10 +1658,7 @@ export async function getErasWithChapters(): Promise<Era[]> {
 // ============================================================
 
 export async function getEventsWithPhases(): Promise<Event[]> {
-  const [events, phases] = await Promise.all([
-    getEvents(),
-    getEventPhases(),
-  ]);
+  const [events, phases] = await Promise.all([getEvents(), getEventPhases()]);
   const phasesByEvent = new Map<string, EventPhase[]>();
   for (const ph of phases) {
     const key = ph.event_id;
@@ -1607,13 +1668,13 @@ export async function getEventsWithPhases(): Promise<Event[]> {
   return events.map((event) => ({
     ...event,
     phases: (phasesByEvent.get(event.slug) || []).sort(
-      (a, b) => a.number - b.number
+      (a, b) => a.number - b.number,
     ),
   }));
 }
 
 export async function getEventWithPhases(
-  slug: string
+  slug: string,
 ): Promise<(Event & { phases: EventPhase[] }) | undefined> {
   const [event, phases] = await Promise.all([
     getEventBySlug(slug),
@@ -1628,7 +1689,7 @@ export async function getEventWithPhases(
 // ============================================================
 
 export async function searchEditions(
-  queryOrFilters: string | SearchFilters
+  queryOrFilters: string | SearchFilters,
 ): Promise<CollectedEdition[]> {
   const editions = await getEditions();
 
@@ -1662,55 +1723,52 @@ export async function searchEditions(
     results = scored.map((s) => s.edition);
   }
 
-  // Era filter
-  if (filters.era) {
-    results = results.filter(
-      (e) => e.era_slug === filters.era || e.era_id === filters.era
-    );
-  }
+  // Apply all filters in a single pass
+  const hasFilters =
+    filters.era ||
+    filters.publication_era ||
+    filters.importance ||
+    filters.status ||
+    filters.format ||
+    filters.creator ||
+    filters.character;
 
-  // Publication era filter
-  if (filters.publication_era) {
-    results = results.filter(
-      (e) => e.publication_era_slug === filters.publication_era
-    );
-  }
+  if (hasFilters) {
+    const creatorQ = filters.creator?.toLowerCase();
+    const charQ = filters.character?.toLowerCase();
 
-  // Importance filter
-  if (filters.importance) {
-    results = results.filter((e) => e.importance === filters.importance);
-  }
-
-  // Status filter
-  if (filters.status) {
-    results = results.filter((e) => e.print_status === filters.status);
-  }
-
-  // Format filter
-  if (filters.format) {
-    results = results.filter((e) => e.format === filters.format);
-  }
-
-  // Creator filter
-  if (filters.creator) {
-    const creatorQ = filters.creator.toLowerCase();
-    results = results.filter(
-      (e) =>
-        e.creator_names &&
-        e.creator_names.some((c) => c.toLowerCase().includes(creatorQ))
-    );
-  }
-
-  // Character filter
-  if (filters.character) {
-    const charQ = filters.character.toLowerCase();
-    results = results.filter(
-      (e) =>
-        e.synopsis.toLowerCase().includes(charQ) ||
-        e.title.toLowerCase().includes(charQ) ||
-        (e.connection_notes &&
-          e.connection_notes.toLowerCase().includes(charQ))
-    );
+    results = results.filter((e) => {
+      if (filters.era && e.era_slug !== filters.era && e.era_id !== filters.era)
+        return false;
+      if (
+        filters.publication_era &&
+        e.publication_era_slug !== filters.publication_era
+      )
+        return false;
+      if (filters.importance && e.importance !== filters.importance)
+        return false;
+      if (filters.status && e.print_status !== filters.status) return false;
+      if (filters.format && e.format !== filters.format) return false;
+      if (
+        creatorQ &&
+        !(
+          e.creator_names &&
+          e.creator_names.some((c) => c.toLowerCase().includes(creatorQ))
+        )
+      )
+        return false;
+      if (
+        charQ &&
+        !(
+          e.synopsis.toLowerCase().includes(charQ) ||
+          e.title.toLowerCase().includes(charQ) ||
+          (e.connection_notes &&
+            e.connection_notes.toLowerCase().includes(charQ))
+        )
+      )
+        return false;
+      return true;
+    });
   }
 
   return results;
@@ -1739,7 +1797,7 @@ export async function getTrivia(): Promise<TriviaQuestion[]> {
 }
 
 export async function getTriviaByCategory(
-  category: string
+  category: string,
 ): Promise<TriviaQuestion[]> {
   if (category === "all") return getTrivia();
   const { data, error } = await supabase
@@ -1754,7 +1812,7 @@ export async function getTriviaByCategory(
 }
 
 export async function getRandomTrivia(
-  count: number
+  count: number,
 ): Promise<TriviaQuestion[]> {
   const all = await getTrivia();
   const shuffled = [...all].sort(() => Math.random() - 0.5);
@@ -1766,9 +1824,7 @@ export async function getRandomTrivia(
 // ============================================================
 
 /** Returns a map of edition_slug -> Set<issue_key> for all editions */
-export async function getEditionIssueMap(): Promise<
-  Record<string, string[]>
-> {
+export async function getEditionIssueMap(): Promise<Record<string, string[]>> {
   const issues = await getEditionIssues();
   const map: Record<string, string[]> = {};
   for (const issue of issues) {
@@ -1827,7 +1883,7 @@ export async function getCoverageData(): Promise<{
         })),
         total_issues: eraEditions.reduce(
           (sum, e) => sum + (e.issue_count || 0),
-          0
+          0,
         ),
       };
     }),
@@ -1852,7 +1908,9 @@ export async function getHandbookEntries(): Promise<HandbookEntry[]> {
     console.error("Error fetching handbook:", error.message);
     return [];
   }
-  const result = (data || []).map((row: Record<string, unknown>) => normalizeHandbookEntry(row));
+  const result = (data || []).map((row: Record<string, unknown>) =>
+    normalizeHandbookEntry(row),
+  );
   sbCache.set("handbook", { data: result, timestamp: Date.now() });
   return result;
 }
@@ -1861,7 +1919,11 @@ function normalizeHandbookEntry(raw: Record<string, unknown>): HandbookEntry {
   // JSONB fields may come back as strings if double-stringified during seed
   const parseJsonb = <T>(val: unknown, fallback: T): T => {
     if (typeof val === "string") {
-      try { return JSON.parse(val) as T; } catch { return fallback; }
+      try {
+        return JSON.parse(val) as T;
+      } catch {
+        return fallback;
+      }
     }
     return (val as T) ?? fallback;
   };
@@ -1873,11 +1935,21 @@ function normalizeHandbookEntry(raw: Record<string, unknown>): HandbookEntry {
     canon_confidence: (raw.canon_confidence as number) || 0,
     description: (raw.description as string) || "",
     tags: Array.isArray(raw.tags) ? raw.tags : [],
-    source_citations: Array.isArray(raw.source_citations) ? raw.source_citations : [],
-    related_edition_slugs: Array.isArray(raw.related_edition_slugs) ? raw.related_edition_slugs : [],
-    related_event_slugs: Array.isArray(raw.related_event_slugs) ? raw.related_event_slugs : [],
-    related_conflict_slugs: Array.isArray(raw.related_conflict_slugs) ? raw.related_conflict_slugs : [],
-    related_handbook_slugs: Array.isArray(raw.related_handbook_slugs) ? raw.related_handbook_slugs : [],
+    source_citations: Array.isArray(raw.source_citations)
+      ? raw.source_citations
+      : [],
+    related_edition_slugs: Array.isArray(raw.related_edition_slugs)
+      ? raw.related_edition_slugs
+      : [],
+    related_event_slugs: Array.isArray(raw.related_event_slugs)
+      ? raw.related_event_slugs
+      : [],
+    related_conflict_slugs: Array.isArray(raw.related_conflict_slugs)
+      ? raw.related_conflict_slugs
+      : [],
+    related_handbook_slugs: Array.isArray(raw.related_handbook_slugs)
+      ? raw.related_handbook_slugs
+      : [],
     status_by_era: parseJsonb(raw.status_by_era, []),
     retcon_history: parseJsonb(raw.retcon_history, []),
     data: parseJsonb(raw.data, {}),
@@ -1885,7 +1957,7 @@ function normalizeHandbookEntry(raw: Record<string, unknown>): HandbookEntry {
 }
 
 export async function getHandbookEntryBySlug(
-  slug: string
+  slug: string,
 ): Promise<HandbookEntry | undefined> {
   const { data, error } = await supabase
     .from("handbook_entries")
@@ -1897,7 +1969,7 @@ export async function getHandbookEntryBySlug(
 }
 
 export async function getHandbookEntriesByType(
-  entryType: string
+  entryType: string,
 ): Promise<HandbookEntry[]> {
   const { data, error } = await supabase
     .from("handbook_entries")
@@ -1908,7 +1980,7 @@ export async function getHandbookEntriesByType(
 }
 
 export async function getHandbookEntriesForEdition(
-  editionSlug: string
+  editionSlug: string,
 ): Promise<HandbookEntry[]> {
   const { data, error } = await supabase
     .from("handbook_entries")
@@ -1919,17 +1991,17 @@ export async function getHandbookEntriesForEdition(
 }
 
 export async function getHandbookEntriesForEra(
-  eraSlug: string
+  eraSlug: string,
 ): Promise<HandbookEntry[]> {
   // status_by_era is JSONB, need to filter in-memory
   const entries = await getHandbookEntries();
   return entries.filter((e) =>
-    e.status_by_era.some((s: { era_slug: string }) => s.era_slug === eraSlug)
+    e.status_by_era.some((s: { era_slug: string }) => s.era_slug === eraSlug),
   );
 }
 
 export async function getHandbookEntriesForEvent(
-  eventSlug: string
+  eventSlug: string,
 ): Promise<HandbookEntry[]> {
   const { data, error } = await supabase
     .from("handbook_entries")
@@ -1939,9 +2011,7 @@ export async function getHandbookEntriesForEvent(
   return (data || []) as HandbookEntry[];
 }
 
-export async function searchHandbook(
-  query: string
-): Promise<HandbookEntry[]> {
+export async function searchHandbook(query: string): Promise<HandbookEntry[]> {
   const entries = await getHandbookEntries();
   const q = query.toLowerCase();
   return entries.filter(
@@ -1949,7 +2019,7 @@ export async function searchHandbook(
       e.name.toLowerCase().includes(q) ||
       e.core_concept.toLowerCase().includes(q) ||
       e.tags.some((t: string) => t.toLowerCase().includes(q)) ||
-      e.description.toLowerCase().includes(q)
+      e.description.toLowerCase().includes(q),
   );
 }
 
@@ -1958,14 +2028,18 @@ export async function searchHandbook(
 // ============================================================
 
 export async function getCalendarEditions(
-  startDate: string,
-  endDate: string
+  _startDate: string,
+  _endDate: string,
 ): Promise<CollectedEdition[]> {
   const editions = await getEditions();
   return editions.filter((e) => {
     // Editions with release_date or upcoming/in_print status
     // For now, use era year ranges as proxy if no release_date
-    if (e.print_status === "upcoming" || e.print_status === "in_print" || e.print_status === "ongoing") {
+    if (
+      e.print_status === "upcoming" ||
+      e.print_status === "in_print" ||
+      e.print_status === "ongoing"
+    ) {
       return true;
     }
     return false;
@@ -1978,14 +2052,36 @@ export async function getCalendarEditions(
 
 export async function getRetconData(): Promise<{
   entries: (HandbookEntry & { retcon_count: number })[];
-  allRetcons: { entry_slug: string; entry_name: string; entry_type: string; retcon: { year: number; description: string; source: string; old_state: string; new_state: string } }[];
+  allRetcons: {
+    entry_slug: string;
+    entry_name: string;
+    entry_type: string;
+    retcon: {
+      year: number;
+      description: string;
+      source: string;
+      old_state: string;
+      new_state: string;
+    };
+  }[];
 }> {
   const handbook = await getHandbookEntries();
   const entriesWithRetcons = handbook
     .filter((e) => e.retcon_history && e.retcon_history.length > 0)
     .map((e) => ({ ...e, retcon_count: e.retcon_history.length }));
 
-  const allRetcons: { entry_slug: string; entry_name: string; entry_type: string; retcon: { year: number; description: string; source: string; old_state: string; new_state: string } }[] = [];
+  const allRetcons: {
+    entry_slug: string;
+    entry_name: string;
+    entry_type: string;
+    retcon: {
+      year: number;
+      description: string;
+      source: string;
+      old_state: string;
+      new_state: string;
+    };
+  }[] = [];
   for (const entry of entriesWithRetcons) {
     for (const retcon of entry.retcon_history) {
       allRetcons.push({
@@ -2006,8 +2102,20 @@ export async function getRetconData(): Promise<{
 // ============================================================
 
 export async function getCharacterGraphData(): Promise<{
-  nodes: { slug: string; name: string; teams: string[]; universe: string; editionCount: number }[];
-  edges: { source: string; target: string; type: string; strength: number; label: string }[];
+  nodes: {
+    slug: string;
+    name: string;
+    teams: string[];
+    universe: string;
+    editionCount: number;
+  }[];
+  edges: {
+    source: string;
+    target: string;
+    type: string;
+    strength: number;
+    label: string;
+  }[];
 }> {
   const [characters, editionCounts] = await Promise.all([
     getCharacters(),
@@ -2016,7 +2124,7 @@ export async function getCharacterGraphData(): Promise<{
 
   // Filter to characters with 2+ edition appearances
   const relevantCharacters = characters.filter(
-    (c) => (editionCounts.get(c.slug) || 0) >= 2
+    (c) => (editionCounts.get(c.slug) || 0) >= 2,
   );
 
   const nodes = relevantCharacters.map((c) => ({
@@ -2027,11 +2135,16 @@ export async function getCharacterGraphData(): Promise<{
     editionCount: editionCounts.get(c.slug) || 0,
   }));
 
-  const edges: { source: string; target: string; type: string; strength: number; label: string }[] = [];
+  const edges: {
+    source: string;
+    target: string;
+    type: string;
+    strength: number;
+    label: string;
+  }[] = [];
   const edgeSet = new Set<string>();
 
   // Team co-membership edges
-  const slugSet = new Set(relevantCharacters.map((c) => c.slug));
   const teamMembers = new Map<string, string[]>();
   for (const c of relevantCharacters) {
     for (const team of c.teams) {
@@ -2061,7 +2174,9 @@ export async function getCharacterGraphData(): Promise<{
   // Explicit relationships from DB
   const { data: relData } = await supabase
     .from("character_relationships")
-    .select("character_a_id, character_b_id, relationship_type, strength, description, citation")
+    .select(
+      "character_a_id, character_b_id, relationship_type, strength, description, citation",
+    )
     .range(0, 999);
 
   if (relData && relData.length > 0) {
@@ -2094,25 +2209,54 @@ export async function getCharacterGraphData(): Promise<{
 // ============================================================
 
 export async function getSuggestedComparisons(): Promise<
-  { slug_a: string; title_a: string; slug_b: string; title_b: string; overlap_count: number; reason: string }[]
+  {
+    slug_a: string;
+    title_a: string;
+    slug_b: string;
+    title_b: string;
+    overlap_count: number;
+    reason: string;
+  }[]
 > {
   const [editions, issueMap] = await Promise.all([
     getEditions(),
     getEditionIssueMap(),
   ]);
 
-  const suggestions: { slug_a: string; title_a: string; slug_b: string; title_b: string; overlap_count: number; reason: string }[] = [];
+  const suggestions: {
+    slug_a: string;
+    title_a: string;
+    slug_b: string;
+    title_b: string;
+    overlap_count: number;
+    reason: string;
+  }[] = [];
   const editionMap = new Map(editions.map((e) => [e.slug, e]));
   const slugs = Object.keys(issueMap);
 
+  // Pre-create all Sets once instead of rebuilding per outer iteration
+  const issueSets = new Map<string, Set<string>>();
+  for (const slug of slugs) {
+    const issues = issueMap[slug];
+    if (issues && issues.length > 0) {
+      issueSets.set(slug, new Set(issues));
+    }
+  }
+
   for (let i = 0; i < slugs.length; i++) {
+    const a = slugs[i];
+    const setA = issueSets.get(a);
+    if (!setA) continue; // skip editions with no issues
     for (let j = i + 1; j < slugs.length; j++) {
-      const a = slugs[i];
       const b = slugs[j];
-      const setA = new Set(issueMap[a]);
-      const overlap = (issueMap[b] || []).filter((issue) => setA.has(issue));
-      const pctA = setA.size > 0 ? overlap.length / setA.size : 0;
-      const pctB = (issueMap[b] || []).length > 0 ? overlap.length / (issueMap[b] || []).length : 0;
+      const setB = issueSets.get(b);
+      if (!setB) continue; // skip editions with no issues
+      const overlap: string[] = [];
+      for (const issue of setA) {
+        if (setB.has(issue)) overlap.push(issue);
+      }
+      const pctA = overlap.length / setA.size;
+      const pctB = overlap.length / setB.size;
 
       if (overlap.length > 0 && (pctA >= 0.3 || pctB >= 0.3)) {
         const edA = editionMap.get(a);
@@ -2143,21 +2287,36 @@ export async function getSuggestedComparisons(): Promise<
 // PREREQUISITES (for edition detail context engine)
 // ============================================================
 
-export async function getPrerequisites(editionSlug: string): Promise<
-  { edition_slug: string; edition_title: string; issues_collected: string; importance: string; connection_type: string; strength: number; description: string; category: 'required' | 'recommended' | 'helpful' }[]
+export async function getPrerequisites(
+  editionSlug: string,
+): Promise<
+  {
+    edition_slug: string;
+    edition_title: string;
+    issues_collected: string;
+    importance: string;
+    connection_type: string;
+    strength: number;
+    description: string;
+    category: "required" | "recommended" | "helpful";
+  }[]
 > {
-  const [connections, editions] = await Promise.all([
-    getConnections(),
+  const [connIndex, editions] = await Promise.all([
+    getConnectionIndex(),
     getEditions(),
   ]);
   const editionMap = new Map(editions.map((e) => [e.slug, e]));
 
+  const PREREQ_TYPES = new Set([
+    "prerequisite",
+    "recommended_after",
+    "references",
+    "leads_to",
+  ]);
+
   // Find incoming connections (things that should be read before this edition)
-  const incoming = connections.filter(
-    (c) =>
-      c.target_slug === editionSlug &&
-      c.source_type === "edition" &&
-      ["prerequisite", "recommended_after", "references", "leads_to"].includes(c.connection_type)
+  const incoming = (connIndex.byTarget.get(editionSlug) || []).filter(
+    (c) => c.source_type === "edition" && PREREQ_TYPES.has(c.connection_type),
   );
 
   return incoming
@@ -2165,10 +2324,14 @@ export async function getPrerequisites(editionSlug: string): Promise<
       const source = editionMap.get(c.source_slug);
       if (!source) return null;
 
-      let category: 'required' | 'recommended' | 'helpful';
+      let category: "required" | "recommended" | "helpful";
       if (c.connection_type === "prerequisite" || c.strength >= 8) {
         category = "required";
-      } else if (c.connection_type === "recommended_after" || c.connection_type === "leads_to" || c.strength >= 5) {
+      } else if (
+        c.connection_type === "recommended_after" ||
+        c.connection_type === "leads_to" ||
+        c.strength >= 5
+      ) {
         category = "recommended";
       } else {
         category = "helpful";
@@ -2185,7 +2348,16 @@ export async function getPrerequisites(editionSlug: string): Promise<
         category,
       };
     })
-    .filter(Boolean) as { edition_slug: string; edition_title: string; issues_collected: string; importance: string; connection_type: string; strength: number; description: string; category: 'required' | 'recommended' | 'helpful' }[];
+    .filter(Boolean) as {
+    edition_slug: string;
+    edition_title: string;
+    issues_collected: string;
+    importance: string;
+    connection_type: string;
+    strength: number;
+    description: string;
+    category: "required" | "recommended" | "helpful";
+  }[];
 }
 
 /** Get all edition data needed for comparison page */
@@ -2258,7 +2430,13 @@ export async function getIssues(): Promise<DailyIssue[]> {
 // ============================================================
 
 export async function getEditionsForWhatIf(): Promise<
-  { slug: string; title: string; importance: ImportanceLevel; era_slug: string; era_name: string }[]
+  {
+    slug: string;
+    title: string;
+    importance: ImportanceLevel;
+    era_slug: string;
+    era_name: string;
+  }[]
 > {
   const editions = await getEditions();
   return editions.map((e) => ({
@@ -2284,7 +2462,7 @@ export async function getAllEditionCreators(): Promise<EditionCreatorRow[]> {
   return cachedQuery("all-edition-creators", async () => {
     const data = await paginatedFetch(
       "edition_creators",
-      "edition_id, creator_id, role"
+      "edition_id, creator_id, role",
     );
     return data.map((r: Record<string, unknown>) => ({
       edition_id: r.edition_id as string,
@@ -2317,7 +2495,7 @@ import type {
 } from "./watcher-context";
 
 export async function getWatcherPageContextData(
-  pageCtx: WatcherPageContext
+  pageCtx: WatcherPageContext,
 ): Promise<WatcherPageContextData> {
   const data: WatcherPageContextData = {};
 
@@ -2421,8 +2599,12 @@ export interface WatcherVerdictData {
 }
 
 export async function getWatcherVerdict(
-  editionSlug: string
-): Promise<{ verdict: WatcherVerdictData; model_version: string; generated_at: string } | null> {
+  editionSlug: string,
+): Promise<{
+  verdict: WatcherVerdictData;
+  model_version: string;
+  generated_at: string;
+} | null> {
   const { data, error } = await supabase
     .from("watcher_verdicts")
     .select("verdict_json, model_version, generated_at, expires_at")
@@ -2446,7 +2628,7 @@ export async function getWatcherVerdict(
 export async function saveWatcherVerdict(
   editionSlug: string,
   verdict: WatcherVerdictData,
-  modelVersion: string
+  modelVersion: string,
 ): Promise<void> {
   await supabase.from("watcher_verdicts").upsert(
     {
@@ -2456,7 +2638,7 @@ export async function saveWatcherVerdict(
       generated_at: new Date().toISOString(),
       expires_at: new Date(Date.now() + 30 * 24 * 60 * 60 * 1000).toISOString(),
     },
-    { onConflict: "edition_slug" }
+    { onConflict: "edition_slug" },
   );
 }
 
@@ -2473,19 +2655,23 @@ export async function getWatcherSearchContext(query: string) {
 
   // Find matching conflicts
   const q = query.toLowerCase();
-  const matchingConflicts = conflicts.filter(
-    (c) =>
-      c.title.toLowerCase().includes(q) ||
-      c.description.toLowerCase().includes(q) ||
-      c.tags.some((t) => q.includes(t.toLowerCase()))
-  ).slice(0, 3);
+  const matchingConflicts = conflicts
+    .filter(
+      (c) =>
+        c.title.toLowerCase().includes(q) ||
+        c.description.toLowerCase().includes(q) ||
+        c.tags.some((t) => q.includes(t.toLowerCase())),
+    )
+    .slice(0, 3);
 
   // Find matching characters
-  const matchingCharacters = characters.filter(
-    (c) =>
-      c.name.toLowerCase().includes(q) ||
-      c.aliases.some((a) => a.toLowerCase().includes(q))
-  ).slice(0, 3);
+  const matchingCharacters = characters
+    .filter(
+      (c) =>
+        c.name.toLowerCase().includes(q) ||
+        c.aliases.some((a) => a.toLowerCase().includes(q)),
+    )
+    .slice(0, 3);
 
   return { topEditions, matchingConflicts, matchingCharacters, eras };
 }
@@ -2508,12 +2694,16 @@ export async function getMCUContent(): Promise<MCUContent[]> {
   });
 }
 
-export async function getMCUContentBySlug(slug: string): Promise<MCUContent | null> {
+export async function getMCUContentBySlug(
+  slug: string,
+): Promise<MCUContent | null> {
   const all = await getMCUContent();
   return all.find((m) => m.slug === slug) || null;
 }
 
-export async function getMCUMappingsForContent(mcuContentId: string): Promise<MCUComicMapping[]> {
+export async function getMCUMappingsForContent(
+  mcuContentId: string,
+): Promise<MCUComicMapping[]> {
   return cachedQuery(`mcu_mappings_${mcuContentId}`, async () => {
     const { data, error } = await supabase
       .from("mcu_comic_mappings")
@@ -2539,7 +2729,9 @@ export async function getMCUMappingsForContent(mcuContentId: string): Promise<MC
   });
 }
 
-export async function getMCUMappingsForEdition(editionId: string): Promise<MCUComicMapping[]> {
+export async function getMCUMappingsForEdition(
+  editionId: string,
+): Promise<MCUComicMapping[]> {
   return cachedQuery(`mcu_mappings_edition_${editionId}`, async () => {
     const { data, error } = await supabase
       .from("mcu_comic_mappings")
@@ -2583,10 +2775,14 @@ export async function getDebates(): Promise<Debate[]> {
     const { data: votes } = await supabase
       .from("debate_votes")
       .select("debate_id, position");
-    const voteCounts = new Map<string, { agree: number; disagree: number; complicated: number }>();
+    const voteCounts = new Map<
+      string,
+      { agree: number; disagree: number; complicated: number }
+    >();
     for (const v of votes || []) {
       const id = v.debate_id as string;
-      if (!voteCounts.has(id)) voteCounts.set(id, { agree: 0, disagree: 0, complicated: 0 });
+      if (!voteCounts.has(id))
+        voteCounts.set(id, { agree: 0, disagree: 0, complicated: 0 });
       const counts = voteCounts.get(id)!;
       const pos = v.position as string;
       if (pos === "agree") counts.agree++;
@@ -2594,7 +2790,11 @@ export async function getDebates(): Promise<Debate[]> {
       else counts.complicated++;
     }
     return (data || []).map((d: Record<string, unknown>) => {
-      const counts = voteCounts.get(d.id as string) || { agree: 0, disagree: 0, complicated: 0 };
+      const counts = voteCounts.get(d.id as string) || {
+        agree: 0,
+        disagree: 0,
+        complicated: 0,
+      };
       return {
         ...d,
         agree_count: counts.agree,
@@ -2611,7 +2811,9 @@ export async function getDebateBySlug(slug: string): Promise<Debate | null> {
   return all.find((d) => d.slug === slug) || null;
 }
 
-export async function getDebateEvidence(debateId: string): Promise<DebateEvidence[]> {
+export async function getDebateEvidence(
+  debateId: string,
+): Promise<DebateEvidence[]> {
   const { data, error } = await supabase
     .from("debate_evidence")
     .select("*")
@@ -2628,7 +2830,9 @@ export async function getDebateEvidence(debateId: string): Promise<DebateEvidenc
 // INFINITY THEMES (#26)
 // ============================================================
 
-export async function getEditionsWithThemes(): Promise<(CollectedEdition & { infinity_themes: InfinityTheme[] })[]> {
+export async function getEditionsWithThemes(): Promise<
+  (CollectedEdition & { infinity_themes: InfinityTheme[] })[]
+> {
   return cachedQuery("editions_with_themes", async () => {
     const editions = await getEditions();
     // Fetch themes from DB
@@ -2637,7 +2841,10 @@ export async function getEditionsWithThemes(): Promise<(CollectedEdition & { inf
       .select("slug, infinity_themes");
     const themeMap = new Map<string, InfinityTheme[]>();
     for (const row of data || []) {
-      themeMap.set(row.slug as string, (row.infinity_themes as InfinityTheme[]) || []);
+      themeMap.set(
+        row.slug as string,
+        (row.infinity_themes as InfinityTheme[]) || [],
+      );
     }
     return editions.map((e) => ({
       ...e,
@@ -2646,7 +2853,90 @@ export async function getEditionsWithThemes(): Promise<(CollectedEdition & { inf
   });
 }
 
-export async function getEditionsByTheme(theme: InfinityTheme): Promise<CollectedEdition[]> {
+export async function getEditionsByTheme(
+  theme: InfinityTheme,
+): Promise<CollectedEdition[]> {
   const editions = await getEditionsWithThemes();
   return editions.filter((e) => e.infinity_themes.includes(theme));
+}
+
+// ============================================================
+// SEARCH SUGGESTIONS (lightweight DB queries)
+// ============================================================
+
+export type SearchSuggestion = {
+  type: "edition" | "character" | "creator";
+  label: string;
+  slug: string;
+  detail: string;
+};
+
+export async function getSearchSuggestions(
+  q: string,
+  limit: number = 8,
+): Promise<SearchSuggestion[]> {
+  const pattern = `%${q}%`;
+
+  const [editionRes, characterRes, creatorRes] = await Promise.all([
+    supabase
+      .from("collected_editions")
+      .select("title, slug, issues_collected")
+      .ilike("title", pattern)
+      .order("importance", { ascending: true })
+      .limit(limit),
+    supabase
+      .from("characters")
+      .select("name, slug, aliases, first_appearance_issue")
+      .ilike("name", pattern)
+      .limit(4),
+    supabase
+      .from("creators")
+      .select("name, slug, roles")
+      .ilike("name", pattern)
+      .limit(4),
+  ]);
+
+  const suggestions: SearchSuggestion[] = [];
+
+  for (const e of editionRes.data || []) {
+    suggestions.push({
+      type: "edition",
+      label: e.title,
+      slug: e.slug,
+      detail: e.issues_collected,
+    });
+  }
+
+  for (const c of characterRes.data || []) {
+    suggestions.push({
+      type: "character",
+      label: c.name,
+      slug: c.slug,
+      detail:
+        (c.aliases as string[])?.slice(0, 2).join(", ") ||
+        c.first_appearance_issue ||
+        "",
+    });
+  }
+
+  for (const c of creatorRes.data || []) {
+    suggestions.push({
+      type: "creator",
+      label: c.name,
+      slug: c.slug,
+      detail: (c.roles as string[])?.join(", ") || "",
+    });
+  }
+
+  // Sort: prefix matches first, then by type priority
+  const ql = q.toLowerCase();
+  suggestions.sort((a, b) => {
+    const aPrefix = a.label.toLowerCase().startsWith(ql) ? 0 : 1;
+    const bPrefix = b.label.toLowerCase().startsWith(ql) ? 0 : 1;
+    if (aPrefix !== bPrefix) return aPrefix - bPrefix;
+    const typePriority = { edition: 0, character: 1, creator: 2 };
+    return typePriority[a.type] - typePriority[b.type];
+  });
+
+  return suggestions.slice(0, limit);
 }

@@ -7,7 +7,7 @@ import {
   Menu, X, Search, BookOpen, Clock, Zap, AlertTriangle, Users, Pencil,
   Library, Globe, HelpCircle, GitCompareArrows, BookMarked, LogIn, LogOut,
   User, Trophy, GitBranch, Shuffle, Eye, ChevronDown, Compass, Layers,
-  Star, Sparkles, Film, Gem, Swords, Newspaper, BookText, Play,
+  Star, Sparkles, Film, Gem, Swords, Newspaper, BookText, Play, CalendarDays,
 } from "lucide-react";
 import ThemeToggle from "@/components/ui/ThemeToggle";
 import StreakBadge from "@/components/achievements/StreakBadge";
@@ -64,6 +64,7 @@ const navStructure: NavEntry[] = [
         { href: "/creators", label: "Creators", icon: Pencil, description: "Writers, artists & editors" },
         { href: "/handbook", label: "Handbook", icon: BookMarked, description: "Marvel reference database" },
         { href: "/mcu", label: "MCU", icon: Film, description: "Movie & show cross-reference" },
+        { href: "/calendar", label: "Upcoming", icon: CalendarDays, description: "New & upcoming releases" },
         { href: "/search", label: "Search", icon: Search, description: "Full-text search" },
       ],
     },
@@ -78,6 +79,7 @@ const navStructure: NavEntry[] = [
         { href: "/guide", label: "Auto Guides", icon: BookText, description: "Generated reading guides" },
         { href: "/compare", label: "Compare", icon: GitCompareArrows, description: "Overlap & duplication detector" },
         { href: "/collection", label: "My Collection", icon: Library, description: "Track what you own & read" },
+        { href: "/schedule", label: "Schedule", icon: CalendarDays, description: "Personal reading calendar" },
         { href: "/journey", label: "Journey Replay", icon: Play, description: "Animated reading timeline" },
       ],
     },

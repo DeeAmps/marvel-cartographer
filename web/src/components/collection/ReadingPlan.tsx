@@ -1,9 +1,11 @@
 "use client";
 
-import { useMemo } from "react";
+import { useMemo, useState } from "react";
 import Link from "next/link";
-import { BookOpen, ArrowDown, Route } from "lucide-react";
+import { BookOpen, ArrowDown, Route, CalendarPlus, Check } from "lucide-react";
 import { useCollection } from "@/hooks/useCollection";
+import { useReadingSchedule } from "@/hooks/useReadingSchedule";
+import { toast } from "sonner";
 import PathMatchCard from "./PathMatchCard";
 import ImportanceBadge from "@/components/ui/ImportanceBadge";
 import StatusBadge from "@/components/ui/StatusBadge";
@@ -58,6 +60,7 @@ export default function ReadingPlan({
   eras: EraData[];
 }) {
   const { items, hydrated } = useCollection();
+  const { authenticated: scheduleAuth, activeSchedule, isEditionScheduled, addItem: addToSchedule } = useReadingSchedule();
 
   const ownedSlugs = useMemo(
     () =>
@@ -198,9 +201,18 @@ export default function ReadingPlan({
         >
           Your Reading Order
         </h2>
-        <p className="text-xs mb-4" style={{ color: "var(--text-tertiary)" }}>
-          Optimal reading sequence for your owned editions, sorted by story connections and chronology.
-        </p>
+        <div className="flex items-center gap-3 mb-4">
+          <p className="text-xs flex-1" style={{ color: "var(--text-tertiary)" }}>
+            Optimal reading sequence for your owned editions, sorted by story connections and chronology.
+          </p>
+          {scheduleAuth && activeSchedule && readingOrder.length > 0 && (
+            <ScheduleAllButton
+              slugs={readingOrder}
+              isEditionScheduled={isEditionScheduled}
+              addToSchedule={addToSchedule}
+            />
+          )}
+        </div>
 
         <div className="space-y-0">
           {readingOrder.map((slug, index) => {
@@ -276,8 +288,33 @@ export default function ReadingPlan({
                     </span>
                   </div>
 
-                  {/* Badges */}
+                  {/* Badges + Schedule */}
                   <ImportanceBadge level={ed.importance as ImportanceLevel} />
+                  {scheduleAuth && activeSchedule && (
+                    isEditionScheduled(slug) ? (
+                      <span
+                        className="flex items-center gap-0.5 text-xs flex-shrink-0"
+                        style={{ color: "var(--accent-green)" }}
+                        title="Already scheduled"
+                      >
+                        <Check size={12} />
+                      </span>
+                    ) : (
+                      <button
+                        onClick={async () => {
+                          const today = new Date();
+                          const startDate = today.toISOString().split("T")[0];
+                          const endDate = new Date(today.getTime() + 6 * 86400000).toISOString().split("T")[0];
+                          const ok = await addToSchedule(slug, startDate, endDate);
+                          if (ok) toast.success(`Scheduled: ${ed.title}`);
+                        }}
+                        className="p-1 rounded-md transition-colors hover:bg-[var(--bg-tertiary)] flex-shrink-0"
+                        title="Add to schedule"
+                      >
+                        <CalendarPlus size={14} style={{ color: "var(--accent-blue)" }} />
+                      </button>
+                    )
+                  )}
                 </div>
               </div>
             );
@@ -291,5 +328,64 @@ export default function ReadingPlan({
         )}
       </section>
     </div>
+  );
+}
+
+// ---- Bulk schedule button for reading order ----
+
+function ScheduleAllButton({
+  slugs,
+  isEditionScheduled,
+  addToSchedule,
+}: {
+  slugs: string[];
+  isEditionScheduled: (slug: string) => boolean;
+  addToSchedule: (slug: string, startDate: string, endDate: string) => Promise<boolean>;
+}) {
+  const [adding, setAdding] = useState(false);
+
+  const unscheduled = slugs.filter((s) => !isEditionScheduled(s));
+
+  if (unscheduled.length === 0) {
+    return (
+      <span className="flex items-center gap-1 text-xs flex-shrink-0" style={{ color: "var(--accent-green)" }}>
+        <Check size={12} /> All scheduled
+      </span>
+    );
+  }
+
+  return (
+    <button
+      onClick={async () => {
+        setAdding(true);
+        const today = new Date();
+        let added = 0;
+        for (let i = 0; i < unscheduled.length; i++) {
+          // Each edition gets a 7-day reading window, spaced sequentially
+          const startDate = new Date(today);
+          startDate.setDate(startDate.getDate() + i * 7);
+          const endDate = new Date(startDate);
+          endDate.setDate(endDate.getDate() + 6);
+          const ok = await addToSchedule(
+            unscheduled[i],
+            startDate.toISOString().split("T")[0],
+            endDate.toISOString().split("T")[0]
+          );
+          if (ok) added++;
+        }
+        toast.success(`Added ${added} edition${added !== 1 ? "s" : ""} to schedule`);
+        setAdding(false);
+      }}
+      disabled={adding}
+      className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium transition-colors flex-shrink-0"
+      style={{
+        background: "var(--accent-blue)",
+        color: "#fff",
+        opacity: adding ? 0.5 : 1,
+      }}
+    >
+      <CalendarPlus size={12} />
+      {adding ? "Adding..." : `Schedule All (${unscheduled.length})`}
+    </button>
   );
 }

@@ -562,15 +562,17 @@ export default function WhatsNextMap({
   outgoing,
   incoming,
   graphData,
+  hideGraphOption = false,
 }: {
   currentSlug: string;
   currentTitle: string;
   outgoing: ConnectionNode[];
   incoming: ConnectionNode[];
   graphData?: GraphData;
+  hideGraphOption?: boolean;
 }) {
   const [view, setView] = useState<"graph" | "next" | "prev" | "all">(
-    graphData && graphData.nodes.length > 1 ? "graph" : "next"
+    !hideGraphOption && graphData && graphData.nodes.length > 1 ? "graph" : "next"
   );
   const [filter, setFilter] = useState<string>("all");
   const [maxDepth, setMaxDepth] = useState(1);
@@ -607,7 +609,7 @@ export default function WhatsNextMap({
     <div>
       {/* View toggle */}
       <div className="flex flex-wrap gap-2 mb-4">
-        {graphData && graphData.nodes.length > 1 && (
+        {!hideGraphOption && graphData && graphData.nodes.length > 1 && (
           <button
             onClick={() => setView("graph")}
             className="px-2 sm:px-3 py-1.5 rounded-lg text-xs font-bold transition-all"

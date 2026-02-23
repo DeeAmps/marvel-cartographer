@@ -17,7 +17,7 @@ import {
 } from "@/lib/data";
 import StatusBadge from "@/components/ui/StatusBadge";
 import ImportanceBadge from "@/components/ui/ImportanceBadge";
-import WhatsNextMap from "@/components/editions/WhatsNextMap";
+import { WhatsNextGraph } from "@/components/graph";
 import CollectionButton from "@/components/collection/CollectionButton";
 import CollectionOverlapAlert from "@/components/collection/CollectionOverlapAlert";
 import OverlapDetector from "@/components/overlap/OverlapDetector";
@@ -27,7 +27,8 @@ import RatingSection from "@/components/ratings/RatingSection";
 import PrerequisiteCheck from "@/components/context/PrerequisiteCheck";
 import PrerequisiteCollectionStatus from "@/components/context/PrerequisiteCollectionStatus";
 import WatcherVerdict from "@/components/watcher/WatcherVerdict";
-import { ArrowLeft, Users, Layers, ShoppingCart, Sparkles, Lightbulb, Film } from "lucide-react";
+import { ArrowLeft, Users, Layers, ShoppingCart, Sparkles, Lightbulb, Film, CalendarPlus } from "lucide-react";
+import ScheduleButton from "@/components/schedule/ScheduleButton";
 
 export const dynamic = "force-dynamic";
 
@@ -272,6 +273,7 @@ export default async function EditionDetailPage({ params }: { params: Promise<{ 
               </span>
             )}
             <CollectionButton editionSlug={slug} />
+            <ScheduleButton editionSlug={slug} />
           </div>
 
           {edition.creator_names && edition.creator_names.length > 0 && (
@@ -791,12 +793,13 @@ export default async function EditionDetailPage({ params }: { params: Promise<{ 
           >
             Connections
           </h2>
-          <WhatsNextMap
+          <WhatsNextGraph
             currentSlug={slug}
             currentTitle={edition.title}
             outgoing={outgoingNodes}
             incoming={incomingNodes}
             graphData={graphData}
+            editions={allEditions}
           />
         </section>
       )}

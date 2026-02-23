@@ -1,19 +1,39 @@
 "use client";
 
 import Link from "next/link";
-import { Heart } from "lucide-react";
+import { Heart, Calendar } from "lucide-react";
 import ImportanceBadge from "@/components/ui/ImportanceBadge";
 import CoverImage from "@/components/ui/CoverImage";
-import type { ImportanceLevel, PrintStatus } from "@/lib/types";
+import type { CollectedEdition, ImportanceLevel } from "@/lib/types";
 
-interface CalendarEdition {
-  slug: string;
-  title: string;
-  format: string;
-  cover_image_url: string | null;
-  importance: string;
-  print_status: string;
-  issue_count: number;
+const FORMAT_LABELS: Record<string, string> = {
+  omnibus: "Omnibus",
+  epic_collection: "Epic Collection",
+  trade_paperback: "Trade Paperback",
+  hardcover: "Hardcover",
+  masterworks: "Masterworks",
+  compendium: "Compendium",
+  complete_collection: "Complete Collection",
+  oversized_hardcover: "Oversized HC",
+  premier_collection: "Premier Collection",
+};
+
+const STATUS_CONFIG: Record<string, { label: string; color: string }> = {
+  in_print: { label: "In Print", color: "var(--status-in-print)" },
+  out_of_print: { label: "Out of Print", color: "var(--status-out-of-print)" },
+  upcoming: { label: "Upcoming", color: "var(--status-upcoming)" },
+  digital_only: { label: "Digital Only", color: "var(--status-digital)" },
+  ongoing: { label: "Ongoing", color: "var(--status-ongoing)" },
+};
+
+function formatReleaseDate(dateStr?: string): string | null {
+  if (!dateStr) return null;
+  try {
+    const d = new Date(dateStr + "T00:00:00");
+    return d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+  } catch {
+    return null;
+  }
 }
 
 export default function CalendarEditionCard({
@@ -22,61 +42,135 @@ export default function CalendarEditionCard({
   onToggleWishlist,
   showWishlistButton,
 }: {
-  edition: CalendarEdition;
+  edition: CollectedEdition;
   isWishlisted: boolean;
   onToggleWishlist: () => void;
   showWishlistButton: boolean;
 }) {
-  const formatLabel = edition.format.replace(/_/g, " ").replace(/\b\w/g, (l) => l.toUpperCase());
+  const formatLabel = FORMAT_LABELS[edition.format] || edition.format;
+  const status = STATUS_CONFIG[edition.print_status] || STATUS_CONFIG.in_print;
+  const releaseLabel = formatReleaseDate(edition.release_date);
 
   return (
-    <div
-      className="rounded-lg border p-2 transition-all hover:border-[var(--accent-blue)] group relative"
-      style={{
-        background: "var(--bg-secondary)",
-        borderColor: isWishlisted ? "var(--accent-gold)" : "var(--border-default)",
-        borderWidth: isWishlisted ? "2px" : "1px",
-      }}
-    >
-      <Link href={`/edition/${edition.slug}`} className="block">
-        <div className="flex items-start gap-2">
-          {/* Cover thumbnail */}
+    <div className="relative group">
+      <Link
+        href={`/edition/${edition.slug}`}
+        className="block rounded-lg border transition-all hover:shadow-md hover:-translate-y-0.5"
+        style={{
+          background: "var(--bg-secondary)",
+          borderColor: isWishlisted ? "var(--accent-gold)" : "var(--border-default)",
+          borderWidth: isWishlisted ? "2px" : "1px",
+        }}
+      >
+        {/* Cover image */}
+        <div className="relative">
           <div
-            className="flex-shrink-0 w-10 h-14 rounded overflow-hidden flex items-center justify-center"
-            style={{ background: "var(--bg-tertiary)" }}
+            className="relative w-full overflow-hidden rounded-t-lg"
+            style={{
+              aspectRatio: "2/3",
+              maxHeight: 260,
+              background: "var(--bg-tertiary)",
+            }}
           >
             <CoverImage
               src={edition.cover_image_url}
               alt={edition.title}
-              width={40}
-              height={56}
-              className="w-full h-full object-cover"
+              fill
+              sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 200px"
+              className="object-cover transition-transform duration-300 group-hover:scale-105"
+              loading="lazy"
               format={edition.format}
             />
           </div>
 
-          {/* Info */}
-          <div className="flex-1 min-w-0">
-            <p
-              className="text-xs font-bold line-clamp-2 group-hover:text-[var(--accent-red)] transition-colors"
-              style={{ fontFamily: "var(--font-bricolage), sans-serif" }}
+          {/* Status badge overlay */}
+          <span
+            className="absolute top-2 left-2 px-1.5 py-0.5 rounded font-bold text-white shadow"
+            style={{
+              fontSize: "0.6rem",
+              background: status.color,
+            }}
+          >
+            {status.label}
+          </span>
+        </div>
+
+        {/* Card body */}
+        <div className="px-2.5 py-2">
+          {/* Release date */}
+          {releaseLabel && (
+            <div
+              className="flex items-center gap-1 mb-1.5"
+              style={{ color: "var(--accent-purple)" }}
             >
-              {edition.title}
-            </p>
-            <div className="flex items-center gap-1.5 mt-1">
+              <Calendar size={10} />
               <span
-                className="text-xs px-1.5 py-0.5 rounded"
+                className="font-bold"
                 style={{
-                  background: "var(--bg-tertiary)",
-                  color: "var(--text-tertiary)",
                   fontSize: "0.65rem",
+                  fontFamily: "var(--font-geist-mono), monospace",
                 }}
               >
-                {formatLabel}
+                {releaseLabel}
               </span>
-              <ImportanceBadge level={edition.importance as ImportanceLevel} />
             </div>
+          )}
+
+          {/* Title */}
+          <p
+            className="font-semibold leading-snug group-hover:text-[var(--accent-red)] transition-colors line-clamp-2"
+            style={{
+              color: "var(--text-primary)",
+              fontSize: "0.8rem",
+              fontFamily: "var(--font-bricolage), sans-serif",
+            }}
+          >
+            {edition.title}
+          </p>
+
+          {/* Format + Importance */}
+          <div className="flex flex-wrap items-center gap-1 mt-1.5">
+            <span
+              className="px-1.5 py-0.5 rounded font-medium"
+              style={{
+                fontSize: "0.6rem",
+                background: "var(--bg-tertiary)",
+                color: "var(--text-secondary)",
+                border: "1px solid var(--border-default)",
+              }}
+            >
+              {formatLabel}
+            </span>
+            <ImportanceBadge level={edition.importance as ImportanceLevel} />
           </div>
+
+          {/* Issues collected */}
+          {edition.issues_collected && (
+            <p
+              className="mt-1.5 leading-snug line-clamp-2"
+              style={{
+                color: "var(--text-tertiary)",
+                fontFamily: "var(--font-geist-mono), monospace",
+                fontSize: "0.6rem",
+              }}
+            >
+              {edition.issues_collected}
+            </p>
+          )}
+
+          {/* Price */}
+          {edition.cover_price && (
+            <p
+              className="mt-1"
+              style={{
+                color: "var(--text-tertiary)",
+                fontFamily: "var(--font-geist-mono), monospace",
+                fontSize: "0.6rem",
+              }}
+            >
+              ${edition.cover_price.toFixed(2)}
+            </p>
+          )}
         </div>
       </Link>
 
@@ -87,14 +181,14 @@ export default function CalendarEditionCard({
             e.stopPropagation();
             onToggleWishlist();
           }}
-          className="absolute top-1.5 right-1.5 p-1 rounded-full transition-all hover:scale-110"
+          className="absolute top-2 right-2 p-1.5 rounded-full transition-all hover:scale-110 shadow z-10"
           style={{
-            background: isWishlisted ? "var(--accent-gold)" : "var(--bg-tertiary)",
-            color: isWishlisted ? "#fff" : "var(--text-tertiary)",
+            background: isWishlisted ? "var(--accent-gold)" : "rgba(0,0,0,0.6)",
+            color: isWishlisted ? "#fff" : "var(--text-secondary)",
           }}
           title={isWishlisted ? "Remove from wishlist" : "Add to wishlist"}
         >
-          <Heart size={10} fill={isWishlisted ? "#fff" : "none"} />
+          <Heart size={14} fill={isWishlisted ? "#fff" : "none"} />
         </button>
       )}
     </div>

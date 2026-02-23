@@ -11,6 +11,10 @@ interface AchievementCheckContext {
   pathsCompleted: number;
   completedPathSlugs: string[];
   totalPaths: number;
+  scheduleItemsCompletedOnTime: number;
+  scheduleConsecutiveWeeksOnTrack: number;
+  totalScheduleItemsCompleted: number;
+  hasCompletedScheduledPath: boolean;
 }
 
 async function buildContext(userId: string): Promise<AchievementCheckContext> {
@@ -74,6 +78,59 @@ async function buildContext(userId: string): Promise<AchievementCheckContext> {
     }
   }
 
+  // Check schedule stats
+  let scheduleItemsCompletedOnTime = 0;
+  let scheduleConsecutiveWeeksOnTrack = 0;
+  let totalScheduleItemsCompleted = 0;
+  let hasCompletedScheduledPath = false;
+
+  const { data: scheduleItems } = await supabase
+    .from("schedule_items")
+    .select("status, completed_at, due_date, schedule_id")
+    .eq("user_id", userId);
+
+  if (scheduleItems) {
+    totalScheduleItemsCompleted = scheduleItems.filter((i) => i.status === "completed").length;
+    scheduleItemsCompletedOnTime = scheduleItems.filter(
+      (i) => i.status === "completed" && i.completed_at && i.due_date && i.completed_at.split("T")[0] <= i.due_date
+    ).length;
+
+    // Check if any schedule from a path is fully completed
+    const { data: schedules } = await supabase
+      .from("reading_schedules")
+      .select("id, source_type")
+      .eq("user_id", userId)
+      .eq("source_type", "path");
+
+    if (schedules) {
+      for (const sched of schedules) {
+        const schedItems = scheduleItems.filter((i) => i.schedule_id === sched.id);
+        if (schedItems.length > 0 && schedItems.every((i) => i.status === "completed" || i.status === "skipped")) {
+          hasCompletedScheduledPath = true;
+          break;
+        }
+      }
+    }
+
+    // Calculate consecutive weeks on track (no overdue items)
+    const weekMap = new Map<string, boolean>();
+    for (const item of scheduleItems) {
+      if (!item.due_date) continue;
+      const weekKey = item.due_date.substring(0, 10);
+      const isOnTime = item.status === "completed" || item.status === "skipped" ||
+        (item.status === "scheduled" && item.due_date >= new Date().toISOString().split("T")[0]);
+      if (!weekMap.has(weekKey)) weekMap.set(weekKey, true);
+      if (!isOnTime) weekMap.set(weekKey, false);
+    }
+    let consecutive = 0;
+    const sortedWeeks = [...weekMap.entries()].sort((a, b) => b[0].localeCompare(a[0]));
+    for (const [, onTrack] of sortedWeeks) {
+      if (onTrack) consecutive++;
+      else break;
+    }
+    scheduleConsecutiveWeeksOnTrack = consecutive;
+  }
+
   return {
     editionsRead: stats?.editions_read ?? completedIds.length,
     editionsOwned: ownedIds.length,
@@ -84,6 +141,10 @@ async function buildContext(userId: string): Promise<AchievementCheckContext> {
     pathsCompleted: completedPathSlugs.length,
     completedPathSlugs,
     totalPaths: paths?.length ?? 0,
+    scheduleItemsCompletedOnTime,
+    scheduleConsecutiveWeeksOnTrack,
+    totalScheduleItemsCompleted,
+    hasCompletedScheduledPath,
   };
 }
 
@@ -110,6 +171,14 @@ function checkAchievement(achievement: Achievement, ctx: AchievementCheckContext
       return ctx.totalPaths > 0 && ctx.pathsCompleted >= ctx.totalPaths;
     case "ratings_given":
       return ctx.ratingsGiven >= (val.count as number);
+    case "schedule_on_time":
+      return ctx.scheduleItemsCompletedOnTime >= (val.count as number);
+    case "schedule_consecutive_weeks":
+      return ctx.scheduleConsecutiveWeeksOnTrack >= (val.weeks as number);
+    case "schedule_total_completed":
+      return ctx.totalScheduleItemsCompleted >= (val.count as number);
+    case "schedule_path_complete":
+      return ctx.hasCompletedScheduledPath;
     default:
       return false;
   }

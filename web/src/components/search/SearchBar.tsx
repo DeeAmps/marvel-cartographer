@@ -37,6 +37,7 @@ export default function SearchBar({ initialQuery = "" }: { initialQuery?: string
   const [showSuggestions, setShowSuggestions] = useState(false);
   const [selectedIndex, setSelectedIndex] = useState(-1);
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const abortRef = useRef<AbortController | null>(null);
   const containerRef = useRef<HTMLDivElement>(null);
 
   const fetchSuggestions = useCallback(async (q: string) => {
@@ -44,12 +45,19 @@ export default function SearchBar({ initialQuery = "" }: { initialQuery?: string
       setSuggestions([]);
       return;
     }
+    abortRef.current?.abort();
+    const controller = new AbortController();
+    abortRef.current = controller;
     try {
-      const res = await fetch(`/api/search/suggestions?q=${encodeURIComponent(q.trim())}`);
+      const res = await fetch(
+        `/api/search/suggestions?q=${encodeURIComponent(q.trim())}`,
+        { signal: controller.signal }
+      );
       const data = await res.json();
       setSuggestions(data.suggestions || []);
       setSelectedIndex(-1);
-    } catch {
+    } catch (e) {
+      if (e instanceof DOMException && e.name === "AbortError") return;
       setSuggestions([]);
     }
   }, []);

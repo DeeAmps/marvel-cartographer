@@ -1,5 +1,3 @@
-import type { ImportanceLevel } from "@/lib/types";
-
 // ============================================================
 // Types
 // ============================================================
@@ -59,7 +57,7 @@ const IMPORTANCE_ORDER: Record<string, number> = {
 
 export function matchPathsToCollection(
   paths: PathSummary[],
-  ownedSlugs: Set<string>
+  ownedSlugs: Set<string>,
 ): PathMatch[] {
   return paths
     .map((path) => {
@@ -67,10 +65,10 @@ export function matchPathsToCollection(
       const owned = path.entries.filter((e) => ownedSlugs.has(e.edition_slug));
       const required = path.entries.filter((e) => !e.is_optional);
       const requiredOwned = required.filter((e) =>
-        ownedSlugs.has(e.edition_slug)
+        ownedSlugs.has(e.edition_slug),
       );
       const missing = path.entries.filter(
-        (e) => !ownedSlugs.has(e.edition_slug)
+        (e) => !ownedSlugs.has(e.edition_slug),
       );
 
       const completionPct =
@@ -117,7 +115,7 @@ function editionSortKey(e: EditionForSort): string {
 export function computeReadingOrder(
   ownedSlugs: Set<string>,
   editionMap: Map<string, EditionForSort>,
-  connections: ConnectionForSort[]
+  connections: ConnectionForSort[],
 ): string[] {
   if (ownedSlugs.size === 0) return [];
 
@@ -126,7 +124,7 @@ export function computeReadingOrder(
     (c) =>
       SORT_CONNECTION_TYPES.has(c.connection_type) &&
       ownedSlugs.has(c.source_slug) &&
-      ownedSlugs.has(c.target_slug)
+      ownedSlugs.has(c.target_slug),
   );
 
   // Build adjacency list and in-degree map
@@ -140,10 +138,7 @@ export function computeReadingOrder(
 
   for (const edge of relevantEdges) {
     adj.get(edge.source_slug)!.push(edge.target_slug);
-    inDegree.set(
-      edge.target_slug,
-      (inDegree.get(edge.target_slug) || 0) + 1
-    );
+    inDegree.set(edge.target_slug, (inDegree.get(edge.target_slug) || 0) + 1);
   }
 
   // Priority queue: all nodes with in-degree 0

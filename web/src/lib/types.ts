@@ -199,6 +199,12 @@ export interface GraphEdge {
   description: string;
 }
 
+export interface CoverVariant {
+  title: string;
+  isbn?: string;
+  cover_image_url?: string;
+}
+
 export interface CollectedEdition {
   id: string;
   slug: string;
@@ -214,6 +220,7 @@ export interface CollectedEdition {
   synopsis: string;
   connection_notes: string;
   cover_image_url: string | null;
+  cover_variants?: CoverVariant[];
   page_count?: number;
   cover_price?: number;
   isbn?: string;
@@ -230,6 +237,7 @@ export interface CollectedEdition {
   publication_era_slug?: string;
   publication_era_number?: number;
   publication_era_color?: string;
+  release_date?: string;
   creator_names?: string[];
 }
 
@@ -846,5 +854,70 @@ export interface WatcherMessageRecord {
   role: 'user' | 'watcher';
   content: string;
   created_at: string;
+}
+
+// ============================================================
+// Reading Schedule Types
+// ============================================================
+
+export type ScheduleItemStatus =
+  | 'scheduled'
+  | 'in_progress'
+  | 'completed'
+  | 'skipped'
+  | 'overdue';
+
+export type ScheduleSourceType = 'path' | 'collection' | 'watcher' | 'manual';
+
+export interface ReadingSchedule {
+  id: string;
+  user_id: string;
+  name: string;
+  pace_per_week: number;
+  source_type: ScheduleSourceType | null;
+  source_id: string | null;
+  is_active: boolean;
+  start_date: string;
+  end_date: string | null;
+  created_at: string;
+  updated_at: string;
+}
+
+export interface ScheduleItem {
+  id: string;
+  schedule_id: string;
+  user_id: string;
+  edition_id: string;
+  scheduled_date: string;
+  due_date: string;
+  position: number;
+  status: ScheduleItemStatus;
+  completed_at: string | null;
+  notes: string | null;
+  created_at: string;
+  updated_at: string;
+  // Joined fields
+  edition_slug?: string;
+  edition_title?: string;
+  edition_cover_image_url?: string;
+  edition_importance?: ImportanceLevel;
+  edition_print_status?: PrintStatus;
+  edition_issues_collected?: string;
+  edition_page_count?: number;
+  edition_era_name?: string;
+  edition_era_color?: string;
+  edition_era_number?: number;
+  edition_release_date?: string;
+}
+
+export interface ScheduleStats {
+  total_scheduled: number;
+  total_completed: number;
+  total_overdue: number;
+  current_week_items: number;
+  current_week_completed: number;
+  on_track: boolean;
+  next_edition_id: string | null;
+  next_edition_date: string | null;
 }
 

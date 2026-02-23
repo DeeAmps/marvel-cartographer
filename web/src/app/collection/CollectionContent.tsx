@@ -5,8 +5,9 @@ import Link from "next/link";
 import { useCollection, type CollectionStatus } from "@/hooks/useCollection";
 import {
   BookOpen, Check, Eye, Heart, Star, Download, Upload, BarChart3,
-  Sparkles, LogIn, LayoutGrid, List, X, Route,
+  Sparkles, LogIn, LayoutGrid, List, X, Route, CalendarDays,
 } from "lucide-react";
+import ScheduleCollectionButton from "@/components/schedule/ScheduleCollectionButton";
 import CoverImage from "@/components/ui/CoverImage";
 import ImportanceBadge from "@/components/ui/ImportanceBadge";
 import StatusBadge from "@/components/ui/StatusBadge";
@@ -296,11 +297,14 @@ export default function CollectionContent({
       {/* Reading Plan tab */}
       {tab === "reading-plan" && (
         extraData ? (
-          <ReadingPlan
-            pathSummaries={extraData.pathSummaries}
-            connections={extraData.coverageData.connections}
-            eras={extraData.coverageData.eras}
-          />
+          <>
+            <ScheduleCollectionButton />
+            <ReadingPlan
+              pathSummaries={extraData.pathSummaries}
+              connections={extraData.coverageData.connections}
+              eras={extraData.coverageData.eras}
+            />
+          </>
         ) : loadingSpinner
       )}
 
